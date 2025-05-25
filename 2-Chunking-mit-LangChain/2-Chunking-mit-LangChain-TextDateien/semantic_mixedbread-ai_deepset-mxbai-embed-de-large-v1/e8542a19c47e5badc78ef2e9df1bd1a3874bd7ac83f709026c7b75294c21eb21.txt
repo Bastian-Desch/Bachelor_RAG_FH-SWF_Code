@@ -1,0 +1,286 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 77
+
+Metadata: {'id': 53, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/FPO_2019_Winfo.pdf', 'hash': 'e8542a19c47e5badc78ef2e9df1bd1a3874bd7ac83f709026c7b75294c21eb21'}
+Text: ## Fachprüfungsordnung
+
+für den Bachelorstudiengang
+
+## Wirtschaftsinformatik
+
+an der Fachhochschule Südwestfalen
+
+Standort Meschede
+
+vom 26. April 2019
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014 (GV. NRW.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'id': 54, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/FPO_2019_Winfo.pdf', 'hash': 'e8542a19c47e5badc78ef2e9df1bd1a3874bd7ac83f709026c7b75294c21eb21'}
+Text: S. 547) zuletzt geändert durch Gesetz vom 17. Oktober 2017 (GV. NRW.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 462
+
+Metadata: {'id': 55, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/FPO_2019_Winfo.pdf', 'hash': 'e8542a19c47e5badc78ef2e9df1bd1a3874bd7ac83f709026c7b75294c21eb21'}
+Text: S. 806) und des § 1  Absatz  1  der  Rahmenprüfungsordnung  für  Bachelor-  und  Masterstudiengänge  an  der Fachhochschule  Südwestfalen,  hat  der  Fachbereichsrat  des  Fachbereichs  Ingenieur-  und Wirtschaftswissenschaften der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen:
+
+## INHALTSÜBERSICHT
+
+## Teil 1 Allgemeines
+
+- § 1 Geltungsbereich
+- § 2 Hochschulgrad
+- § 3 Beginn, Dauer, Aufbau und Umfang des Studiums
+- § 4 Prüfungsausschuss
+- § 5 Prüfende und Beisitzende
+- § 6 Bewertung von Prüfungsleistungen
+
+## Teil 2
+
+## Modulprüfungen und Studienleistungen
+
+- § 7 Umfang und Form der Modulprüfungen
+- § 8 Zulassung zu Modulprüfungen
+- § 9 Klausurarbeiten
+- § 10 Klausurarbeiten im Antwortwahlverfahren
+- § 11 Mündliche Prüfungen
+- § 12 Hausarbeiten
+- § 13 Studienarbeiten
+- § 14 Portfolio
+- § 15 Praxisphase
+- § 16 Optionales Fachsemester
+
+## Teil 3 Das Studium
+
+- § 17 Umfang und Abschluss des Studiums
+- § 18 Umfang der Bachelorarbeit
+- § 19 Zulassung zur Bachelorarbeit
+- § 20 Durchführung und Bewertung der Bachelorarbeit
+- § 21 Kolloquium
+
+## Teil 4 Ergebnis der Abschlussprüfung
+
+§ 22 Zeugnis, Gesamtnote
+
+## Teil 5 Schlussbestimmungen
+
+§ 23 Inkrafttreten, Übergangsregelung und Veröffentlichung
+
+- Anlage 1: Pflichtmodule
+- Anlage 2: Technische Wahlpflichtmodule
+
+Anlage 3: Wirtschaftswissenschaftliche Wahlpflichtmodule
+
+## Teil 1
+
+## Allgemeines
+
+## § 1 Geltungsbereich
+
+Diese  Fachprüfungsordnung  (FPO)  für  den  Bachelorstudiengang  Wirtschaftsinformatik  im Fachbereich Ingenieur- und Wirtschaftswissenschaften in Meschede gilt zusammen mit der jeweils  aktuell  gültigen  Fassung  der  Rahmenprüfungsordnung  (RPO)  der  Fachhochschule Südwestfalen. ## § 2 Hochschulgrad
+
+Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in dem Studiengang Wirtschaftsinformatik den akademischen Grad 'Bachelor of Science', kurz 'B.Sc.'. ## § 3
+
+## Beginn, Dauer, Aufbau und Umfang des Studiums
+
+- (1) Das Studium beginnt zum Wintersemester.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 6125
+
+Metadata: {'id': 56, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/FPO_2019_Winfo.pdf', 'hash': 'e8542a19c47e5badc78ef2e9df1bd1a3874bd7ac83f709026c7b75294c21eb21'}
+Text: - (2) Die Regelstudienzeit beträgt sechs Semester. Bei einem Studiengang mit Praxisphase (§ 15) oder optionalem Fachsemester (§ 16) beträgt sie sieben Semester. - (3) Der Leistungsumfang beträgt insgesamt 180 Credits. Das Studium umfasst Pflichtmodule  im  Umfang  von  120  Credits,  Technische  Wahlpflichtmodule  im  Umfang von  24  Credits,  Wirtschaftswissenschaftliche  Wahlpflichtmodule  im  Umfang  von  18 Credits, die Studienarbeit im Umfang von sechs Credits, die Bachelorarbeit im Umfang von  zehn  Credits  sowie  das  Kolloquium  im  Umfang  von  zwei  Credits. Bei  einem Studiengang mit Praxisphase (§ 15) oder optionalen Fachsemester (§ 16) erhöht sich der Leistungsumfang auf 210 Credits. - (4) Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind  der  Anlage  1  zu  entnehmen. Der  Katalog,  aus  dem  laut  §  4  Absatz  4  RPO  die Wahlpflichtmodule  zu  wählen  sind,  ist  in  der  Anlage  2  und  3  aufgeführt. Näheres  zur Gliederung des Studiums sowie Details zu Art, Umfang, Inhalten und Prüfungsformen der  Module  sind  den  Anlagen,  dem  Studienverlaufsplan,  und  dem  Modulhandbuch  zu entnehmen. - (5) Die Hochschule ist verpflichtet, die Studierenden beim Zusammenstellen ihrer Wahlpflichtmodule zu beraten. Ziel dieser Beratung ist ein im Wahlpflichtbereich fachlich abgestimmtes Studium. ## § 4
+
+## Prüfungsausschuss
+
+Bezugnehmend auf § 6 Absatz 3 RPO erfolgt die Wahl des vorsitzenden Mitglieds und des stellvertretend vorsitzenden Mitglieds des Prüfungsausschusses nicht durch den Prüfungsausschuss, sondern durch den Fachbereichsrat. ## § 5 Prüfende und Beisitzende
+
+- (1)  Bei  der  Bestellung  von  Prüfenden  und  Beisitzenden  gemäß  §  7  Absatz  1  RPO  gilt zusätzlich, dass eine der prüfenden Personen im Fachbereich Ingenieurund Wirtschaftswissenschaften am Standort Meschede als Professorin oder Professor lehren muss. Ersatzweise  kann  durch  den  Prüfungsausschuss  eine  Professorin  oder  ein Professor eines anderen  Fachbereichs  der Fachhochschule  Südwestfalen  bestellt werden. An die Stelle der Professorin oder des Professors kann eine Honorarprofessorin oder  ein  Honorarprofessor  (§  41  HG)  beziehungsweise  eine  Lehrkraft  für  besondere Aufgaben (§ 42 HG) oder eine wissenschaftliche Mitarbeiterin oder ein wissenschaftlicher Mitarbeiter treten, sofern diese im Fachbereich Ingenieur- und Wirtschaftswissenschaften am Standort Meschede selbstständig lehrt. - (2)  Die oder der zu Prüfende kann Vorschläge zur Betreuung der Studienund Bachelorarbeit machen. Der Prüfungsausschuss achtet darauf, dass die entsprechenden Verpflichtungen  möglichst  gleichmäßig  auf  die  Prüfenden  verteilt  werden. Näheres  zur Studien- und Bachelorarbeit regeln § 13 beziehungsweise Teil 3 dieser Prüfungsordnung. § 6
+
+## Bewertung von Prüfungsleistungen
+
+- (1) Abweichend zu § 9 Absatz 1 Satz 4 RPO werden Prüfungsleistungen, die im Rahmen eines  Franchise-Studiums  durchgeführt  werden,  von  einer  oder  einem  Prüfenden bewertet,  sofern  die  oder  der  Prüfende  dem  Personenkreis  gemäß  §  5  Absatz  1 angehört, es sich um keine Abschlussprüfung und um keine Wiederholungsprüfungen, bei deren endgültigem Nichtbestehen keine Ausgleichsmöglichkeit besteht, handelt. - (2) Ergänzend zu den Regelungen in § 9 Absatz 2 RPO wird vom Prüfungsausschuss eine dritte  prüfende  Person bestimmt,  wenn  die  Differenz  der  beiden  Noten  2,0  oder mehr beträgt. - (3) Bezugnehmend auf § 9 Absatz 6 RPO können in dem Studiengang unter Beachtung der nachstehenden  Regelungen  Bonuspunkte  vergeben  werden:  Die  Bewertung  einer bestandenen Modulprüfung kann durch Bonuspunkte, die im Rahmen einer zusätzlichen, freiwilligen Studienleistung erworben werden können, um einen einheitlich festgesetzten Notenwert verbessert werden. Die Endnote muss eine Note gemäß § 9 Absatz  3  RPO  sein. Diese  Notenverbesserung  ist  nur  für  die  zwei  Prüfungstermine anrechenbar,  die  unmittelbar  auf  die  Erbringung  der  Studienleistung  folgen. Eine
+
+bessere Note als 1,0 ist nicht erreichbar. Ob und wofür im Rahmen einer zusätzlichen, freiwilligen Studienleistung Bonuspunkte erworben werden können, wird in der Modulbeschreibung  festgelegt. In  dieser  wird  auch  der  je  Studienleistung  einheitliche Notenwert  festgelegt. Der  Notenwert  0,7  darf  im  Rahmen  der  Verbesserung  nicht überschritten werden. ## Teil 2
+
+## Modulprüfungen und Studienleistungen
+
+## § 7 Umfang und Form der Modulprüfungen
+
+- (1)  Eine  Modulprüfung  kann  neben  den  in  §  13  Absatz  1  RPO  aufgezählten  Formen ebenfalls  in  Form  einer  Studienarbeit  (§  13)  oder  eines  Portfolios  (§  14)  durchgeführt werden. - (2)  Abweichend  von  §  13  Absatz  2  RPO  gilt,  dass  der  Prüfungsausschuss  in  der  Regel innerhalb von zwei Wochen nach Beginn der Lehrveranstaltung die Prüfungsform und im Fall einer Klausurarbeit oder einer Klausurarbeit im Antwortwahlverfahren deren Bearbeitungszeit im Benehmen mit den Prüfenden für alle Kandidatinnen und Kandidaten der jeweiligen Modulprüfung einheitlich und verbindlich festlegt. ## § 8
+
+## Zulassung zu Modulprüfungen
+
+- (1)  Bei der Beantragung der Zulassung zu Modulprüfungen gemäß § 14 Absatz 2 RPO sind folgende Fristen einzuhalten:
+- a) Im Falle einer Modulprüfung in Form einer Klausur, einer Klausur im Antwortwahlverfahren, einer mündlichen Prüfung oder einer elektronisch gestützten Prüfung wird diese Frist vom Prüfungsausschuss festgelegt. - b) Im  Falle  der  Modulprüfung  in  Form  einer  Hausarbeit  oder  eines  Portfolios  beträgt diese Frist vier Wochen nach Beginn der Lehrveranstaltungen des Semesters. - c) Die Zulassung in Form einer Studienarbeit kann jederzeit beantragt werden. - (2)  Bei  der  Rücknahme  des  Antrags  auf  Zulassung  zu  einer  Modulprüfung  gemäß  §  14 Absatz 5 RPO gelten folgende Fristen:
+- a) Bei Modulprüfungen in Form einer Klausurarbeit, Klausurarbeit im Antwortwahlverfahren, einer mündlichen Prüfung oder einer elektronisch gestützten Prüfung beträgt diese Frist eine Woche vor dem festgesetzten Prüfungstermin. - b) Bei Modulprüfungen in Form einer Hausarbeit, eines Portfolios oder einer Studienarbeit endet diese Frist zwei Wochen nach Ablauf der Frist zur Antragstellung zwecks Zulassung. Ersatzweise kann für die Studienarbeit einmal ein neues Thema verlangt werden. - (3)  Abweichend  von  §  14  Absatz  6  RPO  gilt,  dass  dem  Antrag  auf  Ausstellung  des Zeugnisses gemäß § 22 Absatz 1 FPO eine Erklärung beizufügen ist, welche Module der Anlagen 2 und 3 als Wahlpflichtmodule zu werten sind.. - (4)  Die Zulassung zu Modulprüfungen kann gemäß § 14 Absatz 7 RPO von der Erbringung der Vorleistungen (Studienleistungen) abhängig gemacht werden. Für welche Prüfungen solche Studienleistungen notwendig sind, sind den Anlagen zu entnehmen. - (5)  Bezugnehmend  auf  §  14  Absatz  10  RPO  müssen  für  die  Zulassung  zu  einem Wahlpflichtmodul in der Modulprüfung 'Wirtschaftsmathematik' sechs Credits erworben worden sein. ## § 9
+
+## Klausurarbeiten
+
+Die Bearbeitungsdauer einer Klausurarbeit gemäß § 17 RPO beträgt bei Modulprüfungen in Modulen mit vier bis sechs Semesterwochenstunden ein bis drei Zeitstunden, in Modulen mit zwei Semesterwochenstunden zwanzig Minuten bis eine Zeitstunde. § 10
+
+## Klausuren im Antwortwahlverfahren
+
+Die  Bearbeitungsdauer  einer  Klausurarbeit  im  Antwortwahlverfahren  gemäß  §  18  RPO beträgt bei Modulprüfungen in Modulen mit vier bis sechs Semesterwochenstunden ein bis zwei Zeitstunden, in Modulen mit zwei Semesterwochenstunden zwanzig Minuten bis eine Zeitstunde. ## § 11 Mündliche Prüfungen
+
+Eine mündliche Prüfung gemäß § 20 RPO dauert je Kandidatin oder Kandidat mindestens 15 Minuten, maximal 30 Minuten. ## § 12
+
+## Hausarbeiten
+
+Eine  Hausarbeit  nach  §  21  RPO  hat  in  der  Regel  einen  Umfang  von  zehn  bis  15  Seiten. Hausarbeiten  können  durch  einen  Fachvortrag  von  maximal  45  Minuten  Dauer  ergänzt werden. In welchen Modulen  ein ergänzender Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt. ## § 13
+
+## Studienarbeiten
+
+- (1) Studienarbeiten  sind  Ausarbeitungen  von  in  der  Regel  zehn  bis  15  Seiten  Umfang  à etwa 32 Zeilen (1½-zeilig), die entweder im Rahmen der Bearbeitung eines praxisbezogenen  Projekts  oder  im  Rahmen  einer  theoretischen  Forschungsaufgabe erstellt  werden. Sie  können  durch  einen  Fachvortrag  von  maximal  30  Minuten  Dauer ergänzt werden. In welchen Modulen ein ergänzender Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt. - (2) Studienarbeiten  können  von  allen  Personen,  die  gemäß  § 6  Absatz 1  zu  Prüfenden bestellt werden können, ausgegeben und betreut werden. - (3) Die  Studienarbeit  kann  an  der  Hochschule  oder  auch  außerhalb  der  Hochschule durchgeführt werden, wenn sie dort ausreichend betreut werden kann. Die Studierenden haben das Recht, Vorschläge für das Thema einer Studienarbeit zu machen. - (4) Eine  Studienarbeit  kann  auch  in  Form  einer  Gruppenarbeit  zugelassen  werden,  wenn der als Prüfungsleistung zu bewertende Beitrag der einzelnen Studierenden auf Grund der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. - (5) Die  Ausgabe  einer  Studienarbeit  erfolgt  über  die  Betreuerin  oder  den  Betreuer. Als Zeitpunkt der Ausgabe gilt der Tag, an dem diese oder dieser der Kandidatin oder dem Kandidaten das zu bearbeitende Projekt bekannt gibt. Der Zeitpunkt ist aktenkundig zu machen. - (6) Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Ausarbeitung) beträgt höchstens drei Monate. - (7) Die  schriftliche  Ausarbeitung  zu  einer  Studienarbeit  ist  fristgemäß  beim  Betreuer  oder der  Betreuerin  abzuliefern. Bei  der  Abgabe  haben  die  Studierenden  schriftlich  zu versichern, dass sie ihre Arbeit -bei einer Gruppenarbeit ihren entsprechend gekennzeichneten Anteil der Arbeit - selbstständig angefertigt und keine anderen als die angegebenen  und  bei  Zitaten  kenntlich  gemachten  Quellen  und  Hilfsmittel  benutzt haben. Zusätzlich ist  immer ein Exemplar in elektronischer Form abzugeben, so dass Texte und Zitate entnommen werden können. Der Abgabezeitpunkt ist aktenkundig zu machen. Bei Zustellung der Arbeit durch die Post ist der Zeitpunkt der Einlieferung bei der  Post  maßgebend. Wird  die  Ausarbeitung  nicht  fristgemäß  abgeliefert,  gilt  die Studienarbeit als mit 'nicht ausreichend' bewertet. ## § 14
+
+## Portfolio
+
+- (1) Ein Portfolio ist eine eigenständige, schriftliche und mündliche Lernprozessdokumentation. Sie  umfasst  die  Reflexion  und  metakognitive  Auseinandersetzung  mit dem  eigenen Kompetenzerwerb in einem Modul. Gegebenenfalls wird in einer
+
+mündlichen  Prüfung  der  Kompetenzerwerb  anhand  des  Portfolios  reflektiert. Das Portfolio besteht aus mehreren Einzelelementen, zum Beispiel Protokoll, Textanalysen, Präsentationen, Fallstudien, konstruktiver Entwurf, Klausurarbeiten usw. Die Anzahl der Einzelelemente sollte fünf nicht überschreiten. Der schriftliche Teil der Portfolioprüfung umfasst in der Regel zehn bis 20 Seiten, der mündliche Teil der Portfolioprüfung 30 bis 60 Minuten Dauer. - (2) Die  endgültige  Zusammensetzung  und  Bekanntgabe  des  Portfolios  erfolgt  schriftlich durch die Dozentin oder den Dozenten zu Beginn der Lehrveranstaltung. Das schließt auch  die  Gewichtung  der  einzelnen  Elemente  des  Portfolios  für  die  Berechnung  der Note  der  Modulprüfung  mit  ein. Die  Dozentin  oder  der  Dozent  kann  dabei  auch festlegen,  ob  zum  Bestehen  der  Modulprüfung  alle  einzelnen  Elemente  erfolgreich bestanden sein müssen oder ob ein Notenausgleich möglich ist. - (3) Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit zulassen, wenn der als Prüfungsleistung zu bewertende Beitrag der einzelnen Studierenden auf Grund der Angabe  von  Abschnitten,  Seitenzahlen  oder  anderen  objektiven  Kriterien,  die  eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. - (4) Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Ausarbeitung) orientiert sich an der Modullänge und darf ein Semester nicht überschreiten. - (5) Die Beurteilung eines Portfolios erfolgt auf Grund der schriftlichen Ausarbeitungen und der mündlichen Prüfungen, sofern solche im Portfolio enthalten sind. Die Portfolioprüfung  wird  in  der  Regel  von  einer  oder  einem  Prüfenden  bewertet. Bei Klausurarbeitsanteilen findet § 9 Absatz 2 RPO entsprechende Anwendung. ## § 15 Praxisphase
+
+- (1) Bezugnehmend auf die Regelungen in § 25 RPO sind die Studierenden im Rahmen des Studiengangs  mit  Praxisphase  verpflichtet  eine  Praxisphase  zu  absolvieren. Diese dauert 22 Wochen und wird planmäßig im sechsten Fachsemester absolviert. Sie kann auf  Antrag  in  mehreren  Abschnitten  abgeleistet  werden,  von  denen  jeder  Abschnitt mindestens  eine  Dauer  von  vier  Wochen  haben  muss. Insgesamt  müssen  sich mindestens 22 Wochen ergeben. - (2) Zur  Praxisphase  werden  Studierende  auf  Antrag  zugelassen. Im  Antrag  müssen Zeitraum, Unternehmen und die betreuende Professorin oder der betreuende Professor des Fachbereichs Ingenieurund Wirtschaftswissenschaften der Fachhochschule Südwestfalen genannt werden. An die Stelle der Professorin oder des Professors kann eine  Honorarprofessorin  oder  ein  Honorarprofessor  (§  41  HG)  beziehungsweise  eine Lehrkraft  für  besondere  Aufgaben  (§  42  HG)  treten,  sofern  diese  im  Fachbereich Ingenieur-  und  Wirtschaftswissenschaften  am  Standort  Meschede  selbstständig  lehrt. Über  die  Zulassung  zur  Praxisphase  entscheidet  der  Prüfungsausschuss. Mit  der Antragstellung  erklärt  die  oder  der  Studierende  verbindlich,  dass  sie  oder  er  die
+
+Praxisphase  absolvieren  möchte. Dieser  Antrag  kann  nur  unter  Darlegung  triftiger Gründe durch schriftliche Mitteilung an den Prüfungsausschuss zurückgezogen werden, solange die Praxisphase noch nicht angetreten ist. - (3) Die Praxisphase wird anerkannt, wenn:
+- a)  ein  positives  Zeugnis  der  Einrichtung  über  die  Mitarbeit  der  oder  des  Studierenden vorliegt,
+- b)  die oder  der  Studierende  an  den  der  Praxisphase  zugeordneten  Begleit-  und Auswertungsveranstaltungen regelmäßig teilgenommen hat,
+- c)  die  praktische  Tätigkeit  der  oder  des  Studierenden  dem  Zweck  der  Praxisphase entsprochen  und  die  oder  der  Studierende  die  ihr  oder  ihm  übertragenen  Arbeiten zufriedenstellend ausgeführt hat; das Zeugnis der Einrichtung ist dabei zu berücksichtigen und
+- d)  der Abschlussbericht  über  Aufgabenstellung,  Durchführung  und  Ergebnisse  der Praxisphase spätestens drei Monate nach Ende derselben vorgelegt und anerkannt worden ist. - (4)  Die  Praxisphase  wird  nicht  benotet. Für  das  erfolgreiche  Ableisten  der  Praxisphase werden 30 Credits angerechnet. - (5) Studierende, deren Praxisphase nicht anerkannt worden ist, können die Ableistung der Praxisphase einmal wiederholen. Beantragt sie oder er keine erneute Zulassung oder ist auch die Wiederholung der Praxisphase nicht anerkannt worden, so setzt die oder der Studierende ihr oder sein Studium im Studiengang Wirtschaftsinformatik ohne Praxisphase  fort. Der  Verzicht  auf eine erneute  Zulassung  nach  Ablehnung  der Anerkennung  ist  schriftlich  über  das  Studierenden-Servicebüro  Meschede  gegenüber dem Prüfungsausschuss zu erklären. ## § 16 Optionales Fachsemester
+
+- (1) Studierende des Studiengangs Wirtschaftsinformatik können ein optionales Fachsemester absolvieren. Das optionale Fachsemester soll Studierenden die Möglichkeit geben, ihre Fachkompetenz weiter zu vertiefen. Das optionale Fachsemester  schließt  planmäßig  an  das  fünfte  Fachsemester  an  und  beinhaltet Wahlpflichtmodule  der  Anlage  2  und  3. Optionales  Fachsemester  und  Praxisphase schließen sich gegenseitig aus. - (2) Zum  optionalen  Fachsemester  werden  Studierende  auf  Antrag  zugelassen. Über  die Zulassung zum optionalen Fachsemester entscheidet der Prüfungsausschuss. Mit der Antragstellung  erklärt  die  oder  der  Studierende  verbindlich,  dass  sie  oder  er  das optionale  Fachsemester  absolvieren  möchte. Dieser  Antrag  kann  nur  unter  Darlegung triftiger Gründe durch schriftliche Mitteilung an den Prüfungsausschuss zurückgezogen
+
+werden, solange das optionale Fachsemester noch nicht angetreten ist. Die Antragstellung muss vor der Beantragung der Zulassung zur Bachelorarbeit erfolgen. - (3) Das optionale Fachsemester wird anerkannt, wenn zusätzlich zu den in § 4 Absatz 2 Satz 2 geforderten Credits insgesamt 30 Credits in Wahlpflichtmodulen gemäß Anlage 2 und  3  erzielt  wurden. Für  das  erfolgreiche  Ableisten  des  optionalen  Fachsemesters werden 30 Credits angerechnet. ## Teil 3 Das Studium
+
+## § 17
+
+## Umfang und Abschluss des Studiums
+
+- (1) Das Studium umfasst zusätzlich zu § 27 Absatz 1 RPO
+- a) gegebenenfalls eine Praxisphase (auf Antrag der oder des Studierenden) oder
+- b) gegebenenfalls ein optionales Fachsemester (auf Antrag der oder des Studierenden). - (2)  Die  Module des Studiums mit ihren Prüfungsvorleistungen sind in den Anlagen 1 bis 3 aufgeführt. ## § 18 Umfang der Bachelorarbeit
+
+- (1)  Der Umfang der Bachelorarbeit gemäß § 28 Absatz 1 RPO beträgt in der Regel etwa 30 Seiten à etwa 32 Zeilen (1½-zeilig). Die Bearbeitungszeit (Zeitraum von der Ausgabe bis zur Abgabe der Bachelorarbeit) beträgt zwei Monate. Bei einem empirischen, experimentellen oder mathematischen Thema kann der Prüfungsausschuss die Bearbeitungszeit bereits bei der Ausgabe um zwei Wochen erhöhen. Das Thema und die Aufgabenstellung  müssen  so  beschaffen  sein,  dass  die  Bachelorarbeit  innerhalb  der vorgegebenen  Frist  abgeschlossen  werden  kann. Auf  einen  vor  Ablauf  der  Frist gestellten begründeten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss  ausnahmsweise  eine  Nachfrist  der  Bearbeitungszeit  von  bis  zu einem Monat gewähren. Die Prüferin oder der Prüfer soll zu dem Antrag gehört werden. Die  Bachelorarbeit  ist  entweder  eine  eigenständige  Untersuchung  oder  betrachtet  ein bekanntes Thema unter neuen Aspekten. - (2)  In Ergänzung zu § 28 Absatz 2 RPO gilt für die Betreuung der Bachelorarbeit, dass diese durch folgende Gruppen erfolgen kann:
+- a) Professorinnen und Professoren des Standorts Meschede. - b) Honorarprofessorinnen und Honorarprofessoren, Lehrkräfte für besondere Aufgaben sowie Lehrbeauftragte des Standorts Meschede, wenn feststeht, dass ein geeignetes Thema für eine Bachelorarbeit vorliegt. Dies bedarf der Zustimmung des Prüfungsausschusses. - c) Andere Professorinnen und Professoren sowie Mitarbeiterinnen und Mitarbeiter von Forschungseinrichtungen  außerhalb  des  Hochschulbereichs,  wenn  feststeht,  dass ein geeignetes Thema für eine Bachelorarbeit vorliegt. Dies bedarf der Zustimmung des Prüfungsausschusses. ## § 19
+
+## Zulassung zur Bachelorarbeit
+
+Ergänzend zu § 29 Absatz 1 RPO kann zur Bachelorarbeit nur zugelassen werden, wer in den  Pflichtmodulen  des  ersten  bis  vierten  Fachsemesters  gemäß  Anlage 1  102 Credits erworben hat. ## § 20
+
+## Durchführung und Bewertung der Bachelorarbeit
+
+- (1)  Die  Rückgabe  des  Themas  der  Bachelorarbeit  gemäß  §  30  Absatz  2  RPO  kann  nur innerhalb der ersten zwei  Wochen  des  Bearbeitungszeitraums  ohne  Angabe  von Gründen erfolgen. - (2)  Abweichend  von  §  30  Absatz  4  RPO  kann  die  Bachelorarbeit  nicht  nur  in  deutscher Sprache, sondern auch in englischer Sprache verfasst werden. - (3)  In Ergänzung zu § 30 Absatz 5 RPO müssen unter den Prüfenden eine Professorin oder ein Professor des Standorts Meschede der Fachhochschule Südwestfalen sein. Anstelle einer Professorin oder eines Professors kann auch eine Person treten, die gemäß § 6 Absatz 1 zu Prüfenden bestellt werden kann. - (4)  Bezugnehmend auf § 30 Absatz 7 RPO werden durch das Bestehen der Bachelorarbeit zehn Credits erworben. ## § 21 Kolloquium
+
+- (1)  Das  Kolloquium  wird  gemäß  §  31  Absatz  5  RPO  als  mündliche  Prüfung  mit  einer Zeitdauer von mindestens 45 Minuten, maximal 60 Minuten durchgeführt. - (2)  Bezugnehmend auf § 31 Absatz 6 RPO werden durch das Bestehen des Kolloquiums zwei Credits erworben. - (3)  Das  Kolloquium  kann  mit  Zustimmung  des  oder  der  Prüfenden  per  Videokonferenz durchgeführt werden. Der Prüfer oder die Prüferin und der oder die Studierende müssen sich  in  einem  Raum  befinden,  der  oder  die  zweite  Prüfende  kann  per  Videokonferenz zugeschaltet werden. ## Teil 4 Ergebnis der Abschlussprüfung
+
+## § 22 Zeugnis, Gesamtnote
+
+- (1)  Nach Abschluss des Studiums beantragt die oder der Studierende die Ausstellung des Zeugnisses. Dem Antrag ist  eine  Erklärung  beizufügen,  welche  Module  der  Anlagen  2 und 3 als Wahlpflichtmodule in das Zeugnis zu übernehmen sind. Falls darüber hinaus Credits  in  weiteren  Modulen  erworben  worden  sind,  werden  diese  zu  Zusatzmodulen gemäß §34 RPO. - (2)  Bei der Bildung  der Gesamtnote  gemäß  §  33  Absatz  2  RPO  werden  folgende Notengewichte zugrunde gelegt:
+- (3)  Das Bachelorzeugnis wird zweisprachig in Deutsch und in Englisch ausgestellt. Noten der Modulprüfungen 80%
+
+Note der Bachelorarbeit
+
+17%
+
+Note des Kolloquiums 3%. ## Teil 5 Schlussbestimmungen
+
+## § 23
+
+## Inkrafttreten, Übergangsregelung und Veröffentlichung
+
+- (1)  Diese Fachprüfungsordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. - (2)  Die Regelungen dieser Fachprüfungsordnung gelten erstmals für die Studierenden, die im Wintersemester 2019/2020 im ersten Fachsemester im Studiengang Wirtschaftsinformatik eingeschrieben sind. - (4) Für  die  Studierenden  des  Studiengangs  Wirtschaftsinformatik,  die  ihr  Studium  vor Inkrafttreten dieser Fachprüfungsordnung aufgenommen haben, findet die Bachelorprüfungsordnung vom 11. September 2015 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 24.09.2015)  mit  folgender  Maßgabe  bis  zum  Ablauf  des  Wintersemesters  2024/2025 weiterhin Anwendung:
+- (3)  Für den Studiengang gilt folgende Aufwuchsregelung:
+- a) Lehrveranstaltungen in Fächern des 1. Fachsemesters
+
+Wintersemester 2019/2020
+
+- b) Lehrveranstaltungen in Fächern des 2. Fachsemesters Sommersemester 2020
+- c)  Lehrveranstaltungen in Fächern des 3. Fachsemesters Wintersemester 2020/2021
+- d) Lehrveranstaltungen in Fächern des 4. Fachsemesters
+
+Sommersemester 2021
+
+- e) Lehrveranstaltungen in Fächern des 5. Fachsemesters Wintersemester 2021/2022
+- f) Lehrveranstaltungen in Fächern des 6. Fachsemesters
+
+Sommersemester 2022
+
+Die jeweiligen Prüfungen gemäß der Prüfungsordnung vom 11. September 2015 können im Prüfungszeitraum des nachfolgend aufgeführten Semesters letztmalig abgelegt werden:
+ 
+| a) Prüfungen in Fächern des 1. Fachsemesters   | Wintersemester 2021/2022   | 
+|------------------------------------------------|----------------------------| 
+| b) Prüfungen in Fächern des 2. Fachsemesters   | Sommersemester 2022        | 
+| c)  Prüfungen in Fächern des 3. Fachsemesters  | Wintersemester 2022/2023   | 
+| d) Prüfungen in Fächern des 4. Fachsemesters   | Sommersemester 2023        | 
+| e) Prüfungen in Fächern des 5. Fachsemesters   | Wintersemester 2023/2024   | 
+| f)  Prüfungen in Fächern des 6. Fachsemesters  | Sommersemester 2024        |
+
+Die Bachelorprüfung gemäß der Prüfungsordnung vom 11. September 2015 muss bis zum 28. Februar 2025 abgeschlossen sein. - (5) Auf Antrag der Studierenden können sie ihr Studium nach dieser Prüfungsordnung fortsetzen. Dieser Antrag ist unwiderruflich. Über die Genehmigung des Antrags entscheidet der Prüfungsausschuss. Diese Prüfungsordnung wird nach Überprüfung durch das Rektorat der Fachhochschule Südwestfalen auf Grund des Beschlusses des Fachbereichsrates des Fachbereichs Ingenieur- und Wirtschaftswissenschaften vom 25. April 2019 erlassen. Iserlohn, den 26. April 2019
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Claus Schuster
+
+## Anlage 1: Pflichtmodule
+ 
+| Modul                                                            |   Credits | Studien- leistung   |   Fach-  semester | 
+|------------------------------------------------------------------|-----------|---------------------|-------------------| 
+| Allgemeine Betriebswirtschaftslehre                              |         6 | -                   |                 1 | 
+| Datenbanksysteme 1                                               |         6 | SL                  |                 1 | 
+| Software Modellierung &amp; IT-Projektmanagement                     |         6 | SL                  |                 1 | 
+| Wirtschaftsinformatik                                            |         6 | -                   |                 1 | 
+| Wirtschaftsmathematik                                            |         6 | SL                  |                 1 | 
+| Produktionswirtschaft                                            |         6 | -                   |                 2 | 
+| Projektmanagement                                                |         6 | -                   |                 2 | 
+| Grundlagen der Programmierung                                    |         6 | SL                  |                 2 | 
+| Statistik                                                        |         6 | SL                  |                 2 | 
+| Unternehmensrechnung                                             |         6 | -                   |                 2 | 
+| Algorithmen und Datenstrukturen                                  |         6 | SL                  |                 3 | 
+| Business Intelligence 1                                          |         6 | -                   |                 3 | 
+| Grundlagen Operations Research                                   |         6 | -                   |                 3 | 
+| IT-Sicherheit                                                    |         6 | SL                  |                 3 | 
+| Logistik und Supply Chain Management                             |         6 | -                   |                 3 | 
+| IT-gestützte Geschäftsprozesse                                   |         6 | SL                  |                 4 | 
+| Marketing: Strategien und Instrumente in der  Unternehmenspraxis |         6 | -                   |                 4 | 
+| Human Resources &amp; Führung                                        |         6 | -                   |                 5 | 
+| IT-Management                                                    |         6 | -                   |                 5 | 
+| Software-Entwicklung für ERP Systeme                             |         6 | -                   |                 5 | 
+| Studienarbeit                                                    |         6 | -                   |                 6 |
+
+Anlage 2: Technische Wahlpflichtmodule
+ 
+| Modul                                                 |   Credits | Studien- leistung   | Fach-  semester   | 
+|-------------------------------------------------------|-----------|---------------------|-------------------| 
+| Angewandte IT im Tourismus                            |         6 | -                   | -                 | 
+| Anwendungen der Informatik                            |         6 | SL                  | -                 | 
+| Automatisierung in der Fertigung 1                    |         6 | -                   | -                 | 
+| Business Intelligence 2                               |         6 | -                   | -                 | 
+| Content Management Systeme                            |         6 | \_\_                  | \_\_                | 
+| Data Analytics                                        |         6 | \_\_                  | \_\_                | 
+| Datenbanksysteme 2                                    |         6 | SL                  | -                 | 
+| Digitaltechnik                                        |         6 | SL                  | -                 | 
+| E-Business-Management                                 |         6 | \_\_                  | \_\_                | 
+| ERP-Systeme                                           |         6 | -                   | -                 | 
+| Grundseminar zum IT Management                        |         6 | -                   | -                 | 
+| Grundseminar zur Wirtschaftsinformatik                |         6 | -                   | -                 | 
+| Informationstechnik in der  Unternehmensinfrastruktur |         6 | -                   | -                 | 
+| IT-Controlling                                        |         6 | -                   | -                 | 
+| IT-Forensik                                           |         6 | SL                  | \_\_                | 
+| Kommunikationsnetze 2                                 |         6 | -                   | -                 | 
+| Optimierungsalgorithmen                               |         6 | SL                  | -                 | 
+| Sondergebiete der Informatik                          |         6 | SL                  | -                 | 
+| Sondergebiete der Informationstechnik 1               |         6 | SL                  | -                 | 
+| Sondergebiete der Kommunikationstechnik 1             |         6 | SL                  | -                 | 
+| Web Engineering                                       |         6 | SL                  | \_\_                |
+
+## Anlage 3: Wirtschaftswissenschaftliche Wahlpflichtmodule
+
+Container: siehe Erläuterung am Ende der Tabelle
+
+Wahlpflichtseminar
+
+Erläuterung: Die Container werden mit konkreten Modulen befüllt. Ein Modul innerhalb eines Containers hat eine Wertigkeit von sechs Credits und schließt mit einer Prüfung ab. Wenn ein Container mehrere Module enthält, kann der Container gemäß der Anzahl der enthaltenen Module mehrfach als Wahlpflichtmodul gewählt werden.
+

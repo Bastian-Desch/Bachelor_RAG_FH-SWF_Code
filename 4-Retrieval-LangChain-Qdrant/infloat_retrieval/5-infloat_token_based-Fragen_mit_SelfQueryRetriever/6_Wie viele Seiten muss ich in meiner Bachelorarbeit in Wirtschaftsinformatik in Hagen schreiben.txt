@@ -1,0 +1,143 @@
+ID: 6
+Frage: Wie viele Seiten muss ich in meiner Bachelorarbeit in Wirtschaftsinformatik in Hagen schreiben?
+
+Dokument 1:
+Metadaten:
+  - id: 6
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/wirtschaftsinformatik__b_sc__1.php
+  - hash: 52d4e379d2abc0535448fc42b8962da89d850e7865654a3ea8a44648e2549a4a
+  - _id: fbfd1f41-e0cd-4966-b479-d399d76df553
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+eine Teilnahme am gesamten Kurs empfohlen. ## Weitere Informationen zum Bachelor-Studiengang Wirtschaftsinformatik ### Prüfungsordnungen, Modulhandbücher und Verlaufspläne - Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen ### Möglichkeiten eines Master-Studiums - Angewandte Informatik M.Sc. (berufsbegleitendes Verbundstudium) - Informatics and Business M.Sc. - Angewandte Künstliche Intelligenz M.Sc. (berufsbegleitendes Verbundstudium) - Data Science M.Sc. (berufsbegleitendes Verbundstudium) Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich Technische Betriebswirtschaft in Hagen. Termine für Studieninteressierte Standort Hagen Fachgebiet Storys ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3805325
+
+Dokument 2:
+Metadaten:
+  - id: 1
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/wirtschaftsinformatik__b_sc__1.php
+  - hash: 52d4e379d2abc0535448fc42b8962da89d850e7865654a3ea8a44648e2549a4a
+  - _id: 2e1ed528-b0aa-4396-8531-1910430076c4
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Wirtschaftsinformatik B.Sc. ## Hagen 1. Studienangebot 2. Studiengänge 3. Hagen 4. Wirtschaftsinformatik (B.Sc.) ## Bachelor-Studium Wirtschaftsinformatik ### Interdisziplinarität! Das ist der große Trumpf des Bachelor-Studiengangs Wirtschaftsinformatik. Er kombiniert Inhalte aus den Bereichen Informatik, Betriebswirtschaftslehre (BWL) und Technik zu einer attraktiven Mischung mit besten beruflichen Perspektiven. Auf dem Lehrplan stehen Fächer wie IT-Sicherheit, Business Intelligence oder Web-Programmierung. Dazu gibt es eine fundierte Fremdsprachenausbildung in Englisch, Französisch oder Spanisch. Auf einen Blick Was? Kombination von Informatik, Betriebswirtschaftslehre und Technik Für wen? Für alle, die interessiert, wie Informatik in Unternehmen eingesetzt wird Warum? Interdisziplinäres Studium mit fundierter Fremdsprachenausbildung Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres.Hier finden Sie Fristen für weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.). - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs ## Auf dieser Seite - Der Studiengang im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Info-Video zum Studiengang - Zielgruppe - Berufliche Perspektiven - Studi-Stimmen - Studienaufbau / Verlaufsplan - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.). ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. Je nach Qualifikation wird der Nachweis einer praktische
+
+Dokument 3:
+Metadaten:
+  - id: 44
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/Ausnahmeregelung_BA_IBE_IBI_WIS_WFS.pdf
+  - hash: 6e48eb27f8e4fba97da2ca563ea2e67675cf108f313a000bca4825041bf6cb69
+  - _id: d13cec05-919c-419c-bdee-e09f701cb152
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+## Ausnahmeregelung zu der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics und der Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen vom 25. Juni 2020 Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 14. April 2020 (GV. NRW. S. 218b), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft der Fachhochschule Südwestfalen für die Durchführung der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen und Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Hagen und International Studies of Business Administration and Engineering und International Studies of Business Administration and Computer Science an der Fachhochschule Südwestfalen, Standort Hagen und der Staffordshire University vom 13. November 2015 und der Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen vom 19. Juli 2018 im Sommersemester 2020 während des eingeschränkten Notbetriebs aufgrund der Prävention zur Corona-Pandemie folgenden Beschluss gefasst: Der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft beschließt, dass ab sofort bis zum 30.09.2021 in den oben genannten Studiengängen gilt, dass - 1. die Praktika spätestens bis zum Semesterbeginn des fünften Studiensemesters nachgewiesen werden müssen, - 2. zur Praxisphase oder zum Praxisprojekt zugelassen wird, wer an der Fachhochschule Südwestfalen als Studierende oder Studierender eingeschrieben oder als Zweithörerin oder Zweithörer gemäß § 52 Absatz 2 HG zugelassen ist und in dem ersten bis fünften Studiensemester laut Studienplan abhängig vom studierten Studiengang die folgende Anzahl an Leistungspunkten erworben hat: - a) Wirtschaftsingenieurwesen und Wirtschaftsinformatik: 105
+
+Dokument 4:
+Metadaten:
+  - id: 73
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf
+  - hash: 730e1accd674cb64b9e32e9f3448cd31b04ae7988376e704b94d6694b30ea799
+  - _id: b2efd596-ec88-4470-986b-02c5ba8ca4ca
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+## Modulhandbuch Fachhochschule Südwestfalen <unk> Technische Betriebswirtschaft Hagen Bachelor of Science Wirtschaftsinformatik FPO 2018 <unk> Lehrplanvariante: Praxisphase Stand : Winter | 2018 Datum der letzten Veröffentlichung: 23.09.2024 ## Begriffserklärung und Hinweise ## Studiengangsvarianten Ein Studiengang kann im Vollzeitstudium, im Teilzeitstudium oder im Verbundstudium angeboten werden. Das Vollzeitstudium ist ein Präsenzstudium, das in der Regel eine Anwesenheit der Studierenden während der Vorlesungszeit an fünf Tagen der Woche erfordert. Die Studierenden der ausbildungs- und berufsbegleitenden Teilzeitvariante besuchen Veranstaltungen während der Vorlesungszeit alle vierzehn Tage samstags. Ein Verbundstudium ist ein Franchise-Model in Kooperation mit anderen Hochschulen. In den Modulbeschreibungen wird zwischen diesen Varianten unterschieden. Entsprechend teilen sich die formalen Angaben, in allgemeine Merkmale, die für alle Varianten gültig sind und solche Merkmale, die variantenspezifisch sind. ## Lehrveranstaltungsarten - In der Vorlesung gibt die oder der Lehrende eine kohärente Präsentation der Lehrinhalte, vermittelt Fakten und Methoden des Fachgebiets und beantwortet relevante Fragen. Die in den Modulbeschreibungen für die Vorlesung angegebene Gruppengröße bezieht sich in der Regel auf die verfügbare Kapazität im 'Audimax'. Vorlesungen gibt es nur im Vollzeitstudium. - Im seminaristischen Unterricht vermittelt und entwickelt die oder der Lehrende den Lehrstoff durch enge Verbindung des Vortrags mit direkter Vertiefung unter Beteiligung der Studierenden. Die limitierte Anzahl an Studierenden ermöglicht einen intensiven Wissentransfer. - Im Seminar werden unter der Leitung der oder des Lehrenden Fakten, Erkenntnisse und komplexe Problemstellungen im Wechsel von Vortrag und Diskussion durch die Studierenden erarbeitet. Seminare fördern Strategien des Wissenserwerb, verbessern Präsentationstechniken und fördern die kommunikative Kompetenz. - In der Übung werden unter der Leitung der oder des Lehrenden die Lehrstoffe und ihre Zusammenhänge sowie ihre Anwendung auf Fälle aus der Praxis systematisch durchgearbeitet. Dabei gibt die oder der Lehrende im Allgemeinen eine Einführung, stellt die Aufgaben und bietet Unterstützung, während die Studierenden selbstständig die Aufgaben einzeln oder in Gruppen in enger Rückkopplung
+
+Dokument 5:
+Metadaten:
+  - id: 10
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf
+  - hash: ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09
+  - _id: b609edb3-5b6d-473c-bfb3-eaaf346f89c8
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Anlage 5: Wahlpflichtmodule aus Katalog ## Teil 1 Allgemeines ## § 1 Geltungsbereich Diese Fachprüfungsordnung (FPO) für die Bachelorstudiengänge Wirtschaftsingenieurwesen (WiIng), Wirtschaftsinformatik (WiInf), International Business Administration and Engineering (IBE), International Business Administration and Informatics (IBI) im Fachbereich Technische Betriebswirtschaft in Hagen gilt zusammen mit der jeweils aktuell gültigen Fassung der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen. ## § 2 Hochschulgrad Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in allen Studiengängen des Geltungsbereiches dieser FPO den akademischen Grad 'Bachelor of Science', kurz 'B.Sc.'. ## § 3 Spezielle Zugangsvoraussetzungen - (1) Neben den allgemeinen Zugangsvoraussetzungen gemäß § 3 RPO müssen die Studienbewerberinnen und Studienbewerber berufspraktische Tätigkeiten (Praktika) nachweisen. Diese bestehen aus einem kaufmännischen Praktikum von mindestens vier Wochen und entweder einem technischen oder einem informationstechnischen Praktikum von mindestens acht Wochen Dauer. Beide Praktika müssen durch Praktikumsbescheinigungen (Zeugnisse) nachgewiesen werden. Diese Bescheinigungen müssen die Zeiten und die Art der Tätigkeiten in den Bereichen gemäß Absatz 2 bis 4 enthalten. - (2) Das kaufmännische Praktikum muss mindestens zwei der folgenden fünf Tätigkeitsbereiche abdecken, wobei die Tätigkeit pro Bereich eine Woche nicht unterschreiten soll: - a) Beschaffungswesen, Materialwirtschaft, Logistik - b) Fertigungsplanung, Organisation - c) Rechnungswesen, Finanzwirtschaft - d) Vertrieb, Marketing und - e) Informationstechnik. - (3) Das technische Praktikum für die Studiengänge WiIng und IBE muss mindestens drei der folgenden fünf Tätigkeitsbereiche abdecken, wobei die Tätigkeit pro Bereich zwei Wochen nicht unterschreiten soll: - a) Manuelles Bearbeiten an Metallen, Kunststoffen und/oder anderen Werkstoffen - b) Maschinelle Arbeitstechniken mit Zerspanungsmaschinen und/oder Maschinen spanloser Formgebung - c) Werkzeug-, Vorrichtungs- und Lehrenbau - d) Montage von Maschinen, Geräten und Anlagen und - e)
+
+Dokument 6:
+Metadaten:
+  - id: 9
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf
+  - hash: ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09
+  - _id: d7994c62-2d46-40ea-a321-919c106d22e8
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+## Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen Wirtschaftsinformatik International Business Administration and Engineering International Business Administration and Informatics an der Fachhochschule Südwestfalen Standort Hagen vom 19. Juli 2018 Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014 (GV. NRW. S. 547) zuletzt geändert durch Gesetz vom 17. Oktober 2017 (GV. NRW. S. 806) und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen: ## INHALTSÜBERSICHT ## Teil 1 Allgemeines - § 1 Geltungsbereich - § 2 Hochschulgrad - § 3 Spezielle Zugangsvoraussetzungen - § 4 Beginn, Dauer, Aufbau und Umfang des Studiums - § 5 Prüfungsausschuss - § 6 Prüfende und Beisitzende - § 7 Bewertung von Prüfungsleistungen - § 8 Wiederholung von Prüfungsleistungen ## Teil 2 Modulprüfungen und Studienleistungen - § 9 Umfang und Form der Modulprüfungen - § 10 Zulassung zu Modulprüfungen - § 11 Durchführung von Modulprüfungen - § 12 Klausurarbeiten - § 13 Klausurarbeiten im Antwortwahlverfahren - § 14 Mündliche Prüfungen - § 15 Hausarbeiten - § 16 Projektarbeiten - § 17 Portfolioprüfungen - § 18 Praxisphase - § 19 Auslandsstudium ## Teil 3 Das Studium - § 20 Umfang der Bachelorarbeit - § 21 Zulassung zur Bachelorarbeit - § 22 Durchführung und Bewertung der Bachelorarbeit - § 23 Kolloquium ## Teil 4 ## Ergebnis der Abschlussprüfung § 24 Zeugnis ## Teil 5 Schlussbestimmungen ## § 25 Inkrafttreten, Übergangsregelung und Veröffentlichung - Anlage 1: Studienplan Wirtschaftsingenieurwesen - Anlage 2: Studienplan Wirtschafsinformatik - Anlage 3: Studienplan International Business Administration and Engineering - Anlage 4: Studienplan International Business Administration and Informatics - Anlage 5: Wahlpflichtmodule aus Katalog ## Teil 1 Allgemeines ## § 1 Geltungsbereich Diese Fachprüfungsordnung (FPO) für die Bachelorstudiengänge Wirtschaftsingenieurwesen (WiIng), Wirtschaftsinformatik (WiInf
+
+Dokument 7:
+Metadaten:
+  - id: 122
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf
+  - hash: 730e1accd674cb64b9e32e9f3448cd31b04ae7988376e704b94d6694b30ea799
+  - _id: 208ff6dd-88ac-4e73-9b8c-f426c3b63910
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+en Methoden aufgearbeitet. Konkrete Fragestellungen werden dabei im Rahmen einer Hausarbeit selbständig bearbeitet und in gemeinsamer Diskussion vertieft. ## Grundlagen des wissenschaftlichen Arbeiten: - Vorgehensweise einer wissenschaftlichen Ausarbeitung - Literaturrecherche und -auswertung - Aufbau und äußere Form von wissenschaftlichen Arbeiten - Zitieren in wissenschaftlichen Arbeiten ## Literaturhinweise &amp; ergänzende Information - Disterer, G. (2019). Studien-und Abschlussarbeiten schreiben: Seminar-, Bachelor-und Masterarbeiten in den Wirtschaftswissenschaften (8. Aufl.). Springer Gabler. - Goldenstein, J., Hunoldt, M. &amp; Walgenbach, P. (2018). Wissenschaftliche(s) Arbeiten in den Wirtschaftswissenschaften. Springer Gabler. - Heesen, B. (2021). Wissenschaftliches Arbeiten (4. Aufl.). Springer Gabler. - Karmasin, M. &amp; Ribing, R. (2019). Die Gestaltung wissenschaftlicher Arbeiten: Ein Leitfaden für Facharbeit/VWA, Seminararbeiten, Bachelor- -, Master-, Magister- und Diplomarbeiten sowie Dissertationen (10. Aufl.). Facultas. - Prexl, L. (2019). Mit digitalen Quellen arbeiten - Richtig zitieren aus Datenbanken, E-Books, YouTube und Co. (3. Aufl.). UTB. - Stickel-Wolf, C. &amp; Wolf, J. (2019). Wissenschaftliches Arbeiten und Lerntechniken: Erfolgreich studieren -gewusst wie! (9. Aufl.). Springer Gabler. - Theisen, M. R. (2021). Wissenschaftliches Arbeiten: Erfolgreich bei Bachelor-und Masterarbeit (18. Aufl.). Vahlen. 42 ## Seminar BWL 2 / 2 | <unk> | Datenbanken | 1 / 2 | | |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------| | Modul: Pflichtfach | Planmäßig im: 3 Semester. | | Modulverfügbarkeit: 1 / Jahr | | Kreditpunkte: 5 | Dauer: 1 Semester | | Einfluss auf die Abschlussnote: 
+
+Dokument 8:
+Metadaten:
+  - id: 223
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf
+  - hash: 730e1accd674cb64b9e32e9f3448cd31b04ae7988376e704b94d6694b30ea799
+  - _id: 93095088-cfa3-4f5c-ac75-99a79efded0b
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+r Unterricht 138 ## Kat: Sondergebiete Informatik 1, 2 2 / 2 ## Teilnahmevoraussetzung Formal : siehe gültige Prüfungsordnung Inhaltlich : Grundlagenwissen der Wirtschaftsinformatik ## Lehrinhalte ## Inhalte Spezielle und aktuelle Themen der Wirtschaftsinformatik, die den Stoff der Grundlagenfächer vertiefen oder auf ihm aufbauen, z.B. Formale Sprachen, Losgrößen und Bestandsoptimierung, Komplexitätstheorie, neue Programmiersprachen ## Literaturhinweise &amp; ergänzende Information Keine Eingabe. 139 | <unk> | Kat: Digitalisierung 1 1 / 2 | Kat: Digitalisierung 1 1 / 2 | Kat: Digitalisierung 1 1 / 2 | |----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------| | Modul: Wahlpflichtfach | Planmäßig im: 4 Semester. | | Modulverfügbarkeit: 1 / Jahr | | Kreditpunkte: 2 | Dauer: 1 Semester | | Einfluss auf die Abschlussnote: 0.952 % | | Modulbeauftragte/r hauptamtl. Lehrende/r: | Modulbeauftragte/r hauptamtl. Lehrende/r: | Verantwortlicher Fachbereich: TBW | Verantwortlicher Fachbereich: TBW | | Prof. Dr. Andreas de Vries | Prof. Dr. Evelyn Albrecht-Goepfert | Prof. Dr. Evelyn Albrecht-Goepfert | Prof. Dr. Evelyn Albrecht-Goepfert | | Lehrveranstaltungen: | | Geplante Gruppengröße: 20 | Geplante Gruppengröße: 20 | | Seminaristischer Unterricht Projekt | 2 [ SWS ] 2 [ SWS ] | | | | Studiengangvarianten: | | | Geplante Gruppengröße: 20 | | Studienart: Vollzeitstudium | Arbeitsaufwand: 60 Stunden | Kontaktzeit: 24 Stunden | Selbststudium: 36 Stunden | | Prüfungsformen: | | | | | Art der Prüfung: Hausarbeit | Erstprüf
+
+Dokument 9:
+Metadaten:
+  - id: 76
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf
+  - hash: 730e1accd674cb64b9e32e9f3448cd31b04ae7988376e704b94d6694b30ea799
+  - _id: db03f961-1442-4d50-b836-1710726d6350
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+63 | | Controlling | 65 | | Mensch-Computer-Interaktion | 67 | | Automatisierungstechnik | 69 | | Fertigungsanlagen | 71 | | Business Intelligence 1 | 73 | | Webtechnologie 1 | 75 | | IT-Sicherheit 1 | 77 | | Führung | 79 | | Seminar Wirtschaftinformatik | 81 | | Qualitätsmanagement | 83 | | Business Intelligence 2 | 85 | | Webtechnologie 2 | 87 | | IT-Sicherheit 2 | 89 | | Strategisches Management | 91 | | Praxisphase | 93 | | Bachelorthesis | 95 | | Kolloquium | 97 | ## Katalogverzeichnis Bezeichnung: Seite: WP-Katalog BPO 2018 100 ff. | <unk> | Grundlagen der Wirtschaftsinformatik | 1 / 2 | | |----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------| | Modul: Pflichtfach | Planmäßig im: 1 Semester. | | Modulverfügbarkeit: 1 / Jahr | | Kreditpunkte: 5 | Dauer: 1 Semester | | Einfluss auf die Abschlussnote: | | Modulnummer: 271 | | | siehe Fachprüfungsordnung (FPO) <unk> | | Modulbeauftragte/r hauptamtl. Lehrende/r: | | | Verantwortlicher Fachbereich: TBW | | Lehrveranstaltungen: | | | | | Vorlesung | 2 [ SWS ] | | Geplante Gruppengröße: Semesterstärke | | Übung | 2 [ SWS ] | | Geplante Gruppengröße: 25 | | Studiengangvarianten: | | | | | Studienart: | Arbeitsaufwand: | Kontaktzeit: | Selbststudium: | | Vollzeitstudium | 150 Stunden | 48 Stunden | 102 Stunden | |
+
+Dokument 10:
+Metadaten:
+  - id: 2
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/wirtschaftsinformatik__b_sc__1.php
+  - hash: 52d4e379d2abc0535448fc42b8962da89d850e7865654a3ea8a44648e2549a4a
+  - _id: 1c0eabaf-fcde-4798-8f50-428d43934e01
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.). ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit (Praktikum) gefordert. ### Studienabschluss Bachelor of Science (B.Sc.) 210 ECTS ### Studienmodell Vollzeitstudium ### Studienbeginn / -dauer Beginn: zum Wintersemester (September) Regelstudienzeit: 7 Semester / 3,5 Jahre ### Studienort Standort Hagen ### Beiträge und Gebühren ### Hauptunterrichtssprache Deutsch (für internationale Bewerbende: Level DSH2 / TestDaf4 / C1) ## Vor Beginn des Studiums – Voraussetzungen &amp; Bewerbungsverfahren ### Voraussetzungen Der Studiengang ist NC-frei, das heißt es besteht keine Zulassungsbeschränkung. Nachgewiesen werden müssen lediglich die folgenden Punkte*. Die Qualifikation für das Studium wird durch ein Zeugnis der Fachhochschulreife, der Allgemeinen Hochschulreife (Abitur) oder durch eine als gleichwertig anerkannte Vorbildung nachgewiesen. - Mehr Infos zu den Voraussetzungen *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung ### Bewerbung und Einschreibung zum Wintersemester - Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres.Hier finden Sie Fristen für weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.). - Bewerbung über das Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Mehr Informationen zum Bewerbungsverfahren finden Sie hier - Bewerbungsfrist: in der Regel Anfang März bis 15. Juli - Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier ### Bewerbung und Einschreibung zum Sommersemester Für Bachelorstudiengänge ist eine Bewerbung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+

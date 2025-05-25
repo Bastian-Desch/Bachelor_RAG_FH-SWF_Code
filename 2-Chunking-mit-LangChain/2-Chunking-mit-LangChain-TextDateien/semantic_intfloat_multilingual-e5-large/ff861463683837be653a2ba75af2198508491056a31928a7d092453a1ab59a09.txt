@@ -1,0 +1,552 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 89
+
+Metadata: {'id': 6, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: ## Fachprüfungsordnung
+
+für die Bachelorstudiengänge
+
+Wirtschaftsingenieurwesen Wirtschaftsinformatik International Business Administration and Engineering International Business Administration and Informatics
+
+an der Fachhochschule Südwestfalen
+
+Standort Hagen
+
+vom 19. Juli 2018
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014 (GV. NRW.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'id': 7, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: S. 547) zuletzt geändert durch Gesetz vom 17. Oktober 2017 (GV. NRW.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 5117
+
+Metadata: {'id': 8, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: S. 806) und des § 1  Absatz  1  der  Rahmenprüfungsordnung  für  Bachelor-  und  Masterstudiengänge  an  der Fachhochschule  Südwestfalen,  hat  der  Fachbereichsrat  des  Fachbereichs  Technische Betriebswirtschaft der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen:
+
+## INHALTSÜBERSICHT
+
+## Teil 1 Allgemeines
+
+- § 1 Geltungsbereich
+- § 2 Hochschulgrad
+- § 3 Spezielle Zugangsvoraussetzungen
+- § 4 Beginn, Dauer, Aufbau und Umfang des Studiums
+- § 5 Prüfungsausschuss
+- § 6 Prüfende und Beisitzende
+- § 7 Bewertung von Prüfungsleistungen
+- § 8 Wiederholung von Prüfungsleistungen
+
+## Teil 2 Modulprüfungen und Studienleistungen
+
+- § 9 Umfang und Form der Modulprüfungen
+- § 10 Zulassung zu Modulprüfungen
+- § 11 Durchführung von Modulprüfungen
+- § 12 Klausurarbeiten
+- § 13 Klausurarbeiten im Antwortwahlverfahren
+- § 14 Mündliche Prüfungen
+- § 15 Hausarbeiten
+- § 16 Projektarbeiten
+- § 17 Portfolioprüfungen
+- § 18 Praxisphase
+- § 19 Auslandsstudium
+
+## Teil 3 Das Studium
+
+- § 20 Umfang der Bachelorarbeit
+- § 21 Zulassung zur Bachelorarbeit
+- § 22 Durchführung und Bewertung der Bachelorarbeit
+- § 23 Kolloquium
+
+## Teil 4
+
+## Ergebnis der Abschlussprüfung
+
+§ 24 Zeugnis
+
+## Teil 5 Schlussbestimmungen
+
+## § 25 Inkrafttreten, Übergangsregelung und Veröffentlichung
+
+- Anlage 1: Studienplan Wirtschaftsingenieurwesen
+- Anlage 2: Studienplan Wirtschafsinformatik
+- Anlage 3: Studienplan International Business Administration and Engineering
+- Anlage 4: Studienplan International Business Administration and Informatics
+- Anlage 5: Wahlpflichtmodule aus Katalog
+
+## Teil 1 Allgemeines
+
+## § 1 Geltungsbereich
+
+Diese Fachprüfungsordnung (FPO) für die Bachelorstudiengänge Wirtschaftsingenieurwesen (WiIng), Wirtschaftsinformatik (WiInf), International Business Administration and Engineering (IBE), International Business Administration and Informatics (IBI) im Fachbereich Technische Betriebswirtschaft  in  Hagen  gilt  zusammen  mit  der  jeweils  aktuell  gültigen  Fassung  der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen. ## § 2 Hochschulgrad
+
+Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in allen Studiengängen des Geltungsbereiches dieser FPO den akademischen Grad 'Bachelor of Science', kurz 'B.Sc.'. ## § 3 Spezielle Zugangsvoraussetzungen
+
+- (1)  Neben den  allgemeinen Zugangsvoraussetzungen  gemäß  §  3  RPO  müssen  die Studienbewerberinnen und Studienbewerber  berufspraktische Tätigkeiten (Praktika) nachweisen. Diese bestehen aus einem kaufmännischen Praktikum von mindestens vier Wochen und entweder einem technischen oder einem informationstechnischen Praktikum von mindestens acht Wochen Dauer. Beide Praktika müssen durch Praktikumsbescheinigungen (Zeugnisse) nachgewiesen werden. Diese Bescheinigungen müssen die Zeiten und die Art der Tätigkeiten in den Bereichen gemäß Absatz 2 bis 4 enthalten. - (2)  Das kaufmännische Praktikum muss mindestens zwei der folgenden fünf Tätigkeitsbereiche abdecken, wobei die Tätigkeit pro Bereich eine Woche  nicht unterschreiten soll:
+- a) Beschaffungswesen, Materialwirtschaft, Logistik
+- b) Fertigungsplanung, Organisation
+- c) Rechnungswesen, Finanzwirtschaft
+- d) Vertrieb, Marketing und
+- e) Informationstechnik. - (3)  Das technische Praktikum für die Studiengänge WiIng und IBE muss mindestens drei der folgenden  fünf  Tätigkeitsbereiche  abdecken,  wobei  die  Tätigkeit  pro  Bereich  zwei Wochen nicht unterschreiten soll:
+- a) Manuelles Bearbeiten an Metallen, Kunststoffen und/oder anderen Werkstoffen
+- b) Maschinelle  Arbeitstechniken  mit  Zerspanungsmaschinen  und/oder  Maschinen spanloser Formgebung
+- c) Werkzeug-, Vorrichtungs- und Lehrenbau
+- d) Montage von Maschinen, Geräten und Anlagen und
+- e) Qualitätskontrolle (Messen und Prüfen im Labor und in der Fertigung). - (4)  Das informationstechnische Praktikum  für die Studiengänge  WiInf  und IBI muss mindestens drei der folgenden fünf Tätigkeitsbereiche abdecken, wobei die Tätigkeit pro Bereich zwei Wochen nicht unterschreiten soll:
+- a) Programmerstellung
+- b) Hardwareeinsatz
+- c) Netzwerkmanagement, DV-Organisation
+- d) Maschinelle Arbeitstechniken, zum Beispiel an CNC Maschinen
+- e) Montage von Maschinen, Geräten und Anlagen
+- f) Automatisierungstechnik und
+- g) Qualitätskontrolle. - (5)  Für Studienbewerberinnen und -bewerber, die das Zeugnis der Fachhochschulreife einer Fachoberschule  für  Technik,  Fachrichtung  Metalltechnik  oder  Elektrotechnik,  erworben haben,  gilt  das  technische/informationstechnische  Praktikum  als  erbracht. Für  die,  die das Zeugnis der Fachhochschulreife einer Fachoberschule für Wirtschaft und Verwaltung oder einen Fachhochschulreifevermerk der zweijährigen Berufsfachschule für Wirtschaft und  Verwaltung  und  ein  einschlägiges  gelenktes  Praktikum  erworben  haben,  gilt  das kaufmännische Praktikum als erbracht. - (6)  Auf die Praktika werden Zeiten einer einschlägigen Berufsausbildung und Berufstätigkeit, einschlägiger Tätigkeiten im Rahmen der Ausbildung der Klasse 11 der Fachoberschule und  einschlägiger  Tätigkeiten  im  Rahmen  eines  einjährig  gelenkten  Praktikums  auf Antrag  ganz  oder  teilweise  angerechnet. Über  die  Anrechnung  entscheidet  der  Dekan oder die Dekanin. - (7)  Die Praktika müssen spätestens bis zum Semesterbeginn des dritten Studiensemesters nachgewiesen werden. Dieser Zeitpunkt kann im begründeten Ausnahmefall auf Antrag an  das  Studierenden-Servicebüro  bis  höchstens  zum  Beginn  der  Vorlesungen  des vierten  Studiensemesters  verlängert  werden. Wird  der  Nachweis  des  Fachpraktikums nicht rechtzeitig erbracht, kann das Studium nicht fortgesetzt werden. ## § 4
+
+## Beginn, Dauer, Aufbau und Umfang des Studiums
+
+- (1)  Das Studium beginnt zum Wintersemester. - (2)  Die Regelstudienzeit beträgt sieben Semester. - (3)  Der Leistungsumfang  beträgt  insgesamt  210  Leistungspunkte  (Credits  bzw. ECTS gemäß European Credit Transfer System) und umfasst ergänzend zu § 27 Absatz 1 RPO
+- a) im Falle WiIng und WiInf wahlweise das Lehrangebot im sechsten Fachsemester oder ein Auslandssemester,
+- b) im Falle IBE und  IBI ein Studienjahr an einer oder zwei ausländischen Hochschule(n) anstelle des fünften und sechsten Fachsemesters und
+- c) eine Praxisphase. - (4)  Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind ebenso wie die Wahlpflichtmodule gemäß § 4 Absatz 4 RPO den Anlagen 1 bis 5 zu entnehmen. Näheres  zur  Gliederung  des  Studiums  sowie  Details  zu  Art,  Umfang, Inhalten  und  Prüfungsformen  der  Module  sind  den  Anlagen,  dem  Studienverlaufsplan und dem Modulhandbuch zu entnehmen. ## § 5
+
+## Prüfungsausschuss
+
+Bezugnehmend  auf  §  6  Absatz  3  RPO  erfolgt  die  Wahl  des  vorsitzenden  und  des stellvertretend vorsitzenden Mitglieds des Prüfungsausschusses nicht durch den Prüfungsausschuss, sondern durch den Fachbereichsrat. ## § 6 Prüfende und Beisitzende
+
+Die Prüfenden und Beisitzenden unterliegen der Amtsverschwiegenheit. Sofern sie nicht im öffentlichen  Dienst  stehen,  sind  sie  durch  die  Vorsitzende  oder  den  Vorsitzenden  des Prüfungsausschusses zur Verschwiegenheit zu verpflichten. § 7
+
+## Bewertung von Prüfungsleistungen
+
+Bezugnehmend  auf  §  9  Absatz  6  RPO  gilt  in  den  Studiengängen  des  Geltungsbereichs dieser FPO folgende Bonuspunkteregelung:
+
+Die Bewertung einer bestandenen Modulprüfung kann durch Bonuspunkte, die im Rahmen einer zusätzlichen, freiwilligen Studienleistung erworben werden können, um einen einheitlich festgesetzten Notenwert verbessert werden. Die Endnote muss eine Note gemäß §  9  Absatz  3  RPO  sein. Diese  Notenverbesserung  ist  nur  für  die  zwei  Prüfungstermine anrechenbar,  die  unmittelbar  auf  die  Erbringung  der  Studienleistung  folgen. Eine  bessere Note als  1,0  ist  nicht  erreichbar. Ob  und  wofür  im  Rahmen  einer  zusätzlichen,  freiwilligen Studienleistung  Bonuspunkte  erworben  werden  können,  wird  in  der  Modulbeschreibung festgelegt. In dieser wird auch der je Studienleistung einheitliche Notenwert festgelegt. Der Notenwert 0,7 darf im Rahmen der Verbesserung nicht überschritten werden. ## § 8 Wiederholung von Prüfungsleistungen
+
+Abweichend  von  §  10  Absatz  3  RPO  gilt  für  bestandene  Prüfungen,  dass  die  oder  der Studierende für maximal drei bestandene Modulprüfungen eine Notenverbesserung beantragen kann, wenn die Modulprüfung zum Regelzeitpunkt laut Studienplan abgelegt und bestanden wurde und der Antrag entweder zum darauffolgenden nächsten oder übernächsten  Prüfungstermin  gestellt  wird. Mit  der  Teilnahme  am  Kolloquium  erlischt  die Möglichkeit  der  Notenverbesserung. Nicht an der Fachhochschule Südwestfalen erbrachte Prüfungsleistungen,  die  im  Rahmen  eines  Anerkennungsverfahrens  auf  Modulprüfungen anerkannt wurden, können nicht verbessert werden. ## Teil 2
+
+## Modulprüfungen und Studienleistungen
+
+## § 9
+
+## Umfang und Form der Modulprüfungen
+
+- (1)  Eine  Modulprüfung  kann  neben  den  in  §  13  Absatz  1  RPO  aufgezählten  Formen ebenfalls in Form einer Portfolioprüfung (§ 17) durchgeführt werden. - (2)  Bei nachfolgenden Prüfungsformen sind durch die Prüfenden die Elemente der Prüfung und deren Gewichtung, bezogen auf die Note, zu Beginn der Lehrveranstaltung bekannt zu geben:
+- a) Hausarbeiten
+- b) Portfolioprüfungen
+- c) Projektarbeiten und
+- d) Kombinationsprüfungen. - (3)  Abweichend von § 13 Absatz 3 RPO gilt die Möglichkeit der Einstufungsprüfung nicht für Modulprüfungen,  die  nach  dieser  Fachprüfungsordnung  Bestandteil  des  fünften  oder höherer Fachsemester sind. ## § 10
+
+## Zulassung zu Modulprüfungen
+
+- (1)  Bei der Beantragung der Zulassung zu Modulprüfungen gemäß § 14 Absatz 2 RPO sind folgende Fristen einzuhalten:
+- a) Im Falle einer Modulprüfung in Form einer Klausurarbeit, einer Klausurarbeit im Antwortwahlverfahren  oder  einer  mündlichen  Prüfung  wird  diese  Frist  vom Prüfungsausschuss festgelegt. - b) Im  Falle  einer  Modulprüfung  in  Form  einer  Hausarbeit,  einer  Portfolioprüfung oder einer Kombinationsprüfung beträgt diese Frist vier Wochen nach Beginn der Lehrveranstaltungen des Semesters. - (2)  Bei  der  Rücknahme  des  Antrags  auf  Zulassung  zu  einer  Modulprüfung  gemäß  §  14 Absatz 5 RPO gelten folgende Fristen:
+- a) Bei Modulprüfungen in Form einer Klausurarbeit, einer Klausurarbeit im Antwortwahlverfahren  oder  einer  mündlichen  Prüfung  beträgt  diese  Frist  eine Woche vor dem festgesetzten Prüfungstermin. - b) Im  Falle  einer  Modulprüfung  in  Form  einer  Hausarbeit,  einer  Portfolioprüfung, einer  Projektarbeit  oder  einer  Kombinationsprüfung  beträgt  diese  Frist  zwei Wochen nach Ablauf der Frist zur Antragstellung zwecks Zulassung. - (3)  Die Zulassung zu Modulprüfungen kann gemäß § 14 Absatz 7 und Absatz 10 RPO von der  Erbringung  von  Vorleistungen  (Studienleistungen  und/  oder  Leistungspunkten  aus Modulen vorhergehender Semester) abhängig gemacht werden. Für welche Prüfungen solche Vorleistungen notwendig sind, ist den Anlagen 1 bis 5 zu entnehmen. ## § 11 Durchführung von Modulprüfungen
+
+Der Prüfungstermin von Modulprüfungen in Form einer Klausurarbeit, einer Klausurarbeit im Antwortwahlverfahren  oder  mündlichen  Prüfung  wird  rechtzeitig,  in  der  Regel  mindestens zwei Wochen vor der betreffenden Prüfung, bekannt gegeben. ## § 12
+
+## Klausurarbeiten
+
+Die Bearbeitungsdauer einer Klausurarbeit gemäß § 17 RPO beträgt bei Modulen mit einem Umfang von zwei Leistungspunkten mindestens 15  Minuten und maximal 30  Minuten, bei Modulen mit einem Umfang von fünf Leistungspunkten mindestens 60 Minuten und maximal 120 Minuten, bei Modulen mit sechs Leistungspunkten mindestens 80 Minuten und maximal 150  Minuten,  bei  Modulen  mit  sieben  Leistungspunkten  mindestens  100  Minuten  und maximal 180 Minuten. § 13
+
+## Klausurarbeiten im Antwortwahlverfahren
+
+Die  Bearbeitungsdauer  einer  Klausurarbeit  im  Antwortwahlverfahren  gemäß  §  18  RPO beträgt bei Modulen mit einem Umfang von zwei Leistungspunkten mindestens 15 Minuten und  maximal  30  Minuten,  bei  Modulen  mit  einem  Umfang  von  fünf  Leistungspunkten mindestens 60 Minuten und maximal 120 Minuten, bei Modulen mit sechs Leistungspunkten mindestens 80 Minuten und maximal 150 Minuten, bei Modulen mit sieben Leistungspunkten mindestens 100 Minuten und maximal 180 Minuten. ## § 14 Mündliche Prüfungen
+
+- (1)  Für mündliche Prüfungen gilt § 17 Absatz 1 RPO entsprechend. - (2)  Eine mündliche Prüfung gemäß  §  20  RPO  dauert  sechs  bis zwölf Minuten je Leistungspunkt. ## § 15 Hausarbeiten
+
+Eine Hausarbeit nach § 21 RPO hat in der Regel einen Umfang von drei bis sechs Seiten (inklusive Bilder und Tabellen) je Leistungspunkt. Der Fachvortrag, durch den die Hausarbeit ergänzt  werden  kann,  hat  eine  Dauer  von  sechs  bis  zehn  Minuten  je  Leistungspunkt. In welchen Modulen ein solcher Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt. ## § 16
+
+## Projektarbeiten
+
+- (1)  Bezugnehmend  auf  §  23  Absatz  1  RPO  haben  Projektarbeiten  in  der  Regel  einen Umfang von drei bis sechs Seiten (inklusive Bilder und Tabellen) je Leistungspunkt. Der Fachvortrag, durch den die Projektarbeit ergänzt werden kann, hat eine Dauer von sechs bis zehn Minuten je Leistungspunkt. Ob ein ergänzender Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt. - (2)  Die gemäß § 23 Absatz 5 RPO von den Prüfenden festzusetzende Bearbeitungszeit der Projektarbeit kann höchstens vier Monate betragen. ## § 17
+
+## Portfolioprüfungen
+
+- (1)  Ein Portfolio ist eine eigenständig zu erarbeitende schriftliche Lernprozessdokumentation. Sie umfasst die Reflexion und metakognitive Auseinandersetzung mit dem eigenen Kompetenzerwerb in einem Modul. Gegebenenfalls  wird  in  ergänzenden  mündlichen  Prüfungen  der  Kompetenzerwerb anhand des Portfolios reflektiert. Das  Portfolio besteht  aus mehreren  Einzelelementen, zum  Beispiel  Protokoll,  Textanalyse,  Präsentation,  Fallstudie,  konstruktiver  Entwurf, Klausurarbeit, Hausarbeit, Programmierleistung usw. Die Anzahl der Einzelelemente ist auf maximal fünf begrenzt. Der schriftliche Teil der Portfolioprüfung umfasst in der Regel drei  bis  sechs  Seiten  (inklusive  Bilder  und  Tabellen)  je  Leistungspunkt,  der  mündliche Teil sechs bis zehn Minuten je Leistungspunkt. - (2)  Die  Zusammensetzung  des  Portfolios  und  die  Bewertungskriterien  gemäß  der  in  der Modulbeschreibung  festgelegten  Varianten  werden  von  der  oder  dem  Lehrenden  zu Beginn der Lehrveranstaltung schriftlich bekannt gemacht. - (3)  Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit zulassen, wenn der als  Prüfungsleistung zu bewertende Beitrag der einzelnen Studierenden auf Grund der Angabe  von  Abschnitten,  Seitenzahlen  oder  anderen  objektiven  Kriterien,  die  eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. ## § 18 Praxisphase
+
+- (1) Bezugnehmend auf die Regelungen in § 25 RPO sind die Studierenden im Rahmen der Studiengänge  des  Geltungsbereichs  dieser  FPO  verpflichtet,  eine  Praxisphase  zu absolvieren. Diese  dauert  in  der  Regel  zwölf  Wochen  und  wird  planmäßig  im  siebten Fachsemester absolviert. Die Praxisphase kann nach Ende der Lehrveranstaltungen des sechsten Fachsemesters begonnen und im Laufe des siebten Fachsemesters beendet werden. In Ausnahmefällen kann die Praxisphase innerhalb der Hochschule stattfinden. - (2) Der Antrag auf Zulassung zur Praxisphase erfolgt in der Regel im sechsten Studiensemester schriftlich an die Praxisphasenbeauftragte oder den Praxisphasenbeauftragten. Dem  Antrag  soll  eine  Erklärung  darüber  beigefügt  werden, welche  Betreuerin  oder  welcher  Betreuer  die  Praxisphase  lenkt. Zur  Praxisphase  wird zugelassen, wer an der Fachhochschule Südwestfalen als Studierende oder Studierender eingeschrieben oder als Zweithörerin oder Zweithörer gemäß § 52 Absatz 2 HG  zugelassen  ist  und  in  dem  ersten  bis  fünften  Studiensemester  laut  Studienplan (Anlagen) abhängig vom studierten Studiengang die folgende Anzahl an Leistungspunkten erworben hat:
+- a) WiIng  und  WiInf:  120  Leistungspunkte  aus  den  ersten  fünf  Studiensemestern, davon 95 Leistungspunkte aus den ersten drei Studiensemestern,
+- b) IBE und IBI: 90 Leistungspunkte aus den ersten vier Studiensemestern, davon 60 Leistungspunkte aus den ersten beiden Studiensemestern und mindestens 15 Leistungspunkte aus dem dritten Studiensemester. ## (3) Die Praxisphase wird anerkannt, wenn
+
+- a) die oder der Studierende in der Regel 14-täglich Teilberichte über die Praxisphase der Betreuerin oder dem Betreuer eingereicht hat,
+- b) die praktische Tätigkeit dem  berufsorientierenden Zweck  der Praxisphase entsprochen  und  die  ihr  oder  ihm  übertragenen  Arbeiten  zufriedenstellend ausgeführt hat (das Zeugnis der Einrichtung ist dabei zu berücksichtigen),
+- c) ein Nachweis der Einrichtung über die Mitarbeit der oder des Studierenden am Ende der Praxisphase vorliegt,
+- d) sie  oder  er  einen  Bericht  über  die  Praxisphase  bei  der  Betreuerin  oder  dem Betreuer zum Ende der Praxisphase abgegeben hat,
+- e) die Praxisphase durch die Betreuerin oder den Betreuer als bestanden bewertet wurde. Durch das Bestehen der Praxisphase werden 15 Leistungspunkte erworben. Eine nicht bestandene Praxisphase kann einmal wiederholt werden. ## § 19
+
+## Auslandsstudium
+
+- (1) Bezugnehmend auf die Regelungen in § 26 RPO können die Studierenden im Rahmen der  Studiengänge  WiIng  und  WiInf  ein  Auslandssemester  an  einer  ausländischen Hochschule ihrer Wahl absolvieren. - (2)  Bezugnehmend auf die Regelungen in § 26 RPO haben die Studierenden im Rahmen der  Studiengänge  IBE  und  IBI  ein  Studienjahr  an  einer  oder  zwei  ausländischen Hochschulen ihrer Wahl zu absolvieren. § 26 Absatz 2 RPO gilt entsprechend, wobei im Rahmen des Auslandsstudienjahrs 60 Leistungspunkte zu erbringen sind. - (3)  Der Antrag auf Zulassung zum Auslandssemester gemäß Absatz 1 erfolgt in der Regel bis spätestens  acht  Wochen  nach  Semesterbeginn  des  fünften  Studiensemesters schriftlich an den Prüfungsausschuss. Zum Auslandssemester wird zugelassen, wer an der  Fachhochschule  Südwestfalen  als  Studierende  oder  Studierender  eingeschrieben oder als Zweithörerin oder Zweithörer gemäß § 52 Absatz 2 HG zugelassen ist und alle laut Studienplan (Anlagen) vorgesehenen  Modulprüfungen  des  ersten  bis  dritten Studiensemesters bestanden hat. - (4) Der  Antrag  auf  Zulassung  zum  Studienjahr  gemäß  Absatz  2  erfolgt  in  der  Regel spätestens bis zum 15.5. eines jeden Jahres schriftlich an den Prüfungsausschuss. Zum Studienjahr wird zugelassen, wer an der Fachhochschule Südwestfalen als Studierende oder  Studierender  eingeschrieben  oder  als  Zweithörerin  oder  Zweithörer  gemäß  §  52 Absatz 2 HG zugelassen ist, alle laut Studienplan (Anlagen) vorgesehenen Modulprüfungen  des  ersten  und  zweiten  Studiensemesters  bestanden  sowie  in  den Modulprüfungen  des  dritten  Studiensemesters  15  Leistungspunkte  erworben  hat. Die Modulprüfung im Modul 'Business English' muss bestanden sein. - (5) Die  Anträge  auf  Zulassung  in  den  Absätzen  3  und  4  können  schriftlich  bis  zur Bekanntgabe  der  Entscheidung  über  den  Antrag  ohne  Anrechnung  auf  die  Zahl  der möglichen Prüfungsversuche zurückgenommen werden. - (6) Das Auslandssemester gemäß Absatz 1 oder das Auslandsstudienjahr gemäß Absatz 2 werden  anerkannt,  wenn  die  im  Rahmen  des  Learning  Agreements  vereinbarten Studienleistungen erfolgreich erbracht wurden. Dabei bleiben gemäß  § 8 RPO angerechnete  Prüfungsleistungen  unberücksichtigt. Ein  entsprechender  Nachweis  der ausländischen Hochschule ist einzureichen. - (7) Die im Rahmen des Auslandssemesters gemäß Absatz 1 erbrachten Studienleistungen werden wie Zusatzmodule gemäß § 34 RPO behandelt. - (8) Die im Rahmen des Auslandsstudienjahrs gemäß Absatz 2 erbrachten Studienleistungen  werden  bei  der  Festsetzung  der  Gesamtnote  in  Form  eines  ECTS gewichteten  arithmetischen  Mittels  der  Einzelnoten  der  durch  das  entsprechende Learning Agreement vereinbarten Modulprüfungen berücksichtigt. ## Teil 3
+
+## Das Studium
+
+## § 20
+
+## Umfang der Bachelorarbeit
+
+Der Umfang der Bachelorarbeit gemäß § 28 Absatz 1 RPO beträgt in der Regel 65 Seiten (inklusive Bilder und Tabellen und ohne Verzeichnisse und Anhänge). Die Bearbeitungszeit (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Bachelorarbeit)  beträgt  höchstens  zehn Wochen. Auf einen vor Ablauf der Frist gestellten begründeten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss ausnahmsweise eine Nachfrist der Bearbeitungszeit von bis zu drei Wochen gewähren. ## § 21
+
+## Zulassung zur Bachelorarbeit
+
+Ergänzend zu § 29 Absatz 1 RPO kann zur Bachelorarbeit nur zugelassen werden, wer die folgende Anzahl an Leistungspunkten erworben hat:
+
+- a) WiIng und WiInf: 170 Leistungspunkte aus den ersten sechs Studiensemestern laut  Studienplan  (Anlagen)  und  gegebenenfalls  dem  Auslandssemester,  davon 95 Leistungspunkte aus den ersten drei Studiensemestern,
+- b) IBE  und  IBI:  170  Leistungspunkte  aus  den  ersten  vier  Studiensemestern  laut Studienplan (Anlagen) und dem Studienjahr im Ausland, davon 92 Leistungspunkte aus den ersten drei Studiensemestern. ## § 22
+
+## Durchführung und Bewertung der Bachelorarbeit
+
+- (1)  Die  Rückgabe  des  Themas  der  Bachelorarbeit  gemäß  §  30  Absatz  2  RPO  kann  nur einmal  und  nur  innerhalb  der  ersten  zwei  Wochen  des  Bearbeitungszeitraums  ohne Angabe von Gründen erfolgen. - (2)  Im Falle der Studiengänge IBE und IBI muss abweichend von § 30 Absatz 4 RPO die Bachelorarbeit in englischer Sprache verfasst werden. - (3)  In Ergänzung zu § 30 Absatz 5 RPO gilt hinsichtlich der Personen, die die Bachelorarbeit bewerten, dass die Betreuerin oder der Betreuer regelmäßig die erste Prüferin oder der erste Prüfer ist. - (4)  Bezugnehmend auf § 30 Absatz 7 RPO werden durch das Bestehen der Bachelorarbeit zwölf Leistungspunkte erworben. ## § 23 Kolloquium
+
+- (1)  Ergänzend  zu  den  Regelungen  in  §  31  Absatz  2  RPO  kann  zum  Kolloquium  nur zugelassen werden, wer
+- a) in den Pflicht- und Wahlpflichtmodulen gemäß Anlage sowie gegebenenfalls im Auslandssemester  oder  Studienjahr  im  Ausland  und  in  der  Praxisphase  195 Leistungspunkte und
+- b) in der Bachelorarbeit zwölf Leistungspunkte erworben hat. - (2)  Das  Kolloquium  wird  gemäß  §  31  Absatz  5  RPO  als  mündliche  Prüfung  mit  einer Zeitdauer von mindestens 30 und maximal 45 Minuten durchgeführt. - (3)  Bezugnehmend auf § 31 Absatz 6 RPO werden durch das Bestehen des Kolloquiums drei Leistungspunkte erworben. - (4)  Das  Kolloquium kann mit Zustimmung der Prüfenden per Videokonferenz durchgeführt werden. Ein  Prüfer  oder  eine  Prüferin  und  der  oder  die  Studierende  müssen  sich  in einem Raum  befinden, der oder die zweite Prüfende kann per Videokonferenz zugeschaltet werden. ## Teil 4
+
+## Ergebnis der Abschlussprüfung
+
+## § 24 Zeugnis
+
+Das Bachelorzeugnis wird zweisprachig in Deutsch und in Englisch ausgefertigt. ## Teil 5 Schlussbestimmungen
+
+## § 25
+
+## Inkrafttreten, Übergangsregelung und Veröffentlichung
+
+- (1)  Diese Fachprüfungsordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. - (2)  Die Regelungen dieser Fachprüfungsordnung gelten erstmals für die Studierenden, die im Wintersemester 2018/19 im ersten Fachsemester der Studiengänge des Geltungsbereichs dieser FPO eingeschrieben sind. ## (3)  Es gilt folgende Aufwuchsregelung:
+ 
+| Modul                        | Erstmaliges Angebot    |
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 243
+
+Metadata: {'id': 9, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|------------------------------|------------------------| 
+| Management Simulation        | Wintersemester 2019/20 | 
+| International Marketing      | Wintersemester 2019/20 | 
+| International Business       | Sommersemester 2020    | 
+| Project Management           | Sommersemester 2020    | 
+| Foreign Trade and Investment | Sommersemester 2020    | 
+| Digitalisierung 1            | Sommersemester 2020    | 
+| Digitalisierung 2            | Wintersemester 2020/21 |
+
+- (4)  Für die Studierenden der Studiengänge Wirtschaftsingenieurwesen, International Studies of Business  Administration  and  Engineering,  Wirtschaftsinformatik  und  International Studies  of  Business  Administration  and  Computer  Science  mit  Abschluss  "Bachelor  of Science' des Fachbereichs Technische Betriebswirtschaft, die ihr Studium vor Inkrafttreten dieser Fachprüfungsordnung aufgenommen haben, findet die Bachelorprüfungsordnung vom 13.11.2015 mit folgender Maßgabe bis zum Ablauf des Sommersemesters 2023 weiterhin Anwendung:
+
+Die  jeweiligen  Prüfungen  gemäß  den  oben  genannten  Prüfungsordnungen  können  im Prüfungszeitraum des nachfolgend aufgeführten Semesters letztmalig abgelegt werden:
+ 
+| a)   | Prüfungen in Fächern des 1.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 350
+
+Metadata: {'id': 10, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: Fachsemesters  Wintersemester   | 2019/20   | 
+|------|-------------------------------------------------------------|-----------| 
+| b)   | Prüfungen in Fächern des 2. Fachsemesters  Sommersemester   | 2020      | 
+| c)   | Prüfungen in Fächern des 3. Fachsemesters   Wintersemester  | 2020/21   | 
+| d)   | Prüfungen in Fächern des 4. Fachsemesters   Sommersemester  | 2021      | 
+| e)   | Prüfungen in Fächern des 5. Fachsemesters   Wintersemester  | 2021/22   | 
+| f)   | Prüfungen in Fächern des 6. Fachsemesters   Sommersemester  | 2022 und  | 
+| g)   | Prüfungen in Fächern des 7. Fachsemesters   Wintersemester  | 2022/23   |
+
+Auf Antrag der Studierenden  können  sie ihr Studium  nach  dieser Prüfungsordnung fortsetzen. Dieser Antrag ist unwiderruflich. Über die Genehmigung des Antrags entscheidet der Prüfungsausschuss. Diese  Prüfungsordnung  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule Südwestfalen auf Grund des Beschlusses des Fachbereichsrates des Fachbereichs Technische Betriebswirtschaft vom 11. Juli 2018 erlassen. Iserlohn, den 19. Juli 2018
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Claus Schuster
+
+## Anlage 1: Studienplan Wirtschaftsingenieurwesen
+
+## Studiengang Wirtschaftsingenieurwesen
+ 
+| P/WP        | Modul                                        | Sem. | Leistungs- punkte   | MP zum  Ende des... | SL   |
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 1226
+
+Metadata: {'id': 11, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|-------------|----------------------------------------------|--------|---------------------|-----------------------|------| 
+| P           | Grundlagen des Wirtschaftens                 | 1      | 5                   | 1                     |      | 
+| P           | Externes Rechnungswesen                      | 1      | 5                   | 1                     |      | 
+| P           | Technische Mechanik                          | 1      | 5                   | 1                     |      | 
+| P           | Grundlagen der Physik                        | 1      | 5                   | 1                     | Ja   | 
+| P           | Mathematik 1                                 | 1      | 5                   | 1                     | Ja   | 
+| P           | Recht                                        | 1-2    | 5                   | 2                     |      | 
+| P           | Business English                             | 1-3    | 5                   | 3                     | Ja   | 
+| P           | Management der  Unternehmensprozesse         | 2      | 5                   | 2                     |      | 
+| P           | Internes Rechnungswesen                      | 2      | 5                   | 2                     |      | 
+| P           | Grundlagen des Konstruierens                 | 2      | 5                   | 2                     |      | 
+| P  P        | Physik und Umwelt  Grundlagen der Informatik | 2      | 5  5                | 2                     | Ja   | 
+|             |                                              | 2      |                     | 2                     |      | 
+| P           | Mathematik 2                                 | 2      | 5                   | 2                     | Ja   | 
+| P           | Seminar BWL                                  | 3      | 3                   | 3                     |      | 
+| P           | Unternehmensplanspiel                        | 3      | 2                   | 3                     |      | 
+| P           | Fertigungstechnik 1                          | 3      | 5                   | 3                     | Ja   | 
+| P           | Werkstoffwissenschaften                      | 3      | 5                   | 3                     | Ja   | 
+| P           | Datenbanken                                  | 3      | 5                   | 3                     | Ja   | 
+| P           | Statistik                                    | 3      | 5                   | 3                     |      | 
+| WP          | Konsumgütermarketing  Logistik               | 3      | 5                   | 3                     |      | 
+| 1 aus 2  WP | Investitionsgütermarketing und  Vertrieb     | 4      | 5                   | 4                     |      | 
+| 1 aus 2     | Produktionsmanagement  Projektmanagement     | 4      | 5                   | 4                     |      | 
+| P  P        | Fertigungstechnik 2                          | 4      | 5                   | 4                     | Ja   | 
+| P           | Grundlagen Verfahrenstechnik                 | 4      | 5                   | 4                     |      | 
+| P           | Elektrotechnik                               | 4      | 5                   | 4                     | Ja   | 
+| P           | Technisches Englisch                         | 4-5    | 4                   | 5                     | Ja   | 
+| WP          | Marktforschung                               |        |                     |                       |      | 
+| 1 aus 2     | Einkauf / SCM                                | 5      | 5                   | 5                     |      | 
+| WP          | Auslandsabsatz und -produktion               | 5      | 5                   | 5                     |      | 
+| 1 aus 2     | Controlling                                  |        |                     |                       |      | 
+| WP          | Fertigungsanlagen  Verfahrenstechnik 2       | 5      | 7                   |                       | Ja   | 
+| 1 aus 3     | Automatisierungstechnik                      |        |                     |                       | Ja   | 
+| P           | Wahlpflichtmodul 1 aus Katalog               | 2      |                     | 5                     |      | 
+| WP          | IT-Sicherheit 1  Mensch-Computer-Interaktion | 5      |                     | 5                     |      | 
+|             |                                              | 5      | 5                   | 5                     |      | 
+| 1 aus 3     | Webtechnologie 1                             |        |                     |                       |      |
+
+## Studiengang Wirtschaftsingenieurwesen
+ 
+| P/WP        | Modul                                       | Sem. | Leistungs- punkte   | MP zum  Ende des... | SL   | 
+|-------------|---------------------------------------------|--------|---------------------|-----------------------|------| 
+| P           | Sozialkompetenzen                           | 5      | 2                   | 5                     |      | 
+| P           | Strategische Planung                        | 6      | 5                   | 6                     |      | 
+| P           | Seminar Projektmanagement                   | 6      | 3                   | 6                     |      | 
+| WP          | Rechnersysteme und                          | 6      | 5                   | 6                     |      | 
+| 1 aus 3     | Rechnernetze                                |        |                     |                       |      | 
+| WP  1 aus 2 | Seminar Auslandsabsatz  Seminar Controlling | 6      | 3                   | 6                     |      | 
+| P           | Führung                                     | 6      | 5                   | 6                     |      | 
+| P           | Qualitätsmanagement                         | 6      | 5                   | 6                     |      | 
+| P           | Wahlpflichtmodul 2 aus Katalog              | 6      | 2                   | 6                     |      | 
+|             | Wahlpflichtmodul 3 aus Katalog              |        |                     | 6                     |      | 
+| P           |                                             | 6      | 2                   |                       |      | 
+| WP          | Auslandssemester                            | 6      | 30                  | 6                     |      |
+
+P=Pflichtmodul; SL=Studienleistung
+
+WP=Wahlpflichtmodul;
+
+Sem.=Semester;
+
+MP=Modulprüfung;
+
+## Anlage 2: Studienplan Wirtschaftsinformatik
+
+## Studiengang Wirtschaftsinformatik
+ 
+| P/WP         | Modul                                                           | Sem. | Leistungs- punkte   | MP zum  Ende  des... | SL   |
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 866
+
+Metadata: {'id': 12, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|--------------|-----------------------------------------------------------------|--------|---------------------|------------------------|------| 
+| P            | Grundlagen des Wirtschaftens                                    | 1      | 5                   | 1                      |      | 
+| P            | Externes Rechnungswesen                                         | 1      | 5                   | 1                      |      | 
+| P            | Grundlagen der  Wirtschaftsinformatik                           | 1      | 5                   | 1                      |      | 
+| P            | Grundlagen der Programmierung                                   | 1      | 5                   | 1                      |      | 
+| P            | Mathematik 1                                                    | 1      | 5                   | 1                      | Ja   | 
+| P            | Recht                                                           | 1-2    | 5                   | 2                      |      | 
+| P            | Business English                                                | 1-3    | 5                   | 3                      | Ja   | 
+| P            | Management der  Unternehmensprozesse                            | 2      | 5                   | 2                      |      | 
+|              |                                                                 |        |                     | 2                      |      | 
+| P            | Internes Rechnungswesen                                         | 2      | 5                   |                        |      | 
+| P            | Rechnersysteme und  Rechnernetze                                | 2      | 5                   | 2                      |      | 
+| P            | Algorithmik                                                     | 2      | 5                   | 2                      |      | 
+| P            | Elektrotechnik                                                  | 2      | 5                   | 2                      | Ja   | 
+| P            | Mathematik 2                                                    | 2      | 5                   | 2                      | Ja   | 
+| P            | Softwarepraktikum                                               | 3      | 5                   | 3                      |      | 
+| P            | Datenbanken                                                     | 3      | 5                   | 3                      | Ja   | 
+| P            | Grundlagen der Fertigungstechnik                                | 3      | 5                   | 3                      | Ja   | 
+| P            | Seminar BWL                                                     | 3      | 3                   | 3                      |      | 
+| P            | Statistik                                                       | 3      | 5                   | 3                      |      | 
+| P            | Unternehmensplanspiel                                           | 3      | 2                   | 3                      |      | 
+| WP   1 aus 2 | Konsumgütermarketing  Logistik                                  | 3      | 5                   | 3                      |      | 
+| P            | Grundlagen integrierter  Informationssysteme                    | 4      | 5                   | 4                      |      | 
+| P            | Software-Engineering                                            | 4      | 5                   | 4                      |      | 
+| WP   1 aus 2 | Investitionsgütermarketing und  Vertrieb  Produktionsmanagement | 4      | 5                   | 4                      |      | 
+| P            | Projektmanagement                                               | 4      | 5                   | 4                      |      | 
+| P            | Wahlpflichtmodul 1 aus Katalog                                  | 4      | 2                   | 4                      |      | 
+| P            | Sozialkompetenzen                                               | 4      | 2                   | 4                      |      | 
+| P            | Technisches Englisch                                            | 4-5    | 4                   | 5                      | Ja   | 
+|              | Marktforschung                                                  |        |                     |                        |      | 
+| WP   1 aus 3 | Einkauf / SCM                                                   | 5      | 5                   | 5                      |      | 
+| WP   1 aus 3 | Controlling                                                     |        |                     |                        |      | 
+| WP   2 aus 3 | Business Intelligence 1  Webtechnologie 1                       | 5      | 10                  | 5                      |      | 
+|              | IT-Sicherheit 1                                                 |        |                     |                        |      | 
+| P            | Mensch-Computer-Interaktion                                     | 5      | 5                   | 5                      |      | 
+| WP           | Fertigungsanlagen                                               |        |                     |                        |      | 
+| 1 aus 2      | Automatisierungstechnik                                         | 5      | 7                   | 5                      | Ja   |
+
+## Studiengang Wirtschaftsinformatik
+ 
+| P/WP                           | Modul   |   Sem. Leistungs- punkte | MP zum  Ende  des... | SL           |
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 276
+
+Metadata: {'id': 13, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|--------------------------------|---------|---------------------------|------------------------|--------------| 
+| Strategische Planung           | 6       |                         5 | 6                      | P            | 
+| Seminar Wirtschaftsinformatik  | 6       |                         3 | 6                      | P            | 
+| Business Intelligence 2        |         |                        10 |                        | WP   2 aus 3 | 
+| Webtechnologie 2               |         |                        10 | 6                      | 6            | 
+| IT-Sicherheit 2                |         |                        10 |                        | WP   2 aus 3 | 
+| Führung                        | 6       |                         5 | 6                      | P            | 
+| Qualitätsmanagement            | 6       |                         5 | 6                      | P            | 
+| Wahlpflichtmodul 2 aus Katalog | 6       |                         2 | 6                      | P            | 
+| Auslandssemester               | 6       |                        30 | 6                      | WP           |
+
+P=Pflichtmodul; SL=Studienleistung
+
+WP=Wahlpflichtmodul;
+
+Sem.=Semester;
+
+MP=Modulprüfung;
+
+## Anlage 3: Studienplan International Business Administration and Engineering
+
+## Studiengang International Business Administration and Engineering
+ 
+| P/WP         | Modul                                         | Sem. | Leistungs- punkte   | MP zum  Ende des... | SL   |
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 714
+
+Metadata: {'id': 14, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|--------------|-----------------------------------------------|--------|---------------------|-----------------------|------| 
+| P            | Grundlagen des Wirtschaftens                  | 1      | 5                   | 1                     |      | 
+| P            | Externes Rechnungswesen                       | 1      | 5                   | 1                     |      | 
+| P            | Technische Mechanik                           | 1      | 5                   | 1                     |      | 
+| P            | Grundlagen der Physik                         | 1      | 5                   | 1                     | Ja   | 
+| P            | Mathematik 1                                  | 1      | 5                   | 1                     | Ja   | 
+| P            | Recht                                         | 1-2    | 5                   | 2                     |      | 
+| P            | Business English                              | 1-3    | 5                   | 3                     | Ja   | 
+| P            | Management der  Unternehmensprozesse          | 2      | 5                   | 2                     |      | 
+| P            | Internes Rechnungswesen                       | 2      | 5                   | 2                     |      | 
+| P            | Grundlagen des Konstruierens                  | 2      | 5                   | 2                     |      | 
+| P            | Physik und Umwelt                             | 2      | 5                   | 2                     | Ja   | 
+| P            | Grundlagen der Informatik                     | 2      | 5                   | 2                     |      | 
+| P            | Mathematik 2                                  | 2      | 5                   | 2                     | Ja   | 
+| P            | Management Simulation                         | 3      | 2                   | 2                     |      | 
+| P            | Fertigungstechnik 1                           | 3      | 5                   | 3                     | Ja   | 
+| P            | Werkstoffwissenschaften                       | 3      | 5                   | 3                     | Ja   | 
+| P            | Datenbanken                                   | 3      | 5                   | 3                     | Ja   | 
+| P            | Statistik                                     | 3      | 5                   | 3                     |      | 
+| WP           | International Marketing                       |        |                     | 3                     |      | 
+| 1 aus 2      | Logistik                                      | 3      | 5                   |                       |      | 
+| WP   1 aus 2 | International Business  Produktionsmanagement | 4      | 5                   | 4                     |      | 
+| P            | Project Management                            | 4      | 5                   | 4                     |      | 
+| P            | Foreign Trade and Investment                  | 4      | 3                   | 4                     |      | 
+| P            | Grundlagen Verfahrenstechnik                  | 4      | 5                   | 4                     |      | 
+| P            | Elektrotechnik                                | 4      | 5                   | 4                     | Ja   | 
+| P            | English for Technical Purposes                | 4      | 5                   | 4                     | Ja   | 
+|              |                                               | 5      |                     |                       |      | 
+| P            | Auslandsstudienjahr                           | 6      | 60                  | 6                     |      |
+
+P=Pflichtmodul; SL=Studienleistung
+
+WP=Wahlpflichtmodul;
+
+Sem.=Semester;
+
+MP=Modulprüfung;
+
+## Anlage 4: Studienplan International Business Administration and Informatics
+
+## Studiengang International Business Administration and Informatics
+ 
+| P/WP                                          | Modul   | Sem. Leistungs- punkte   | MP zum  Ende  des... | SL           |
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 1206
+
+Metadata: {'id': 15, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf', 'hash': 'ff861463683837be653a2ba75af2198508491056a31928a7d092453a1ab59a09'}
+Text: 
+|-----------------------------------------------|---------|---------------------------|------------------------|--------------| 
+| Grundlagen des Wirtschaftens                  | 1       | 5                         | 1                      | P            | 
+| Externes Rechnungswesen                       | 1       | 5                         | 1                      | P            | 
+| Grundlagen der  Wirtschaftsinformatik         | 1       | 5                         | 1                      | P            | 
+| Grundlagen der Programmierung                 | 1       | 5                         | 1                      | P            | 
+| Mathematik 1                                  | 1       | 5                         | 1  Ja                  | P            | 
+| Recht                                         | 1-2     | 5                         | 2                      | P            | 
+| P  Business English                           | 1-3     | 5                         | 3                      | Ja           | 
+| Management der  Unternehmensprozesse          | 2       | 5                         | 2                      | P            | 
+| Internes Rechnungswesen                       | 2       | 5                         | 2                      | P            | 
+| Rechnersysteme und  Rechnernetze              | 2       | 5                         | 2                      | P            | 
+| Algorithmik                                   | 2       | 5                         | 2                      | P            | 
+| P  Elektrotechnik                             | 2       | 5                         | 2                      | Ja           | 
+| P  Mathematik 2                               | 2       | 5                         | 2                      | Ja           | 
+| Softwarepraktikum                             | 3       | 5                         | 3                      | P            | 
+| P  Datenbanken                                | 3       | 5                         | 3                      | Ja           | 
+| P  Grundlagen der Fertigungstechnik           | 3       | 5                         | 3                      | Ja           | 
+| Statistik                                     | 3       | 5                         | 3                      | P            | 
+| Management Simulation                         | 3       | 2                         | 3                      | P            | 
+| International Marketing                       |         |                           |                        | WP           | 
+| Logistik                                      | 3       | 5                         | 3                      | 1 aus 2      | 
+| Logistics in Integrated Systems               | 4       | 5                         | 4                      | P            | 
+| Software-Engineering                          | 4       | 5                         | 4                      | P            | 
+| Foreign Trade and Investment                  | 4       | 3                         | 4                      | P            | 
+| P  English for Technical Purposes             | 4       | 5                         | 4                      | Ja           | 
+| International Business  Produktionsmanagement | 4       | 5                         | 4                      | WP   1 aus 2 | 
+| Project Management                            | 4       | 5                         | 4                      | P            | 
+|                                               | 5       | 60                        |                        | P            | 
+| Auslandsstudienjahr                           | 6       |                           | 6                      |              |
+
+P=Pflichtmodul; SL=Studienleistung
+
+WP=Wahlpflichtmodul;
+
+Sem.=Semester;
+
+MP=Modulprüfung;
+
+## Anlage 5: Wahlpflichtmodule aus Katalog
+ 
+| P/WP                                                     | Leistungs- punkte   | Modul  SL   | 
+|----------------------------------------------------------|---------------------|-------------| 
+| Digitalisierung 1                                        | 2                   | WP          | 
+| Digitalisierung 2                                        | 2                   | WP          | 
+| Einkauf, Beschaffung &amp; Materialmanagement  (SAP® - R/3®) | 2                   | WP          | 
+| Produktionsplanung und -steuerung (SAP® -  R/3®)         | 2                   | WP          | 
+| Vertrieb und Distribution (SAP® - R/3®)                  | 2                   | WP          | 
+| Finanzbuchhaltung und Controlling (SAP® -  R/3®)         | 2                   | WP          | 
+| Mathematische Methoden in Finanzwirtschaft  und Technik  | 2                   | WP          | 
+| Sondergebiete BWL 1                                      | 2                   | WP          | 
+| Sondergebiete BWL 2                                      | 2                   | WP          | 
+| Internationales Unternehmensplanspiel                    | 2                   | WP          | 
+| WP  Internationale Unternehmensführung                   | 2                   |             | 
+| Entrepreneurship                                         | 2                   | WP          | 
+| Interkulturelle Handlungskompetenz                       | 2                   | WP          | 
+| Spezielle Verfahren der Umwelttechnik                    | 2                   | WP          | 
+| Energie und Umwelt                                       | 2                   | WP          | 
+| Sondergebiete Automatisierungstechnik                    | 2                   | WP          | 
+| Skizzieren und Freihandzeichnen                          |                     | WP          | 
+| Sondergebiete Ingenieurwissenschaften 1                  | 2  2                | WP          | 
+| Sondergebiete Ingenieurwissenschaften 2                  | 2                   | WP          | 
+| Kommunikation                                            | 2                   | WP          | 
+| Rhetorik                                                 | 2                   | WP          | 
+| Moderationstechnik                                       | 2                   | WP          | 
+| Sondergebiete Sprachen 1                                 | 2                   | WP          | 
+| WP  Sondergebiete Sprachen 2                             | 2                   | WP          | 
+| Französisch 1                                            | 2                   | WP          | 
+| Französisch 2                                            | 2                   | WP          | 
+| Spanisch 1                                               | 2                   |             | 
+| Spanisch 2                                               | 2                   | WP          | 
+| Sondergebiete Recht 1                                    | 2                   | WP          | 
+| Sondergebiete Recht 2                                    | 2                   | WP          | 
+| Sondergebiete Informatik 1                               | 2                   | WP          | 
+| Sondergebiete Informatik 2                               | 2                   | WP          |
+
+P=Pflichtmodul; SL=Studienleistung
+
+WP=Wahlpflichtmodul;
+
+Sem.=Semester;
+
+MP=Modulprüfung;
+

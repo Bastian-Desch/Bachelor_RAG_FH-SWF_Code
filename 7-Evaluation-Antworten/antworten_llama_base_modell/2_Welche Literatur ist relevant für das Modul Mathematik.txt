@@ -1,0 +1,9 @@
+Frage 2: Welche Literatur ist relevant für das Modul Mathematik?
+
+Antwort:
+Für das Modul "Mathematik" sind folgende Literatur empfohlen:
+
+- Skript Mathematik, J. Oberrath
+- Mathematik für Ingenieure und Naturwissenschaftler, Papula, Band 1 + 2, SpringerVieweg
+- Mathematik für Ingenieure und Naturwissenschaftler, Burg, Haff, Wille, Band 1, 2 + 3, Springer-Vieweg
+

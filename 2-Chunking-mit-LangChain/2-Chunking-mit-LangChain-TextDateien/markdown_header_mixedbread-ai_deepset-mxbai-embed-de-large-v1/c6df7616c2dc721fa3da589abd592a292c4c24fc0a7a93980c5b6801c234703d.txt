@@ -1,0 +1,944 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 80
+
+Metadata: {'Header 2': 'Fachprüfungsordnung', 'id': 4862, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Fachprüfungsordnung  
+für die Bachelorstudiengänge  
+Elektrotechnik  
+Elektrotechnik dual praxisintegrierend  
+und  
+Elektrotechnik dual ausbildungsintegrierend  
+an der Fachhochschule Südwestfalen  
+Standort Soest  
+vom 30. April 2020  
+in der Fassung der Änderungsordnung vom 26. November 2020, der 2. Änderungsordnung vom 4. Mai 2021 und der 3. Änderungsordnung vom 22. Februar 2023
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 46
+
+Metadata: {'Header 2': 'LESEFASSUNG', 'id': 4863, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## LESEFASSUNG  
+Rechtlich verbindlich sind ausschließlich die Fachprüfungsordnung und die zugehörigen Änderungsordnungen, so wie sie in den Amtlichen Bekanntmachungen der FH SWF veröffentlicht wurden.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 2
+
+Metadata: {'Header 2': 'Inhalt', 'id': 4864, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Inhalt
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 54
+
+Metadata: {'Header 2': 'Teil 1 Allgemeines', 'id': 4865, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 1 Allgemeines  
+- § 1 Geltungsbereich
+- § 2 Ziel des Studiums, Hochschulgrad
+- § 3 Spezielle Zugangsvoraussetzungen
+- § 4 Beginn, Dauer, Aufbau und Umfang des Studiums
+- § 5 Prüfungsausschuss
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 131
+
+Metadata: {'Header 2': 'Teil 2 Modulprüfungen und Studienleistungen', 'id': 4866, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 2 Modulprüfungen und Studienleistungen  
+- § 6 Umfang und Form der Modulprüfungen
+- § 7 Zulassung zu Modulprüfungen
+- § 8 Klausurarbeiten
+- § 9 Klausurarbeiten im Antwortwahlverfahren
+- § 10 Elektronisch gestützte Prüfungen
+- § 11 Mündliche Prüfungen
+- § 12 Hausarbeiten
+- § 13 Kombinationsprüfungen
+- § 14 Portfolio
+- § 15 Semesterbegleitende  Teilprüfungen
+- § 16 Projektarbeiten
+- § 17 Praxisphase im Bachelorstudiengang Elektrotechnik
+- § 17a Praxisphase in den dualen Bachelorstudiengängen
+- § 18 Praxisphase in der Studienoption Lehramt
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 35
+
+Metadata: {'Header 2': 'Teil 3 Das Studium', 'id': 4867, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 3 Das Studium  
+- § 19 Umfang der Bachelorarbeit
+- § 20 Zulassung zur Bachelorarbeit
+- § 21 Durchführung und Bewertung der Bachelorarbeit
+- § 22 Kolloquium
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 12
+
+Metadata: {'Header 2': 'Teil 4 Ergebnis der Abschlussprüfung', 'id': 4868, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 4 Ergebnis der Abschlussprüfung  
+- § 23 Zeugnis
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 147
+
+Metadata: {'Header 2': 'Teil 5 Schlussbestimmungen', 'id': 4869, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 5 Schlussbestimmungen  
+- § 24 Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung  
+2  
+- Anlage 1: Studienverlaufsplan Bachelorstudiengang Elektrotechnik
+- Anlage 2: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual praxisintegrierend
+- Anlage 3: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend
+- Anlage 4: Wahlpflichtmodul-Katalog Grundlagenstudium
+- Anlage 5: Wahlpflichtmodul-Katalog des anwendungsorientierten Vertiefungsstudiums
+- Anlage 6: Container für Wahlpflichtmodule des anwendungsorientierten Vertiefungsstudiums
+- Anlage 7: Vorgaben zum Praktikumsvertrag  
+3
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 1 Allgemeines', 'id': 4870, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 1 Allgemeines
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 92
+
+Metadata: {'Header 2': '§ 1 Geltungsbereich', 'id': 4871, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 1 Geltungsbereich  
+Diese Fachprüfungsordnung (FPO) gilt zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung für den Bachelorstudiengang Elektrotechnik, den Bachelorstudiengang Elektrotechnik dual praxisintegrierend und den Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend im Fachbereich Elektrische Energietechnik in Soest.
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 2', 'id': 4872, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 2
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 133
+
+Metadata: {'Header 2': 'Ziel des Studiums, Hochschulgrad', 'id': 4873, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Ziel des Studiums, Hochschulgrad  
+- (1) Neben den allgemeinen Studienzielen gemäß § 2 Absatz 1 RPO erwerben Studierende der Elektrotechnik mit der Studienoption Lehramt (Edu-Tech Net OWL) die Zugangsvoraussetzung  für  die  Aufnahme  eines  Masterstudiums  für  das  Lehramt  an Berufskollegs an der Universität Paderborn 1 .
+- (2) Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in allen drei Bachelorstudiengängen den akademischen Grad 'Bachelor of Engineering', kurz 'B.Eng.'.  
+§ 3
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 272
+
+Metadata: {'Header 2': 'Spezielle Zugangsvoraussetzungen', 'id': 4874, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Spezielle Zugangsvoraussetzungen  
+- (1) Neben  den allgemeinen Zugangsvoraussetzungen gemäß  §  3 RPO  müssen  die Studienbewerberinnen und Studienbewerber  den Nachweis  einer berufspraktischen Tätigkeit  (Praktikum)  erbringen.  Das  Praktikum  hat  eine  Länge  von  insgesamt  zwölf Wochen und ist spätestens bis zum Beginn des dritten Fachsemesters zu erbringen. Eine einschlägige Berufsausbildung wird angerechnet. Näheres zu Inhalt, Umfang  und Anrechnung regelt die Praktikumsordnung des Fachbereichs Elektrische Energietechnik für die Studiengänge.
+- (2) Für  den  Zugang  zum  Bachelorstudiengang  Elektrotechnik  dual  praxisintegrierend  ist außerdem der Nachweis über den Abschluss eines Praktikumsvertrages zu erbringen. In diesem müssen die in Anlage 7 genannten Vorgaben enthalten sein.
+- (3) Für den Zugang zum Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend ist außerdem der Nachweis über den Abschluss eines Ausbildungsvertrages nach Maßgabe des § 4 Absatz 6 zu erbringen.
+- (4) Für  den  Zugang  zum  Bachelorstudiengang  Elektrotechnik  dual  praxisintegrierend  sowie zum Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend ist außerdem der Nachweis über den Abschluss der von der Hochschule bereitgestellten Kooperationsvereinbarung zu erbringen.  
+4
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 4', 'id': 4875, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 4
+
+=== Chunk-Nr. 14 ===
+Anzahl Token in diesem Chunk: 999
+
+Metadata: {'Header 2': 'Beginn, Dauer, Aufbau und Umfang des Studiums', 'id': 4876, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Beginn, Dauer, Aufbau und Umfang des Studiums  
+- (1) Das Studium beginnt zum Wintersemester.
+- (2) Die Regelstudienzeit des Bachelorstudiengangs Elektrotechnik beträgt sieben Semester, die des Bachelorstudiengangs Elektrotechnik dual praxisintegrierend acht Semester und die des Bachelorstudiengangs Elektrotechnik dual ausbildungsintegrierend neun Semester.
+- (3) Der Leistungsumfang beträgt mindestens 210 Credits. Je nach Belegung der Wahlpflichtmodule darf sich der Leistungsumfang auf maximal 216 Credits belaufen.  Ein Credit entspricht einem studentischen Arbeitsaufwand von 30 Zeitstunden.
+- (4) Alle drei Studiengänge setzen sich aus dem Grundlagenstudium und dem anwendungsorientierten Vertiefungsstudium zusammen. Die Aufteilung ist im Folgenden dargestellt:  
+|                                                                  | Grundlagenstudium   | Anwendungsorientiertes  Vertiefungsstudium   |
+|------------------------------------------------------------------|---------------------|----------------------------------------------|
+| Bachelorstudiengang Elektrotechnik                               | Semester 1 bis 3    | Semester 4 bis 7                             |
+| Bachelorstudiengang Elektrotechnik  dual praxisintegrierend      | Semester 1 bis 3    | Semester 4 bis 8                             |
+| Bachelorstudiengang Elektrotechnik  dual ausbildungsintegrierend | Semester 1 bis 5    | Semester 6 bis 9                             |  
+- (5) Im Bachelorstudiengang Elektrotechnik dual praxisintegrierend absolvieren die Studierenden ein vierjähriges betriebliches Praktikum.
+- (6) Im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend müssen Ausbildungsberuf und Ausbildungsbetrieb in fachlicher Hinsicht zum gewählten Studiengang  passen.  Die  Feststellung,  ob  eine  solche  Entsprechung  vorliegt,  trifft  der Fachbereich. Die Berufsausbildung ist in der Regel bis zum Beginn des fünften Semesters mit der Prüfung vor der Industrie- und Handelskammer abzuschließen.
+- (7) In den Studiengängen ist folgender Erwerb von Credits in den Semestern vorgesehen:
+- a)  Im Bachelorstudiengang Elektrotechnik: 30 Credits pro Semester.
+- b)  Im Bachelorstudiengang Elektrotechnik dual praxisintegrierend: In  den  Semestern  1,  3  5  und  6  jeweils  25  Credits  pro  Semester, in den Semestern 2 und 4 jeweils 30 Credits pro Semester, im siebten Semester 15 Credits und im achten Semester 35 Credits.
+- c)  Im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend:
+- In den Semestern 1 und 8 jeweils 25 Credits pro Semester,
+- in den Semestern 2 und 5 jeweils 20 Credits pro Semester,
+- im dritten Semester 15 Credits,
+- im vierten Semester 10 Credits,
+- in den Semestern 6 und 7 jeweils 30 Credits pro Semester und im neunten Semester 35 Credits pro Semester.
+- (8) Die Studierenden haben im anwendungsorientierten Vertiefungsstudium die Wahl zwischen den zwei Studienrichtungen:
+- a)  Studienrichtung Elektrische Energietechnik  
+5  
+- b)  Studienrichtung Industrielle Informatik - Automatisierungstechnik  
+Die Festlegung der Studienrichtung erfolgt durch die erstmalige Beantragung der Zulassung zu einer studienrichtungsspezifischen Modulprüfung in einem Pflichtmodul. Details sind den Studienverlaufsplänen (Anlagen 1 bis 3) zu entnehmen.  
+- (9) Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind den Anlagen 1 bis 3 zu entnehmen. Die Kataloge, aus denen laut § 4 Absatz 4 RPO die  Wahlpflichtmodule  im  Umfang  von  mindestens  10  Credits  in  der  Studienrichtung Elektrische Energietechnik und im Umfang von mindestens 20 Credits in der Studienrichtung Industrielle Informatik  - Automatisierungstechnik zu wählen sind, sind in den Anlagen 4 bis 6 aufgeführt. Näheres zur Gliederung des Studiums sowie Details zu Art,  Umfang,  Inhalten  und  Prüfungsformen  der  Module  sind  den  Anlagen  und  dem Modulhandbuch zu entnehmen.
+- (10) Für  die  Wahlpflichtmodule  des  anwendungsorientierten  Vertiefungsstudiums  gilt,  dass grundsätzlich die studienrichtungsspezifischen Pflichtmodule des anwendungsorientierten Vertiefungsstudiums gemäß Anlage 1 bis 3 der jeweiligen nicht gewählten Studienrichtung als Wahlpflichtmodule gewählt werden können, soweit diese nicht auch Pflichtmodule in der gewählten  Studienrichtung  sind.  Sie  sind  in  Anlage  5  als  Wahlpflichtmodule  aufgeführt. Weitere  Wahlpflichtmodule  werden  unter  den  in  Anlage  6  aufgelisteten  Containern angeboten.
+- (11) In den Bachelorstudiengängen Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik  dual  ausbildungsintegrierend  gilt,  dass  maximal  zwei  Wahlpflichtmodule des  anwendungsorientierten  Vertiefungsstudiums  aus  den  nichttechnischen  Containern der Anlage 6 gewählt werden können.
+
+=== Chunk-Nr. 15 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 5', 'id': 4877, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 5
+
+=== Chunk-Nr. 16 ===
+Anzahl Token in diesem Chunk: 56
+
+Metadata: {'Header 2': 'Prüfungsausschuss', 'id': 4878, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Prüfungsausschuss  
+Bezugnehmend auf § 6 Absatz 3 RPO erfolgt die Wahl des vorsitzenden und des stellvertretend vorsitzenden Mitglieds des Prüfungsausschusses nicht durch den Prüfungsausschuss, sondern durch den Fachbereichsrat.
+
+=== Chunk-Nr. 17 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': 'Teil 2', 'id': 4879, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 2
+
+=== Chunk-Nr. 18 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 2': 'Modulprüfungen und Studienleistungen', 'id': 4880, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Modulprüfungen und Studienleistungen
+
+=== Chunk-Nr. 19 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 6', 'id': 4881, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 6
+
+=== Chunk-Nr. 20 ===
+Anzahl Token in diesem Chunk: 51
+
+Metadata: {'Header 2': 'Umfang und Form der Modulprüfungen', 'id': 4882, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Umfang und Form der Modulprüfungen  
+Eine Modulprüfung kann neben den in § 13 Absatz 1 RPO aufgezählten Formen ebenfalls in Form  eines  Portfolios  (§  14)  oder  semesterbegleitender  Teilprüfungen  (§  15)  durchgeführt werden.
+
+=== Chunk-Nr. 21 ===
+Anzahl Token in diesem Chunk: 593
+
+Metadata: {'Header 2': '§ 7 Zulassung zu Modulprüfungen', 'id': 4883, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 7 Zulassung zu Modulprüfungen  
+- (1) Die  zur  Beantragung  der  Zulassung  zu  Modulprüfungen  gemäß  §  14  Absatz  2  RPO  
+6  
+einzuhaltenden Fristen werden vom Prüfungsausschuss festgelegt.  
+- (2) Bei der Rücknahme des Antrags auf Zulassung zu einer Modulprüfung gemäß § 14 Absatz 5 RPO gelten folgende Fristen:
+- a) Bei  Modulprüfungen  in  Form  einer  Klausurarbeit  (§  8),  einer  Klausurarbeit  im Antwortwahlverfahren (§ 9), einer elektronisch gestützten Prüfung (§ 10) oder einer mündlichen  Prüfung  (§  11)  endet  die  Frist  eine  Woche  vor  dem  festgesetzten Prüfungstermin.
+- b) Bei  Modulprüfungen  in  Form  einer  Hausarbeit  (§  12),  einer  Kombinationsprüfung (§ 13), eines Portfolios (§ 14) oder semesterbegleitender Teilprüfungen (§ 15) endet diese Frist zwei Wochen nach Ablauf der Frist zur Antragstellung zwecks Zulassung. Bei einer Projektarbeit (§ 16) endet die Frist zur Abmeldung zwei Wochen nach der erfolgten Anmeldung.
+- (3)  Die Zulassung zu Modulprüfungen kann gemäß § 14 Absatz 7 RPO von der Erbringung von Vorleistungen (Studienleistungen) abhängig gemacht werden. In welchen Modulen solche Vorleistungen erbracht werden müssen, ist den Anlagen 1 bis 5 zu entnehmen.
+- (4)  Bezugnehmend auf § 14 Absatz 10 RPO müssen für die Zulassung zu Modulprüfungen des anwendungsorientierten Vertiefungsstudiums folgende Credits erreicht sein:
+- a) Bachelorstudiengang Elektrotechnik: Für die Zulassung zu den planmäßig im vierten Studiensemester  angebotenen  Modulprüfungen  in  Pflichtmodulen  müssen  in  den Modulprüfungen des Grundlagenstudiums mindestens 60 Credits erworben worden sein. Weiterhin gilt: Für die Zulassung zu den planmäßig ab dem  fünften Studiensemester angebotenen Modulprüfungen in Pflichtmodulen müssen in Modulprüfungen des Grundlagenstudiums mindestens 90 Credits erworben worden sein.
+- b) Bachelorstudiengang  Elektrotechnik  dual  praxisintegrierend:  Für  die  Zulassung  zu den planmäßig im vierten Studiensemester angebotenen Modulprüfungen in Pflichtmodulen müssen in den Modulprüfungen des Grundlagenstudiums mindestens 50 Credits erworben worden sein. Weiterhin gilt: Für die Zulassung zu den  planmäßig  ab  dem  fünften  Studiensemester  angebotenen  Modulprüfungen  in Pflichtmodulen müssen in Modulprüfungen des Grundlagenstudiums mindestens 80 Credits erworben worden sein.
+- c)  Im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend müssen für die Zulassung  zu  den  planmäßig  ab  dem  sechsten  Studiensemester  angebotenen Modulprüfungen in Pflichtmodulen alle Modulprüfungen der Pflichtmodule des ersten, zweiten,  dritten und  vierten  Semesters  mit  insgesamt  mindestens  65  Credits bestanden sein.
+
+=== Chunk-Nr. 22 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 8', 'id': 4884, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 8
+
+=== Chunk-Nr. 23 ===
+Anzahl Token in diesem Chunk: 238
+
+Metadata: {'Header 2': 'Klausurarbeiten', 'id': 4885, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Klausurarbeiten  
+- (1)  Die Bearbeitungsdauer  einer  Klausurarbeit  gemäß  §  17  RPO  beträgt  ein  bis  zwei Zeitstunden. Die konkrete Dauer der Prüfung gibt die Prüferin oder der Prüfer in der ersten Lehrveranstaltung in Textform bekannt.
+- (2) Die Möglichkeit der mündlichen Ergänzungsprüfung gemäß § 17 Absatz 4 RPO besteht in diesen Studiengängen. In Ergänzung zu den dortigen Regelungen gilt Folgendes:  
+7  
+- a)  Vor der Festsetzung der Note 'nicht ausreichend' nach der zweiten Wiederholung (dritter  Versuch)  einer  Modulprüfung  in  Form  einer  Klausurarbeit  kann  sich  die Kandidatin  oder  der  Kandidat  einer  mündlichen  Ergänzungsprüfung  unterziehen. Diese Regelung kann für höchstens drei Modulprüfungen in Anspruch genommen werden.
+- b)  Die  Ergänzungsprüfung  erstreckt  sich  auf  das  Themengebiet  der  letzten  nicht bestandenen  Klausurarbeit.  Im  Übrigen  gelten  die  Vorschriften  über  mündliche Prüfungen (§ 11) entsprechend.
+- c)  Die Ergänzungsprüfung ist innerhalb einer Woche nach Bekanntgabe des Klausurergebnisses der Wiederholungsprüfung über das Studierenden-Servicebüro schriftlich beim Prüfungsausschuss zu beantragen.
+
+=== Chunk-Nr. 24 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 9', 'id': 4886, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 9
+
+=== Chunk-Nr. 25 ===
+Anzahl Token in diesem Chunk: 68
+
+Metadata: {'Header 2': 'Klausurarbeiten im Antwortwahlverfahren', 'id': 4887, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Klausurarbeiten im Antwortwahlverfahren  
+- (1) Die  Bearbeitungsdauer  einer  Klausurarbeit  im  Antwortwahlverfahren  gemäß  §  18  RPO beträgt ein bis zwei Zeitstunden. Die konkrete Dauer der Prüfung gibt die Prüferin oder der Prüfer in der ersten Lehrveranstaltung in Textform bekannt.
+- (2) Darüber hinaus gilt § 8 Absatz 2 entsprechend.
+
+=== Chunk-Nr. 26 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 10', 'id': 4888, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 10
+
+=== Chunk-Nr. 27 ===
+Anzahl Token in diesem Chunk: 49
+
+Metadata: {'Header 2': 'Elektronisch gestützte Prüfungen', 'id': 4889, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Elektronisch gestützte Prüfungen  
+In Ergänzung zu § 19 RPO besteht bei elektronisch gestützten Prüfungen die Möglichkeit der mündlichen Ergänzungsprüfung gemäß § 17 Absatz 4 RPO. Es gilt § 8 Absatz 2 entsprechend.
+
+=== Chunk-Nr. 28 ===
+Anzahl Token in diesem Chunk: 31
+
+Metadata: {'Header 2': '§ 11 Mündliche Prüfungen', 'id': 4890, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 11 Mündliche Prüfungen  
+Eine mündliche Prüfung gemäß § 20 RPO dauert je Kandidatin oder Kandidat mindestens 20, maximal 45 Minuten.
+
+=== Chunk-Nr. 29 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 12', 'id': 4891, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 12
+
+=== Chunk-Nr. 30 ===
+Anzahl Token in diesem Chunk: 104
+
+Metadata: {'Header 2': 'Hausarbeiten', 'id': 4892, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Hausarbeiten  
+- (1) Eine Hausarbeit gemäß § 21 RPO hat in der Regel einen Textumfang von 15 bis 25 Seiten à 30 Zeilen (exklusive Abbildungen und Tabellen). Näheres gibt die Prüferin oder der Prüfer spätestens mit Ausgabe des Hausarbeitsthemas in Textform bekannt.
+- (2) Die Hausarbeit kann durch einen Fachvortrag mit einer Dauer von höchstens 45 Minuten ergänzt werden. Ob ein Fachvortrag verlangt wird, wird im Modulhandbuch geregelt.
+
+=== Chunk-Nr. 31 ===
+Anzahl Token in diesem Chunk: 110
+
+Metadata: {'Header 2': '§ 13 Kombinationsprüfungen', 'id': 4893, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 13 Kombinationsprüfungen  
+Welche Prüfungsform gemäß § 22 Absatz 1 RPO zusätzlich zur Hausarbeit verlangt wird, gibt die Prüferin oder der Prüfer in der ersten Lehrveranstaltung in Textform bekannt. Dies schließt  
+8  
+auch die Gewichtung der beiden Elemente der Kombinationsprüfung bei der Berechnung der Note der Modulprüfung mit ein. Die Prüferin oder der Prüfer kann dabei auch festlegen, ob zum Bestehen der Modulprüfung beide Elemente erfolgreich bestanden sein müssen oder ob ein Notenausgleich möglich ist.
+
+=== Chunk-Nr. 32 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 14', 'id': 4894, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 14
+
+=== Chunk-Nr. 33 ===
+Anzahl Token in diesem Chunk: 357
+
+Metadata: {'Header 2': 'Portfolio', 'id': 4895, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Portfolio  
+- (1) Ein Portfolio ist eine eigenständige Lernprozessdokumentation und -reflexion, die neben schriftlichen  Anteilen  auch  mündliche  Anteile  enthalten  kann.  Das  Portfolio  besteht  aus mehreren Einzelelementen, zum Beispiel Protokollen, Präsentationen, Fallstudien, konstruktiven Entwürfen oder Zeichnungen. Die Anzahl der Einzelelemente soll fünf nicht überschreiten.  Der  Gesamtumfang  der  schriftlichen  Elemente  hat  in  der  Regel  einen Umfang  von  15  bis  25  Seiten  à  30  Zeilen  (exklusive  Abbildungen  und  Tabellen).  Die Gesamtdauer der mündlichen Elemente umfasst 30 bis 120 Minuten.
+- (2) Die verbindliche Zusammensetzung, den Umfang und die Bewertungskriterien gemäß der in der Modulbeschreibung festgelegten Varianten des Portfolios gibt die Prüferin oder der Prüfer  in  der  ersten  Lehrveranstaltung  in  Textform  bekannt.  Das  schließt  auch  die Gewichtung der einzelnen Elemente des Portfolios für die Berechnung der Gesamtnote für das Modul mit ein. Die Prüferin oder der Prüfer kann dabei auch festlegen, ob zum Bestehen der Modulprüfung alle einzelnen Elemente erfolgreich bestanden sein müssen oder ob ein Notenausgleich möglich ist.
+- (3) Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit enthalten, wenn der als  Prüfungsleistung  zu  bewertende  Beitrag  der  einzelnen  Studierenden  auf  Grund  der Angabe  von  Abschnitten,  Seitenzahlen  oder  anderen  objektiven  Kriterien,  die  eine eindeutige  Abgrenzung  ermöglichen,  deutlich  unterscheidbar  und  bewertbar  ist  und  die Anforderungen nach Absatz 1 erfüllt.
+- (4) Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Ausarbeitung) orientiert sich an der Modullänge und darf ein Semester nicht überschreiten.
+
+=== Chunk-Nr. 34 ===
+Anzahl Token in diesem Chunk: 272
+
+Metadata: {'Header 2': '§ 15 Semesterbegleitende  Teilprüfungen', 'id': 4896, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 15 Semesterbegleitende  Teilprüfungen  
+- (1) Eine Modulprüfung kann in fachlich geeigneten Modulen in bis zu vier Teilprüfungen geteilt werden.  Diese  Teilprüfungen  werden  als  Klausurarbeiten  (§  8)  oder  Klausurarbeiten  im Antwortwahlverfahren (§ 9), elektronisch gestützte Prüfungen (§ 10) oder Hausarbeiten (§ 12), semesterbegleitend durchgeführt.
+- (2) Die  Gesamtzeit  aller  Teilprüfungen  dauert  je  Kandidatin  oder  Kandidat  mindestens  60, maximal 120 Minuten. Der Gesamtumfang aller Teilprüfungen in Form von schriftlichen Ausarbeitungen  hat  in  der  Regel  einen  Textumfang  von  15  bis  25  Seiten  à  30  Zeilen (exklusive Abbildungen und Tabellen).
+- (3) Die verbindliche Aufteilung, Art und Umfang der Teilprüfungen gibt die Prüferin oder der Prüfer  in  der  ersten  Lehrveranstaltung  in  Textform  bekannt.  Das  schließt  auch  die Gewichtung der einzelnen Teilprüfungen für die Berechnung der Gesamtnote für das Modul mit  ein.  Die  Prüferin  oder  der  Prüfer  kann  dabei  auch  festlegen,  ob  zum  Bestehen  der Modulprüfung alle einzelnen Teilprüfungen erfolgreich bestanden sein müssen oder ob ein Notenausgleich möglich ist.  
+9  
+- (4) Im  Übrigen  gelten  die  Regelungen  gemäß  §§  17  Absatz  1  bis  3,  18,  19  und  21  RPO entsprechend.
+
+=== Chunk-Nr. 35 ===
+Anzahl Token in diesem Chunk: 258
+
+Metadata: {'Header 2': '§ 16 Projektarbeiten', 'id': 4897, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 16 Projektarbeiten  
+- (1) Projektarbeiten gemäß § 23 RPO haben in der Regel einen Textumfang von 15 bis 25 Seiten à 30 Zeilen (exklusive Abbildungen und Tabellen). Näheres gibt die Prüferin oder der Prüfer spätestens mit Ausgabe des Projektthemas in Textform bekannt.
+- (2) Die Projektarbeit kann durch einen Fachvortrag mit einer Dauer von höchstens 45 Minuten ergänzt werden. Ob ein Fachvortrag verlangt wird, wird im Modulhandbuch geregelt.
+- (3) Eine Projektarbeit kann auch in Form einer Gruppenarbeit zugelassen werden, wenn der als  Prüfungsleistung  zu  bewertende  Beitrag  der  einzelnen  Studierenden  auf  Grund  der Angabe  von  Abschnitten,  Seitenzahlen  oder  anderen  objektiven  Kriterien,  die  eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist.
+- (4) Die Bearbeitungszeit der Projektarbeit gemäß § 23 Absatz 5 RPO beträgt höchstens zwölf Wochen.  Auf  einen  vor  Ablauf  der  Frist  gestellten  Antrag  der  Kandidatin  oder  des Kandidaten kann der Prüfungsausschuss eine Nachfrist der Bearbeitungszeit von bis zu zwei Wochen gewähren. Der Antrag muss schriftlich gestellt werden und eine Begründung enthalten. Die Betreuerin oder der Betreuer soll zu dem Antrag gehört werden.
+
+=== Chunk-Nr. 36 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 17', 'id': 4898, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 17
+
+=== Chunk-Nr. 37 ===
+Anzahl Token in diesem Chunk: 319
+
+Metadata: {'Header 2': 'Praxisphase im Bachelorstudiengang Elektrotechnik', 'id': 4899, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Praxisphase im Bachelorstudiengang Elektrotechnik  
+- (1) Bezugnehmend auf die Regelungen in § 25 RPO  sind die Studierenden des Bachelorstudiengangs Elektrotechnik verpflichtet, eine Praxisphase zu absolvieren. Diese dauert zwölf Wochen und wird planmäßig im 7. Fachsemester absolviert. Zur Praxisphase wird zugelassen, wer in den Modulprüfungen des Grundlagenstudiums und des anwendungsorientierten Vertiefungsstudiums insgesamt 160 Credits erworben hat.
+- (2) Die  Praxisphase  kann  von  allen  Professorinnen  und  Professoren  sowie  Lehrkräften  für besondere Aufgaben, die gemäß § 7 RPO zu Prüfenden bestellt werden können, betreut werden.
+- (3) Die Praxisphase wird nicht benotet. Für das erfolgreiche Ablegen der Praxisphase werden 15 Credits angerechnet.
+- (4) Die Praxisphase wird anerkannt, wenn
+- a)  ein Nachweis des Betriebes über die Mitarbeit der oder des Studierenden vorliegt,
+- b)  die  praktische  Tätigkeit  der  oder  des  Studierenden  dem  Zweck  der  Praxisphase entsprochen und die oder der Studierende die ihr oder ihm übertragenen Arbeiten zufriedenstellend ausgeführt hat; der Nachweis des Betriebs soll dabei berücksichtigt werden; und
+- c)  der  Abschlussbericht  über  Aufgabenstellung,  Durchführung  und  Ergebnisse  der Praxisphase spätestens vier Monate nach Ende derselben vorgelegt und anerkannt worden ist. Der Umfang des Abschlussberichts beträgt mindestens acht Seiten à 30  
+10  
+Zeilen (exklusive Abbildungen und Tabellen).  
+- (5) Studierende, deren Praxisphase nicht anerkannt worden ist, können die Ableistung einmal wiederholen.
+
+=== Chunk-Nr. 38 ===
+Anzahl Token in diesem Chunk: 4
+
+Metadata: {'Header 2': '§ 17a', 'id': 4900, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 17a
+
+=== Chunk-Nr. 39 ===
+Anzahl Token in diesem Chunk: 231
+
+Metadata: {'Header 2': 'Praxisphase in den dualen Bachelorstudiengängen', 'id': 4901, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Praxisphase in den dualen Bachelorstudiengängen  
+- (1) Studierende  des  Bachelorstudiengangs  Elektrotechnik  dual  praxisintegrierend  und  des Bachelorstudiengangs Elektrotechnik dual ausbildungsintegrierend absolvieren eine Praxisphase (§  25  RPO)  von  insgesamt  15 Wochen.  Ihnen  werden  die  Praxiszeiten  im Unternehmen ab dem dritten Semester semesterweise angerechnet, sodass die Gesamtzeit der Praxisphase sukzessive anwächst.
+- (2) In Abstimmung mit der Hochschule absolvieren die Studierenden Zeiten in unterschiedlichen unternehmensspezifischen Organisationseinheiten; mit fortschreitendem Studienverlauf wird auf diese Weise ein zunehmender ingenieurwissenschaftlicher Kompetenzaufbau erreicht.
+- (3) Die  einzelnen  Praxiszeiten  im  Unternehmen  werden  jeweils  mit  einem  Zwischenbericht abgeschlossen. Der Umfang eines Zwischenberichts beträgt mindestens zwei Seiten à 30 Zeilen  (exklusive  Abbildungen  und  Tabellen).  Die  Gesamtheit  der  Praxiszeiten  wird  mit einem  Abschlussbericht gemäß  §  17  Absatz  4 Buchstabe  c abgeschlossen. Die Praxisphase wird nicht benotet. Für den erfolgreichen Nachweis der gesamten Praxisphase werden 20 Credits angerechnet.
+
+=== Chunk-Nr. 40 ===
+Anzahl Token in diesem Chunk: 172
+
+Metadata: {'Header 2': '§ 18 Praxisphase in der Studienoption Lehramt', 'id': 4902, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 18 Praxisphase in der Studienoption Lehramt  
+- (1) Das Bachelorstudium mit der Studienoption Lehramt (Edu-Tech Net OWL) umfasst gemäß Anlage 4 ein bildungswissenschaftlich und/oder berufspädagogisch begleitetes Eignungsund Orientierungspraktikum von mindestens 25 Praktikumstagen während eines Schulhalbjahres,  die  möglichst  innerhalb  von  fünf Wochen  geleistet  werden  sollen.  Das Praktikum  dient  der  kritisch-analytischen  Auseinandersetzung  mit  der  Schulpraxis,  der Reflexion der Eignung für den Lehrerberuf und der Entwicklung einer professionsorientierten Perspektive für das weitere Studium.
+- (2) Die Studierenden dokumentieren und reflektieren den systematischen Aufbau berufsfeldbezogener Kompetenzen in der Praxisphase in einem Praktikumsbericht in Form einer Semesterarbeit.  
+11
+
+=== Chunk-Nr. 41 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 3 Das Studium', 'id': 4903, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 3 Das Studium
+
+=== Chunk-Nr. 42 ===
+Anzahl Token in diesem Chunk: 136
+
+Metadata: {'Header 2': '§ 19 Umfang der Bachelorarbeit', 'id': 4904, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 19 Umfang der Bachelorarbeit  
+- (1) Der Umfang der Bachelorarbeit gemäß § 28 Absatz 1 RPO beträgt etwa 65 Seiten à 30 Zeilen (exklusive Abbildungen und Tabellen).
+- (2) Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Bachelorarbeit) beträgt  mindestens  sechs  und  höchstens  neun Wochen.  Auf  einen  vor  Ablauf  der  Frist gestellten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss eine Nachfrist  der  Bearbeitungszeit  von  bis  zu  vier  Wochen  gewähren.  Der  Antrag  muss schriftlich gestellt werden und eine Begründung enthalten. Die Betreuerin oder der Betreuer soll zu dem Antrag gehört werden.
+
+=== Chunk-Nr. 43 ===
+Anzahl Token in diesem Chunk: 367
+
+Metadata: {'Header 2': '§ 20 Zulassung zur Bachelorarbeit', 'id': 4905, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 20 Zulassung zur Bachelorarbeit  
+- (1) Ergänzend zu § 29 Absatz 1 RPO kann zur Bachelorarbeit nur zugelassen werden, wer
+- a) im Bachelorstudiengang Elektrotechnik in den Modulen des Grundlagenstudiums mindestens 90 Credits,
+- in  den  Modulen  des  anwendungsorientierten  Vertiefungsstudiums  mindestens  90 Credits und in der Praxisphase 15 Credits
+- b) im Bachelorstudiengang Elektrotechnik dual praxisintegrierend in den Modulen des Grundlagenstudiums mindestens 80 Credits, in  den  Modulen  des  anwendungsorientierten  Vertiefungsstudiums  mindestens  95
+- Credits und in der Praxisphase 20 Credits
+- c)  im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend in den Modulen des Grundlagenstudiums mindestens 90 Credits, in  den  Modulen  des  anwendungsorientierten  Vertiefungsstudiums  mindestens  85
+- Credits und in der Praxisphase 20 Credits  
+erreicht hat.  
+- (2) Dem Antrag auf Zulassung zur Bachelorarbeit sind in Ergänzung zu § 29 Absatz 2 RPO folgende weitere Unterlagen beizufügen:
+- a) eine Erklärung darüber, welche Module gemäß § 4 Absatz 3 als Wahlpflichtmodule festgelegt werden  sobald mit einem Wahlpflichtmodul der Mindestwert (Anzahl der ( Credits) für die jeweilige Studienrichtung erreicht oder überschritten wurde, können keine weiteren Wahlpflichtmodule festgelegt werden),
+- b) eine Erklärung darüber, welche erfolgreich abgeschlossenen Zusatzmodule in das Abschlusszeugnis aufzunehmen sind und
+- c) eine Erklärung darüber, ob die Bachelorarbeit abweichend von § 30 Absatz 4 RPO in  englischer  Sprache  verfasst  wird.  Die  Zustimmung  der  Betreuerin  oder  des Betreuers ist beizufügen.  
+12  
+§ 21
+
+=== Chunk-Nr. 44 ===
+Anzahl Token in diesem Chunk: 269
+
+Metadata: {'Header 2': 'Durchführung und Bewertung der Bachelorarbeit', 'id': 4906, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Durchführung und Bewertung der Bachelorarbeit  
+- (1) Für Studierende der Studiengänge Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend gilt, dass die Bachelorarbeit grundsätzlich in einem Unternehmen durchzuführen ist. Wenn die Durchführung nicht in dem kooperierenden Unternehmen und auch nicht ersatzweise in einem anderen Unternehmen erfolgen kann, wird die Bachelorarbeit ausnahmsweise an der Fachhochschule Südwestfalen durchgeführt. Voraussetzung ist, dass die Gründe für ein Abweichen dem Antrag auf Zulassung zur Abschlussarbeit beigefügt werden.
+- (2) Die  Rückgabe  des  Themas  der  Bachelorarbeit  gemäß  §  30  Absatz  2  RPO  kann  nur innerhalb der ersten vier Wochen des Bearbeitungszeitraums ohne Angabe von Gründen erfolgen.
+- (3) Abweichend von § 30 Absatz 4 RPO kann die Bachelorarbeit auch in englischer Sprache verfasst werden. Die Wahl der Sprache ist mit dem Antrag auf Zulassung zur Bachelorarbeit (§ 20) anzugeben.
+- (4) Ergänzend zu § 30 Absatz 5 RPO muss unter den beiden Prüfenden, die die Bachelorarbeit bewerten, eine Professorin oder ein Professor des Fachbereichs Elektrische Energietechnik sein.
+- (5) Bezugnehmend auf § 30 Absatz 7 RPO werden durch das Bestehen der Bachelorarbeit zwölf Credits erworben.
+
+=== Chunk-Nr. 45 ===
+Anzahl Token in diesem Chunk: 198
+
+Metadata: {'Header 2': '§ 22 Kolloquium', 'id': 4907, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 22 Kolloquium  
+- (1) Ergänzend zu den Regelungen in § 31 Absatz 2 RPO kann zum Kolloquium nur zugelassen werden, wer in den Pflichtmodulen, den Wahlpflichtmodulen, in der Praxisphase und der Bachelorarbeit 207 Credits erreicht hat.
+- (2) Das Kolloquium wird gemäß § 31 Absatz 5 RPO als mündliche Prüfung (§ 11 in Verbindung mit § 20 RPO) mit einer Zeitdauer von mindestens 30 Minuten und maximal 45 Minuten durchgeführt.
+- (3) Bezugnehmend auf § 31 Absatz 6 RPO werden durch das Bestehen des Kolloquiums drei Credits erworben.
+- (4) Das  Kolloquium  kann  mit  Zustimmung  aller  Prüfungsbeteiligten  per  Videokonferenz durchgeführt werden. Sollten beide Prüfende der oder dem Studierenden per Videokonferenz zugeschaltet sein, muss sich zusätzlich eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer vor Ort bei der oder dem Studierenden befinden.  
+13
+
+=== Chunk-Nr. 46 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 2': 'Teil 4 Ergebnis der Abschlussprüfung', 'id': 4908, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 4 Ergebnis der Abschlussprüfung
+
+=== Chunk-Nr. 47 ===
+Anzahl Token in diesem Chunk: 81
+
+Metadata: {'Header 2': '§ 23 Zeugnis', 'id': 4909, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 23 Zeugnis  
+- (1) Ergänzend zu § 33 Absatz 1 RPO wird auf dem Zeugnis auch die gewählte Studienrichtung aufgeführt.
+- (2) Bei der Bildung der Gesamtnote  gemäß  §  33  Absatz  2  RPO  werden  folgende Notengewichte zugrunde gelegt:  
+Noten der Modulprüfungen 80%  
+Note der Bachelor-Thesis 16% Note des Kolloquiums 4%.
+
+=== Chunk-Nr. 48 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 5 Schlussbestimmungen', 'id': 4910, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Teil 5 Schlussbestimmungen
+
+=== Chunk-Nr. 49 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 24', 'id': 4911, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## § 24
+
+=== Chunk-Nr. 50 ===
+Anzahl Token in diesem Chunk: 596
+
+Metadata: {'Header 2': 'Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung', 'id': 4912, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung  
+- (1) Diese Fachprüfungsordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen  Bekanntmachung  der  Fachhochschule  Südwestfalen  -  Verkündungsblatt  der Fachhochschule Südwestfalen - veröffentlicht.
+- (2) Die Regelungen dieser Fachprüfungsordnung gelten erstmals für die Studierenden, die im Wintersemester 2020/2021 im ersten Fachsemester im Bachelorstudiengang Elektrotechnik,  im  Bachelorstudiengang  Elektrotechnik  dual  praxisintegrierend  oder  im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend eingeschrieben sind.
+- (3) Für den Studiengang gilt folgende Aufwuchsregelung:  
+| Modul    | Erstmaliges Angebot   | Modulprüfung zum Ende des   |
+|----------|-----------------------|-----------------------------|
+| Physik 1 | SS 2021               | SS 2021                     |
+| Physik 2 | WS 2021/2022          | WS 2021/2022                |  
+- (4) Für Studierende des Studiengangs Elektrotechnik, die ihr Studium vor Inkrafttreten dieser Fachprüfungsordnung  aufgenommen  haben,  findet  die  Bachelorprüfungsordnung  vom 23. April 2015 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt  der  Fachhochschule  Südwestfalen  -  vom  13.05.2015)  mit  folgender Maßgabe bis zum Ablauf des Wintersemesters 2024/2025 weiterhin Anwendung:  
+Die  jeweiligen  Prüfungen  gemäß  der  Prüfungsordnung  vom  23.  April  2015  können  im Prüfungszeitraum des nachfolgend aufgeführten Semesters letztmalig abgelegt werden:  
+- a) Prüfungen in Fächern des 1. Fachsemesters Wintersemester 2021/22
+- b) Prüfungen in Fächern des 2. Fachsemesters Sommersemester 2022
+- c) Prüfungen in Fächern des 3. Fachsemesters Wintersemester 2022/23
+- d) Prüfungen in Fächern des 4. Fachsemesters Sommersemester 2023
+- e) Prüfungen in Fächern des 5. Fachsemesters Wintersemester 2023/24  
+14  
+- f) Prüfungen in Fächern des 6. Fachsemesters Sommersemester 2024
+- g) Prüfungen in Fächern des 7. Fachsemesters Wintersemester 2024/25  
+Die  Bachelorprüfung  gemäß  der  Prüfungsordnung  vom  23.  April  2015  muss  bis  zum 28.02.2025 abgeschlossen sein.  
+Diese  Prüfungsordnung  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule Südwestfalen auf Grund des Beschlusses des Fachbereichsrates des Fachbereichs Elektrische Energietechnik vom 20. April 2020 erlassen.  
+Iserlohn, den 30. April 2020  
+Der Rektor der Fachhochschule Südwestfalen  
+Professor Dr. Claus Schuster  
+15
+
+=== Chunk-Nr. 51 ===
+Anzahl Token in diesem Chunk: 1372
+
+Metadata: {'Header 2': 'Anlage 1: Studienverlaufsplan Bachelorstudiengang Elektrotechnik (7 Semester)', 'id': 4913, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 1: Studienverlaufsplan Bachelorstudiengang Elektrotechnik (7 Semester)  
+| Module                                                          | Modul-  typ                                                  | SL                                                           | SWS                                                          | ECTS                                                         | P                                                            |
+|-----------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Grundlagenstudium (Semester 1 bis 3)                            | Grundlagenstudium (Semester 1 bis 3)                         | Grundlagenstudium (Semester 1 bis 3)                         | Grundlagenstudium (Semester 1 bis 3)                         | Grundlagenstudium (Semester 1 bis 3)                         | Grundlagenstudium (Semester 1 bis 3)                         |
+| Mathematik                                                      | PM                                                           |                                                              | 8                                                            | 10                                                           | 1                                                            |
+| Grundgebiete Elektrotechnik 1                                   | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Informatik                                                      | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| 1. Sem.                                                         |                                                              |                                                              |                                                              |                                                              | 1                                                            |
+| Wahlpflichtmodul                                                | WPM                                                          |                                                              |                                                              |                                                              |                                                              |
+| Summe Semester 1                                                |                                                              |                                                              |                                                              | 30                                                           | *                                                            |
+| Angewandte Mathematik 1                                         | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Grundgebiete Elektrotechnik 2                                   | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Physik 1                                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| 2. Sem.  Programmieren 1                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 1                                      | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 2                                                |                                                              |                                                              |                                                              | 30                                                           |                                                              |
+| Angewandte Mathematik 2                                         | PM                                                           | X                                                            | 5                                                            | 5                                                            | 1                                                            |
+| Grundgebiete Elektrotechnik 3                                   | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Physik 2                                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| 3. Sem.  Programmieren 2                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 2                                      | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Wahlpflichtmodul                                                | WPM                                                          |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 3                                                |                                                              |                                                              |                                                              | 30                                                           | *                                                            |
+| Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7)    | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 7) |
+| Regelungstechnik 1 (Voraussetzung: MP Angewandte  Mathematik 2) | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Automatisierungstechnik 1                                       | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Leistungselektronik                                             | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| 4. Sem.  Energieversorgung 1                                    | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 3                                      | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Elektrische Maschinen                                           | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 4                                                |                                                              |                                                              |                                                              | 30                                                           |                                                              |
+| Regelungstechnik  2                                             | PM                                                           | X                                                            | 5                                                            | 5                                                            | 1                                                            |
+| Technische Mechanik und Konstruktion                            | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| 5. Sem.  Pflichtmodul Studienrichtung                           | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Wahlpflichtmodul (nur Studienrichtung IIA)                      | WPM                                                          |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 5                                                |                                                              |                                                              |                                                              |                                                              | *                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              | 30                                                           | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              |                                                              |
+|                                                                 | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| 6. Sem.                                                         |                                                              |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                    |                                                              |                                                              |                                                              |                                                              |                                                              |
+| Wahlpflichtmodul                                                | WPM                                                          |                                                              |                                                              | 30                                                           | 1                                                            |
+| Wahlpflichtmodul (nur Studienrichtung IIA)                      | WPM                                                          |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 6                                                |                                                              |                                                              |                                                              |                                                              | *                                                            |
+| Bachelorarbeit                                                  |                                                              |                                                              | 0                                                            | 12                                                           |                                                              |
+| Kolloquium                                                      |                                                              |                                                              | 0                                                            | 3                                                            | 1                                                            |
+| 7. Sem.  Summe Semester 7                                       |                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                                 |                                                              |                                                              |                                                              | 30                                                           | *                                                            |  
+* Es werden Wahlpflichtmodule mit fünf, sechs und zehn Credits angeboten, sodass die Summe der Credits im Wahlpflichtbereich nach oben abweichen und der Abschluss sich in Summe auf 210 bis 216 Credits belaufen kann.  
+Dementsprechend kann die Anzahl der Wahlpflichtmodule variieren.  
+SL = Studienleistung; SWS = Semesterwochenstunden, ECTS = Credits; P = Prüfung  
+PM = Pflichtmodul PM StudR = Pflichtmodul der Studienrichtungen WPM = Wahlpflichtmodul MP = Modulprüfung
+
+=== Chunk-Nr. 52 ===
+Anzahl Token in diesem Chunk: 456
+
+Metadata: {'Header 2': 'Studienrichtungen und ihre Module', 'id': 4914, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Studienrichtungen und ihre Module  
+| Elektrische Energietechnik     | Elektrische Energietechnik   | Elektrische Energietechnik   | Elektrische Energietechnik   |
+|--------------------------------|------------------------------|------------------------------|------------------------------|
+| Module                         | SL                           |                              | SWS  ECTS                    |
+| Energieversorgung 2            | X                            | 6                            | 5                            |
+| Hochspannungstechnik  1        | X                            | 4                            | 5                            |
+| Elektrische Antriebe 1         | X                            | 6                            | 10                           |
+| Energieversorgung 3            | X                            | 6                            | 10                           |
+| Hochspannungstechnik  2        | X                            | 4                            |                              |
+|                                |                              |                              | 5                            |
+| Elektrische Antriebe 2         | X                            | 6                            | 5                            |
+| Energiepolitik und -wirtschaft |                              | 4                            | 5                            |  
+| Industrielle Informatik - Automatisierungstechnik   | Industrielle Informatik - Automatisierungstechnik   | Industrielle Informatik - Automatisierungstechnik   | Industrielle Informatik - Automatisierungstechnik   |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| Module                                              | SL                                                  | SWS                                                 | ECTS                                                |
+| Automatisierungstechnik 2                           | X                                                   | 4                                                   | 5                                                   |
+| Mikroprozessortechnik                               | X                                                   | 4                                                   | 5                                                   |
+| Messwerterfassung und -umformung 1                  | X                                                   | 4                                                   | 5                                                   |
+| Automatisierungstechnik 3                           |                                                     | 4                                                   | 5                                                   |
+| Industrielle Kommunikation                          |                                                     | 4                                                   | 5                                                   |
+|                                                     |                                                     |                                                     | 5                                                   |
+| Schaltungssimulation                                |                                                     | 4                                                   |                                                     |
+| Messwerterfassung und -umformung 2                  | X                                                   | 4                                                   | 5                                                   |  
+Ʃ SWS Studienrichtung  
+36  
+Ʃ SWS Studium  
+134  
+Ʃ SWS Studienrichtung  
+Ʃ SWS Studium  
+28  
+126
+
+=== Chunk-Nr. 53 ===
+Anzahl Token in diesem Chunk: 1396
+
+Metadata: {'Header 2': 'Anlage 2: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual praxisintegrierend (8 Semester)', 'id': 4915, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 2: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual praxisintegrierend (8 Semester)  
+| Module                                                                  | Modul- typ                                                   | SL                                                           |                                                              | SWS ECTS                                                     | P                                                            |
+|-------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Mathematik PM                                                           |                                                              |                                                              | 8                                                            | 10                                                           | 1                                                            |
+| Grundgebiete Elektrotechnik 1                                           | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Informatik 1. Sem.                                                      | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 1                                                        |                                                              |                                                              |                                                              | 25                                                           |                                                              |
+| Angewandte Mathematik 1                                                 |                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                                         | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Grundgebiete Elektrotechnik 2                                           | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Physik 1                                                                | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Programmieren 1 2. Sem.                                                 | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 1                                              | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 2                                                        |                                                              |                                                              |                                                              | 30                                                           |                                                              |
+| Angewandte Mathematik 2                                                 | PM                                                           | X                                                            | 5                                                            |                                                              | 1                                                            |
+| Grundgebiete Elektrotechnik 3                                           |                                                              |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Physik 2                                                                | PM                                                           |                                                              |                                                              | 5                                                            |                                                              |
+|                                                                         | PM                                                           |                                                              |                                                              | 5                                                            |                                                              |
+|                                                                         | PM                                                           | X X                                                          | 4                                                            |                                                              | 1                                                            |
+| Programmieren 2 3. Sem.                                                 |                                                              |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 2                                              | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 3                                                        |                                                              |                                                              |                                                              | 25                                                           |                                                              |
+| Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8)            | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8) | Anwendungsorientiertes Vertiefungsstudium (Semester 4 bis 8) |
+| Regelungstechnik 1 (Voraussetzung: MP Angewandte  Mathematik 2)         | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Automatisierungstechnik 1                                               | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Leistungselektronik                                                     | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Energieversorgung 1 4. Sem.                                             | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 3                                              | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Elektrische Maschinen                                                   | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 4                                                        |                                                              |                                                              |                                                              | 30                                                           |                                                              |
+| Regelungstechnik 2                                                      | PM                                                           | X                                                            | 5                                                            | 5                                                            | 1                                                            |
+| Pflichtmodul Studienrichtung                                            | PM StudR                                                     |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                            | PM StudR                                                     |                                                              |                                                              |                                                              | 1                                                            |
+| 5. Sem.                                                                 | PM StudR                                                     |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung Wahlpflichtmodul (nur Studienrichtung IIA) | WPM(V)                                                       |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 5                                                        |                                                              |                                                              |                                                              |                                                              |                                                              |
+|                                                                         |                                                              |                                                              |                                                              | 25                                                           |                                                              |
+| Pflichtmodul Studienrichtung                                            | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung Pflichtmodul Studienrichtung               | PMStudR PMStudR                                              |                                                              |                                                              |                                                              | 1                                                            |
+|                                                                         |                                                              |                                                              |                                                              |                                                              | 1 1                                                          |
+| Pflichtmodul Studienrichtung                                            | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Wahlpflichtmodul (nur Studienrichtung IIA) 6. Sem.                      |                                                              |                                                              |                                                              | 25                                                           |                                                              |
+| Summe Semester 6                                                        | WPM(V)                                                       |                                                              |                                                              |                                                              | *                                                            |
+| Technische Mechanik und Konstruktion                                    | PM WPM(G)                                                    |                                                              | 4                                                            | 5                                                            | 1 1                                                          |
+| Wahlpflichtmodul  Wahlpflichtmodul 7. Sem.                              | WPM(G)                                                       |                                                              |                                                              |                                                              |                                                              |
+|                                                                         |                                                              |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 7                                                        |                                                              |                                                              |                                                              | 15                                                           |                                                              |
+| Praxisphase  (dual)                                                     |                                                              |                                                              | 0                                                            | 20                                                           |                                                              |
+| Bachelorarbeit                                                          |                                                              |                                                              | 0                                                            | 12                                                           |                                                              |
+| Kolloquium 8. Sem.                                                      |                                                              |                                                              | 0                                                            | 3                                                            | 1                                                            |
+| Summe Semester 8                                                        |                                                              |                                                              | 94                                                           |                                                              |                                                              |
+|                                                                         |                                                              |                                                              |                                                              | 35                                                           | *                                                            |
+|                                                                         |                                                              |                                                              |                                                              | 210                                                          | 32                                                           |  
+* Es werden Wahlpflichtmodule mit fünf, sechs und zehn Credits angeboten, sodass die Summe der Credits im Wahlpflichtbereich nach oben abweichen und der Abschluss sich in Summe auf 210 bis 216 Credits belaufen kann.  
+Dementsprechend kann die Anzahl der Wahlpflichtmodule variieren.  
+SL = Studienleistung; SWS = Semesterwochenstunden, ECTS = Credits; P = Prüfung  
+PM = Pflichtmodul  
+WPM(G) =  Wahlpflichtmodul des Grundlagenstudiums  
+WPM(V) = Wahlpflichtmodul des anwendungsorientierten Vertiefungsstudiums PM StudR = Pflichtmodul der Studienrichtungen
+
+=== Chunk-Nr. 54 ===
+Anzahl Token in diesem Chunk: 433
+
+Metadata: {'Header 2': 'Studienrichtungen und ihre Module', 'id': 4916, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Studienrichtungen und ihre Module  
+| Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   | Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Module                            | SL                                | SWS                               | ECTS                              | Module                                                    | SL                                                        | SWS                                                       | ECTS                                                      |
+| Energieversorgung 2               | X                                 | 6                                 | 5                                 | Automatisierungstechnik 2                                 | X                                                         | 4                                                         | 5                                                         |
+| Hochspannungstechnik 1            | X                                 | 4                                 | 5                                 | Messwerterfassung und -umformung 1                        | X                                                         | 4                                                         | 5                                                         |
+| Elektrische Antriebe 1            | X                                 | 6                                 | 10                                | Mikroprozessortechnik                                     | X                                                         | 4                                                         | 5                                                         |
+| Energieversorgung 3               | X                                 | 6                                 | 10                                | Automatisierungstechnik 3                                 |                                                           | 4                                                         | 5                                                         |
+| Hochspannungstechnik 2            | X                                 | 4                                 | 5                                 | Industrielle Kommunikation                                |                                                           | 4                                                         | 5                                                         |
+| Elektrische Antriebe 2            | X                                 | 6                                 | 5                                 | Schaltungssimulation                                      |                                                           | 4                                                         | 5                                                         |
+| Energiepolitik und -wirtschaft    |                                   | 4                                 | 5                                 | Messwerterfassung und -umformung 2                        | X                                                         | 4                                                         | 5                                                         |  
+Ʃ SWS Studienrichtung  
+36  
+Ʃ SWS Studienrichtung  
+28
+
+=== Chunk-Nr. 55 ===
+Anzahl Token in diesem Chunk: 1411
+
+Metadata: {'Header 2': 'Anlage 3: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend (9 Semester)', 'id': 4917, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 3: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend (9 Semester)  
+| Module                                                          | Modul- typ                                                   | SL                                                           |                                                              | SWS ECTS                                                     | P                                                            |
+|-----------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Grundlagenstudium (Semester 1 bis 5)                            | Grundlagenstudium (Semester 1 bis 5)                         | Grundlagenstudium (Semester 1 bis 5)                         | Grundlagenstudium (Semester 1 bis 5)                         | Grundlagenstudium (Semester 1 bis 5)                         | Grundlagenstudium (Semester 1 bis 5)                         |
+| Mathematik                                                      | PM                                                           |                                                              | 8                                                            | 10                                                           | 1                                                            |
+| Grundgebiete Elektrotechnik 1                                   | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Wahlpflichtmodul 1. Sem.                                        | WPM(G)                                                       |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 1                                                |                                                              |                                                              |                                                              | 25                                                           |                                                              |
+| Angewandte Mathematik 1                                         | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Grundgebiete Elektrotechnik 2 2. Sem.                           | PM                                                           | X                                                            | 6                                                            | 10                                                           | 1                                                            |
+| Physik 1                                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 2                                                |                                                              |                                                              |                                                              | 20                                                           |                                                              |
+| Angewandte Mathematik 2                                         | PM                                                           | X                                                            | 5                                                            | 5                                                            | 1                                                            |
+| Physik 2                                                        | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Informatik 3. Sem.                                              | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 3                                                |                                                              |                                                              |                                                              | 15                                                           |                                                              |
+| Programmieren 1                                                 | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 1 4. Sem.                              | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+|                                                                 |                                                              |                                                              |                                                              | 10                                                           |                                                              |
+| Summe Semester 4                                                |                                                              |                                                              |                                                              |                                                              |                                                              |
+| Grundgebiete Elektrotechnik 3                                   | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Programmieren 2                                                 | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 2 5. Sem.                              | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Wahlpflichtmodul                                                | WPM(G)                                                       |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 5                                                |                                                              |                                                              |                                                              | 20                                                           | *                                                            |
+| Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9)    | Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9) | Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9) | Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9) | Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9) | Anwendungsorientiertes Vertiefungsstudium (Semester 6 bis 9) |
+| Regelungstechnik 1 (Voraussetzung: MP  Angewandte Mathematik 2) | PM                                                           | X                                                            | 6                                                            | 5                                                            | 1                                                            |
+| Automatisierungstechnik 1                                       | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Leistungselektronik 6. Sem.                                     | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Energieversorgung 1                                             | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Messtechnik / Elektronik 3                                      | PM                                                           | X                                                            | 4                                                            | 5                                                            | 1                                                            |
+| Elektrische Maschinen                                           | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Summe Semester 6                                                |                                                              |                                                              |                                                              | 30                                                           |                                                              |
+| Regelungstechnik 2                                              | PM                                                           | X                                                            | 5                                                            | 5                                                            | 1                                                            |
+| Technische Mechanik und Konstruktion                            | PM                                                           |                                                              | 4                                                            | 5                                                            | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung 7. Sem.                            | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Wahlpflichtmodul (nur Studienrichtung IIA)                      | WPM(V)                                                       |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 7                                                |                                                              |                                                              |                                                              | 30                                                           | *                                                            |
+| Pflichtmodul Studienrichtung Pflichtmodul Studienrichtung       | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+|                                                                 | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung 8. Sem.                            | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Pflichtmodul Studienrichtung                                    | PMStudR                                                      |                                                              |                                                              |                                                              | 1                                                            |
+| Wahlpflichtmodul (nur Studienrichtung IIA)                      |                                                              |                                                              |                                                              |                                                              | 1                                                            |
+| Summe Semester 8                                                | WPM(V)                                                       |                                                              |                                                              | 25                                                           |                                                              |
+|                                                                 |                                                              |                                                              | 0                                                            | 12                                                           | *                                                            |
+| Bachelorarbeit                                                  |                                                              |                                                              |                                                              |                                                              |                                                              |
+| Kolloquium 9. Sem.                                              |                                                              |                                                              | 0                                                            | 3                                                            | 1                                                            |
+| Summe Semester 9                                                |                                                              |                                                              |                                                              | 35                                                           | *                                                            |  
+- * Es  werden Wahlpflichtmodule mit fünf, sechs und zehn Credits angeboten,  
+sodass die Summe der Credits im Wahlpflichtbereich nach oben abweichen und der Abschluss sich in Summe auf 210 bis 216 Credits belaufen kann.  
+Dementsprechend kann die Anzahl der Wahlpflichtmodule variieren.  
+SL = Studienleistung; SWS = Semesterwochenstunden, ECTS = Credits; P = Prüfung  
+PM = Pflichtmodul  
+WPM(G) =  Wahlpflichtmodul des Grundlagenstudiums  
+WPM(V) = Wahlpflichtmodul des anwendungsorientierten Vertiefungsstudiums PM StudR = Pflichtmodul der Studienrichtungen
+
+=== Chunk-Nr. 56 ===
+Anzahl Token in diesem Chunk: 463
+
+Metadata: {'Header 2': 'Studienrichtungen und ihre Module', 'id': 4918, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Studienrichtungen und ihre Module  
+| Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   | Elektrische Energietechnik (EE)   |
+|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| Module                            | SL                                | SWS                               | ECTS                              |
+| Energieversorgung 2               | X                                 | 6                                 | 5                                 |
+| Hochspannungstechnik 1            | X                                 | 4                                 | 5                                 |
+| Elektrische Antriebe 1            | X                                 | 6                                 | 10                                |
+| Energieversorgung 3               |                                   |                                   |                                   |
+| Hochspannungstechnik 2            | X                                 | 6                                 | 10                                |
+|                                   | X                                 | 4                                 | 5                                 |
+| Elektrische Antriebe 2            | X                                 | 6                                 | 5                                 |
+| Energiepolitik und -wirtschaft    |                                   | 4                                 | 5                                 |  
+| Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   | Industrielle Informatik - Automatisierungstechnik (IIA)   |
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+| Module                                                    | SL                                                        | SWS                                                       | ECTS                                                      |
+| Automatisierungstechnik 2                                 | X                                                         | 4                                                         | 5                                                         |
+| Mikroprozessortechnik                                     | X                                                         | 4                                                         | 5                                                         |
+| Messwerterfassung und -umformung 1                        | X                                                         | 4                                                         | 5                                                         |
+| Automatisierungstechnik 3                                 |                                                           | 4                                                         | 5                                                         |
+| Industrielle Kommunikation                                |                                                           | 4                                                         | 5                                                         |
+| Schaltungssimulation                                      |                                                           | 4                                                         | 5                                                         |
+| Messwerterfassung und -umformung 2                        | X                                                         | 4                                                         | 5                                                         |  
+Ʃ SWS Studienrichtung  
+36  
+Ʃ SWS Studienrichtung  
+28
+
+=== Chunk-Nr. 57 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': 'Anlage 4:', 'id': 4919, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 4:
+
+=== Chunk-Nr. 58 ===
+Anzahl Token in diesem Chunk: 19
+
+Metadata: {'Header 2': 'Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik', 'id': 4920, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik
+
+=== Chunk-Nr. 59 ===
+Anzahl Token in diesem Chunk: 199
+
+Metadata: {'Header 2': 'Beide Studienrichtungen', 'id': 4921, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Beide Studienrichtungen  
+Elektrische Energietechnik (EE)  
+Industrielle Informatik -Automatisierungstechnik  
+(IIA)  
+| Modul                                             | SWS   | Sem.     | Studien-  leistung   | Credits   |
+|---------------------------------------------------|-------|----------|----------------------|-----------|
+| Berufliche Bildung als Forschungs- und Praxisfeld | 2     | 3        |                      | 4         |
+| Betriebswirtschaftslehre 1                        | 4     | 1 oder 3 |                      | 5         |
+| Technische Fremdsprache                           | 4     | 1 oder 3 |                      | 5         |
+| Grundlagen Unterricht und Praxis 2                |       |          |                      | 6         |
+| Teilmodul 1: Unterricht und allgemeine Didaktik   | 2     | 1-3      |                      |           |
+| Teilmodul 2: Diagnose und Förderung               | 2     | 1-3      |                      |           |
+
+=== Chunk-Nr. 60 ===
+Anzahl Token in diesem Chunk: 25
+
+Metadata: {'Header 2': 'Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik dual praxisintegrierend', 'id': 4922, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik dual praxisintegrierend
+
+=== Chunk-Nr. 61 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Beide Studienrichtungen', 'id': 4923, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Beide Studienrichtungen
+
+=== Chunk-Nr. 62 ===
+Anzahl Token in diesem Chunk: 198
+
+Metadata: {'Header 2': 'Elektrische Energietechnik    (EE)', 'id': 4924, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Elektrische Energietechnik    (EE)  
+Industrielle Informatik -Automatisierungstechnik    (IIA)  
+| Modul                                             | SWS   | Sem.     | Studien-  leistung   | Credits   |
+|---------------------------------------------------|-------|----------|----------------------|-----------|
+| Berufliche Bildung als Forschungs- und Praxisfeld | 2     | 6 oder 7 |                      | 4         |
+| Betriebswirtschaftslehre 1                        | 4     | 7        |                      | 5         |
+| Technische Fremdsprache                           | 4     | 7        |                      | 5         |
+| Grundlagen Unterricht und Praxis 2                |       |          |                      | 6         |
+| Teilmodul 1: Unterricht und allgemeine Didaktik   | 2     | 6 oder 7 |                      |           |
+| Teilmodul 2: Diagnose und Förderung               | 2     | 6 oder 7 |                      |           |  
+18
+
+=== Chunk-Nr. 63 ===
+Anzahl Token in diesem Chunk: 26
+
+Metadata: {'Header 2': 'Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend', 'id': 4925, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Wahlpflichtmodul-Katalog Grundlagenstudium für den Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend
+
+=== Chunk-Nr. 64 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Beide Studienrichtungen', 'id': 4926, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Beide Studienrichtungen
+
+=== Chunk-Nr. 65 ===
+Anzahl Token in diesem Chunk: 200
+
+Metadata: {'Header 2': 'Elektrische Energietechnik (EE)', 'id': 4927, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Elektrische Energietechnik (EE)  
+Industrielle Informatik -Automatisierungstechnik (IIA)  
+| Modul                                             | SWS   | Sem.     | Studien-  leistung   | Credits   |
+|---------------------------------------------------|-------|----------|----------------------|-----------|
+| Berufliche Bildung als Forschungs- und Praxisfeld | 2     | 5        |                      | 4         |
+| Betriebswirtschaftslehre 1                        | 4     | 1 oder 5 |                      | 5         |
+| Technische Fremdsprache                           | 4     | 1 oder 5 |                      | 5         |
+| Grundlagen Unterricht und Praxis 3                |       |          |                      | 6         |
+| Teilmodul 1: Unterricht und allgemeine Didaktik   | 2     | 1 oder 5 |                      |           |
+| Teilmodul 2: Diagnose und Förderung               | 2     | 1 oder 5 |                      |           |  
+19
+
+=== Chunk-Nr. 66 ===
+Anzahl Token in diesem Chunk: 4
+
+Metadata: {'Header 2': 'Anlage 5:', 'id': 4928, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 5:
+
+=== Chunk-Nr. 67 ===
+Anzahl Token in diesem Chunk: 603
+
+Metadata: {'Header 2': 'Wahlpflichtmodul-Katalog des anwendungsorientierten Vertiefungsstudiums', 'id': 4929, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Wahlpflichtmodul-Katalog des anwendungsorientierten Vertiefungsstudiums  
+Folgende Pflichtmodule in der Studienrichtung 'Elektrische Energietechnik' können von Studierenden der Studienrichtung 'Industrielle Informatik - Automatisierungstechnik' als Wahlpflichtmodule belegt werden:  
+| Modul                          |   SWS | Studienleistung   |   Credits |
+|--------------------------------|-------|-------------------|-----------|
+| Energieversorgung 2            |     6 | X                 |         5 |
+| Hochspannungstechnik 1         |     4 | X                 |         5 |
+| Elektrische Antriebe 1         |     6 | X                 |        10 |
+| Energieversorgung 3            |     6 | X                 |        10 |
+| Hochspannungstechnik 2         |     4 | X                 |         5 |
+| Elektrische Antriebe 2         |     6 | X                 |         5 |
+| Energiepolitik und -wirtschaft |     4 |                   |         5 |  
+Folgende Pflichtmodule in der Studienrichtung 'Industrielle Informatik - Automatisierungstechnik' können von Studierenden der Studienrichtung 'Elektrische Energietechnik' als Wahlpflichtmodule belegt werden:  
+| Modul                              |   SWS | Studienleistung   |   Credits |
+|------------------------------------|-------|-------------------|-----------|
+| Automatisierungstechnik  2         |     4 | X                 |         5 |
+| Mikroprozessortechnik              |     4 | X                 |         5 |
+| Messwerterfassung und -umformung 1 |     4 | X                 |         5 |
+| Automatisierungstechnik 3          |     4 |                   |         5 |
+| Industrielle Kommunikation         |     4 |                   |         5 |
+| Schaltungssimulation               |     4 |                   |         5 |
+| Messwerterfassung und -umformung 2 |     4 | X                 |         5 |  
+20  
+Folgende Wahlpflichtmodule werden im anwendungsorientierten Vertiefungsstudium in der Studienoption Lehramt angeboten:  
+| Wahlpflichtmodule Studienoption Lehramt  SWS                             |    | Prüfungsvorleistung                         | Credits   |
+|--------------------------------------------------------------------------|----|---------------------------------------------|-----------|
+| Eignungs- und Orientierungspraktikum                                     |    | TP  'Unterricht  und  allgemeine  Didaktik' | 5         |
+| Technikdidaktik 1 und 2 4                                                | 4  |                                             | 6         |
+| Teilmodul 1: Didaktische Grundlagen der  beruflichen Fachrichtungen      |    |                                             |           |
+| Teilmodul 2: Theorien, Modelle, Methoden und  Medien der Technikdidaktik |    |                                             |           |  
+21  
+Anlage 6:
+
+=== Chunk-Nr. 68 ===
+Anzahl Token in diesem Chunk: 241
+
+Metadata: {'Header 2': 'Container für Wahlpflichtmodule des anwendungsorientierten Vertiefungsstudiums', 'id': 4930, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Container für Wahlpflichtmodule des anwendungsorientierten Vertiefungsstudiums  
+| Container (technisch)                              | Container (nichttechnisch)           |
+|----------------------------------------------------|--------------------------------------|
+| Themen der Signal- und Systemtheorie               | Themen des Managements               |
+| Themen des Maschinellen Lernens                    | Themen des Produktionsmanagements    |
+| Elektronische Systeme                              | Themen der Fremdsprachenkompetenz    |
+| Themen der Hochspannungstechnik                    | Themen der Kommunikation             |
+| Themen der Informatik und des  Softwareengineering | Interdisziplinäre Themen             |
+| Themen der Anlagen- und Energietechnik             | Themen des Designs                   |
+| Themen der Automatisierungstechnik                 | Themen der Technischen Kommunikation |
+| Themen der Modellbildung und Simulation            |                                      |
+| Themen der Mathematik                              |                                      |
+| Themen der Naturwissenschaften                     |                                      |
+| Themen der Werkstofftechnik                        |                                      |
+| Themen der Fahrzeugtechnik                         |                                      |
+| Themen der Konstruktionstechnik                    |                                      |
+
+=== Chunk-Nr. 69 ===
+Anzahl Token in diesem Chunk: 74
+
+Metadata: {'Header 2': 'Erläuterung:', 'id': 4931, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Erläuterung:  
+Die Container werden mit konkreten Modulen befüllt. Ein Modul innerhalb eines Containers hat eine Wertigkeit von fünf Leistungspunkten und schließt mit einer Prüfung ab. Wenn ein Container mehrere Module enthält, kann der Container gemäß der Anzahl der enthaltenen Module mehrfach als Wahlpflichtmodul gewählt werden.  
+22
+
+=== Chunk-Nr. 70 ===
+Anzahl Token in diesem Chunk: 4
+
+Metadata: {'Header 2': 'Anlage 7:', 'id': 4932, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Anlage 7:
+
+=== Chunk-Nr. 71 ===
+Anzahl Token in diesem Chunk: 189
+
+Metadata: {'Header 2': 'Vorgaben für den Praktikumsvertrag, der für den Zugang zum Studiengang Elektrotechnik dual praxisintegrierend vorzulegen ist:', 'id': 4933, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf', 'hash': 'c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d'}
+Text: ## Vorgaben für den Praktikumsvertrag, der für den Zugang zum Studiengang Elektrotechnik dual praxisintegrierend vorzulegen ist:  
+Folgende Regelungen müssen Bestandteil des Praktikumsvertrages sein:  
+Innerhalb  der  ersten  zwei  Semester  ist  seitens  der  oder  des  Studierenden  die  für  alle Studierenden der Studiengänge Elektrotechnik verpflichtende berufspraktische Tätigkeit nach Maßgabe der Praktikumsordnung abzuleisten und durch den Betrieb zu bescheinigen.  
+Vom  dritten Semester an werden die Praxisphasen der oder des Studierenden im Unternehmen in unterschiedlichen unternehmensspezifischen Organisationseinheiten durchgeführt.  Die  Praxisphasen  werden  in  Abstimmung  mit  der  Hochschule  ausgestaltet. Hierbei werden Aufgaben und Einsatzgebiete der oder des Studierenden mit fortschreitendem Studienverlauf  entsprechend  dem  sich  aus  dem  Curriculum  ergebenden  Wissenszuwachs  
+gewählt.  
+Die Bachelorarbeit wird gemäß § 21 Absatz 1 im Unternehmen durchgeführt.  
+23
+

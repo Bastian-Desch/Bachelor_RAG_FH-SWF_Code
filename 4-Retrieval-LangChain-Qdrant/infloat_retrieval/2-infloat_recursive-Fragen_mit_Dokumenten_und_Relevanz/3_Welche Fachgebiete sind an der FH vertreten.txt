@@ -1,0 +1,589 @@
+ID: 3
+Frage: Welche Fachgebiete sind an der FH vertreten?
+
+Dokument 1 (Score: 0.83120590):
+Metadaten:
+  - id: 406
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: c2ff6e0d-ecd2-4933-8907-d48a49e09bfd
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Inhalte
+
+Im Mittelpunkt steht die Entwicklung und Anwendung betrieblicher Informationssysteme.
+
+Im Bereich der Entwicklung betrieblicher Informationssysteme wird der Software-Entwicklungsprozess vorgestellt sowie verschiedene Vorgehensmodelle erörtert. Die Phasen des Software-Entwicklungszyklus, die im Grenzbereich zwischen Fachabteilung und IT-Abteilung liegen, werden vertiefend behandelt. Beispiele hierfür sind die Formulierung von Anforderungen, funktionalem Design und Algorithmen sowie das Testen von Software.
+
+Im Bereich der Anwendung betrieblicher Informationssysteme wird ein Überblick über betriebliche
+
+Informationssysteme vermittelt sowie einige betriebliche Informationssysteme beispielhaft vorgestellt. Zentrales Beispiel sind ERP-Systeme, weitere Beispiele können aus den Bereichen Supply-Chain-Integration, Data Warehouse usw. kommen. Es bietet sich aber auch Raum, aktuelle Entwicklungen im Bereich betrieblicher Informationssysteme aufzunehmen. Einige Aspekte betrieblicher Informationssysteme werden anhand von Planspielen und Vorträgen von Unternehmensvertretern vertieft.
+
+In den Übungen simulieren die Studierenden ein Software-Entwicklungsprojekt. Bei der Bearbeitung einer Fallstudie steht das Sammeln von praktischen Erfahrungen in Kleingruppen im Vordergrund. Die Fallstudie umfasst die eigenständige Durchführung eines Software-Entwicklungsprojekts von dem Design der Anwendung in UML und die Aufstellung von Testfällen bis hin zur Vorführung der Anwendung anhand eines Prototypen und einer Abschlusspräsentation.
+
+Die in den Übungen eingesetzten Fallstudien sind Beispiele aus der aktuellen IT-Welt, die fast immer eine internationale Ausrichtung und Wirkung haben.
+
+## Lehrformen
+
+Vorlesung mit Einzel- und Gruppenarbeitsphasen, Erarbeitung von Beispielen im Plenum, Zusammenhangsentwicklung zu Themenwochen der FH, Planspiel, Vorträge von Unternehmensvertretern Übung: Erarbeitung einer Fallstudie im
+
+Team, Präsentation der Ergebnisse vor 'Unternehmensvertretern'
+
+Hinweis: Die Lehrveranstaltung kann gegebenenfalls auch in englischer Sprache durchgeführt werden!
+
+## Teilnahmevoraussetzungen
+
+Dokument 2 (Score: 0.82718410):
+Metadaten:
+  - id: 1375
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 48617ea1-31cc-481a-82e0-b42e26cfc31b
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Termine für Studieninteressierte
+
+Standort Meschede
+
+Fachgebiet
+
+FAQs
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3810135
+
+Dokument 3 (Score: 0.82166433):
+Metadaten:
+  - id: 2293
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 83ff60b5-ac6c-4df9-8721-1f75f5785d0b
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?
+
+- Zu den Studienmodellen
+
+## Unsere Standorte
+
+Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft.
+
+Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium ausmachen.
+
+Die Fachhochschule Südwestfalen wächst! An unserem jüngsten Standort in Lüdenscheid werden Studiengänge von Hagener und Iserlohner Fachbereichen angeboten.
+
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet.
+
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Landschaft zum Arbeiten und Lernen: Der Standort Soest.
+
+## Noch Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 1538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Die Allgemeine Studienberatung der FH Südwestfalen beruft sich auf das
+Beratungsverständnis der GIBeT, der Gesellschaft für Information, Beratung und Therapie an Hochschulen e.V.
+
+Hier finden Sie
+ weitere Ansprechpartner*innen.
+
+#####
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| montags, dienstags, donnerstags und freitags   | 9.00 - 16.00 Uhr    |
+|------------------------------------------------|---------------------|
+| mittwochs                                      | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+-
+
+Dokument 4 (Score: 0.81966770):
+Metadaten:
+  - id: 9
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/wirtschaftsinformatik__b_sc__1.php
+  - hash: 52d4e379d2abc0535448fc42b8962da89d850e7865654a3ea8a44648e2549a4a
+  - _id: 743b624a-67a1-402e-aef1-05531556f3e5
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Termine für Studieninteressierte
+
+Standort Hagen
+
+Fachgebiet
+
+Storys
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3805325
+
+Dokument 5 (Score: 0.81581340):
+Metadaten:
+  - id: 2286
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/index.php
+  - hash: 52edbb52dced546e0135dd3ab719525c5895a21c5a2d38566e746b17e7946f2b
+  - _id: 4c0f0b61-1a9a-4255-b8d8-fe5d8c65309d
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Wo Profs nicht nur deinen Namen kennen, sondern dir auch wirklich weiterhelfen.
+
+Studieren in Hagen, Iserlohn, Lüdenscheid, Meschede und Soest
+
+## Studieren an der Fachhochschule Südwestfalen
+
+## Noch unentschlossen?
+
+Schauen Sie sich unsere Fachgebiete an:
+
+- Agrarwirtschaft
+
+- Designmanagement und Produktentwicklung
+
+- Gesundheits- und Naturwissenschaften
+
+- Informatik und Digitalisierung
+
+- Pädagogik und Psychologie
+
+- Technik und Ingenieurwesen
+
+- Umwelt und Nachhaltigkeit
+
+- Wirtschaft und Recht
+
+## Sie wissen, was Sie wollen?
+
+Direkt zu den Studiengängen:
+
+## Gut informiert und bereits entschieden? Dann jetzt für einen Studiengang bewerben!
+
+Hinweis: Für manche Studiengänge gelten bestimmte Zugangsvoraussetzungen. Prüfen Sie diese bitte vor der Online-Bewerbung.
+
+## Aktuelle Events
+
+Die Agentur für Arbeit Meschede-Soest steht Studierenden und Studieninteressierten beratend zur Seite. Sie berät neben der Studienwahl auch über Studienwechsel oder dem Austritt aus dem Studium und bietet mögliche Alternativen an. Weitere Themen und Unterstützungsangebote gibt es zu Praktika, dem erstellen von Bewerbungsunterlagen und die Vermittlung in den Arbeitsmarkt.
+
+Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten.
+
+Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte des Fachbereichs Technische Betriebswirtschaft und des Fachbereichs Elektrotechnik und Informationstechnik in den besten Händen.
+
+Dokument 6 (Score: 0.81456214):
+Metadaten:
+  - id: 2398
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Iserlohn
+  - link: https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php
+  - hash: 93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16
+  - _id: 9b11879e-2301-4fdc-9e45-a1fe6dbae658
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+… Angewandte Biologie, …
+
+… Angewandte Künstliche Intelligenz, …
+
+… Produktentwicklung/Konstruktion, …
+
+… Fertigungstechnik, …
+
+… Life Science Engineering, …
+
+... Mechatronik und vieles mehr. Schauen Sie sich um!
+
+Anfahrt
+
+Termine und Aktuelles
+
+Stadt &amp; Umland
+
+Studienangebot
+
+### Paul Gruner
+
+„Ich bin zum Studieren hier, fertig. An der Fachhochschule fühle ich mich super wohl, super Professoren, super Bedingungen, alles super. Auch die City ist richtig schön, nur leider werden viel zu früh die Bürgersteige hochgeklappt."
+
+### Daniel Faust
+
+„Iserlohn? Bergig, waldig, hat was. Mit den Leuten in Kontakt zu kommen, ist schwierig. Das geht in Berlin, wo ich herkomme, schneller. Alles in allem ist der Iserlohner aber vielleicht freundlicher als der Berliner. Wenn man ihn dann mal kennt.“
+
+## Noch Fragen? Wir sind für Sie da!
+
+Frauenstuhlweg 31
+
+Postfach 2061
+
+Frauenstuhlweg 31
+
+Postfach 2061
+
+Frauenstuhlweg 31 
+
+58644 Iserlohn 
+
+Raum: H 113
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3462947
+
+Dokument 7 (Score: 0.81265140):
+Metadaten:
+  - id: 1083
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: f56f3ce8-572a-4691-a4d7-db4dba2d821d
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+Prüfungsorganisation
+
+Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede.
+
+Termine für Studieninteressierte
+
+Standort Meschede
+
+Fachgebiet
+
+FAQs / häufige Fragen
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3801802
+
+Dokument 8 (Score: 0.81223570):
+Metadaten:
+  - id: 2393
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php
+  - hash: 59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a
+  - _id: 86d8aec3-87b2-410e-ab7e-44059bed3689
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+### Fachbereich Elektrotechnik und Informationstechnik
+
+Mit Praxis zum Traumberuf - der Fachbereich Elektrotechnik und Informationstechnik begrüßt Sie.
+
+### Fachbibliothek Hagen
+
+Über 600 m², 47.000 Medien, 80 Arbeitsplätze, 2 Gruppenarbeitsräume – In der Fachbibliothek Hagen hat Wissen ein Zuhause.
+
+### Mensa "Snack it!"
+
+Vom ersten Kaffee des Tages bis zu einer großen Auswahl an warmen Mittagsgerichten - Willkommen im "Snack it"!
+
+## Jubiläumsfeier in Hagen
+
+Feier am 29.09.2024 in der Fachhochschule am Standort Hagen:
+
+200 Jahre anwendungsorientierte Bildung in Hagen +
+100 Jahre Verein der Freunde der Fachhochschule Südwestfalen in Hagen e.V.
+
+Bei der Feierstunde im Audimax ...
+
+... heizte das Queen-Cover Duo "Royal Squeeze Box" dem Publikum ein.
+
+Oberbürgermeister Erik O. Schulz (vierter v.l.) gemeinsam mit den Redner*innen und Akteur*innen von Hochschule und Förderverein.
+
+Im Innenhof der Fachhochschule kamen die Besucher*innen zusammen bei gutem Essen, Austausch, ...
+
+... Live-Musik und ...
+
+... einem Auftritt der Cheerleader der Basketballmannschaft Phoenix Hagen.
+
+Auch spannende Laborbesichtigungen für Groß ...
+
+... und Klein waren Teil der erfolgreichen Jubiläumsfeier!
+
+Bei der Show mit den beliebten Physikanten ...
+
+...wurde zum Mitmachen animiert ...
+
+... bis der Hörsaal Kopf stand!
+
+Anfahrt &amp; Lageplan
+
+Termine und Aktuelles
+
+Studienangebot
+
+Stadt &amp; Umland
+
+### Tobias Augustin
+
+„Die Professoren an der Fachhochschule Südwestfalen sind einfach Klasse. Fünf Minuten für eine spontane Frage haben sie eigentlich immer. Einige dürfte ich dafür vielleicht sogar nachts aus dem Bett klingeln."
+
+### Ariane Lauster
+
+Dokument 9 (Score: 0.81169180):
+Metadaten:
+  - id: 702
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 5f8e58ab-e3ec-4237-8bcb-b522d746305f
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+### Studienoption Lehramt Berufskolleg
+
+- Mehr Infos zur Studienoption Lehramt am Berufskolleg
+
+Prüfungsorganisation
+
+Hier finden Sie die Prüfungspläne für den Fachbereich Elektrotechnik und Informationstechnik in Hagen.
+
+Termine für Studieninteressierte
+
+Standort Hagen
+
+Fachgebiet
+
+Studium Flexibel
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806210
+
+Dokument 10 (Score: 0.81152797):
+Metadaten:
+  - id: 1132
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_ET_2019_12.2024.pdf
+  - hash: ac2444beb69a8fa5ec1c497ea7e400f790dc496958eff5bdbb7af430124757c4
+  - _id: 12664870-517c-43f3-9601-93a66f5108e8
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+| Radartechnik                                   |  116 |
+| Regelungstechnik 1                             |  118 |
+| Robotik                                        |  119 |
+| Sensorik und Automatisierung                   |  121 |
+| Sensorik und Signalverarbeitung                |  123 |
+| Signale und Systeme                            |  124 |
+| Software Engineering                           |  126 |
+| Sondergebiete der Automatisierungstechnik      |  128 |
+| Sondergebiete der digitalen Signalverarbeitung |  130 |
+| Sondergebiete der elektrischen Energietechnik  |  131 |
+| Sondergebiete der elektrischen Messtechnik     |  133 |
+| Sondergebiete der Elektrotechnik               |  134 |
+| Sondergebiete der Hochfrequenztechnik          |  135 |
+| Sondergebiete der Informatik 1                 |  137 |
+| Sondergebiete der Informatik 2                 |  138 |
+| Sondergebiete der Informationstechnik 1        |  139 |
+| Sondergebiete der Informationstechnik 2        |  140 |
+| Sondergebiete der Kommunikationstechnik 1      |  141 |
+| Sondergebiete der Kommunikationstechnik 2      |  143 |
+| Sondergebiete der Mechatronik 1                |  145 |
+

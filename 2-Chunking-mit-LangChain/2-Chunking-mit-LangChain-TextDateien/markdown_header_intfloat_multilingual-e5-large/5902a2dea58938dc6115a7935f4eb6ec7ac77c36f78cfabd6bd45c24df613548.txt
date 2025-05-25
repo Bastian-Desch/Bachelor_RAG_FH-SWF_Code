@@ -1,0 +1,345 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 27
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Soest', 'id': 4825, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: # Elektrotechnik B.Eng.  
+## Soest  
+1. Studienangebot
+2. Studiengänge
+3. Soest
+4. Elektrotechnik, B.Eng.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 282
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Bachelor-Studium Elektrotechnik', 'Header 3': 'Top Karriereaussichten! Der Bachelor of Engineering in Elektrotechnik bietet ein technisch fundiertes Studium in den zwei zukunftsträchtigen Studienrichtungen: Elektrische Energietechnik sowie Industrielle Informatik/Automatisierungstechnik. Für den Studiengang besteht keine Zulassungsbeschränkung, das bedeutet er ist NC-frei.', 'id': 4826, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Bachelor-Studium Elektrotechnik  
+### Top Karriereaussichten! Der Bachelor of Engineering in Elektrotechnik bietet ein technisch fundiertes Studium in den zwei zukunftsträchtigen Studienrichtungen: Elektrische Energietechnik sowie Industrielle Informatik/Automatisierungstechnik. Für den Studiengang besteht keine Zulassungsbeschränkung, das bedeutet er ist NC-frei.  
+Auf einen Blick  
+Was? Praxisorientiertes Studium mit Studienrichtung Elektrische Energietechnik oder Industrielle Informatik/Automatisierungstechnik  
+Für wen? Für alle mit Interesse an innovativen technischen Lösungen von der App bis hin zum E-Motor  
+Warum? Karriereperspektive in z.B. Luft- und Raumfahrttechnik, Medizintechnik, Umwelttechnik / Duales Modell möglich  
+Du hast diesen Studiengang bereits gespeichert!  
+Der Studiengang wurde erfolgreich gemerkt!  
+Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.  
+Bewerbungsfristen &amp; Studienstart-Termine  
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.  
+- Neugierig? Besuchen Sie unsere  Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 108
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'id': 4827, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Auf dieser Seite  
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Zielgruppe
+- Berufliche Perspektiven
+- Info-Video zum Studiengang
+- Studienaufbau / Verlaufsplan
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt  
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 40
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Zulassung: NC-frei', 'id': 4828, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Zulassung: NC-frei  
+Dieser Studiengang hat keine Zulassungsbeschränkung.
+Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit (Praktikum) gefordert.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 16
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienabschluss', 'id': 4829, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Studienabschluss  
+Bachelor of Engineering (B.Eng.)
+210 ECTS
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienmodell', 'id': 4830, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Studienmodell  
+Vollzeitstudium  
+weitere Studienmodelle wählbar:  
+dual ausbildungsintegrierend  
+dual praxisintegrierend
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 43
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienbeginn / -dauer', 'id': 4831, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Studienbeginn / -dauer  
+Beginn: zum Wintersemester (September)  
+Regelstudienzeit: 7 Semester / 3,5 Jahre
+8-semestrige und 9-semestrige Variante wählbar
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienort', 'id': 4832, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Studienort  
+Standort Soest
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 6
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Beiträge und Gebühren', 'id': 4833, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Beiträge und Gebühren
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 24
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Hauptunterrichtssprache', 'id': 4834, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Hauptunterrichtssprache  
+Deutsch
+(für internationale Bewerbende: Level DSH1 / TestDaf3)
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 14
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Vor Beginn des Studiums –', 'id': 4835, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Vor Beginn des Studiums –
+Voraussetzungen &amp; Bewerbungsverfahren
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 275
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Vor Beginn des Studiums –', 'Header 3': 'Voraussetzungen', 'id': 4836, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Voraussetzungen  
+Der Studiengang ist NC-frei, das heißt es besteht keine Zulassungsbeschränkung. Nachgewiesen werden müssen lediglich die folgenden Punkte*.  
+Die Qualifikation für das Studium wird durch ein Zeugnis der Fachhochschulreife, der Allgemeinen Hochschulreife (Abitur) oder durch eine als gleichwertig anerkannte Vorbildung nachgewiesen.  
+Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit gefordert. Der Nachweis über die Durchführung des Fachpraktikums wird spätestens bis zum Beginn des 3. Semesters erwartet. Das Fachpraktikum soll im Interesse der Studierenden in einem Unternehmen durchgeführt werden, das dem Bereich der gewählten Studienrichtung entspricht.  
+Einschlägige Ausbildungs- und Berufstätigkeiten können auf die praktische Tätigkeit angerechnet werden.  
+- Arbeiten an Computern, Netzwerken und elektronischen Geräten
+- Montage und Wartung von elektrotechnischen Maschinen, Anlagen und Geräten
+- Messen, Prüfen und Fehleranalyse von elektrotechnischen Systemen
+- Qualitätssicherungsmaßnahmen für Prozesse und Geräte
+- Steuer- und Regelungstechnik fachspezifischer Ausrichtung
+- Elektronik- und Baugruppenentwicklung
+- Betriebsorganisation und Arbeitsabläufe  
+Mehr Informationen zum Praktikum finden Sie in der
+aktuellen Praktikumsordnung.  
+*Rechtlich verbindlich sind ausschließlich die Angaben der
+jeweils gültigen Prüfungsordnung
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 141
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Vor Beginn des Studiums –', 'Header 3': 'Bewerbung und Einschreibung zum Wintersemester', 'id': 4837, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Bewerbung und Einschreibung zum Wintersemester  
+- Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen.
+- Bewerbung über das Bewerbungsportal
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Mehr Informationen zum Bewerbungsverfahren finden Sie hier  
+- Bewerbungsfrist: in der Regel Anfang März bis 15. Juli
+- Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 74
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Vor Beginn des Studiums –', 'Header 3': 'Bewerbung und Einschreibung zum Sommersemester', 'id': 4838, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Bewerbung und Einschreibung zum Sommersemester  
+Für Bachelorstudiengänge ist eine Bewerbung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der
+Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+
+=== Chunk-Nr. 14 ===
+Anzahl Token in diesem Chunk: 131
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'An wen richtet sich der Bachelor-Studiengang Elektrotechnik?', 'Header 3': 'Die Macht steckt unter dem Gehäuse', 'id': 4839, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## An wen richtet sich der Bachelor-Studiengang Elektrotechnik?  
+### Die Macht steckt unter dem Gehäuse  
+Elektrotechnik ist überall. Im kleinen Maßstab zu finden im Smartphone, in der elektrischen Zahnbürste oder im Auto. Im größeren Maßstab in technischen Geräten und Anlagen, in der Raum- und Luftfahrt oder in der Energietechnik. Ganz groß umspannen Hochspannungsleitungen und Kommunikationsnetze den gesamten Erdball. Ganz selbstverständlich funktioniert alles und dabei wird oft verkannt, dass der Erfolg von kleinsten elektronischen Bauelementen unter der sichtbaren Oberfläche abhängt.
+
+=== Chunk-Nr. 15 ===
+Anzahl Token in diesem Chunk: 96
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'An wen richtet sich der Bachelor-Studiengang Elektrotechnik?', 'Header 3': 'Zielgruppe', 'id': 4840, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Zielgruppe  
+Für alle, die technikbegeistert sind, technische Innovationen faszinierend finden und nachhaltig den exzellenten Forschungsstand vorantreiben sowie den Schutz von Klima und Umwelt unterstützen möchten, ist das Studium Elektrotechnik das Richtige. Der Studiengang vermittelt mathematisch-naturwissenschaftliche und technische Grundlagen. Mathe und Physik sind essentiell, durch das anwendungsorientierte Studium werden diese Fächer aber anschaulich erklärt und »studierbar«.
+
+=== Chunk-Nr. 16 ===
+Anzahl Token in diesem Chunk: 357
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Welche Berufsaussichten bietet das Studium Elektrotechnik?', 'id': 4841, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Welche Berufsaussichten bietet das Studium Elektrotechnik?  
+Radios löten war gestern – heute ist das Aufgabenspektrum viel komplexer und vielfältiger. Elektroingenieur*innen entwickeln neue Technologien für die Anforderungen unserer Zeit. Immer im Blick haben sie dabei die Optimierung von technischen Geräten und Verfahren, den ressourcenschonenden Umgang mit Energie und Rohstoffen sowie die Stabilität der Stromversorgung. Von großer Bedeutung wird auch zukünftig die Energietechnik in Verbindung mit der Automatisierungstechnik sein, denn eine sichere, zuverlässige, umweltschonende und preiswerte Energieversorgung ist eine der zentralen Säulen unserer Industriegesellschaft und die Sicherstellung einer weltweiten Energieversorgung wird zu einer Herausforderung der Zukunft.  
+- In der Forschung erarbeiten Elektroingenieurinnen und Elektroingenieure an Hochschulen und wissenschaftlichen Instituten mit wissenschaftlichen Methoden technische Grundlagen.
+- In großen Elektrounternehmen sind Elektroingenieur*innen in Forschung und Entwicklung, Konstruktion, Produktion und Qualitätssicherung tätig oder mit Anlagenprojektierung, Softwaretechnik, Vertrieb und Service befasst.
+- Projektingenieurinnen und -ingenieure, die aus Komponenten, Geräten und Baugruppen komplette Systeme und Anlagen anwenderspezifisch einschließlich Software zusammenstellen, gewinnen an Bedeutung.
+- Betriebsingenieur*innen sind bei Anwendern elektrotechnischer Anlagen tätig. Dort steuern sie technische Prozesse oder die Verteilung von Information / Energie mit Hilfe elektrotechnischer Anlagen oder Systeme.
+- Elektroingenieurinnen und -ingenieure sind selbstverständlich auch im Management und in Führungspositionen tätig.  
+Was macht ein Elektrotechnik-Studium an der Fachhochschule Südwestfalen in Soest aus?
+Antworten gibt's im Video.
+
+=== Chunk-Nr. 17 ===
+Anzahl Token in diesem Chunk: 117
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Wie ist Bachelor Elektrotechnik aufgebaut?', 'id': 4842, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Wie ist Bachelor Elektrotechnik aufgebaut?  
+Technologisch optimal ausgestattete Labore, innovative Forschungsschwerpunkte sowie eine intensive Betreuung durch Lehrende machen den Studienort Soest zu einem attraktiven Lernort. Forschung und Entwicklung auf den Gebieten regenerative Energien, Energieverteilung, Hochspannungstechnik, Elektronik, Sensorik und Bildverarbeitung sowie Antriebs- und Automatisierungstechnik mit einem hohen Anteil technischer Informatik fließen in die Lehre ein. Internationale Kooperationen ermöglichen Auslandspraktika und den Austausch von Studierenden und Lehrenden.
+
+=== Chunk-Nr. 18 ===
+Anzahl Token in diesem Chunk: 203
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Wie ist Bachelor Elektrotechnik aufgebaut?', 'Header 3': 'Inhalte des Studiums', 'id': 4843, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Inhalte des Studiums  
+- Elektrische Energietechnik
+- Industrielle Informatik/Automatisierungstechnik  
+Daraus ab leiten sich Module aus den Bereichen Energieverteilung, Hochspannungs- und Kabeltechnik, Energiewirtschaft bzw. Industrie 4.0, Machine Learning, Elektronik und Antriebe, Software Engineering und Embedded Systems. Für noch mehr Know-how können Studierende Wahlpflichtmodule wie Betriebswirtschaft, Managementmethoden oder Englisch belegen.  
+Im siebten Semester gehen Studierende in die Praxisphase, d.h. sie sammeln acht Wochen lang für den Beruf wertvolle praktische Erfahrungen in einem Unternehmen oder einer vergleichbaren Institution. Den Abschluss des Studiums bilden die praxisbezogene Bachelorarbeit sowie eine mündliche Prüfung, das Kolloquium.  
+Der Studiengang Elektrotechnik wird zusätzlich in einer 8-semestrigen Variante
+(dual praxisintegrierend) sowie in einer 9-semestrigen Variante
+(dual ausbildungsintegrierend) angeboten.
+
+=== Chunk-Nr. 19 ===
+Anzahl Token in diesem Chunk: 553
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Wie ist Bachelor Elektrotechnik aufgebaut?', 'Header 3': 'Qualifikationsziele', 'id': 4844, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Qualifikationsziele  
+Die Absolvent*innen des siebensemestrigen Präsenzstudiengangs Elektrotechnik B.Eng. sind in der Lage, eine Berufstätigkeit als Ingenieur*in in der Elektrotechnik aufzunehmen. Sie kennen die in der Elektrotechnik relevanten technisch-physikalischen Zusammenhänge und haben ein kritisches Verständnis der wichtigsten Theorien, Prinzipien und Methoden. Breites praxisorientiertes Wissen können sie branchenunabhängig zur Problemlösung anwenden. Ihre Kenntnisse entsprechen dem Stand der Fachliteratur und sind durch Praktika in Hochschule und Industrie gefestigt. Betriebswirtschaftliche Gesamtzusammenhänge und Unternehmensabläufe sind bekannt. Sie sind in der Lage, gelerntes Wissen auf neue Zusammenhänge zu übertragen und eigenständig zu vertiefen. Ihre Fähigkeit der Selbstorganisation und ihr Beherrschen von systematischen Hilfsmitteln, Normen, Richtlinien und rechnergestützten Werkzeugen ermöglicht ihnen, sachgerechte Lösungen zu entwickeln. Dabei können sie ökonomische und ökologische Aspekte einbeziehen.  
+Die Absolvent*innen können in interdisziplinären Teams zusammenarbeiten. Hier sind sie in der Lage, technische Gegebenheiten und Zusammenhänge so darzustellen, dass sie auch von Nichttechniker*innen verstanden und nachvollzogen werden können. Sie können fachbezogene Positionen gegenüber Dritten formulieren und argumentativ verteidigen. Dabei können sie geeignete Präsentationstechniken und Kommunikationsmethoden einsetzen. Im internationalen Umfeld wissen die Absolvent*innen um kulturelle Unterschiede und Besonderheiten; sie pflegen einen respektvollen Umgang.  
+Die Absolvent*innen der Studienrichtung Industrielle Informatik/ Automatisierungstechnik beherrschen die zentralen Prinzipien und Methoden zur Entwicklung automatisierungstechnischer Systeme und Anlagen. Sie sind in der Lage, bestehende Systeme hinsichtlich Weiterentwicklungs- und Optimierungspotenzial zu analysieren sowie Verbesserungen zu entwickeln und umzusetzen. Sie können neue Anlagen und Systemkomponenten unter Berücksichtigung zur Verfügung stehender Ressourcen bedarfsgerecht umsetzen.  
+Die Absolvent*innen der Studienrichtung Elektrische Energietechnik beherrschen die zentralen Prinzipien und Methoden für die Auslegung und Entwicklung von Systemen zur Energieerzeugung und -verteilung sowie zur effizienten Nutzung in verschiedensten Anwendungsbereichen. Sie können bestehende Systeme analysieren und Optimierungen vornehmen. Sie sind in der Lage, neue Systeme der Energietechnik zu konzipieren und umzusetzen, wobei sie Aspekte der Ressourcenoptimierung und der Nachhaltigkeit im Blick haben.
+
+=== Chunk-Nr. 20 ===
+Anzahl Token in diesem Chunk: 473
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Studienverlaufsplan Bachelor-Studiengang Elektrotechnik*', 'id': 4845, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Studienverlaufsplan Bachelor-Studiengang Elektrotechnik*  
+|                                                                                             |                                                                                                                                            |                                                                                                                                                                   |
+|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Semester                                                                                 | Mathematik, Grundgebiete Elektrotechnik 1, Informatik, 1 Wahlpflichtmodul                                                                  |                                                                                                                                                                   |
+| 2. Semester                                                                                 | Angewandte Mathematik 1, Grundgebiete Elektrotechnik 2, Physik 1, Programmieren 1, Messtechnik / Elektronik 1                              |                                                                                                                                                                   |
+| 3. Semester                                                                                 | Angewandte Mathematik 2, Grundgebiete Elektrotechnik 3, Physik 2, Programmieren 2, Messtechnik / Elektronik 2, 1 Wahlpflichtmodul          |                                                                                                                                                                   |
+|                                                                                             | Pflichtmodule Studienrichtung Elektrische Energietechnik                                                                                   | Pflichtmodule Studienrichtung Industrielle Informatik/Autom.                                                                                                      |
+| 4. Semester                                                                                 | Regelungstechnik 1, Automatisierungstechnik 1, Leistungselektronik, Energieversorgung 1, Messtechnik / Elektronik 3, Elektrische Maschinen | Regelungstechnik 1, Automatisierungstechnik 1, Leistungselektronik, Energieversorgung 1, Messtechnik / Elektronik 3, Elektrische Maschinen                        |
+| 5. Semester                                                                                 | Regelungstechnik 2, Technische Mechanik u. Konstruktion, Energieversorgung 2, Hochspannungstechnik 1, Elektrische Antriebe 1               | Regelungstechnik 2, Technische Mechanik u. Konstruktion, Automatisierungstechnik 2, Mikroprozessortechnik, Messwerterfassung und -umformung 1, 1 Wahlpflichtmodul |
+| 6. Semester                                                                                 | Energieversorgung 3, Hochspannungstechnik 2, Elektrische Antriebe 2, Energiepolitik und -wirtschaft, 1 Wahlpflichtmodul                    | Automatisierungstechnik 3, Industrielle Kommunikation, Schaltungssimulation, Messwerterfassung und -umformung 2, 2 Wahlpflichtmodule                              |
+| 7. Semester                                                                                 | Praxisphase, Bachelorarbeit, Kolloquium                                                                                                    | Praxisphase, Bachelorarbeit, Kolloquium                                                                                                                           |
+| *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung                                                |                                                                                                                                                                   |
+
+=== Chunk-Nr. 21 ===
+Anzahl Token in diesem Chunk: 9
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Studienverlaufsplan Bachelor-Studiengang Elektrotechnik*', 'Header 3': 'Legende zum Studienverlaufsplan', 'id': 4846, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Legende zum Studienverlaufsplan
+
+=== Chunk-Nr. 22 ===
+Anzahl Token in diesem Chunk: 177
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Infoveranstaltungen / Veranstaltungen zum Studienstart', 'id': 4847, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Infoveranstaltungen / Veranstaltungen zum Studienstart  
+- Di., 01.04.25, 17.30 Uhr  
+Es erwarten Sie Workshops, Vorträge, Infoveranstaltungen und vieles mehr. Kommen Sie mit uns in Gespräch!  
+Klärung von Begrifflichkeiten wie "praxisintegrierend" und "ausbildungsintegrierend" und Klärung individueller Fragen.  
+- Do., 17.04.25, 11:00 Uhr  
+- Sa., 14.06.25, 10.00 Uhr  
+Kurzvorstellung der Soester Studiengänge mit anschließender, persönlicher Beratung durch Professor*innen und Mitarbeitenden zu jedem Studiengang.  
+- Do, 26.06.2025 17.00 - 19.00 Uhr  
+Wir zeigen Ihnen einen Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können.  
+Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote.
+
+=== Chunk-Nr. 23 ===
+Anzahl Token in diesem Chunk: 42
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Weitere Informationen zum Bachelor-Studiengang Elektrotechnik', 'Header 3': 'Prüfungsordnungen, Modulhandbücher und Verlaufspläne', 'id': 4848, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik  
+### Prüfungsordnungen, Modulhandbücher und Verlaufspläne  
+- Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen
+
+=== Chunk-Nr. 24 ===
+Anzahl Token in diesem Chunk: 25
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Weitere Informationen zum Bachelor-Studiengang Elektrotechnik', 'Header 3': 'Weitere Studiengangsmodelle', 'id': 4849, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Weitere Studiengangsmodelle  
+- dual praxisintegrierend
+- dual ausbildungsintegrierend  
+studieren!
+
+=== Chunk-Nr. 25 ===
+Anzahl Token in diesem Chunk: 259
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Weitere Informationen zum Bachelor-Studiengang Elektrotechnik', 'Header 3': 'Möglichkeiten eines Master-Studiums', 'id': 4850, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Möglichkeiten eines Master-Studiums  
+- Elektrotechnik M.Eng.
+- Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium)
+- Advanced Engineering and Engineering Management M.Sc.
+- Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium)
+- Data Science M.Sc. (berufsbegleitend)
+- Digitale Technologien M.Eng.
+- Technik- und Unternehmensmanagement M.Eng. (berufsbegleitender weiterbildender Master-Verbundstudiengang)  
+Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung.  
+Bei Fragen unterstützt Sie die
+Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter.  
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+=== Chunk-Nr. 26 ===
+Anzahl Token in diesem Chunk: 59
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Weitere Informationen zum Bachelor-Studiengang Elektrotechnik', 'Header 3': 'Studienoption Lehramt Berufskolleg', 'id': 4851, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Studienoption Lehramt Berufskolleg  
+- Mehr Infos zur Studienoption Lehramt am Berufskolleg  
+Prüfungsorganisation  
+Hier finden Sie die Prüfungspläne für den Fachbereich Elektrische Energietechnik in Soest.  
+Termine für Studieninteressierte  
+Standort Soest  
+Fachgebiet  
+Duales Studium
+
+=== Chunk-Nr. 27 ===
+Anzahl Token in diesem Chunk: 78
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'id': 4852, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ## Fragen zum Studiengang oder zur Studienwahl?  
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.  
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich:
+Zum Beratungsangebot der Allgemeinen Studienberatung  
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+=== Chunk-Nr. 28 ===
+Anzahl Token in diesem Chunk: 70
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Infos zu Bewerbungsfristen? Abonnieren Sie unseren', 'id': 4853, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren
+Newsletter!  
+Sprechzeiten  
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 29 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 4854, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php', 'hash': '5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3808862
+

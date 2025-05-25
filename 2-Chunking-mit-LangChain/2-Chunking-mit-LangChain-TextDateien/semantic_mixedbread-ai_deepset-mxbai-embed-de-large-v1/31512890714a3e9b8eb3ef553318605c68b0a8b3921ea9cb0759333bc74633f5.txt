@@ -1,0 +1,34 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 756
+
+Metadata: {'id': 35, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/Nr._1106_vom_20.07.2021_-_Ausnahmeregelung_BPO_und_FPO_Wirtschaftsingenieurwesen_Wirtschaftsinformatik_IBAE_IBAI.pdf', 'hash': '31512890714a3e9b8eb3ef553318605c68b0a8b3921ea9cb0759333bc74633f5'}
+Text: ## Amtliche Bekanntmachung der Fachhochschule Südwestfalen
+
+- Verkündungsblatt der Fachhochschule Südwestfalen -
+
+Baarstraße 6, 58636 Iserlohn
+
+Nr. 1106                             Ausgabe und Tag der Veröffentlichung:   20.07.2021
+
+Ausnahmeregelung zu der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics und der Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics
+
+an der Fachhochschule Südwestfalen Standort Hagen
+
+vom 15. Juli 2021
+
+Der Wortlaut wird im Folgenden bekannt gegeben:
+
+Hinweis:
+
+Nach Ablauf eines Jahres nach Bekanntmachung dieser Ordnung können nur unter den Voraussetzungen des § 12 Absatz 5 Hochschulgesetz NRW Verletzungen von Verfahrens- oder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen Rechts der Hochschule geltend gemacht werden, ansonsten ist eine solche Rüge ausgeschlossen. Ausnahmeregelung zu der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics und der Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen
+
+vom 15. Juli 2021
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 1. Dezember 2020 (GV. NRW. S. 1110), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft der Fachhochschule Südwestfalen für die Durchführung der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen und Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Hagen und International Studies of Business Administration and Engineering und International Studies of Business Administration and Computer  Science  an  der  Fachhochschule  Südwestfalen,  Standort  Hagen  und  der  Staffordshire University  vom  13. November  2015  und  der  Fachprüfungsordnung  für  die  Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering  und  International  Business  Administration  and  Informatics  an  der  Fachhochschule Südwestfalen,  Standort  Hagen  vom  19. Juli  2018    aufgrund  der  Prävention  zur  Corona-Pandemie folgenden Beschluss gefasst:
+
+Der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft beschließt in Abänderung der Ausnahmeregelung zu den Bachelor- und Fachprüfungsordnungen der oben genannten Studiengänge vom 25. Juni 2020 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 25.06.2020), dass in Nummer 1 das Wort 'fünften' durch das Wort 'siebten' ersetzt wird. Diese Ausnahmeregelung wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. Sie  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule  Südwestfalen  auf  Grund  des Beschlusses des Fachbereichsrats des Fachbereichs Technische Betriebswirtschaft vom 8. Juli 2021 erlassen. Iserlohn, den 15. Juli 2021
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Prof. Dr. Claus Schuster
+

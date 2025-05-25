@@ -1,0 +1,143 @@
+ID: 7
+Frage: Wie sind Portfolioprüfungen im Bachelorstudiengang Elektrotechnik in Soest aufgebaut?
+
+Dokument 1 (Score: 0.85168374):
+Metadaten:
+  - id: 1176
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: a8b48ca0-403a-4bb2-8837-a7ce520ce7ef
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+(Praktikum) gefordert. ### Studienabschluss Bachelor of Engineering (B.Eng.) 210 ECTS ### Studienmodell Vollzeitstudium weitere Studienmodelle wählbar: dual ausbildungsintegrierend dual praxisintegrierend ### Studienbeginn / -dauer Beginn: zum Wintersemester (September) Regelstudienzeit: 7 Semester / 3,5 Jahre 8-semestrige und 9-semestrige Variante wählbar ### Studienort Standort Soest ### Beiträge und Gebühren ### Hauptunterrichtssprache Deutsch (für internationale Bewerbende: Level DSH1 / TestDaf3) ## Vor Beginn des Studiums – Voraussetzungen &amp; Bewerbungsverfahren ### Voraussetzungen Der Studiengang ist NC-frei, das heißt es besteht keine Zulassungsbeschränkung. Nachgewiesen werden müssen lediglich die folgenden Punkte*. Die Qualifikation für das Studium wird durch ein Zeugnis der Fachhochschulreife, der Allgemeinen Hochschulreife (Abitur) oder durch eine als gleichwertig anerkannte Vorbildung nachgewiesen. Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit gefordert. Der Nachweis über die Durchführung des Fachpraktikums wird spätestens bis zum Beginn des 3. Semesters erwartet. Das Fachpraktikum soll im Interesse der Studierenden in einem Unternehmen durchgeführt werden, das dem Bereich der gewählten Studienrichtung entspricht. Einschlägige Ausbildungs- und Berufstätigkeiten können auf die praktische Tätigkeit angerechnet werden. - Arbeiten an Computern, Netzwerken und elektronischen Geräten - Montage und Wartung von elektrotechnischen Maschinen, Anlagen und Geräten - Messen, Prüfen und Fehleranalyse von elektrotechnischen Systemen - Qualitätssicherungsmaßnahmen für Prozesse und Geräte - Steuer- und Regelungstechnik fachspezifischer Ausrichtung - Elektronik- und Baugruppenentwicklung - Betriebsorganisation und Arbeitsabläufe Mehr Informationen zum Praktikum finden Sie in der aktuellen Praktikumsordnung. *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung ### Bewerbung und Einschreibung zum Wintersemester - Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Bewerbung über das Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Mehr
+
+Dokument 2 (Score: 0.85034390):
+Metadaten:
+  - id: 1178
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: 000e3c76-d48e-44e0-bb95-2fed2ad9ec06
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+entwickeln neue Technologien für die Anforderungen unserer Zeit. Immer im Blick haben sie dabei die Optimierung von technischen Geräten und Verfahren, den ressourcenschonenden Umgang mit Energie und Rohstoffen sowie die Stabilität der Stromversorgung. Von großer Bedeutung wird auch zukünftig die Energietechnik in Verbindung mit der Automatisierungstechnik sein, denn eine sichere, zuverlässige, umweltschonende und preiswerte Energieversorgung ist eine der zentralen Säulen unserer Industriegesellschaft und die Sicherstellung einer weltweiten Energieversorgung wird zu einer Herausforderung der Zukunft. - In der Forschung erarbeiten Elektroingenieurinnen und Elektroingenieure an Hochschulen und wissenschaftlichen Instituten mit wissenschaftlichen Methoden technische Grundlagen. - In großen Elektrounternehmen sind Elektroingenieur*innen in Forschung und Entwicklung, Konstruktion, Produktion und Qualitätssicherung tätig oder mit Anlagenprojektierung, Softwaretechnik, Vertrieb und Service befasst. - Projektingenieurinnen und -ingenieure, die aus Komponenten, Geräten und Baugruppen komplette Systeme und Anlagen anwenderspezifisch einschließlich Software zusammenstellen, gewinnen an Bedeutung. - Betriebsingenieur*innen sind bei Anwendern elektrotechnischer Anlagen tätig. Dort steuern sie technische Prozesse oder die Verteilung von Information / Energie mit Hilfe elektrotechnischer Anlagen oder Systeme. - Elektroingenieurinnen und -ingenieure sind selbstverständlich auch im Management und in Führungspositionen tätig. Was macht ein Elektrotechnik-Studium an der Fachhochschule Südwestfalen in Soest aus? Antworten gibt's im Video. ## Wie ist Bachelor Elektrotechnik aufgebaut? Technologisch optimal ausgestattete Labore, innovative Forschungsschwerpunkte sowie eine intensive Betreuung durch Lehrende machen den Studienort Soest zu einem attraktiven Lernort. Forschung und Entwicklung auf den Gebieten regenerative Energien, Energieverteilung, Hochspannungstechnik, Elektronik, Sensorik und Bildverarbeitung sowie Antriebs- und Automatisierungstechnik mit einem hohen Anteil technischer Informatik fließen in die Lehre ein. Internationale Kooperationen ermöglichen Auslandspraktika und den Austausch von Studierenden und Lehrenden. ### Inhalte des Studiums - Elektrische Energietechnik - Industrielle Informatik/Automatisierungstechnik Daraus ab leiten sich Module aus den Bereichen Energieverteilung, Hochspannungs- und Kabeltechnik, Energiewirtschaft bzw. Industrie 4.0, Machine Learning, Elektronik und Antriebe, Software
+
+Dokument 3 (Score: 0.85024820):
+Metadaten:
+  - id: 1185
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf
+  - hash: c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d
+  - _id: 168ff102-9f17-42b5-bc65-28611f44dc7a
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+## Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen Standort Soest vom 30. April 2020 in der Fassung der Änderungsordnung vom 26. November 2020, der 2. Änderungsordnung vom 4. Mai 2021 und der 3. Änderungsordnung vom 22. Februar 2023 ## LESEFASSUNG Rechtlich verbindlich sind ausschließlich die Fachprüfungsordnung und die zugehörigen Änderungsordnungen, so wie sie in den Amtlichen Bekanntmachungen der FH SWF veröffentlicht wurden. ## Inhalt ## Teil 1 Allgemeines - § 1 Geltungsbereich - § 2 Ziel des Studiums, Hochschulgrad - § 3 Spezielle Zugangsvoraussetzungen - § 4 Beginn, Dauer, Aufbau und Umfang des Studiums - § 5 Prüfungsausschuss ## Teil 2 Modulprüfungen und Studienleistungen - § 6 Umfang und Form der Modulprüfungen - § 7 Zulassung zu Modulprüfungen - § 8 Klausurarbeiten - § 9 Klausurarbeiten im Antwortwahlverfahren - § 10 Elektronisch gestützte Prüfungen - § 11 Mündliche Prüfungen - § 12 Hausarbeiten - § 13 Kombinationsprüfungen - § 14 Portfolio - § 15 Semesterbegleitende Teilprüfungen - § 16 Projektarbeiten - § 17 Praxisphase im Bachelorstudiengang Elektrotechnik - § 17a Praxisphase in den dualen Bachelorstudiengängen - § 18 Praxisphase in der Studienoption Lehramt ## Teil 3 Das Studium - § 19 Umfang der Bachelorarbeit - § 20 Zulassung zur Bachelorarbeit - § 21 Durchführung und Bewertung der Bachelorarbeit - § 22 Kolloquium ## Teil 4 Ergebnis der Abschlussprüfung - § 23 Zeugnis ## Teil 5 Schlussbestimmungen - § 24 Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung 2 - Anlage 1: Studienverlaufsplan Bachelorstudiengang Elektrotechnik - Anlage 2: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual praxisintegrierend - Anlage 3: Studienverlaufsplan Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend - Anlage 4: Wahlpflichtmodul-Katalog Grundlagenstudium - Anlage 5: Wahlpflichtmodul-Katalog des anwendungsorientierten Vertiefungsstudiums - Anlage 6: Container für Wahlpflichtmodule des anwendungsorientierten Vertiefungsstudiums - Anlage 7:
+
+Dokument 4 (Score: 0.84760460):
+Metadaten:
+  - id: 1184
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php
+  - hash: 849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716
+  - _id: 44a482c8-19ce-47d7-ad12-38c240f0c235
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend ## Soest 1. Studienangebot 2. Studiengänge 3. Soest 4. Elektrotechnik, B.Eng. 5. Prüfungsordnungen # Prüfungsordnungen ## Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend ### Fachprüfungsordnung 2020 Lesefassung zur Fachprüfungsordnung vom 30. April 2020 (inkl. aller Änderungsordnungen) Fachprüfungsordnung vom 30. April 2020 FPO 2020: Ordnung zur Änderung der FPO (v. 26.11.2020) FPO 2020: Zweite Ordnung zur Änderung der FPO (v. 04.05.2021) FPO 2020: Dritte Ordnung zur Änderung der FPO (v. 22.02.2023) ### Praktikumsordnung* Praktikumsordnung vom 28. April 2022 ### Modulhandbücher* FPO 2020: Modulhandbuch FPO 2020: Modulhandbuch Wahlpflichtangebot im Wintersemester im Sommersemester Aktuelle Infos zum Angebot in diesem Semester finden Sie auf Moodle ### Verlaufspläne* FPO 2020: Studienverlaufsplan \_\_\_\_\_\_\_\_\_\_\_\_\_\_ *) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung. Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3810351
+
+Dokument 5 (Score: 0.84276830):
+Metadaten:
+  - id: 1254
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf
+  - hash: 26302c09bbe8d0ea4045e76eba80ec131257d9aadd1e954f2ac91cdf526af9cb
+  - _id: 03704a32-eb2b-435a-b499-e0d572ab0f81
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+## Modulhandbuch für die Bachelorstudiengänge Elektrotechnik (B.Eng.) Elektrotechnik dual praxisintegrierend (B.Eng.) Elektrotechnik dual ausbildungsintegrierend (B.Eng.) ## Fachprüfungsordnung 2020 Stand Sommersemester 2024 Fachbereich Elektrische Energietechnik Standort Soest Alle Angaben ohne Gewähr. Verbindlich ist die Fachprüfungsordnung mit Änderungsordnungen in ihren in den Amtlichen Bekanntmachungen der Fachhochschule Südwestfalen veröffentlichten Fassungen. Modulhandbuch Elektrotechnik FPO 2020 Stand 02/2024 2 Bachelorarbeit und Kolloquium Praxisphase im siebensemestrigen Studiengang Elektrotechnik Praxisphase in den dualen Studiengängen Elektrotechnik ## Pflichtmodule: Angewandte Mathematik 1 Angewandte Mathematik 2 Automatisierungstechnik 1 Elektrische Maschinen Energieversorgung 1 Grundgebiete Elektrotechnik 1 Grundgebiete Elektrotechnik 2 Grundgebiete Elektrotechnik 3 Informatik Leistungselektronik Mathematik Messtechnik / Elektronik 1 Messtechnik / Elektronik 2 Messtechnik / Elektronik 3 Physik 1 Physik 2 Programmieren 1 Programmieren 2 Regelungstechnik 1 Regelungstechnik 2 Technische Mechanik und Konstruktion ## Pflichtmodule Studienrichtung Elektrische Energietechnik: Elektrische Antriebe 1 Elektrische Antriebe 2 Energiepolitik und -wirtschaft Energieversorgung 2 Energieversorgung 3 Hochspannungstechnik 1 Hochspannungstechnik 2 ## Pflichtmodule Studienrichtung Industrielle Informatik - Automatisierungstechnik: Automatisierungstechnik 2 Automatisierungstechnik 3 Industrielle Kommunikation Messwerterfassung und -umformung 1 Messwerterfassung und -umformung 2 Mikroprozessortechnik Modulhandbuch Elektrotechnik FPO 2020 Stand 02/2024 3 Schaltungssimulation ## Wahlpflichtmodule laut Fachprüfungsordnung (die in Containern angebotenen Wahlpflichtmodule werden semesterweise gesondert veröffentlicht): Berufliche Bildung als Forschungs- und Praxisfeld Betriebswirtschaftslehre 1 Eignungs- und Orientierungspraktikum Grundlagen Unterricht und Praxis Technikdidaktik 1 (Teilmodul 1) Technikdidaktik 2 (Teilmodul 2) Technische Fremdsprache Modulhandbuch Elektrotechnik FPO 2020 Stand 02/2024 4 ## Bachelorarbeit und Kolloquium | | | | Pflichtmodul ( ) Pflichtmodul EE ( ) Pflichtmodul IIA ( ) Wahlpflichtmodul ( ) | | |--------
+
+Dokument 6 (Score: 0.84172916):
+Metadaten:
+  - id: 1186
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf
+  - hash: c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d
+  - _id: 6eb46d7d-7b29-460e-b4cd-d7b858897e9f
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+nstudium - Anlage 5: Wahlpflichtmodul-Katalog des anwendungsorientierten Vertiefungsstudiums - Anlage 6: Container für Wahlpflichtmodule des anwendungsorientierten Vertiefungsstudiums - Anlage 7: Vorgaben zum Praktikumsvertrag 3 ## Teil 1 Allgemeines ## § 1 Geltungsbereich Diese Fachprüfungsordnung (FPO) gilt zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung für den Bachelorstudiengang Elektrotechnik, den Bachelorstudiengang Elektrotechnik dual praxisintegrierend und den Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend im Fachbereich Elektrische Energietechnik in Soest. ## § 2 ## Ziel des Studiums, Hochschulgrad - (1) Neben den allgemeinen Studienzielen gemäß § 2 Absatz 1 RPO erwerben Studierende der Elektrotechnik mit der Studienoption Lehramt (Edu-Tech Net OWL) die Zugangsvoraussetzung für die Aufnahme eines Masterstudiums für das Lehramt an Berufskollegs an der Universität Paderborn 1. - (2) Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in allen drei Bachelorstudiengängen den akademischen Grad 'Bachelor of Engineering', kurz 'B.Eng.'. § 3 ## Spezielle Zugangsvoraussetzungen - (1) Neben den allgemeinen Zugangsvoraussetzungen gemäß § 3 RPO müssen die Studienbewerberinnen und Studienbewerber den Nachweis einer berufspraktischen Tätigkeit (Praktikum) erbringen. Das Praktikum hat eine Länge von insgesamt zwölf Wochen und ist spätestens bis zum Beginn des dritten Fachsemesters zu erbringen. Eine einschlägige Berufsausbildung wird angerechnet. Näheres zu Inhalt, Umfang und Anrechnung regelt die Praktikumsordnung des Fachbereichs Elektrische Energietechnik für die Studiengänge. - (2) Für den Zugang zum Bachelorstudiengang Elektrotechnik dual praxisintegrierend ist außerdem der Nachweis über den Abschluss eines Praktikumsvertrages zu erbringen. In diesem müssen die in Anlage 7 genannten Vorgaben enthalten sein. - (3) Für den Zugang zum Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend ist außerdem der Nachweis über den Abschluss eines Ausbildungsvertrages nach Maßgabe des § 4 Absatz 6
+
+Dokument 7 (Score: 0.84046847):
+Metadaten:
+  - id: 1175
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: db289f40-d8f2-4688-86fe-cb92dc5b7438
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Soest 1. Studienangebot 2. Studiengänge 3. Soest 4. Elektrotechnik, B.Eng. ## Bachelor-Studium Elektrotechnik ### Top Karriereaussichten! Der Bachelor of Engineering in Elektrotechnik bietet ein technisch fundiertes Studium in den zwei zukunftsträchtigen Studienrichtungen: Elektrische Energietechnik sowie Industrielle Informatik/Automatisierungstechnik. Für den Studiengang besteht keine Zulassungsbeschränkung, das bedeutet er ist NC-frei. Auf einen Blick Was? Praxisorientiertes Studium mit Studienrichtung Elektrische Energietechnik oder Industrielle Informatik/Automatisierungstechnik Für wen? Für alle mit Interesse an innovativen technischen Lösungen von der App bis hin zum E-Motor Warum? Karriereperspektive in z.B. Luft- und Raumfahrttechnik, Medizintechnik, Umwelttechnik / Duales Modell möglich Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse ## Auf dieser Seite - Der Studiengang im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Zielgruppe - Berufliche Perspektiven - Info-Video zum Studiengang - Studienaufbau / Verlaufsplan - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit (Praktikum) gefordert. ### Studienabschluss Bachelor of Engineering (B.Eng.) 210 ECTS ### Studienmodell Vollzeitstudium weitere Studienmodelle wählbar: dual ausbildungsintegrierend dual praxisintegr
+
+Dokument 8 (Score: 0.82652557):
+Metadaten:
+  - id: 1035
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf
+  - hash: 85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1
+  - _id: 1ab70232-c4cf-449c-80a3-8921a79f97f7
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+(3) Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit zulassen, wenn der als Prüfungsleistung zu bewertende Beitrag der einzelnen Studierenden auf Grund der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. - (4) Die Bearbeitungszeit (Zeitraum von der Ausgabe bis zur Abgabe der Ausarbeitung) orientiert sich an der Modullänge und darf ein Semester nicht überschreiten. - (5) Die Beurteilung eines Portfolios erfolgt auf Grund der schriftlichen Ausarbeitungen und der mündlichen Prüfungen, sofern solche im Portfolio enthalten sind. ## § 19 Praxisphase - (1) Bezugnehmend auf die Regelungen in § 25 RPO müssen Studierende der viersemestrigen Variante des Studiengangs Elektrotechnik eine Praxisphase absolvieren. Sie dauert in der Regel 22 Wochen und wird planmäßig im dritten Fachsemester des entsprechenden Masterstudiengangs absolviert. - (2) Zur Praxisphase wird auf Antrag zugelassen, wer in den Modulprüfungen der Anlagen 1 und 2 30 Credits erworben hat. Im Antrag müssen Zeitraum, Unternehmen bzw. Institution, die zu bearbeitende Thematik und die betreuende Professorin oder der betreuende Professor des Fachbereichs Ingenieur- und Wirtschaftswissenschaften der Fachhochschule Südwestfalen genannt werden. Über die Zulassung zum Praxisphase entscheidet der Prüfungsausschuss. Mit der Antragstellung erklärt die oder der Studierende verbindlich, dass sie oder er die Praxisphase absolvieren möchte. - (3) Die Praxisphase wird anerkannt, wenn - a) ein positives Zeugnis der Ausbildungsstätte über die Mitarbeit der oder des Studierenden vorliegt, - b) die oder der Studierende an den der Praxisphase zugeordneten Begleit- und Auswertungsveranstaltungen regelmäßig und erfolgreich teilgenommen hat, - c) die praktische Tätigkeit der oder des Studierenden dem Zweck der Praxisphase entsprochen und die oder der Studierende die ihr oder ihm übertragenen Arbeiten - zufriedenstellend ausgeführt hat; das Zeugnis der Ausbildungsstätte ist dabei zu berücksichtigen; und - d) der Abschlussbericht über Aufgabenstellung, Durchführung und Ergebnisse der Praxisphase spätestens drei Monate nach Ende desselben vorgelegt und anerkannt worden ist. - (4) Die Durchführung der Praxisphase stellt eine Studienleistung in der viersemestrigen Variante des Studien
+
+Dokument 9 (Score: 0.82496500):
+Metadaten:
+  - id: 1219
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/NR10821.pdf
+  - hash: 2569086da2b3eda79dc1d847a72c440504d7155d1281457e8912ec261cc4a9eb
+  - _id: f685d9fd-c59f-4026-93d4-f0aefd3594ee
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+## Amtliche Bekanntmachung der Fachhochschule Südwestfalen ## - Verkündungsblatt der Fachhochschule Südwestfalen - Baarstraße 6, 58636 Iserlohn Nr. 1082 Ausgabe und Tag der Veröffentlichung: 10.05.2021 ## Zweite Ordnung zur Änderung der Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest vom 4. Mai 2021 Der Wortlaut wird im Folgenden bekannt gegeben: ## Hinweis: Nach Ablauf eines Jahres nach Bekanntmachung dieser Ordnung können nur unter den Voraussetzungen des § 12 Absatz 5 Hochschulgesetz NRW Verletzungen von Verfahrens- oder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen Rechts der Hochschule geltend gemacht werden, ansonsten ist eine solche Rüge ausgeschlossen. 1 ## Zweite Ordnung ## zur Änderung der Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest vom 4. Mai 2021 Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 1. Dezember 2020 (GV. NRW. S. 1110) und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Elektrische Energietechnik der Fachhochschule Südwestfalen die folgende Ordnung erlassen: ## Artikel I Die Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest vom 30. April 2020 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen Verkündungsblatt der Fachhochschule Südwestfalen - vom 08.05.2020), zuletzt geändert durch Ordnung zur Änderung der Fachprüfungsordnung vom 26. November 2020 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen
+
+Dokument 10 (Score: 0.82468090):
+Metadaten:
+  - id: 861
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_ET_2019_12.2024.pdf
+  - hash: ac2444beb69a8fa5ec1c497ea7e400f790dc496958eff5bdbb7af430124757c4
+  - _id: 4cf594a1-f185-475f-a550-985642fb6f61
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+(6 CP) | Prüfungs-Nr. | Workload | Credits | Studiensemester | Häufigkeit des Angebotes | Dauer | |---------------------|---------------------|-----------------------------------|-----------------------------------|----------------------------|-----------------------| | 910, -1, -2, -3 | 180 | 6 | 6 | SoSe; WiSe | 1 | | Lehrveranstaltungen | Lehrveranstaltungen | Kontaktzeit (SWS) Kontaktzeit (h) | Kontaktzeit (SWS) Kontaktzeit (h) | Selbststudium | geplante Gruppengröße | | | | 0 | 0 | 180 | - | ## Lernergebnisse Die Projektarbeit dient der Erlangung der Fähigkeit zur eigenständigen, erfolgreichen Bearbeitung einer praxisrelevanten wissenschaftlichtechnischen Fragestellung. Zudem werden überfachliche Kompetenzen sowie Schlüssel- und Methodenkompetenzen ausgebildet und trainiert. Der Kandidatin oder der Kandidat ist befähigt, innerhalb einer vorgegebenen Frist eine praxisorientierte Aufgabe aus dem Bereich der Elektrotechnik selbstständig mit den in der Anwendung erprobten wissenschaftlichen und fachpraktischen Methoden zu bearbeiten und in fachübergreifende Zusammenhänge zu stellen. Die Projektarbeit dient zur Vorbereitung auf die Bachelorarbeit. ## Inhalte Vorzugsweise anwendungsorientierte und damit berufsfeldorientierte Fragestellungen aus dem Gesamtbereich der im Studium vermittelten Wissensgebiete (auch in Zusammenarbeit mit einem Unternehmen oder einer Forschungs- bzw. Entwicklungsinstitution). Die Projektarbeit ist entweder eine eigenständige Untersuchung oder betrachtet ein bekanntes Thema unter neuen Aspekten. ## Lehrformen Eigenständige Literaturstudien, eigene experimentelle Arbeiten und Untersuchungen, persönliche Beratung durch den/die beteiligte(n) Professor(in) den/die beteiligte(n) Professor(in) ## Teilnahmevoraussetzungen Formal: gem. RPO/FPO Inhaltlich: Module der ersten vier Fachsemester, Projektmanagement &amp; Managementkompetenz Im Modul kann die Lernplattform Moodle zum Einsatz kommen. Die Einschreibung in den entsprechenden Kurs auf der Lernplattform ist in diesen Fällen Voraussetzung für die Teilnahme. ## Prüfungsformen Projektarbeit (schriftliche Ausarbeitung) Wird die Modulprüfung in Form einer Portfolio
+

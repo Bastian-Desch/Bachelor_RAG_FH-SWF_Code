@@ -1,0 +1,32 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 28
+
+Metadata: {'Header 2': 'Allgemeine Ordnung zur Änderung der Bachelor- und Masterprüfungsordnungen für die Studiengänge der Fachhochschule Südwestfalen', 'id': 5648, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/Allg._AeO_-_ECTS-Einstufungstabellen-final.pdf', 'hash': '4c54efab463ef058c18456a212fbf6f0de42bcac788767b72b1e6df1f16630ba'}
+Text: ## Allgemeine Ordnung zur Änderung der Bachelor- und Masterprüfungsordnungen für die Studiengänge der Fachhochschule Südwestfalen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 99
+
+Metadata: {'Header 2': 'Vom 14. Februar 2020', 'id': 5649, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/Allg._AeO_-_ECTS-Einstufungstabellen-final.pdf', 'hash': '4c54efab463ef058c18456a212fbf6f0de42bcac788767b72b1e6df1f16630ba'}
+Text: ## Vom 14. Februar 2020  
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 in Verbindung mit § 22 Absatz 1 Satz 1 Ziffer 3 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014 in der Fassung des Gesetzes zur Änderung des Hochschulgesetzes vom 12. Juli 2019 (GV. NRW.  S. 377) hat der Senat der Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 157
+
+Metadata: {'Header 2': 'Artikel I', 'id': 5650, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/Allg._AeO_-_ECTS-Einstufungstabellen-final.pdf', 'hash': '4c54efab463ef058c18456a212fbf6f0de42bcac788767b72b1e6df1f16630ba'}
+Text: ## Artikel I  
+In den nach dem  1. April 2008 und vor dem  1. Januar 2015 erlassenen Bachelorund Masterprüfungsordnungen  für  die  Studiengänge  der  Fachhochschule  Südwestfalen  wird  jeweils  in dem Paragraphen mit der Angabe 'Bildung der Gesamtnote, Zeugnis und Bachelorurkunde', 'Bildung der Gesamtnote,  Zeugnis  und Bachelorurkunde, Doppelabschluss', 'Bildung der Gesamtnote, Zeugnis und Masterurkunde' oder 'Gesamtnote, Zeugnis' dem Absatz 2 der folgende Satz angefügt:  
+'Alternativ zur ECTS-Note kann auch eine ECTS-Einstufungstabelle zur Ergänzung der Gesamtnote um eine Bewertung nach der ECTS-Einstufungsskala angegeben werden.'
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 101
+
+Metadata: {'Header 2': 'Artikel II', 'id': 5651, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/Allg._AeO_-_ECTS-Einstufungstabellen-final.pdf', 'hash': '4c54efab463ef058c18456a212fbf6f0de42bcac788767b72b1e6df1f16630ba'}
+Text: ## Artikel II  
+Diese  Ordnung  tritt  am  Tag  nach  ihrer  Veröffentlichung  in  Kraft  und  findet  Anwendung  für  die Ausstellung  von  Zeugnisunterlagen  für  Abschlussprüfungen,  die  ab  dem  1.  März  2020  an  der Fachhochschule Südwestfalen stattfinden.  
+Ausgefertigt aufgrund des Beschlusses des Senats der Fachhochschule Südwestfalen vom 14. Februar 2020.  
+Iserlohn, den 14. Februar 2020  
+Der Rektor der Fachhochschule Südwestfalen  
+Prof. Dr. Claus Schuster
+

@@ -1,0 +1,512 @@
+ID: 9
+Frage: Was sind die Inhalte im Modul IT-Sicherheit im Bachelorstudiengang Elektrotechnik in Hagen?
+
+Dokument 1 (Score: 0.84308285):
+Metadaten:
+  - id: 1259
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_ET_2019_12.2024.pdf
+  - hash: ac2444beb69a8fa5ec1c497ea7e400f790dc496958eff5bdbb7af430124757c4
+  - _id: c77e92b3-b0cf-41ff-a9bd-9829d195cbef
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+·die Bedeutung von Public-Key-Infrastrukturen zu beschreiben und diese entsprechend anzuwenden ·Maßnahmen zur Absicherung der informationstechnischen Infrastruktur abzuleiten und entsprechende Entscheidungen zu begründen
+
+·ausgewählte Vorgehensmodelle und Standards aus dem Bereich der Informationssicherheit zu benennen, deren Prinzipien zu erläutern und anzuwenden.
+
+Die Studierenden können außerdem wissenschaftliche Zusammenhänge anhand von Fachliteratur erarbeiten und Adressaten-gerecht präsentieren.
+
+## Inhalte
+
+Informationstechnologie durchdringt zunehmend auch sensible Abläufe in unterschiedlichen Organisationen und rückt somit immer weiter in den Fokus potentieller Angreifer. Neben absichtlichen Angriffen ist die Informationstechnologie auch natürlichen Gefahren ausgeliefert, die die Sicherheit und Verfügbarkeit entsprechender Systeme beeinträchtigen können. Außerdem sind von Unternehmen gesetzliche Vorschriften einzuhalten, aus denen Anforderungen an die Absicherung der betriebenen informationstechnischen Systeme abzuleiten sind.
+
+Das Modul IT-Sicherheit soll die Studierenden für die Gefahren sensibilisieren, die aus einer absichtlich oder unabsichtlich herbeigeführten Einwirkung resultieren. Ausgehend von der Definition der Grundwerte der IT-Sicherheit erfolgt zunächst eine Betrachtung der aus Malware resultierenden Gefährdungen. Anschließend geht das Modul auf die Gefahren bei der Internetkommunikation und die Gefährdungen von Webanwendungen ein.  Zu den identifizierten Gefährdungen werden, dem aktuellem Stand der Technik entsprechend, mögliche Gegenmaßnahmen identifiziert, die zur Abwehr oder zumindest zur Milderung der Gefahren eingesetzt werden können. Hierbei wird besonders auf den Einsatz von kryptographischen Verfahren zur Absicherung der Authentizität, Vertraulichkeit und Integrität von Informationen eingegangen. Ergänzend hierzu wird auf weitere ausgewählte infrastrukturelle Maßnahmen eingegangen, die einen Einfluss auf die Sicherheit der Informationstechnologie haben. Da IT-Sicherheit als ganzheitliche Aufgabe innerhalb eines Unternehmens verstanden wird, geht das Modul abschließend auf organisatorische Rahmenwerke ein, deren Ziel in der Etablierung von Prozessen zur Herstellung, Aufrechterhaltung und kontinuierlichen Verbesserung der IT-Sicherheit besteht.
+
+## Lehrformen
+
+Vorlesung, Übung
+
+Dokument 2 (Score: 0.83441514):
+Metadaten:
+  - id: 721
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: ccf84e5e-c66f-4077-911d-798977184504
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Modulhandbuch zur Bachelor-Fachprüfungsordnung vom 28.02.2024 für den Studiengang Elektrotechnik
+
+## Modulhandbuch
+
+zum Bachelor-Studiengang
+
+Elektrotechnik
+
+(ET)
+
+zur Bachelor-Fachprüfungsordnung vom 28.02.2024
+
+Fachhochschule Südwestfalen
+
+Standort Hagen
+
+Fachbereich Elektrotechnik und Informationstechnik
+
+Stand: Juli 2024
+
+## Begriffserklärungen und Hinweise
+
+## Veranstaltungsformen
+
+Dokument 3 (Score: 0.83241260):
+Metadaten:
+  - id: 228
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf
+  - hash: 730e1accd674cb64b9e32e9f3448cd31b04ae7988376e704b94d6694b30ea799
+  - _id: 2784a9d9-2fbb-4b6a-984c-f19e5ba0dc4d
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Kenntnisse (Wissen)
+
+Nach erfolgreich bestandenem Modul kennen die Studierenden
+
+- - Aufgaben und Ziele der IT-Sicherheit
+- - Funktionsweise und Wirksamkeit existierender Maßnahmen zur Absicherung von IT-Systemen
+- - Grundlegende Begriffe und Definitionen, die im Bereich sicherer IT-Systeme von Bedeutung sind
+- - Aktionen und Ereignisse, die die Sicherheitseigenschaften von IT-Systemen in Frage stellen
+
+-
+
+## Fertigkeiten (Können)
+
+Nach erfolgreich bestandenem Modul können die Studierenden
+
+- - grundlegende Maßnahmen zur Sicherung von IT-Systemen anwenden
+- - die Sicherheit von IT-Systemen einschätzen
+- - grundlegende Sicherheitmaßnahmen in Netzwerkprotokollen benennen
+- - die Grundfunktionen eines Servers einrichten und absichern
+
+## Lehrformen, Unterrichtssprache &amp; weitere Angaben zu Prüfungsformen
+
+Seminaristischer Unterricht im PC-Labor
+
+Die Portfolioprüfung besteht aus zwei semesterbegleitenden Teilprüfungen, von denen eine etwa in der Mitte des Semesters, die zweite am Ende des Semesters abgelegt werden. Beide Teilprüfungen gehen mit je 50% in die Gesamtnote ein.
+
+77
+
+## IT-Sicherheit 1 2 / 2
+
+
+
+## Teilnahmevoraussetzung
+
+Formal: Siehe gültige Prüfungsordnung
+
+Inhaltlich: Grundlagen der Hardware-, Software- und Netzwerktechnik, Mathematik 1 und Mathematik 2
+
+## Lehrinhalte
+
+Dokument 4 (Score: 0.83101970):
+Metadaten:
+  - id: 394
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: b45f62c6-a6b5-4a4d-b58d-4a02ff22fc02
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+## Voraussetzungen für die Vergabe von Kreditpunkten
+
+Bestandene Modulprüfung
+
+## Stellenwert der Note für die Endnote
+
+Anteilig gem. RPO/FPO
+
+## Verwendbarkeit des Moduls
+
+Verwendung in folgenden Studiengängen: Data Science, Elektrotechnik, Maschinenbau, Wirtschaftsinformatik, Wirtschaftsingenieurwesen
+
+## Modulbeauftragter
+
+Prof. Dr. René Ramacher
+
+## Sonstige Informationen
+
+" IT-Sicherheit: Konzepte - Verfahren - Protokolle, Eckert 2019 IT-Sicherheit: Eine Einführung (De Gruyter Studium), Hellmann, 2019 Angewandte Kryptographie, Ertel, 2012 Hacking im Web, Schäfers,2018. Management der Informationssicherheit : Kontrolle und Optimierung, Sowa, 2017"
+
+28
+
+## Modulbezeichnung
+
+Prüfungs-Nr.
+
+50
+
+Kolloquium (Colloquium) (2 CP)
+
+Workload
+
+60
+
+Credits
+
+2
+
+Studiensemester
+
+6/7
+
+Dauer
+
+1
+
+## Lehrveranstaltungen
+
+Kontaktzeit (SWS) Kontaktzeit (h)
+
+0
+
+0
+
+Selbststudium
+
+60
+
+geplante Gruppengröße
+
+## Lernergebnisse
+
+Befähigung, die Ergebnisse der Bachelorarbeit, ihre fachlichen Grundlagen, ihre fachübergreifenden Zusammenhänge und ihre außerfachlichen Bezüge mündlich darzustellen und selbstständig zu begründen sowie ihre Bedeutung für die Praxis einzuschätzen. Dabei ist auch die Art und Weise der Bearbeitung des Themas der Bachelorarbeit zu erörtern.
+
+## Inhalte
+
+Themenkomplex und Umfeld der Bachelorarbeit
+
+## Lehrformen
+
+eigenständige Aufbereitung der Ergebnisse der Bachelorarbeit, persönliche Beratung durch den/die beteiligte(n) Professor(in).
+
+## Teilnahmevoraussetzungen
+
+Dokument 5 (Score: 0.83085800):
+Metadaten:
+  - id: 695
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: fa1c666d-b500-445c-86f1-ff2a73c6e4a3
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng.
+
+## Hagen
+
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+
+## Bachelor-Studium Elektrotechnik
+
+### Ohne Elektrotechnik geht wenig. Sie macht unser Leben heller, bunter, komfortabler, sicherer. Vieles, was die E-Technik möglich macht, ist längst selbstverständlich. Zum Beispiel die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, das Smartphone oder die Automatisierung von mühsamen oder gefährlichen Prozessen. Im zulassungsfreien Bachelorstudiengang Elektrotechnik studieren Sie nah an der Praxis und nah an Ihren persönlichen Interessen.
+
+Auf einen Blick
+
+Was? Praxisnahes Grundlagenstudium mit individueller Schwerpunktsetzung
+
+Für wen? Für alle mit Interesse an technischen Lösungen
+
+Warum? Karriereperspektive in z.B. Autoindustrie, Energieversorgung, Telekommunikation
+
+Du hast diesen Studiengang bereits gespeichert!
+
+Der Studiengang wurde erfolgreich gemerkt!
+
+Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.
+
+Bewerbungsfristen &amp; Studienstart-Termine
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+- Neugierig? Besuchen Sie unsere  Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs
+
+## Auf dieser Seite
+
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Info-Video zu den Vertiefungsrichtungen
+- Zielgruppe
+- Berufliche Perspektiven
+- Studi-Stimmen
+- Studienaufbau / Verlaufsplan
+- Info-Video zu den wichtigsten Fragen
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt
+
+Dokument 6 (Score: 0.82986190):
+Metadaten:
+  - id: 1079
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: b59ce044-cd60-48ff-b482-446598c817b7
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Im Anschluss an das Grundstudium folgt die Orientierungsphase, in der Studierende acht von zehn Kernmodulen aus den verschiedenen Kernbereichen der Elektro- und Informationstechnik absolvieren.
+
+#### Vertiefungsphase
+
+In der Vertiefungsphase wählen die Studierenden Wahlpflichtmodule aus verschiedenen Wahlpflichtkatalogen aus und setzen damit individuelle Studienschwerpunkte. Durch die individuelle Zusammenstellung der Wahlpflichtmodule kann das Studium mit einem der folgenden Studienschwerpunkte abgeschlossen werden:
+
+- Automatisierungstechnik und Mechatronik
+- Ingenieurinformatik
+- Kommunikationstechnik
+
+Individueller geht es kaum: Studierende können einen der fünf empfohlenen Studienschwerpunkte belegen und auf ihrem Bachelorzeugnis nachweisen. Auch andere Kombinationen sind zulässig. Für die Bescheinigung eines Schwerpunktes sind mindestens fünf zugehörige Wahlpflichtmodule zu absolvieren.
+
+Detaillierte Informationen zu den Studienschwerpunkten und Wahlpflichtmodulen:
+
+#### Automatisierungstechnik und Mechatronik
+
+Passende Kern- und Wahlpflichtmodule (Auswahl):
+Regelungstechnik 1, Grundlagen elektrischer Maschinen und Antriebe, Automatisierungstechnik 1, Robotik, Sensorik und Automatisierung, Aktorik, Grundlagen des Maschinenbaus, Grundlagen der elektrischen Energietechnik, Mechatronische Systeme und deren Simulation, Grundlagen der Maschinenelemente
+
+#### Ingenieurinformatik
+
+Passende Kern- und Wahlpflichtmodule (Auswahl):
+Algorithmen und Datenstrukturen, Software Engineering, Anwendungsprogrammierung, Objektorientierte Programmierung, Datenbanksysteme 1, Mobile Application Development, IT-Sicherheit, Introduction to Data Science, Web-Engineering, IT-Forensik
+
+#### Kommunikationstechnik
+
+Passende Kern- und Wahlpflichtmodule (Auswahl):
+Kommunikationssysteme, Signale und Systeme, Kommunikationsnetze 1, Hochfrequenztechnik, Funksysteme, Funknetzplanung, Digitale Signalverarbeitung, Antennendesign- und EM-Simulation, Digitale Kommunikationstechnik
+
+Dokument 7 (Score: 0.82853940):
+Metadaten:
+  - id: 705
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf
+  - hash: 621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb
+  - _id: ed086cf9-9172-4587-87bb-545011029b8b
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Anlage 1: Pflichtmodule
+
+- Anlage 2:  Ergänzungswahlpflichtmodule
+- Anlage 3:  Nichttechnische Wahlpflichtmodule
+
+## Teil 1 Allgemeines
+
+## § 1 Geltungsbereich
+
+Diese Fachprüfungsordnung (FPO) für den Bachelorstudiengang Elektrotechnik im Fachbereich Elektrotechnik und Informationstechnik in Hagen gilt zusammen mit der jeweils aktuell gültigen Fassung der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen.
+
+## § 2 Hochschulgrad
+
+Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen  in  dem  Studiengang  Elektrotechnik  den  akademischen  Grad  'Bachelor  of Engineering', kurz 'B.Eng.'.
+
+## § 3
+
+## Beginn, Dauer, Aufbau und Umfang des Studiums
+
+- (1)  Das Studium beginnt zum Wintersemester.
+- (2)  Die Regelstudienzeit beträgt sieben Semester.
+- (3)  Das Studium umfasst
+- a) Pflichtmodule im Umfang von 175 Leistungspunkten,
+- b) Ergänzungsund nichttechnische Wahlpflichtmodule im Umfang von 20 Leistungspunkten,  wobei  maximal  fünf  Leistungspunkte  in  einem  nichttechnischen Wahlpflichtmodul erworben werden dürfen,
+- c) die Bachelorarbeit im Umfang von zwölf Leistungspunkten und
+- d) das Kolloquium im Umfang von drei Leistungspunkten.
+
+Der Leistungsumfang  beträgt insgesamt 210 Leistungspunkte. Ein Leistungspunkt entspricht einem studentischen Arbeitsaufwand von 30 Zeitstunden.
+
+- (4)  Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind  der  Anlage  1  zu  entnehmen.  Der  Katalog,  aus  dem  laut  §  4  Absatz  4  RPO  die Wahlpflichtmodule zu wählen sind, ist in den Anlagen 2 und 3 aufgeführt. Näheres zur Gliederung des Studiums sowie Details zu Art, Umfang, Inhalten und Prüfungsformen der Module  sind  den  Anlagen,  dem  Studienverlaufsplan  und  dem  Modulhandbuch  zu entnehmen.
+- (5)  Studierende des Studiengangs Elektrotechnik können am Programm 'Studium Flexibel' teilnehmen, welches die Studieninhalte der ersten beiden Fachsemester auf vier Semester streckt. Dies führt nicht zu einer Verlängerung der Regelstudienzeit.
+
+Dokument 8 (Score: 0.82094360):
+Metadaten:
+  - id: 393
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: c56129d7-16fa-4898-8453-3eb40f7c0386
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Das Modul IT-Sicherheit soll die Studierenden für die Gefahren sensibilisieren, die aus einer absichtlich oder unabsichtlich herbeigeführten Einwirkung resultieren. Ausgehend von der Definition der Grundwerte der IT-Sicherheit erfolgt zunächst eine Betrachtung der aus Malware resultierenden Gefährdungen. Anschließend geht das Modul auf die Gefahren bei der Internetkommunikation und die Gefährdungen von Webanwendungen ein.  Zu den identifizierten Gefährdungen werden, dem aktuellem Stand der Technik entsprechend, mögliche Gegenmaßnahmen identifiziert, die zur Abwehr oder zumindest zur Milderung der Gefahren eingesetzt werden können. Hierbei wird besonders auf den Einsatz von kryptographischen Verfahren zur Absicherung der Authentizität, Vertraulichkeit und Integrität von Informationen eingegangen. Ergänzend hierzu wird auf weitere ausgewählte infrastrukturelle Maßnahmen eingegangen, die einen Einfluss auf die Sicherheit der Informationstechnologie haben. Da IT-Sicherheit als ganzheitliche Aufgabe innerhalb eines Unternehmens verstanden wird, geht das Modul abschließend auf organisatorische Rahmenwerke ein, deren Ziel in der Etablierung von Prozessen zur Herstellung, Aufrechterhaltung und kontinuierlichen Verbesserung der IT-Sicherheit besteht.
+
+## Lehrformen
+
+Vorlesung, Übung
+
+Hinweis: Die Lehrveranstaltung kann gegebenenfalls auch in englischer Sprache durchgeführt werden!
+
+## Teilnahmevoraussetzungen
+
+Formal: gem. RPO/FPO
+
+Inhaltlich: Wirtschaftsinformatik und Informatik
+
+Im Modul kann die Lernplattform Moodle zum Einsatz kommen. Die Einschreibung in den entsprechenden Kurs auf der Lernplattform ist in diesen Fällen Voraussetzung für die Teilnahme.
+
+27
+
+## Prüfungsformen
+
+Klausur, mündl. Prüfung
+
+Wird die Modulprüfung in Form einer Portfolioprüfung durchgeführt, können prüfungsrechtlich relevante Daten innerhalb des Kurses in Moodle erhoben werden.
+
+## Prüfungsvorleistungen
+
+SL für Labor
+
+## Voraussetzungen für die Vergabe von Kreditpunkten
+
+Bestandene Modulprüfung
+
+## Stellenwert der Note für die Endnote
+
+Anteilig gem. RPO/FPO
+
+Dokument 9 (Score: 0.81952160):
+Metadaten:
+  - id: 392
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: 974a22b4-0526-4576-a563-b841b108dde9
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+## Lernergebnisse
+
+Durch die erfolgreiche Bearbeitung des Moduls werden die Studierenden in die Lage versetzt:
+
+·die Grundwerte der Informationssicherheit zu benennen und zu erläutern
+
+·unterschiedliche Arten von Malware und die daraus resultierenden Gefahren zu differenzieren und geeignete Gegenmaßnahmen zu beschreiben sowie anzuwenden
+
+·die Gefahren der Internetkommunikation zu beschreiben und deren Ursprünge zu begründen sowie mögliche Gegenmaßnahmen zu identifizieren und deren Wirkungsweise nachzuvollziehen
+
+·die bei der Verwendung und dem Betrieb von Webanwendungen bestehenden Gefahren zu identifizieren sowie Gegenmaßnahmen und deren Wirkungsweise zu begründen
+
+·die Funktionsweise von ausgewählten symmetrischen und asymmetrischen Verschlüsselungsverfahren
+
+nachzuvollziehen, deren jeweilige Stärken und Schwächen zu diskutieren und deren Eignung für bestimmte Einsatzszenarien zu bestimmen
+
+·die praktische Anwendung von Verschlüsselungsverfahren in bspw. Kommunikationsprotokollen und zur Verschlüsselung bzw. Signierung von Mailnachrichten nachzuvollziehen und evtl. bestehende Schwachstellen zu identifizieren
+
+·die Bedeutung von Public-Key-Infrastrukturen zu beschreiben und diese entsprechend anzuwenden ·Maßnahmen zur Absicherung der informationstechnischen Infrastruktur abzuleiten und entsprechende Entscheidungen zu begründen
+
+·ausgewählte Vorgehensmodelle und Standards aus dem Bereich der Informationssicherheit zu benennen, deren Prinzipien zu erläutern und anzuwenden.
+
+Die Studierenden können außerdem wissenschaftliche Zusammenhänge anhand von Fachliteratur erarbeiten und Adressaten-gerecht präsentieren.
+
+## Inhalte
+
+Informationstechnologie durchdringt zunehmend auch sensible Abläufe in unterschiedlichen Organisationen und rückt somit immer weiter in den Fokus potentieller Angreifer. Neben absichtlichen Angriffen ist die Informationstechnologie auch natürlichen Gefahren ausgeliefert, die die Sicherheit und Verfügbarkeit entsprechender Systeme beeinträchtigen können. Außerdem sind von Unternehmen gesetzliche Vorschriften einzuhalten, aus denen Anforderungen an die Absicherung der betriebenen informationstechnischen Systeme abzuleiten sind.
+
+Dokument 10 (Score: 0.81894900):
+Metadaten:
+  - id: 703
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php
+  - hash: 48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef
+  - _id: 46d39f7b-33ce-48c0-9a97-ec78ad5541e0
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng.
+
+## Hagen
+
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+5. Prüfungsordnungen
+
+# Prüfungsordnungen, Modulhandbücher, Verlaufspläne
+
+## Fachprüfungsordnung 2024
+
+Fachprüfungsordnung vom 28. Februar 2024
+
+## Fachprüfungsordnung 2017
+
+Fachprüfungsordnung vom 7. August 2017
+
+FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018)
+
+## Modulhandbuch*
+
+FPO 2024: Modulhandbuch Elektrotechnik
+
+FPO 2017: Modulhandbuch Elektrotechnik
+
+## Verlaufspläne*
+
+FPO 2024: Studienverlaufsplan
+
+FPO 2017: Studienverlaufsplan
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806840
+

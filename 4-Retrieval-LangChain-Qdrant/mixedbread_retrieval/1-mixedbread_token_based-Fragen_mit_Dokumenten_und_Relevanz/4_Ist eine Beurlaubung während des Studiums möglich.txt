@@ -1,0 +1,143 @@
+ID: 4
+Frage: Ist eine Beurlaubung während des Studiums möglich?
+
+Dokument 1 (Score: 0.84468850):
+Metadaten:
+  - id: 1499
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 529b8500-29a4-4510-87dd-7bf7c46c669d
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+### Wichtige Gründe für eine Beurlaubung | Grund | Nachweis / Voraussetzung | |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------| | Krankheit | Vorlage einer ärztlichen Bescheinigung, aus der sich ergibt, dass ein ordnungsgemäßes Studium im beantragten Semester voraussichtlich nicht möglich ist. | | Praktikum | Praktikum muss dem Studium förderlich sein. (Praktikumsvertrag) | | Auslandsstudium bzw. Auslandspraktikum | Entspr. Nachweis | | Freiwilligendienst | Aufforderung zum Antritt des Freiwilligendiensts | | Schwangerschaft | Vorlage einer ärztlichen Bescheinigung, aus der sich ergibt, dass ein ordnungsgemäßes Studium nicht möglich ist | | Elternzeit | Bis zum vollendeten 8. Lebensjahr des Kindes können pro Kind bis zu 6 Semester beantragt werden. Vorlage der Geburtsurkunde | ### Antrag und weitere Infos zur Beurlaubung Der Antrag auf Beurlaubung ist während der Rückmeldefrist über das Online-Portal der Fachhochschule Südwestfalen zu stellen. Da die Beurlaubung die Rückmeldung ersetzt, gilt die gleiche Frist. Ausnahmen sind nur zulässig, wenn die Voraussetzungen für die Beurlaubung erst zu einem späteren Zeitpunkt eintreten (z.B. Erkrankung, Geburt eines Kindes). Für den Antrag auf Beurlaubung sind je nach Grund entsprechende Nachweise im Online-Portal hochzuladen. Sofern während der Beurlaubung Beiträge zu entrichten sind, ist deren Zahlung Voraussetzung für die Beurlaubung. Während der Beurlaubung können keine Studien- und Prüfungsleistungen erbracht werden. Davon ausgenommen sind Beurlaubungen wegen Elternzeit bzw. Pflege von Verwandten ersten Grades und Wiederholung von nicht bestandenen Prüfungen. Die Prüfungsanmeldung ist dann nur direkt über das Studierenden-Servicebüro möglich. Achtung: Eine Beurlaubung vom Studium kann Auswirkungen haben z.B. auf den Bezug von BAföG, Kindergeld, den Aufenthaltsstatus (bzw. die damit verbundene Arbeitserlaubnis), den Krankenversicherungsschutz (ggf. höhere Versicherungsbeiträge) etc. Informieren Sie sich bitte rechtzeitig vor der Antragstellung bei den entsprechenden
+
+Dokument 2 (Score: 0.78833120):
+Metadaten:
+  - id: 1500
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 2a733e50-c9ed-495b-8536-ac302cf5930c
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+geld, den Aufenthaltsstatus (bzw. die damit verbundene Arbeitserlaubnis), den Krankenversicherungsschutz (ggf. höhere Versicherungsbeiträge) etc. Informieren Sie sich bitte rechtzeitig vor der Antragstellung bei den entsprechenden Stellen! Tobias Becker Baarstraße 6 ## Exmatrikulation Exmatrikulation Die Exmatrikulation kann jederzeit über das Online-Portal beantragt werden. Mit der Exmatrikulation hört man auf, Mitglied der Fachhochschule Südwestfalen zu sein. Eine Rückzahlung des Sozial- und Studierendenschaftsbeitrages - ggfs. auch der Materialbezugsgebühr - ist nur möglich, wenn der Exmatrikulationsantrag spätestens vor Vorlesungsbeginn eingereicht wird, zusammen mit dem Bescheinigungssatz (Chiporello, ggf. Semesterticket, diverse Studiennachweise). Über die Erstattung des Semestertickets - an den Standorten Hagen, Iserlohn und Soest - entscheidet der AStA. Die Exmatrikulation ist auch von Amts wegen (z.B. bei versäumter Rückmeldung) möglich. Falls Sie sich absichtlich nicht rückgemeldet haben, weil Sie Ihr Studium abgeschlossen haben bzw. Ihr Studium nicht fortsetzen möchten, müssen Sie nichts weiter unternehmen. Der Bescheid gilt als regulärer Exmatrikulationsnachweis, der zur Vorlage bei Behörden oder zur weiteren Immatrikulation an anderen Hochschulen ohne negative Konsequenzen Gültigkeit hat. Das Online-Portal der Fachhochschule Südwestfalen steht Ihnen noch bis zu 60 Tage nach der Exmatrikulation zur Verfügung. Formulare / PDFs - Request for Reimbursement of the Semester Fees - Antrag auf Beendigung eines Studienganges / Apply for exmatriculation ## Mutterschutz für Studentinnen Mutterschutz Seit dem 01.01.2018 gilt das neue Mutterschutzgesetz (MuSchG). Erstmalig stehen darin auch Studentinnen im Anwendungs- und Schutzbereich dieses Gesetzes. Schwangere und Mütter im Studium haben einen Anspruch auf eine sechswöchige Schutzfrist vor und eine mindestens achtwöchige nach der Geburt. ### Informationen zum Mutterschutz / Rechtliches Das Familienbüro der Fachhochschule Südwestfalen ist der erste Ansprechpartner, wenn Sie Fragen zum Mutterschutz haben. Damit Sie sich im Detail in die Regelungen
+
+Dokument 3 (Score: 0.78228010):
+Metadaten:
+  - id: 1554
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: 8a68e51d-4709-42d4-a864-9547171dd9e1
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+falls zum Rücktritt aus triftigen Gründen berechtigt sind Sie im Falle der Erkrankung Ihres Kindes am Prüfungstag, sofern das Kind in Ihrem Haushalt lebt, eine andere in Ihrem Haushalt lebende Person das Kind nicht beaufsichtigen, betreuen oder pflegen kann und das Kind das 12. Lebensjahr noch nicht vollendet hat. In diesem Fall ist die Vorlage eines ärztlichen Attestes für das Kind, ausgestellt vor oder spätestens am Prüfungstag, erforderlich. Darüber hinaus müssen Sie eine schriftliche Erklärung einreichen, aus welcher sich ergibt, dass keine andere im Haushalt lebende Person für die Betreuung oder Pflege des Kindes zur Verfügung steht. Das Attest sowie die Erklärung müssen unverzüglich, d.h. innerhalb von drei Werktagen, im Studierenden-Servicebüro eingereicht werden. ## (3) Kein nachträglicher Prüfungsrücktritt Rückdatierte Atteste, d.h. Atteste, die einen oder mehrere Tage nach der Prüfung ausgestellt sind, werden aus den vorgenannten Gründen nicht akzeptiert. ## (4) Prüfungsabbruch Sollten Sie eine Prüfung begonnen haben, diese aber wegen plötzlicher Erkrankung abbrechen müssen, sind Sie verpflichtet, dies der / dem Aufsichtsführenden mitzuteilen und unverzüglich einen Arzt / eine Ärztin aufzusuchen, die / der ein entsprechendes, aussagefähiges Attest ausstellt. Es ist ein qualifiziertes Attest erforderlich, in dem für Nichtmediziner nachvollziehbar bescheinigt wird, dass Sie als prüfungsunfähig zum Zeitpunkt der Prüfung eingeschätzt werden und warum diese Einschätzung getroffen wird, d.h. wie sich Ihre Erkrankung auf die Prüfung(en) auswirkt. Dies ist erst recht erforderlich, wenn Sie nach der Teilnahme an der Prüfung den Rücktritt mit Attest erklären. Der Vordruck 'Ärztliches Attest zur Vorlage beim Prüfungsausschuss' kann hierzu verwendet werden. Außerhalb der Öffnungszeiten der Ärzte (z.B. samstags) ist ein ärztlicher Notdienst / die Ambulanz des Krankenhauses zu konsultieren. Grundsätzlich wird im Falle einer Erkrankung von Ihnen verlangt, dass Sie die entsprechenden Konsequenzen ziehen und rechtzeitig von der Prüfung zurücktreten. Unterziehen Sie sich der Prüfung, obwohl Sie Ihre Prüfungsunfähigkeit kannten oder den Umständen nach kennen mussten, so handeln Sie auf eigenes Risiko. In diesem Falle können Sie
+
+Dokument 4 (Score: 0.77679680):
+Metadaten:
+  - id: 1555
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: 300286a6-cafa-49e2-bd28-18b602474c43
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+sequenzen ziehen und rechtzeitig von der Prüfung zurücktreten. Unterziehen Sie sich der Prüfung, obwohl Sie Ihre Prüfungsunfähigkeit kannten oder den Umständen nach kennen mussten, so handeln Sie auf eigenes Risiko. In diesem Falle können Sie sich weder nach Erbringen der Prüfungsleistung noch beim Abbruch der Prüfung auf Ihre Prüfungsunfähigkeit berufen. Nur für den Fall, dass die Krankheit vor der Prüfung für Sie nicht erkennbar war oder sich während der Prüfung wesentlich verschlimmert hat, kann ggf. eine Berücksichtigung der Prüfungsunfähigkeit bei Prüfungsabbruch unter den genannten Voraussetzungen erfolgen. ## (5) Prüfungsangst / Teilnahme an Prüfung trotz Attest / Kosten für Atteste / Zweifelsfall: Probleme, die durch die Prüfung selbst verursacht sind (z.B. Prüfungsangst) stellen keinen Rücktrittsgrund dar. Sofern eine Ärztin / ein Arzt Ihnen ein Attest ausgestellt hat, das für mehrere Tage gilt und Sie in dieser Zeit trotzdem an einer Prüfung teilnehmen, erklären Sie sich mit dem Beginn der Prüfung als prüfungsfähig. Das Ergebnis dieser Prüfung müssen Sie sich zurechnen lassen, unabhängig davon, welches Ergebnis Sie dabei erzielen. Dies gilt auch, wenn Sie an einem Tag für zwei Prüfungen angemeldet waren und Sie nur an einer Prüfung teilnehmen. Für ein Attest anfallende Kosten können von der Hochschule nicht übernommen werden. Im Zweifelsfall gilt immer: erkundigen Sie sich bitte rechtzeitig bei Ihrem Studierenden-Servicebüro! ## Unpünktliches Erscheinen Sie müssen unbedingt dafür Sorge tragen, dass Sie rechtzeitig zur Prüfung erscheinen. Mögliche Staus, Bahnverspätungen usw. (auch bei Schnee und Eis) sind dabei von Ihnen einzukalkulieren.
+
+Dokument 5 (Score: 0.77301060):
+Metadaten:
+  - id: 1521
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: f1e29adf-d4a9-429a-827e-bf74d7912ee8
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+(3) Der Studienplan wird so gestaltet, dass der berufsqualifizierende Abschluss innerhalb der Regelstudienzeit erworben werden kann. Die Prüfungsverfahren werden so gestaltet, dass die Inanspruchnahme der gesetzlichen Mutterschutzfristen und der Fristen der Elternzeit ermöglicht wird. Ausfallzeiten durch die Pflege eines Ehegatten, eines eingetragenen Lebenspartners oder eines in gerader Linie Verwandten oder ersten Grades Verschwägerten, wenn diese oder dieser pflegebedürftig ist, werden berücksichtigt. Für Studierende mit einer chronischen Krankheit oder einer Behinderung im Sinne von § 2 Absatz 1 SGB IX legt der Prüfungsausschuss die in der Fachprüfungsordnung geregelten Prüfungsbedingungen auf Antrag der oder des Studierenden unter Berücksichtigung nachteilsausgleichender Regelungen und unter Berücksichtigung des Einzelfalls fest. - (4) Das Studium setzt sich aus Pflicht-, Wahlpflicht- und fakultativen Zusatzmodulen zusammen. Pflichtmodule sind für alle Studierenden verpflichtend, Wahlpflichtmodule werden aus Katalogen entsprechend der Anlagen der einschlägigen Fachprüfungsordnung gewählt. Zusatzmodule sind freiwillig und können aus dem Studienangebot der Fachhochschule Südwestfalen frei gewählt werden. ## § 5 Modulstruktur und Leistungspunktesystem - (1) Studiengänge bestehen aus Modulen. Module sind Zusammenfassungen von Lehrund Lerngebieten zu thematisch abgerundeten, in sich abgeschlossenen und mit Leistungspunkten (Credits) versehenen abprüfbaren Einheiten. - (2) Für das einzelne Modul und seine Durchführung ist in der Regel jeweils eine hauptamtlich Lehrende oder ein hauptamtlich Lehrender der Hochschule verantwortlich die oder der dem Studiendekan und der oder dem jeweiligen Prüfungsausschussvorsitzenden über notwendige Maßnahmen zur Durchführung berichtet. Der zuständige Studiendekan kann einen Professor oder eine Professorin oder eine Lehrkraft für besondere Aufgaben mit der Modulverantwortung betrauen. Die Modulverantwortung umfasst insbesondere die adäquate Stoffauswahl, die Wahl des angemessenen Niveaus und die hochschuldidaktische Eignung der Vermittlung der Studieninhalte. Für das Modulhandbuch des jeweiligen Studiengangs ist der zuständige Studiendekan verantwortlich. - (3) Module schließen in der Regel nach einem Semester mit einer Prüfung ab. In begründeten Fällen können die Fachprüfungsordnungen Module vor
+
+Dokument 6 (Score: 0.77298313):
+Metadaten:
+  - id: 1502
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 023dc5e0-958e-4b3c-b906-66884fee9b51
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+en abgemeldet, für die Sie sich innerhalb der Mutterschutzfrist angemeldet haben. Anzeigen einer Geburt Sofern Sie die Mutterschutzfrist nach der Geburt Ihres Kindes in Anspruch nehmen möchten so füllen Sie bitte das Formular zur Anzeige einer Geburt aus und senden Sie uns dieses bitte an das Studierenden-Servicebüro Ihres Standortes. Formulare - Formular zur Anzeige einer Schwangerschaft PDF - Formular zur Anzeige einer Geburt PDF ## Studiengangwechsel Studiengangwechsel Im Laufe Ihres Studiums, vor allem in den ersten Semestern, kann es durchaus vorkommen, dass Sie an der Richtigkeit Ihrer Studienwahl zweifeln und überlegen, ob nicht ein anderer Studiengang geeigneter wäre. Studierende, die innerhalb der Fachhochschule Südwestfalen ihren Studiengang wechseln oder sich in einen 2. Studiengang einschreiben möchten, können dies ganz einfach über die Online-Bewerbung beantragen. Weitere Infos hierzu auf den Bewerbungsseiten. ## Der Studierendenausweis "Chiporello" an der FH Südwestfalen Studierendenausweis Mit einem eingebauten Chip erfüllt der Studierendenausweis verschiedene Zusatzfunktionen. So dient dieser gleichzeitig als Bibliotheksausweis und Kopierkarte. Der Chiporello kann über einen personalisierten Link im Online-Portal der Hochschule beantragt werden. Alle neuen Studierenden erhalten ihre Zugangsdaten für das Hochschulportal automatisch per Post zugeschickt. Weitere Informationen ## Rückmeldefristen ### Rückmeldung zum Sommersemester 2025: #### 07.01.2025 bis zum 21.01.2025 Zur Rückmeldung loggen Sie sich in das Online-Portal ein und überweisen den dort angegebenen Betrag. Bitte beachten Sie auch die dort ggfs. ausgewiesene Rückmeldesperre. Sie erhalten eine E-Mail an Ihre von der Fachhochschule Südwestfalen eingerichtete E-Mail-Adresse (nachname.vorname@fh-swf.de) zum Starttermin der Rückmeldung. Haben wir Ihre aktuelle Anschrift? Bitte achten Sie darauf, dass Ihre bei uns angegebene Adresse stets aktuell ist. So ist sichergestellt, dass wichtige Schreiben von der Fachhochschule Sie auch erreichen können. Sie können uns eine Änderung Ihrer Anschrift online, telefonisch, per E-Mail oder per Post mitteilen. Neu an der Fachhochschule Südwestfalen? In den ersten Woche Ihres Studiums bieten wir Ihnen viele spannende Termine und Kennenlern-
+
+Dokument 7 (Score: 0.77264130):
+Metadaten:
+  - id: 1553
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: c173e3d8-acad-4435-b636-e8f9ea9ddf98
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Fachhochschule Südwestfalen Sachgebiet 2.4 Studentische Angelegenheiten ## Regelungen zum Rücktritt von einer Prüfung wegen Krankheit Diese Informationen beziehen sich auf Klausuren, Klausuren im Antwortwahlverfahren und mündliche Prüfungen. Für weitere, semesterbegleitende Prüfungsformen (z.B. Semesterarbeiten, Projektarbeiten, etc.) entnehmen Sie die Fristen für den Prüfungsrücktritt bitte der entsprechenden Prüfungsordnung. In der Regel findet sich diese Information im Paragrafen 'Zulassungen zu Modulprüfungen'. ## (1) Rücktritt bis 7 Tage vor der Prüfung Der Rücktritt von einer Prüfung ist ohne weitere Nachweise völlig unproblematisch online bis 7 Tage vor der Prüfung möglich. ## (2) Rücktritt nach Ablauf der Wochenfrist (= innerhalb 1 Woche vor der Prüfung bis einschließlich Prüfungstag) Nach Ablauf der Wochenfrist für die Abmeldung von einer Prüfung kann der Rücktritt von der Prüfung nur aus triftigen Gründen erklärt werden. Im Falle eines Rücktritts wegen Erkrankung ist die Vorlage eines ärztlichen Attestes im Original erforderlich, das vor dem oder spätestens am Prüfungstag ausgestellt sein muss und unverzüglich eingereicht werden muss. Denn einen oder mehrere Tage nach der Prüfung ist es kaum feststellbar, ob zum Prüfungstermin Prüfungsunfähigkeit vorgelegen hat. Das rechtzeitig ausgestellte Attest muss spätestens innerhalb von drei Werktagen nach der Prüfung beim Studierenden-Servicebüro in Papierform eingehen. (Digital eingereichte Atteste per Email und/oder elektronische Arbeitsunfähigkeitsbescheinigung können nicht berücksichtigt werden!) Wird der Rücktritt genehmigt, wird der Prüfungsversuch nicht auf die Zahl der Fehlversuche angerechnet. Tritt die Erkrankung erst am Prüfungstag auf, ist noch am Prüfungstag ein Arzt aufzusuchen - auch an einem Mittwoch oder Samstag. Sind Arztpraxen geschlossen, sind Sie verpflichtet, einen Vertretungsarzt aufzusuchen bzw. sich an einen ärztlichen Bereitschaftsdienst / Notdienst oder die Ambulanz eines Krankenhauses zu wenden. Bei Bettlägerigkeit ist ggf. der Hausbesuch des Hausoder Notarztes in die Wege zu leiten. Ebenfalls zum Rücktritt aus triftigen Gründen berechtigt sind Sie im Falle der Erkrankung Ihres Kindes am Prüfungstag, sofern das Kind in Ihrem Haushalt lebt, eine andere in Ihrem Haushalt lebende Person das Kind nicht beaufsichtigen,
+
+Dokument 8 (Score: 0.76759730):
+Metadaten:
+  - id: 1482
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 1fb8da97-dd67-47e1-a453-2ea128274d49
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Unsere Studienmodelle ## So flexibel wie Sie es sich wünschen 1. Studienangebot 2. Studienmodelle ## Duales Studium, berufsbegleitendes Studium oder doch der Klassiker? ### Ihr Studiengang sollte Ihren Interessen und Zielen entsprechen, Ihr Studienmodell muss darüber hinaus aber auch zu Ihrem Leben passen! Wir bieten Ihnen die freie Auswahl unterschiedlicher Studienmodelle. Vom berufsbegleitenden Studium über das duale Studium bis hin zum klassischen Vollzeitstudium – bei uns finden Sie das Studienmodell, das zu Ihren Ansprüchen, Ihren Zielen und zu Ihrem Leben passt. ### Auf dieser Seite - Vollzeitstudium - Teilzeitstudium - Kooperative Studienmodelle - Duale Studienmodelle - Berufsbegleitendes oder ausbildungsbegleitendes Verbundstudium - Zertifikatsstudium ## Vollzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell Das Vollzeitstudium ist das meist verbreitete Studienmodell. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs. Der durchschnittliche Arbeitsaufwand für ein Vollzeitstudium beträgt ca. 40 Stunden in der Woche und entspricht damit einer Vollzeitberufstätigkeit. Die 40 Stunden beziehen sich dabei nicht nur auf die Lernveranstaltungen im Hörsaal, sondern auch auf die Vor- und Nachbereitungszeit der einzelnen Vorlesungen, Seminare und Prüfungen. Die Lehrveranstaltungen finden meist montags bis freitags statt. Eine Anwesenheitspflicht gibt es nur punktuell z.B. in Praktika, Übungen oder Prüfungen. Anwendungsorientierte Vorlesungen, Seminare und Laborpraktika sowie praxiserfahrene Dozent*innen sorgen für ein praxisnahes Studium. ## Teilzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell, jedoch in Teilzeit Das Teilzeitstudium bietet die Möglichkeit neben dem Studium noch anderen Verpflichtungen in Ihrem Leben nachzukommen. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs, jedoch mit einer reduzierten Modulanzahl je Semester. ## Kooperative Studienmodelle Ankerpunkt ### Studieren in Voll- oder Teilzeit mit Praxis in Unternehmen Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in
+
+Dokument 9 (Score: 0.76627874):
+Metadaten:
+  - id: 1498
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 03845549-84cb-4fca-a8cd-3a1c82ceff46
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+mittlerweile trotz der gesetzlichen Verpflichtung der Hochschulmitglieder zur Verschwiegenheit eine von zumindest Ihrer Betreuerin oder Ihrem Betreuer zu unterzeichnende Geheimhaltungsvereinbarung (GHV)/Non-Disclosure Agreement (NDA), wenn eine Abschlussarbeit in dem Unternehmen angefertigt werden soll, da diese Informationen enthalten könnten, die der Geheimhaltung unterliegen. Deswegen haben wir ein Muster für Sie erstellt, das – im Gegensatz zu vielen Mustern aus der Wirtschaft – Regelungen zum Prüfungsverfahren enthält. Muster PDF Wir raten Ihnen dringend an, dieses Muster bereits bei Ihrem ersten konkreten Gespräch/Kontakt mit dem Unternehmen bzw. der für Sie im Unternehmen zuständigen Person vor der Unterzeichnung eines Vertrages mitzunehmen/einzureichen und mit dem Unternehmen abzuklären, ob eine GHV erforderlich ist und ob die GHV der FH SWF ggf. ausreichend ist. Sollte das Unternehmen die GHV der FH SWF aus irgendwelchen Gründen ablehnen und Ihnen stattdessen eine eigene GHV überreichen, so senden Sie diese bitte ebenfalls vor der Unterzeichnung einer konkreten Vereinbarung an das Justitiariat. Die jeweiligen Kontaktdaten finden Sie auf unserer Webseite: Kontakt Recht und Compliance ## Wahl der Studienrichtung / eines Studienschwerpunktes Studienrichtung - Antrag auf Wahl der Studienrichtung / des Studienschwerpunktes PDF - Nur für Studierende im Mescheder Bachelorstudiengang Elektrotechnik (ab FPO 2017): Antrag Ausweis eines oder mehrerer Studienschwerpunkte auf dem Zeugnis PDF ## Wahl der Zusatzmodule Zusatzmodule Formulare für die folgenden Standorte: ### Iserlohn - Anmeldung zur Prüfung in einem Zusatzmodul PDF ### Meschede - Anmeldung zur Prüfung in einem Zusatzmodul PDF - Abmeldung von einer Prüfung in einem Zusatzmodul PDF - Antrag auf Eintragung von Zusatzmodulen (Zeugnis) PDF ## Beurlaubung Beurlaubung Nur bei Vorliegen eines wichtigen Grundes kann eine Beurlaubung vom Studium gewährt werden, und zwar in der Regel für ein Semester, beim Freiwilligendienst für zwei Semester. Außerdem müssen die Beurlaubungsgründe mindestens die Hälfte des Semesters andauern. ### Wichtige Gründe für eine Beurlaubung | Grund | Nachweis / Voraussetzung | |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------| | Krankheit | Vorlage einer ärztlichen
+
+Dokument 10 (Score: 0.76569200):
+Metadaten:
+  - id: 68
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00001543/Nr.%201310%20vom%2012.09.2024%20-%20F%C3%BCnfte%20%C3%84O%20BA%20WING,%20WI,%20International%20Business%20Administration%20and%20Engineering%20and%20Informatics.pdf
+  - hash: 2ba592cd0ea19790f3f936033918aa9cba5aa051c19f602ab63a8a48a3a9ead0
+  - _id: 79098c4b-d141-42d2-8ceb-91c9e5181676
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Studierenden im Rahmen der Studiengänge WiIng und WiInf ein Auslandssemester an einer ausländischen Hochschule ihrer Wahl absolvieren. - (2) Bezugnehmend auf die Regelungen in § 26 RPO haben die Studierenden im Rahmen der Studiengänge IBE und IBI ein Auslandsstudienjahr an einer oder zwei ausländischen Hochschulen ihrer Wahl zu absolvieren. § 26 Absatz 2 RPO gilt entsprechend, wobei im Rahmen des Auslandsstudienjahrs 60 Leistungspunkte zu erbringen sind. - (3) Der Antrag auf Zulassung zum Auslandssemester gemäß Absatz 1 oder zum Auslandsstudienjahr gemäß Absatz 2 erfolgt in der Regel bis spätestens acht Wochen nach Semesterbeginn des Studiensemesters, das dem Auslandsstudium vorangeht, schriftlich an den Prüfungsausschuss. Zum Auslandsstudium wird zugelassen, wer an der Fachhochschule Südwestfalen als Studierende oder Studierender eingeschrieben oder als Zweithörerin oder Zweithörer gemäß § 52 Absatz 2 HG zugelassen ist und in den laut Studienplan (Anlagen) vorgesehenen Modulprüfungen des ersten bis dritten Studiensemesters mindestens 60 Leistungspunkte (ECTS) erworben hat. Für die Zulassung zum Auslandsstudienjahr gemäß Absatz 2 muss zusätzlich die Modulprüfung im Modul 'Wirtschaftsenglisch' oder 'Business English' bestanden sein. - (4) Die Anträge auf Zulassung in Absatz 3 können schriftlich bis zur Bekanntgabe der Entscheidung über den Antrag ohne Anrechnung auf die Zahl der möglichen Prüfungsversuche zurückgenommen werden. - (5) Das Auslandssemester gemäß Absatz 1 oder das Auslandsstudienjahr gemäß Absatz 2 werden anerkannt, wenn die im Rahmen des Learning Agreements vereinbarten Studienleistungen erfolgreich erbracht wurden. Dabei bleiben gemäß § 8 RPO angerechnete Prüfungsleistungen unberücksichtigt. Ein entsprechender Nachweis der ausländischen Hochschule ist einzureichen. - (6) Abweichend von § 34 RPO werden die im Rahmen des Auslandssemesters gemäß Absatz 1 erbrachten Studienleistungen wie Zusatzmodule behandelt. Das Ergebnis dieser Prüfungen wird auf Antrag des Prüflings in das Zeugnis aufgenommen, jedoch bei der Festsetzung der Gesamtnote nicht berücksichtigt. - (7) Die im Rahmen des Auslandsstudienjahrs gemäß Absatz 2 erbrachten Studienleistungen werden bei der Festsetzung der Gesamtnote in Form eines ECTS gewichteten arithmetischen Mittels
+

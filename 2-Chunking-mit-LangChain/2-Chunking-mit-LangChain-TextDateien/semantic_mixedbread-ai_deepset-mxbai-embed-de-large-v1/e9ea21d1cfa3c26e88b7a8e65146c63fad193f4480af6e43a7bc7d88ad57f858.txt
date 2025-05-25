@@ -1,0 +1,1036 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 3868
+
+Metadata: {'id': 253, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: # Studienorganisation
+
+1. Studierende
+2. Rund ums Studium
+3. Studienorganisation
+
+## Wichtige Infos zur Organisation ihres Studiums
+
+### Häufig verwendet: Hochschulportal, Virtuelles Service-Center, Vorlesungsplan-Infosystem und E-Learningsystem - nutzen Sie unsere Portale für diese Services:
+
+FAQs
+
+Hier finden Sie von A-Z die Antworten zu regelmäßig gestellten Fragen rund um das Studium an der FH Südwestfalen. Adress- und Namensänderung, Rückmeldung, Bescheinigung
+
+Prüfungen: An- und Abmeldung
+
+Vorlesungs-verzeichnis
+
+E-Learning und interne Kommunikation
+
+# Auf dieser Seite finden Sie außerdem Informationen und Formulare zu:
+
+- Anerkennung von Prüfungsleistungen / Einschreibung
+- Auslandsaufenthalte / Praxisphase / Auslandssemester
+- Bachelorarbeit: Zulassung
+- Masterarbeit: Zulassung
+- Praxisphase / Praxissemester
+- Projektarbeiten / Projektpraktika / Hausarbeiten
+- Prüfungspläne / Prüfungsorganisation
+- Rahmenprüfungsordnung / Prüfungsordnungen
+- Wahl der Studienrichtung / des Studienschwerpunktes
+
+- Beurlaubung
+- Exmatrikulation
+- Mutterschutz
+- Rückmeldefristen
+- Studiengangswechsel
+- Studierendenausweis
+- Termine der Fachbereiche/Studiengänge
+- Vorlesungszeiten
+- Wahl der Zusatzmodule
+
+## Prüfungspläne / Prüfungsorganisation Prüfungspläne
+
+## Erläuterung zur Prüfungsan- und -abmeldung
+
+Die Prüfungsan- und abmeldung erfolgt für Studierende mit einer Prüfungsordnungsversion bis 2021 über das
+Virtuelle Service-Center. Für Studierende mit einer Prüfungsordnungsversion ab 2022 erfolgt die Prüfungsan- und abmeldung über das
+Hochschulportal. Auf unserer Homepage finden Sie auch einen
+Anleitungsfilm mit entsprechenden Erläuterungen. Welche Prüfungsordnungsversion Sie aktuell studieren, können Sie im Online-Portal im Menü unter Mein Studium&gt;Studienservice&gt;Mein Status einsehen. #### Prüfungspläne nach Standorten und Fachbereichen
+
+- FB Elektrotechnik und Informationstechnik
+- FB Technische Betriebswirtschaft
+
+- FB Informatik und Naturwissenschaft
+- FB Maschinenbau
+
+- FB Ingenieur- und Wirtschaftswissenschaften
+
+- FB Agrarwirtschaft
+- FB Bildungs- und Gesellschaftswissenschaften
+- FB Elektrische Energietechnik
+- FB Maschinenbau-Automatisierungstechnik
+
+## Anerkennung von Prüfungsleistungen / Einschreibung
+
+### Anerkennung von Prüfungsleistungen Einschreibung
+
+Wenn Sie den Studiengang wechseln möchten, nutzen Sie hierfür bitte das
+Hochschulportal
+
+Antragsformulare zur Anerkennung von Prüfungsleistungen erhalten Sie im Studierenden-Servicebüro und hier:
+
+#### Hagen
+
+Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Wirtschaftsingenieurwesen - Energie und Gebäude 
+PDF
+
+Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Wirtschaftsingenieurwesen (berufsbegleitendes Verbundstudium)
+
+Anerkennungsformular PO 2019
+
+Andere Antragsformulare zur Anerkennung von Prüfungsleistungen erhalten Sie im Studierenden-Servicebüro. #### Iserlohn
+
+Merkblatt zur Anerkennung von Prüfungsleistungen (PDF)
+
+Fachbereich Maschinenbau Präsenz
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Automotive (FPO 2024)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Automotive (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Fertigungstechnik (FPO 2024)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Fertigungstechnik (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Kunststofftechnik (FPO 2024)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Kunststofftechnik (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Maschinenbau (FPO 2023)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Mechatronik (FPO 2024)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Mechatronik (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Produktentwicklung / Konstruktion (FPO 2024)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Produktentwicklung / Konstruktion (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Masterstudiengang Integrierte Produktentwicklung (FPO 2019) (3-semestrig)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Masterstudiengang Integrierte Produktentwicklung (FPO 2019) (4-semestrig)  PDF
+
+Fachbereich Maschinenbau Verbund
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Maschinenbau (Bachelor)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Maschinenbau (Master) Studienbeginn ab WS 2010/11  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Maschinenbau (Master) Studienbeginn ab WS 2017/18  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Mechatronik (Bachelor)  PDF
+
+Fachbereich Informatik und Naturwissenschaften Präsenz
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Angewandte Biologie (FPO 2022) 
+- alle Prüfungsleistungen PDF 
+- Prüfungsleistungen des Berufskollegs Olsberg  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Bio- und Nanotechnologien (BPO 2013)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Bio- und Nanotechnologien (FPO 2020)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Informatik (FPO 2019)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Werkstoffe und Oberflächen (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Life Science Analytics (FPO 2020)  PDF
+
+Fachbereich Informatik und Naturwissenschaften Verbund
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Informatik (Bachelor)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Informatik (Master)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Life Science Engineering (Master) Studienbeginn ab WS 2024/25  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Life Science Engineering (Master) Studienbeginn vor dem WS 2024/25  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Künstliche Intelligenz (Master)  PDF
+
+#### Meschede
+
+Antragsformulare und Informationen zur Anerkennung von Prüfungsleistungen erhalten Sie hier. #### Soest
+
+- Antrag auf Anerkennung von Prüfungsleistungen  PDF
+
+Anerkennung von außerhalb des Hochschulwesens erworbene Kompetenzen:
+
+- Antrag auf Anerkennung von außerhalb des Hochschulwesens erworbene Kompetenzen  PDF
+- Informationen zur Anerkennung von außerhalb des Hochschulwesens erwobenen Kompetenzen auf das
+Präsenzstudium der Frühpädagogik (B.A.)  PDF
+
+#### Lüdenscheid
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Kunststofftechnik (berufsbegleitendes Verbundstudium) Studienbeginn ab WS 2016/17  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Kunststofftechnik (berufsbegleitendes Verbundstudium) Studienbeginn ab WS 2020/21  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Wirtschaftsingenieurwesen - Energie und Gebäude  PDF
+
+Grundsätzliche Informationen zur Bewerbung finden Sie auf unseren
+Bewerbungsseiten
+
+Anträge auf Gast- und kleine Zweithörerschaft
+
+Informationen und Formulare finden Sie auf unseren
+
+## Auslandsaufenthalte Auslandsaufenthalte
+
+### Auslandssemester / Praxismodul / Praxisphase
+
+- Antrag auf Aufnahme von Auslandsaufenthalten in das Diploma Supplement  PDF
+
+- Anträge für das Auslandssemester (nationale Studiengänge - FB TBW)  PDF
+- Anträge für das Auslandsstudienjahr (internationale Studiengänge - FB TBW)  PDF
+
+- Antrag auf Zulassung zur fakultativen Praxisphase - Fachbereich Informatik und Naturwissenschaften  PDF
+- Antrag auf Zulassung zur fakultativen Praxisphase - Fachbereich Maschinenbau  PDF
+
+- Antrag auf Zulassung zum Praxissemester / Auslandspraxisphase / Praxisphase  PDF
+
+- Antrag auf Zulassung zur Praxisphase - Bachelorstudiengang Design- und Projektmanagement  PDF
+- Antrag auf Zulassung zur Projektphase - Bachelorstudiengang Agrarwirtschaft  PDF
+
+Wenn Sie als Studierender der Fachhochschule Südwestfalen ins Ausland gehen möchten, informieren Sie sich bitte auch auf diesen Seiten:
+
+## Rahmenprüfungsordnung / Prüfungsordnungen Prüfungsordnungen
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO), die Sie auf den jeweiligen
+Studiengangsseiten finden, zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. ### Rahmenprüfungsordnung
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. Die Rahmenprüfungsordnung finden Sie hier:
+
+- Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen vom 6. Juni 2018  PDF
+- Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen vom 6. Juni 2018 (english version)  PDF
+- Änderungsordnung der Bachelor- und Masterprüfungsordnungen für die Studiengänge der Fachhochschule Südwestfalen vom 14. Februar 2020  PDF
+
+Bitte beachten Sie, dass eine Prüfungsordnung immer im Zusammenhang mit ihren Änderungssatzungen / Änderungsordnungen zu lesen ist. ### Regelungen Rücktritt Krankheit
+
+Regelungen zum Rücktritt von einer Prüfung wegen Krankheit (PDF)
+
+### Open-Book-Klausuren: Vorlage Eidesstattliche Versicherung
+
+Vorlage Eidesstattliche Versicherung für Open-Book-Klausuren (PDF)
+
+### Prüfungsordnungen auslaufender Studiengänge
+
+- Zur Übersicht der auslaufenden Studiengänge
+
+- Zur Übersicht unserer aktuellen Studiengänge
+
+## Projektarbeiten / Projektpraktika / Hausarbeiten / Industrieprojekte: Anmeldeformulare Projektarbeiten
+
+Standort- und Fachbereichsspezifische Anträge finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+##### Anmeldung zu Projektarbeiten / Praxisprojekten / Hausarbeiten / Industrieprojekten (Fachbereich E&amp;I)
+
+- Anmeldung zur Projektarbeit / Internationalen Projektarbeit / Projektpraktikum (Hausarbeit) Fachbereich Elektrotechnik und Informationstechnik  PDF
+- Anmeldung zum Praxisprojekt im Master-Verbundstudiengang Elektrotechnik  PDF
+- Anmeldung zum Praxisprojekt im Bachelorstudiengang Wirtschaftsingenieurwesen - Energie und Gebäude  PDF
+
+### Iserlohn
+
+- Anmeldung zur Projektarbeit für alle Studiengänge am Standort Iserlohn  PDF
+
+### Meschede
+
+- Anmeldung zur Projektarbeit/ Studienarbeit/ Internationalen Projektarbeit/ Internationalen Studienarbeit  PDF
+- Anmeldung zum Elektrotechnischen Seminar (nur Studiengang Elektrotechnik)  PDF
+- Anmeldung zum Hauptseminar Elektrotechnik (Masterstudiengang Elektrotechnik)  PDF
+- Anmeldung zum Praxisprojekt im Bachelor-Studiengang Angewandte Betriebswirtschaftslehre  PDF
+- Zulassungsantrag zur Projektarbeit im Master Elektrotechnik  PDF
+- Zulassungsantrag zur Projektarbeit im Master-Verbundstudiengang Maschinenbau  PDF
+
+Anmeldeformulare für andere Studiengänge erhalten Sie im Studierenden-Servicebüro. ### Soest
+
+- Bachelorstudiengang Agrarwirtschaft:  Antrag auf Zulassung zur Projektphase (PDF)
+- Bachelorstudiengang Frühpädagogik (Präsenz): Soest1
+    - Bescheinigung über das Vorpraktikum (PDF)
+    - Antrag auf Zulassung zum Praxisprojekt (PDF)
+    - Nachweis der Einrichtung über die Praxistätigkeit (PDF)
+- Bachelorstudiengang Frühpädagogik (berufsbegleitendes Verbundstudium): Soest
+
+- Bescheinigung über das Vorpraktikum (PDF)
+- Antrag auf Zulassung zum Praxisprojekt (PDF)
+- Nachweis der Einrichtung über die Praxistätigkeit (PDF)
+- Fachbereich Maschinenbau-Automatisierungstechnik:  Antrag auf Zulassung zur Projektarbeit Einzelarbeit (PDF)
+- Fachbereich Maschinenbau-Automatisierungstechnik:  Antrag auf Zulassung zur Projektarbeit Gruppenarbeit (PDF)
+
+Antragsformulare für andere Studiengänge erhalten Sie im Studierenden-Servicebüro. ## Praxisphase / Praxissemester / Praxismodul: Anträge auf Zulassung Praxisphase
+
+Standort- und Fachbereichsspezifische Anträge finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+Informationen und Formulare zur Praxisphase finden Sie im
+E-Learning des FB TBW
+
+### Iserlohn
+
+- Antrag auf Zulassung zur fakultativen Praxisphase - Fachbereich Informatik und Naturwissenschaften  PDF
+- Antrag auf Zulassung zur fakultativen Praxisphase - Fachbereich Maschinenbau  PDF
+
+### Meschede
+
+- Antrag auf Zulassung zum Praxissemester / Auslandspraxisphase / Praxisphase  PDF
+- Antrag auf Zulassung zum Praxisprojekt für den viersemestrigen Masterstudiengang Informations- und Kommunikationssysteme und deren Management  PDF
+- Antrag auf Zulassung zum optionalen Fachsemester  PDF
+
+### Soest
+
+- Bachelorstudiengang Design- und Projektmanagement: Antrag auf Zulassung zur Praxisphase  PDF
+- Bachelorstudiengang Elektrotechnik (BPO 2015): Antrag auf Zulassung zur Projektphase  PDF
+- Bachelorstudiengang Elektrotechnik (FPO 2020, 7 Semester): Antrag auf Zulassung zur Praxisphase  PDF
+- Bachelorstudiengang Frühpädagogik (Präsenz): Bescheinigung über das Vorpraktikum  PDF  - Antrag auf Zulassung zum Praxisprojekt  PDF  - Nachweis der Einrichtung über die Praxistätigkeit:  PDF
+- Bachelorstudiengang Frühpädagogik (Präsenz): Antrag auf Zulassung zum Praxissemester  PDF
+- Bachelorstudiengang Maschinenbau: Antrag auf Zulassung zum Praxismodul  PDF
+- Bachelorstudiengang Technische Redaktion und Medienmanagement: Antrag auf Zulassung zum Praxismodul  PDF
+- Bachelorstudiengang Wirtschaftsingenieurwesen (BPO 2016 und FPO 2020): Antrag auf Zulassung zur Praxisphase  PDF
+- Masterstudiengang International Management &amp; Information Systems: Antrag auf Zulassung zum Praxisprojekt / Application for Admission to the Practical Project  PDF
+
+- Bachelorstudiengänge Digitale Technologien/ Elektrotechnik/ Maschinenbau/ Wirtschaftsingenieurwesen (ausbildungsintegrierend u. praxisintegrierend): 
+Formular Teil 1  Zeiträume (PDF) , Formular Teil 2  Abschließende Beurteilung (PDF)
+- Bachelorstudiengang Frühpädagogik (berufsbegleitendes Verbundstudium): Bescheinigung über das Vorpraktikum  PDF - Antrag auf Zulassung zum Praxisprojekt  PDF  - Nachweis der Einrichtung über die Praxistätigkeit:  PDF
+- Bachelorstudiengang Wirtschaftsingenieurwesen-Maschinenbau (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase  PDF
+- Masterstudiengang Frühpädagogik (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase  PDF
+- Masterstudiengang Medienpädagogik (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase  PDF - Nachweis der Einrichtung über die Praxistätigkeit:  PDF
+
+Die Antragsformulare für andere Studiengänge erhalten Sie im Studierenden-Servicebüro. ## Bachelorarbeit - Anträge zur Zulassung Bachelorarbeit
+
+Antragsformulare zur Anmeldung der Bachelorarbeit finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+- Antrag auf Zulassung für die Verbundstudiengänge am Standort Hagen  PDF
+- Antrag auf Zulassung für die Vollzeitstudiengänge des Fachbereichs E&amp;I  PDF
+- Antrag auf Zulassung für die Vollzeitstudiengänge des Fachbereichs TBW  PDF
+- Erklärung über die Abgabe von Zusatzexemplaren der Abschlussarbeiten für die Vollzeitstudiengänge des Fachbereichs TBW  PDF
+
+### Iserlohn
+
+- Antrag auf Zulassung für alle Präsenzstudiengänge im Fachbereich Informatik &amp; Naturwissenschaften  PDF
+- Antrag auf Zulassung für alle Präsenzstudiengänge im Fachbereich Maschinenbau  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Kunststofftechnik  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Maschinenbau  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Mechatronik  PDF
+- Antrag auf Zulassung zur Bachelorarbeit für den Verbundstudiengang Angewandte Informatik  PDF
+
+### Meschede
+
+- Antrag auf Zulassung für alle Bachelorstudiengänge (Studierende des Wirtschaftsingenieurwesen, FPO 2019, beachten bitte die dritte Seite!)  PDF
+
+### Soest
+
+- Antrag auf Zulassung zur Bachelorarbeit für alle Bachelorstudiengänge  PDF
+- Antrag auf Zulassung zur Bachelorarbeit für alle Bachelorstudiengänge (online ausfüllbar)  PDF
+- Ergänzung zum Bachelorantrag: Festlegung der Wahlpflichtmodule  PDF
+- Ergänzung zum Bachelor-Antrag für den Bachelorstudiengang Wirtschaftsingenieurwesen-Maschinenbau (berufsbegleitendes Verbundstudium) (FPO 2022)  PDF
+- Antrag auf Verlängerung der Abgabefrist der Bachelorarbeit  PDF 
+Application for an Extension of the Deadline of the Bachelor Thesis  PDF
+- Application for Admission to the Bachelor Thesis  PDF
+- Eigenständigkeitserklärung für Abschlussarbeiten  PDF
+- Statement of authorship for degree theses  PDF
+
+### Informationen bzgl. der Anfertigung einer Abschlussarbeit in einem Unternehmen
+
+Viele Unternehmen verlangen mittlerweile trotz der gesetzlichen Verpflichtung der Hochschulmitglieder zur Verschwiegenheit (nach § 10 Abs. 3 HG NRW) eine von zumindest Ihrer Betreuerin oder Ihrem Betreuer zu unterzeichnende Geheimhaltungsvereinbarung (GHV)/Non-Disclosure Agreement (NDA), wenn eine Abschlussarbeit in dem Unternehmen angefertigt werden soll, da diese Informationen enthalten könnten, die der Geheimhaltung unterliegen. Deswegen haben wir zwei Muster für Sie erstellt, die – im Gegensatz zu vielen Mustern aus der Wirtschaft – Regelungen zum Prüfungsverfahren enthalten. Geheimhaltungsvereinbarung mit Zweitprüfer*in
+
+Geheimhaltungsvereinbarung ohne Zweitprüfer*in
+
+Wir raten Ihnen dringend an, eines dieser Muster bereits bei Ihrem ersten konkreten Gespräch/Kontakt mit dem Unternehmen bzw. der für Sie im Unternehmen zuständigen Person vor der Unterzeichnung eines Vertrages mitzunehmen/einzureichen und mit dem Unternehmen abzuklären, ob eine GHV erforderlich ist und ob die GHV der FH SWF ggf. ausreichend ist.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 711
+
+Metadata: {'id': 254, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: Sollte das Unternehmen die GHV der FH SWF aus irgendwelchen Gründen ablehnen und Ihnen stattdessen eine eigene GHV überreichen, so senden Sie diese bitte ebenfalls vor der Unterzeichnung einer konkreten Vereinbarung an das Justitiariat. Die jeweiligen Kontaktdaten finden Sie auf unserer Webseite:
+Kontakt Recht und Compliance
+
+## Masterarbeit - Anträge zur Zulassung Masterarbeit
+
+Antragsformulare zur Anmeldung der Masterarbeit finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+- Antrag auf Zulassung für den Vollzeitstudiengang Informatics and Business  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Medizintechnik  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Wirtschaftsingenieurwesen (MPO 2014)  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Wirtschaftsingenieurwesen (FPO 2021)  PDF
+- Antrag auf Zulassung für die Verbundstudiengänge am Standort Hagen  PDF
+- Erklärung über die Abgabe von Zusatzexemplaren der Abschlussarbeiten für die Vollzeitstudiengänge des Fachbereichs TBW  PDF
+
+### Iserlohn
+
+- Antrag auf Zulassung für den Studiengang Integrierte Produktentwicklung  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Informatik (MPO 2016)  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Informatik (FPO 2020)  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Künstliche Intelligenz  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Maschinenbau  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Life Science Engineering  PDF
+
+### Meschede
+
+- Antrag auf Zulassung zur Masterarbeit für Vollzeitstudiengänge  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Master-Verbundstudiengang Maschinenbau  PDF
+
+### Soest
+
+- Antrag auf Zulassung zur Masterarbeit im Fachbereich Bildungs- und Gesellschaftswissenschaften  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Studiengang Agrarwirtschaft  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Studiengang Digitale Technologien  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Studiengang International Management &amp; Information Systems / Request for admission to Master thesis in International Management &amp; Information Systems  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Studiengang International Management &amp; Information Systems - Online / Request for admission to Master thesis in International Management &amp; Information Systems - Online  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Studiengang Systems Engineering and Engineering Management / Advanced Engineering and Engineering Management  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Weiterbildenden Verbundstudiengang Technik- und Unternehmensmanagement  PDF
+
+- Antrag auf Verlängerung der Abgabefrist der Masterarbeit  PDF 
+Application for an Extension of the Deadline of the Master Thesis  PDF
+- Eigenständigkeitserklärung für Abschlussarbeiten  PDF
+- Statement of authorship for degree theses  PDF
+
+### Informationen bzgl. der Anfertigung einer Abschlussarbeit in einem Unternehmen
+
+Viele Unternehmen verlangen mittlerweile trotz der gesetzlichen Verpflichtung der Hochschulmitglieder zur Verschwiegenheit eine von zumindest Ihrer Betreuerin oder Ihrem Betreuer zu unterzeichnende Geheimhaltungsvereinbarung (GHV)/Non-Disclosure Agreement (NDA), wenn eine Abschlussarbeit in dem Unternehmen angefertigt werden soll, da diese Informationen enthalten könnten, die der Geheimhaltung unterliegen.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 371
+
+Metadata: {'id': 255, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: Deswegen haben wir ein Muster für Sie erstellt, das – im Gegensatz zu vielen Mustern aus der Wirtschaft – Regelungen zum Prüfungsverfahren enthält. Muster PDF
+
+Wir raten Ihnen dringend an, dieses Muster bereits bei Ihrem ersten konkreten Gespräch/Kontakt mit dem Unternehmen bzw. der für Sie im Unternehmen zuständigen Person vor der Unterzeichnung eines Vertrages mitzunehmen/einzureichen und mit dem Unternehmen abzuklären, ob eine GHV erforderlich ist und ob die GHV der FH SWF ggf. ausreichend ist. Sollte das Unternehmen die GHV der FH SWF aus irgendwelchen Gründen ablehnen und Ihnen stattdessen eine eigene GHV überreichen, so senden Sie diese bitte ebenfalls vor der Unterzeichnung einer konkreten Vereinbarung an das Justitiariat. Die jeweiligen Kontaktdaten finden Sie auf unserer Webseite:
+Kontakt Recht und Compliance
+
+## Wahl der Studienrichtung / eines Studienschwerpunktes Studienrichtung
+
+- Antrag auf Wahl der Studienrichtung / des Studienschwerpunktes  PDF
+- Nur für Studierende im Mescheder Bachelorstudiengang Elektrotechnik (ab FPO 2017): Antrag Ausweis eines oder mehrerer Studienschwerpunkte auf dem Zeugnis  PDF
+
+## Wahl der Zusatzmodule Zusatzmodule
+
+Formulare für die folgenden Standorte:
+
+### Iserlohn
+
+- Anmeldung zur Prüfung in einem Zusatzmodul  PDF
+
+### Meschede
+
+- Anmeldung zur Prüfung in einem Zusatzmodul  PDF
+- Abmeldung von einer Prüfung in einem Zusatzmodul  PDF
+- Antrag auf Eintragung von Zusatzmodulen (Zeugnis)  PDF
+
+## Beurlaubung Beurlaubung
+
+Nur bei Vorliegen eines wichtigen Grundes kann eine Beurlaubung vom Studium gewährt werden, und zwar in der Regel für ein Semester, beim Freiwilligendienst für zwei Semester. Außerdem müssen die Beurlaubungsgründe mindestens die Hälfte des Semesters andauern.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 999
+
+Metadata: {'id': 256, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: ### Wichtige Gründe für eine Beurlaubung
+ 
+| Grund                                  | Nachweis / Voraussetzung                                                                                                                                 | 
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Krankheit                              | Vorlage einer ärztlichen Bescheinigung, aus der sich ergibt, dass ein ordnungsgemäßes Studium im beantragten Semester voraussichtlich nicht möglich ist. | 
+| Praktikum                              | Praktikum muss dem Studium förderlich sein. (Praktikumsvertrag)                                                                                          | 
+| Auslandsstudium bzw. Auslandspraktikum | Entspr. Nachweis                                                                                                                                         | 
+| Freiwilligendienst                     | Aufforderung zum Antritt des Freiwilligendiensts                                                                                                         | 
+| Schwangerschaft                        | Vorlage einer ärztlichen Bescheinigung, aus der sich ergibt, dass ein ordnungsgemäßes Studium nicht möglich ist                                          | 
+| Elternzeit                             | Bis zum vollendeten 8. Lebensjahr des Kindes können pro Kind bis zu 6 Semester beantragt werden. Vorlage der Geburtsurkunde                              |
+
+### Antrag und weitere Infos zur Beurlaubung
+
+Der Antrag auf Beurlaubung ist während der Rückmeldefrist über das
+Online-Portal der Fachhochschule Südwestfalen zu stellen. Da die Beurlaubung die Rückmeldung ersetzt, gilt die gleiche Frist. Ausnahmen sind nur zulässig, wenn die Voraussetzungen für die Beurlaubung erst zu einem späteren Zeitpunkt eintreten (z.B. Erkrankung, Geburt eines Kindes). Für den Antrag auf Beurlaubung sind je nach Grund entsprechende Nachweise im Online-Portal hochzuladen. Sofern während der Beurlaubung Beiträge zu entrichten sind, ist deren Zahlung Voraussetzung für die Beurlaubung. Während der Beurlaubung können keine Studien- und Prüfungsleistungen erbracht werden. Davon ausgenommen sind Beurlaubungen wegen Elternzeit bzw. Pflege von Verwandten ersten Grades und Wiederholung von nicht bestandenen Prüfungen. Die Prüfungsanmeldung ist dann nur direkt über das
+Studierenden-Servicebüro möglich. Achtung: Eine Beurlaubung vom Studium kann Auswirkungen haben z.B. auf den Bezug von BAföG, Kindergeld, den Aufenthaltsstatus (bzw. die damit verbundene Arbeitserlaubnis), den Krankenversicherungsschutz (ggf. höhere Versicherungsbeiträge) etc. Informieren Sie sich bitte rechtzeitig vor der Antragstellung bei den entsprechenden Stellen! Tobias Becker
+
+Baarstraße 6
+
+## Exmatrikulation Exmatrikulation
+
+Die Exmatrikulation kann jederzeit über das
+Online-Portal beantragt werden. Mit der Exmatrikulation hört man auf, Mitglied der Fachhochschule Südwestfalen zu sein. Eine Rückzahlung des Sozial- und Studierendenschaftsbeitrages - ggfs. auch der Materialbezugsgebühr - ist nur möglich, wenn der Exmatrikulationsantrag spätestens vor Vorlesungsbeginn eingereicht wird, zusammen mit dem Bescheinigungssatz (Chiporello, ggf. Semesterticket, diverse Studiennachweise). Über die Erstattung des Semestertickets - an den Standorten Hagen, Iserlohn und Soest - entscheidet der AStA. Die Exmatrikulation ist auch von Amts wegen (z.B. bei versäumter Rückmeldung) möglich. Falls Sie sich absichtlich nicht rückgemeldet haben, weil Sie Ihr Studium abgeschlossen haben bzw. Ihr Studium nicht fortsetzen möchten, müssen Sie nichts weiter unternehmen. Der Bescheid gilt als regulärer Exmatrikulationsnachweis, der zur Vorlage bei Behörden oder zur weiteren Immatrikulation an anderen Hochschulen ohne negative Konsequenzen Gültigkeit hat. Das Online-Portal der Fachhochschule Südwestfalen steht Ihnen noch bis zu 60 Tage nach der Exmatrikulation zur Verfügung. Formulare / PDFs
+
+- Request for Reimbursement of the Semester Fees
+- Antrag auf Beendigung eines Studienganges / Apply for exmatriculation
+
+## Mutterschutz für Studentinnen Mutterschutz
+
+Seit dem 01.01.2018 gilt das neue Mutterschutzgesetz (MuSchG). Erstmalig stehen darin auch Studentinnen im Anwendungs- und Schutzbereich dieses Gesetzes. Schwangere und Mütter im Studium haben einen Anspruch auf eine sechswöchige Schutzfrist vor und eine mindestens achtwöchige nach der Geburt. ### Informationen zum Mutterschutz / Rechtliches
+
+Das
+Familienbüro der Fachhochschule Südwestfalen ist der erste Ansprechpartner, wenn Sie Fragen zum Mutterschutz haben. Damit Sie sich im Detail in die Regelungen einlesen können, stellen wir Ihnen hier den
+Gesetzestext zum Mutterschutzgesetz zur Verfügung. Zudem möchten wir Sie auf einen
+Leitfaden zum Mutterschutz des zuständigen Bundesministeriums hinweisen. Anwendbarkeit
+
+Nach § 1 Abs.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 869
+
+Metadata: {'id': 257, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: 2 Nr. 8 gilt das Gesetz für Studentinnen, soweit die Hochschule Ort, Zeit und Ablauf der Ausbildungsveranstaltung verpflichtend vorgibt oder die ein im Rahmen der hochschulischen Ausbildung verpflichtet vorgegebenes Praktikum ableisten. ### Maßnahmen zum Mutterschutz
+
+Es ist nicht auszuschließen, dass im Rahmen Ihres Studiums bei einigen Veranstaltungen gesundheitliche Gefährdungen für Sie oder Ihr ungeborenes Kind bestehen könnten. Nach Mitteilung der Schwangerschaft durch Sie ist unabhängig vom Studiengang eine sog. Gefährdungsbeurteilung zu erstellen, damit eventuelle Gefährdungen erkannt und entsprechende Schutzmaßnahmen vorgenommen werden können. Diese wird automatisch durch eine Fachkraft für Arbeitssicherheit in Abstimmung mit dem zuständigen Fachbereich vorgenommen. Hierbei kann es im Einzelfall dazu kommen, dass Sie diesbezüglich kontaktiert werden. ### Anzeigen einer Schwangerschaft / einer Geburt
+
+Es steht Ihnen frei ihre Schwangerschaft bzw., dass Sie Mutter sind, anzuzeigen. Obwohl Freiwilligkeit gegeben ist, wird Schwangeren und Müttern im Studium nahe gelegt, im eigenen Interesse ihre Schwangerschaft bzw. Geburt der Hochschule zu melden. Sollten Sie davon Gebrauch machen wollen, melden Sie sich bitte im
+Studierenden-Servicebüro Ihres Standortes. Von dort werden weitere Beteiligte informiert und in Ihrem Sinne hinzugezogen. Insbesondere die zuständigen Fachbereiche werden im Rahmen ihrer Zuständigkeiten erforderliche Schutzmaßnahmen ergreifen und ggf. auch über prüfungsseitige Anträge entscheiden. Im Übrigen ist mit dem Mutterschutzgesetz eine Mitteilungspflicht der Hochschule an die zuständige Aufsichtsbehörde (Bezirksregierung Arnsberg) verbunden. Bei Inanspruchnahme der Mutterschutzfrist werden Sie automatisch von den Prüfungen abgemeldet, für die Sie sich innerhalb der Mutterschutzfrist angemeldet haben. Anzeigen einer Geburt
+
+Sofern Sie die Mutterschutzfrist nach der Geburt Ihres Kindes in Anspruch nehmen möchten so füllen Sie bitte das Formular zur Anzeige einer Geburt aus und senden Sie uns dieses bitte an das Studierenden-Servicebüro Ihres Standortes. Formulare
+
+- Formular zur Anzeige einer Schwangerschaft  PDF
+- Formular zur Anzeige einer Geburt  PDF
+
+## Studiengangwechsel Studiengangwechsel
+
+Im Laufe Ihres Studiums, vor allem in den ersten Semestern, kann es durchaus vorkommen, dass Sie an der Richtigkeit Ihrer Studienwahl zweifeln und überlegen, ob nicht ein anderer Studiengang geeigneter wäre. Studierende, die innerhalb der Fachhochschule Südwestfalen ihren Studiengang wechseln oder sich in einen 2. Studiengang einschreiben möchten, können dies ganz einfach über die Online-Bewerbung beantragen. Weitere Infos hierzu auf den
+Bewerbungsseiten. ## Der Studierendenausweis "Chiporello" an der FH Südwestfalen Studierendenausweis
+
+Mit einem eingebauten Chip erfüllt der Studierendenausweis verschiedene Zusatzfunktionen. So dient dieser gleichzeitig als Bibliotheksausweis und Kopierkarte. Der Chiporello kann über einen personalisierten Link im Online-Portal der Hochschule beantragt werden. Alle neuen Studierenden erhalten ihre Zugangsdaten für das Hochschulportal automatisch per Post zugeschickt. Weitere Informationen
+
+## Rückmeldefristen
+
+### Rückmeldung zum Sommersemester 2025:
+
+#### 07.01.2025 bis zum 21.01.2025
+
+Zur Rückmeldung loggen Sie sich in das
+Online-Portal ein und überweisen den dort angegebenen Betrag. Bitte beachten Sie auch die dort ggfs. ausgewiesene Rückmeldesperre. Sie erhalten eine E-Mail an Ihre von der Fachhochschule Südwestfalen eingerichtete E-Mail-Adresse (nachname.vorname@fh-swf.de) zum Starttermin der Rückmeldung. Haben wir Ihre aktuelle Anschrift? Bitte achten Sie darauf, dass Ihre bei uns angegebene Adresse stets aktuell ist. So ist sichergestellt, dass wichtige Schreiben von der Fachhochschule Sie auch erreichen können. Sie können uns eine Änderung Ihrer Anschrift
+online, telefonisch, per E-Mail oder per Post mitteilen. Neu an der Fachhochschule Südwestfalen? In den ersten Woche Ihres Studiums bieten wir Ihnen viele spannende Termine und Kennenlern-Angebote. ## Vorlesungszeiten Vorlesungszeiten
+ 
+|                           |                               |
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 2360
+
+Metadata: {'id': 258, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: 
+|---------------------------|-------------------------------| 
+| Wintersemester 2024/2025: | von 23.09.2024 bis 07.02.2025 | 
+| Sommersemester 2025:      | von 24.03.2025 bis 18.07.2025 | 
+| Wintersemester 2025/2026: | von 22.09.2025 bis 06.02.2026 | 
+| Sommersemester 2026:      | von 06.04.2026 bis 31.07.2026 | 
+| Wintersemester 2026/2027: | von 28.09.2026 bis 12.02.2027 | 
+| Sommersemester 2027:      | von 29.03.2027 bis 23.07.2027 | 
+| Wintersemester 2027/2028: | von 27.09.2027 bis 11.02.2028 | 
+| Sommersemester 2028:      | von 03.04.2028 bis 28.07.2028 | 
+| Wintersemester 2028/2029: | von 25.09.2028 bis 09.02.2029 | 
+| Sommersemester 2029:      | von 26.03.2029 bis 20.07.2029 | 
+| Wintersemester 2029/2030: | von 24.09.2029 bis 08.02.2030 | 
+| Sommersemester 2030:      | von 19.03.2030 bis 12.07.2030 |
+
+Eine Erstattung der Semesterbeiträge sowie ggf. der Medien- und Servicegebühren ist nur bei Exmatrikulation bis zum o. g. Vorlesungsbeginn des jeweiligen Semesters möglich. Für Ihren individuellen Studiengang können jedoch abweichende Termine bestehen. Information erfolgt durch den Fachbereich - siehe unten. Für die Erstattung ist jedoch weiterhin das Datum des o. g. Vorlesungsbeginns relevant. Diese Vorlesungszeiten der Studiengänge an Fachhochschulen des Landes Nordrhein-Westfalen ergeben sich aus den Erlassen des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen. ## Termine der Fachbereiche/Studiengänge
+
+Die tatsächlichen Semestertermine werden von den Fachbereichen bestimmt und können von den offiziellen Vorlesungszeiten abweichen. Bitte wählen Sie Ihren Fachbereich aus. | Termine                                                  | im Fachbereich Elektrotechnik und Informationstechnik                                                    | 
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------| 
+| 26.08.2024 - 16.09.2024                                  | Mathematik-Brückenkurs Verbundstudiengang Elektrotechnik                                                 | 
+| 02.09.2024 - 13.09.2024                                  | Mathematik-Brückenkurs Präsenzstudiengänge                                                               | 
+| 02.09.2024 - 13.09.2024                                  | Zweiter Prüfungszeitraum SoSe 2024                                                                       | 
+| 16.09.2024 - 20.09.2024                                  | Einführungswoche für Erstsemester                                                                        | 
+| 23.09.2024                                               | Beginn des Wintersemesters 2024/25 &amp; Vorlesungsbeginn                                                    | 
+| 07.10.2024 - 21.10.2024 (Rücktritt möglich bis 04.11.24) | Anmeldungen zu semesterbegleitende Prüfungen (Kombinationsprüfung, Hausarbeit, Portfolio) WiSe 2024/2025 | 
+| 07.10.2024 - 13.01.2025                                  | Anmeldungen zu semesterabschließende Prüfungen (Mündliche Prüfungen und Klausuren) WiSe 2024/2025        | 
+| N.N. | Rückmeldung zum Sommersemester 2025                                                                      | 
+| 27.01.2025 - 07.02.2025                                  | Erster Prüfungszeitraum WiSe 2024/25                                                                     | 
+| 03.03.2025 - 14.03.2025                                  | Zweiter Prüfungszeitraum WiSe 2024/25                                                                    | 
+| 24.03.2025                                               | Beginn des Sommersemesters 2025 &amp; Vorlesungsbeginn                                                       | 
+| N.N. | Anmeldungen zu den Modulprüfungen des Sommersemesters 2025                                               | 
+| 07.07.2025 - 18.07.2025                                  | Erster Prüfungszeitraum SoSe 2024                                                                        | 
+| N.N. | Mathematik-Brückenkurs Verbundstudiengang Elektrotechnik                                                 | 
+| N.N. | Mathematik-Brückenkurs Präsenzstudiengänge                                                               | 
+| 01.09.2025 - 12.09.2025                                  | Zweiter Prüfungszeitraum SoSe 2025                                                                       | 
+| N.N. | Einführungswoche für Erstsemester                                                                        | 
+| 22.09.2025                                               | Beginn des Wintersemesters 2025/26 &amp; Vorlesungsbeginn                                                    |
+ 
+| Termine                                               | im Fachbereich Technische Betriebswirtschaft               | 
+|-------------------------------------------------------|------------------------------------------------------------| 
+| 07.10.2024 - 13.01.2025                               | Anmeldungen zu den Klausuren des Wintersemesters 2024/2025 | 
+| 07.10.2024 - 21.10.2024  (Rücktrittsfrist 04.11.2024) | Anmeldezeitraum sonstige Prüfungsformen (außer Klausur)    | 
+| 23.12.2024 - 03.01.2025                               | Selbststudium                                              | 
+| 07.01.- 21.01.2025                                    | Rückmeldung zum Sommersemester 2025                        | 
+| 24.01.2025                                            | Vorlesungsende Wintersemester 2024/2025                    | 
+| 27.01. - 07.02.2025                                   | Erster Prüfungszeitraum Wintersemester 2024/2025           | 
+| 10.02.- 14.02.2025                                    | Blockwoche für Bachelor- und Master-Präsenzstudiengänge    | 
+| 10.03. - 14.03.2025                                   | Zweiter Prüfungszeitraum Wintersemester 2024/2025          | 
+| 24.03.2025                                            | Vorlesungsbeginn Sommersemester 2025                       | 
+| 04.07.2025                                            | Vorlesungsende Sommersemester 2025                         | 
+| 07.07. – 18.07.2025                                   | Erster Prüfungszeitraum Sommersemester 2025                | 
+| 21.07. – 25.07.2025                                   | Blockwoche für Bachelor- und Master-Präsenzstudiengänge    | 
+| 15.09. – 19.09.25                                     | Zweiter Prüfungszeitraum Sommersemester 2025               | 
+| 22.09.2025 – 26.09.2025                               | Blockwoche für Bachelor- und Master-Präsenzstudiengänge    | 
+| 29.09.2025                                            | Vorlesungsbeginn Wintersemester 2025/2026                  | 
+| N.N. | Mathematik-Brückenkurs Präsenzstudiengänge                 | 
+| N.N. | Einführungswoche für Bachelor-Erstemester                  | 
+| N.N. | Einführungsveranstaltung für Master                        | 
+| 23.01.2026                                            | Vorlesungsende Wintersemester 2025/2026                    |
+ 
+| FB IN: Präsenzstudium  Den Terminplan für das aktuelle Semester finden Sie hier. | FB IN: Präsenzstudium  Den Terminplan für das aktuelle Semester finden Sie hier. | 
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------| 
+| FB IN: Verbundstudium Angewandte Informatik (B.Sc.)  Den Terminplan für das aktuelle Semester finden Sie hier. | FB IN: Verbundstudium Angewandte Informatik (B.Sc.)  Den Terminplan für das aktuelle Semester finden Sie hier. | 
+| FB IN: Verbund-Studium Angewandte Informatik (M.Sc.)  Den Terminplan für das aktuelle Semester finden Sie hier. | FB IN: Verbund-Studium Angewandte Informatik (M.Sc.)  Den Terminplan für das aktuelle Semester finden Sie hier. | 
+| FB IN: Verbundstudium Angewandte Künstliche Intelligenz M.Sc. Den Terminplan für das aktuelle Semester finden Sie hier. | FB IN: Verbundstudium Angewandte Künstliche Intelligenz M.Sc. Den Terminplan für das aktuelle Semester finden Sie hier. | 
+| FB IN: Verbund-Studium Life Science Engineering (M.Sc.)   Den Terminplan für das aktuelle Semester finden Sie hier       | FB IN: Verbund-Studium Life Science Engineering (M.Sc.)   Den Terminplan für das aktuelle Semester finden Sie hier       |
+ 
+| Präsenztermine Bachelor-Verbundstudiengang Maschinenbau Die Präsenz-, bzw. Stundenpläne für das laufende und das kommende Semester finden Sie jeweils auf der Moodle-Plattform unter Informationen und Mitteilungen VB Maschinenbau (B.Eng.) (vorherige Anmeldung nötig). | 
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+| Präsenzpläne Maschinenbau (berufsbegleitendes Verbundstudium) (M.Eng.) Die Präsenz-, bzw. Stundenpläne für das laufende und das kommende Semester finden Sie jeweils auf der Moodle-Plattform unter Informationen und Mitteilungen VB Maschinenbau (M.Eng.) (vorherige Anmeldung nötig). | 
+| Präsenzpläne Mechatronik (berufsbegleitendes Verbundstudium) (B.Eng.) Die Präsenz-, bzw. Stundenpläne für das laufende und das kommende Semester finden Sie jeweils auf der Moodle-Plattform unter Informationen und Mitteilungen VB Mechatronik (B.Eng.) (vorherige Anmeldung nötig). | 
+| Präsenzpläne Kunststofftechnik (berufsbegleitendes Verbundstudium) (B.Eng.) Die Präsenz-, bzw. Stundenpläne für das laufende und das kommende Semester finden Sie jeweils auf der Moodle-Plattform unter Informationen und Mitteilungen VB Kunststofftechnik (B.Eng.) (vorherige Anmeldung nötig). |
+ 
+| Termine Wintersemester 2024/25                                                     | Fachbereich Ingenieur- und Wirtschaftswissenschaften                                        | 
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------| 
+| Ab 09.09.2024                                                                      | Vorkurs Mathematik 1. Semester                                                              | 
+| 16.09. – 22.09.2024                                                                | Projektarbeiten (SS 2024)                                                                   | 
+| 23.09. – 06.10.2024                                                                | Prüfungen (2. Block, SS 2024)                                                               | 
+| 02.10.2024                                                                         | Einführungsveranstaltung Bachelorstudiengänge                                               | 
+| 07.10. – 20.12.2024  06.01. – 19.01.2025                                           | Lehrveranstaltungen gemäß Stundenplan                                                       | 
+| 03.10.2024 (Do)  01.11.2024 (Fr)  24./25./26.12.2024 31.12.24 / 01.01.25           | Tag der Deutschen Einheit Allerheiligen Weihnachten Silvester / Neujahr                     | 
+| 20.01. – 02.02.2025                                                                | Prüfungen (1. Block, WS 2024/25)                                                            | 
+| 03.02. – 09.02.2025                                                                | Projektarbeiten (WS 2024/25)                                                                | 
+| 10.02. – 09.03.2025                                                                | Vorlesungsfreie Zeit                                                                        | 
+| 10.03. – 16.03.2025                                                                | Projektarbeiten (WS 2024/25)                                                                | 
+| 17.03. – 30.03.2025                                                                | Prüfungen (2. Block, WS 2024/25)                                                            | 
+| ab 31.03.2025                                                                      | Lehrveranstaltungen des SS 2025                                                             | 
+|                                                                                    |                                                                                             |
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 306
+
+Metadata: {'id': 259, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: 
+| Anmeldezeitraum                                                                    | Anmeldezeitraum                                                                             | 
+| 07.10. – 04.11.2024                                                                | Prüfungsanmeldung für alle Studiengänge                                                     | 
+| 18.11.2024                                                                         | Abmeldefristende Portfolioprüfungen und Hausarbeiten                                        | 
+|                                                                                    |                                                                                             | 
+| Termine Sommersemester 2025                                                        | Fachbereich Ingenieur- und Wirtschaftswissenschaften                                        | 
+| 10.03. – 16.03.2025                                                                | Projektarbeiten                                                                             | 
+| 17.03. – 30.03.2025                                                                | Prüfungen (2. Block, WS 2024)                                                               | 
+| 31.03. – 13.07.2025                                                                | Lehrveranstaltungen gemäß Stundenplan                                                       | 
+| 21.04. – 27.04.2025                                                                | Vorlesungsfreie Osterwoche                                                                  | 
+| 01.05.2025 (Do)  29.05.2025 (Do)  09.06.2025 (Mo) 10.06.2025 (Di)  19.06.2025 (Do) | Tag der Arbeit  Christi Himmelfahrt  Pfingstmontag  freier Tag nach Pfingsten  Fronleichnam | 
+| 14.07. – 27.07.2025                                                                | Prüfungen (1. Block, SS 2025)                                                               | 
+| 28.07. – 03.08.2025                                                                | Projektarbeiten                                                                             | 
+| 15.09. – 21.09.2025                                                                | Projektarbeiten                                                                             | 
+| 22.09. – 05.10.2025                                                                | Prüfungen (2. Block, SS 2025)                                                               | 
+| ab 06.10.2025                                                                      | Lehrveranstaltungen des WS 2025/26                                                          | 
+|                                                                                    |                                                                                             |
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 3425
+
+Metadata: {'id': 260, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studierende/studienorganisation/index.php', 'hash': 'e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858'}
+Text: 
+| Anmeldezeitraum                                                                    | Anmeldezeitraum                                                                             | 
+| 31.03. – 28.04.2025                                                                | Alle Prüfungsformen                                                                         | 
+| 12.05.2025                                                                         | Abmeldefristende Portfolioprüfungen und Hausarbeiten                                        |
+
+## FB Agrarwirtschaft
+
+#### Termine Wintersemester 2024/25
+
+Terminübersicht WiSe 2024/25 &amp; SoSe 2025 zum Download (PDF)
+
+- Rückmeldungen für WiSe 2024/25
+    - 04.06.2024 - 21.06.2024
+
+- Bachelor
+    - Mo. 07.10.2024
+- Master
+
+- Mo. 14.10.2024
+- Einführungstage Hardehausen
+
+- Mo. 28.10.2024 - Mi. 30.10.2024 (unter Vorbehalt)
+
+- Bachelor
+    - Mo. 07.10.2024 - Fr. 24.01.2025
+- Master 1. Sem. - Mo. 14.10.2024 - Fr. 24.01.2025
+
+- Anmeldezeitraum Klausuren (2. Zeitraum SoSe 2024)
+    - Mo. 19.08. – So. 01.09.2024
+- 2. Prüfungszeitraum SoSe 2024
+
+- Fr. 20.09.2024 - Fr. 04.10.2024 (vorläufig)
+- Präsentation der Masterarbeiten
+
+- Mo. 16.12.2024 - Di. 17.12.2024
+- Präsentation der Unternehmensbezogenen Projektarbeiten
+
+- Mo. 13.01.2025 - Di. 14.01.2025
+- Anmeldezeitraum Klausuren (1. Zeitraum WiSe 2024/2025)
+
+- Mo. 16.12.2024 - So. 05.01.2025
+- 1. Prüfungszeitraum WiSe 2024/2025
+
+- Mo. 27.01.2025 - Fr. 07.02.2025 (vorläufig)
+
+- Weihnachten
+    - Sa. 21.12.2024 - So. 05.01.2025
+- Soester Agrarforum
+
+- Fr. 10.01.2025
+
+#### Termine Sommersemester 2025
+
+Terminübersicht SoSe 2025 &amp; WiSe 2025/26 zum Download (PDF)
+
+- Rückmeldungen für SoSe 2025
+    - Januar 2025
+
+- Master Agrarwirtschaft
+    - N.N. - Bachelor
+    - Mo. 07.04.2025 - Fr. 04.07.2025
+- Master
+
+- Mo. 14.04.2025 - Fr. 04.07.2025
+
+- Anmeldezeitraum Klausuren (2. Zeitraum WiSe 20234/25)
+    - Mo. 17.02.2025 - So. 02.03.2025 (vorläufig)
+- 2. Prüfungszeitraum WiSe 2024/25
+
+- Do. 20.03.2025 - Fr. 04.04.2025 (vorläufig)
+- Präsentation der Masterarbeiten
+
+- Mo. 23.06.2025 - Di. 24.06.2025
+- 1. Prüfungszeitraum SoSe 2025
+
+- Mo. 07.07.2025 - Fr. 18.07.2025
+- Anmeldezeitraum 1. Prüfungszeitraum SoSe 2025
+
+- Mo. 02.06.2025 - So. 15.06.2025
+
+- Ostern
+    - Fr. 18.04. - Mo. 21.04.2025
+- Tag der Arbeit
+
+- Do. 01.05.2025
+- Christi Himmelfahrt
+
+- Do. 29.05.2025 - Fr. 30.05.2025
+- Pfingsten
+
+- Mo. 09.06.2025
+- Fronleichnam
+
+- Do. 19.06.2025 - Fr. 20.06.2025
+
+- Blockveranstaltung "Wissenschaftliches Arbeiten"
+    - Mo. 31.03.2025 - Fr. 11.04.2025 (unter Vorbehalt)
+- Schnupperstudium
+
+- Fr. 25.04.2025
+- Exkursionswoche
+
+- Mo. 12.05.2025 - Fr. 16.05.2025
+- Deutsches Hochschulforum (Master)
+
+- Do. 15.05.2025 (unter Vorbehalt)
+
+- Rückmeldungen für WiSe 2025/2026
+    - Juni 2025
+
+#### Termine Wintersemester 2025/26
+
+Terminübersicht SoSe 2025 &amp; WiSe 2025/26 zum Download (PDF)
+
+- Bachelor
+    - Mo. 06.10.2025 (unter Vorbehalt)
+- Master
+
+- Mo. 13.10.2025 (unter Vorbehalt)
+- Einführungstage Hardehausen
+
+- Mo. 08.12.2025 - Mi. 10.12.2025
+
+- Bachelor
+    - Mo. 06.10.2025 - N.N. - Master 1. Sem. - Mo. 13.10.2025 - N.N. - Anmeldezeitraum Klausuren (2. Zeitraum SoSe 2025)
+    - N.N. - 2. Prüfungszeitraum SoSe 2025
+
+- Do. 18.09.2025 - Do. 02.10.2025
+- Präsentation der Masterarbeiten
+
+- Mo. 15.12.2025 - Di. 16.12.2025
+- Präsentation der Unternehmensbezogenen Projektarbeiten
+
+- Mo. 12.01.2026 - Di. 13.01.2026
+- Anmeldezeitraum Klausuren (1. Zeitraum WiSe 2025/2026)
+
+- N.N. - 1. Prüfungszeitraum WiSe 2025/2026
+
+- Mo. 26.01.2026 - Fr. 06.02.2026
+
+- Weihnachten
+    - Sa. 20.12.2025 - So. 04.01.2026
+- Soester Agrarforum
+
+- Fr. 09.01.2026
+
+- Januar 2026
+
+## FB Bildungs- und Gesellschaftswissenschaften
+
+#### Voraussichtliche Termine Wintersemester 2024/2025
+
+- Verbundstudiengang Frühpädagogik B.A. - Sa., 14.09.2024
+- Verbundstudiengang Frühpädagogik M.A. - Sa., 14.09.2024
+- Verbundstudiengang Medienpädagogik M.A. - Sa., 14.09.2024
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 07.10.2024 – Fr., 24.01.2025
+
+- Verbundstudiengang Frühpädagogik B.A., Verbundstudiengang Frühpädagogik M.A., Verbundstudiengang Medienpädagogik M.A. - Sa., 28.09.2024
+Sa., 12.10.2024
+Sa., 26.10.2024
+Sa., 16.11.2024
+Sa., 30.11.2024
+Sa., 14.12.2024
+Sa., 04.01.2025
+Sa., 18.01.2025
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 22.01.2025 – Fr., 07.02.2025
+    - Mo., 17.03.2025 – Fr., 21.03.2025
+- Verbundstudiengang Frühpädagogik B.A.,Verbundstudiengang Frühpädagogik M.A.,Verbundstudiengang Medienpädagogik M.A. - Fr., 31.01.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 01.02.2025 – Prüfungssamstag
+Fr., 07.02.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 08.02.2025 – Prüfungssamstag
+
+Fr., 14.03.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 15.03.2025 – Prüfungssamstag
+Fr., 21.03.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 22.03.2025 – Prüfungssamstag
+- Info Verbundstudiengänge: Die Regelprüfungen finden bevorzugt an den festgelegten Prüfungssamstagen statt. Bei Bedarf werden die zusätzlichen Freitage für die Prüfungsabwicklung hinzugezogen. ### FB Bildungs- und Gesellschaftswissenschaften
+
+#### Voraussichtliche Termine Sommersemester 2025
+
+- Verbundstudiengang Frühpädagogik M.A. - Sa., 15.03.2025
+- Verbundstudiengang Medienpädagogik M.A. - Sa., 15.03.2025
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 07.04.2025– 04.07.2025
+
+- Verbundstudiengang Frühpädagogik B.A., Verbundstudiengang Frühpädagogik M.A., Verbundstudiengang Medienpädagogik M.A. - Sa., 29.03.2025
+Sa., 12.04.2025 
+Sa., 26.04.2025 
+Sa., 10.05.2025 
+Sa., 24.05.2025
+Sa., 07.06.2025
+Sa., 21.06.2025
+Sa., 05.07.2025
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 07.07.2025 – Fr., 18.07.2025
+    - Mo., 15.09.2025 – Fr., 19.09.2025
+- Verbundstudiengang Frühpädagogik B.A.,Verbundstudiengang Frühpädagogik M.A.,Verbundstudiengang Medienpädagogik M.A. - Fr., 18.07.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 19.07.2025 – Prüfungssamstag
+Fr., 25.07.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 26.07.2025 – Prüfungssamstag
+
+Fr., 12.09.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 13.09.2025 – Prüfungssamstag
+Fr., 19.09.2025 – zusätzlicher Prüfungstag bei Bedarf
+Sa., 20.09.2025 – Prüfungssamstag
+- Info Verbundstudiengänge: Die Regelprüfungen finden bevorzugt an den festgelegten Prüfungssamstagen statt. Bei Bedarf werden die zusätzlichen Freitage für die Prüfungsabwicklung hinzugezogen. #### Voraussichtliche Termine Wintersemester 2025/2026
+
+- Präsenzstudiengang Frühpädagogik B.A. - Termin folgt
+- Verbundstudiengang Frühpädagogik B.A.,Verbundstudiengang Frühpädagogik M.A.,Verbundstudiengang Medienpädagogik M.A. - Sa., 13.09.2025
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 06.10.2025 – Fr., 23.01.2026
+
+- Verbundstudiengang Frühpädagogik B.A.,Verbundstudiengang Frühpädagogik M.A.,Verbundstudiengang Medienpädagogik M.A. - Sa., 27.09.2025
+Sa., 11.10.2025
+Sa., 25.10.2025 
+Sa., 08.11.2025 (nur Medianpädagogik)
+Sa., 15.11.2025 (nur Frühpädagogik B.A. &amp; M.A.)
+Sa., 29.11.2025
+Sa., 13.12.2025 
+Sa., 10.01.2026 
+Sa., 24.01.2026
+
+- Präsenzstudiengang Frühpädagogik B.A. - Mo., 26.01.2026 – Fr., 06.02.2026
+    - Mo., 30.03.2026 – Fr., 03.04.2026
+- Verbundstudiengang Frühpädagogik B.A.,Verbundstudiengang Frühpädagogik M.A.,Verbundstudiengang Medienpädagogik M.A. - Fr., 06.02.2026 – zusätzlicher Prüfungstag bei Bedarf 
+Sa., 07.02.2026 – Prüfungssamstag 
+Fr., 13.02.2026 – zusätzlicher Prüfungstag bei Bedarf 
+Sa., 14.02.2026 – Prüfungssamstag 
+
+Fr., 13.03.2026 – zusätzlicher Prüfungstag bei Bedarf 
+Sa., 14.03.2026 – Prüfungssamstag 
+Fr., 20.03.2026 – zusätzlicher Prüfungstag bei Bedarf 
+Sa., 21.03.2026 – Prüfungssamstag
+- Info Verbundstudiengänge: Die Regelprüfungen finden bevorzugt an den festgelegten Prüfungssamstagen statt. Bei Bedarf werden die zusätzlichen Freitage für die Prüfungsabwicklung hinzugezogen. ## FB Elektrische Energietechnik
+
+#### Termine Wintersemester 2024/25
+
+- Vorkurs EET, WING
+    - 16.09.24 - 01.10.24
+- Erstsemesterbegrüßung EET, WING
+
+- 02.10.2024
+- Erstsemesterbegrüßung BBA
+
+- 08.10.2024
+- Erstsemesterbegrüßung AEEM
+
+- 07.10.2024
+- IMIS-Online Onboarding Week
+
+- 23.-27.09.2024
+
+- Absolvierendenfeier aller Studiengänge des Fachbereichs
+    - 11.10.24
+
+- Lehrveranstaltungen
+    - 07.10.24 - 24.01.25
+
+- Frühanmeldung für Kombi, Portfolio, Hausarbeiten, semesterbegleitende Teilprüfungen
+    - 07.10.24 - 03.11.24, Abmeldungen möglich bis 17.11.24
+- Anmeldezeitraum für Klausuren (2. Zeitraum SoSe 24)
+
+- 19.08.24 - 01.09.24
+- Klausurzeitraum (2. Zeitraum SoSe 24)
+
+- 12.09.24 - 27.09.24
+- Anmeldezeitraum für Klausuren (1. Zeitraum WiSe 24/25)
+
+- 16.12.24 - 06.01.25
+- Klausurzeitraum (1. Zeitraum WiSe 24/25)
+
+- 27.01.25 - 11.02.25
+- Anmeldezeitraum für Klausuren (2. Zeitraum WiSe 24/25)
+
+- 24.02.25 - 09.03.25
+- Klausurzeitraum (2. Zeitraum WiSe 24/25)
+
+- 20.03.25 - 04.04.25
+
+- Weihnachten
+    - 23.12.04 - 03.01.25
+- Semsterferien
+
+- 12.02.25 - 19.03.25
+
+#### Termine Sommersemester 2025
+
+- Lehrveranstaltungen
+    - 07.04.24 - 04.07.25
+
+- Frühanmeldung für Kombi, Portfolio, Hausarbeiten, semesterbegleitende Teilprüfungen
+    - 07.04.25 - 04.05.25, Abmeldungen möglich bis 18.05.25
+- Anmeldezeitraum für Klausuren (2. Zeitraum WiSe 24/25)
+
+- 24.02.25 - 09.03.25
+- Klausurzeitraum (2. Zeitraum WiSe 24/25)
+
+- 20.03.25 - 04.04.25
+- Anmeldezeitraum für Klausuren (1. Zeitraum SoSe 25)
+
+- 02.06.25 - 15.06.25
+- Klausurzeitraum (1. Zeitraum SoSe 25)
+
+- 07.07.25 - 22.07.25
+- Anmeldezeitraum für Klausuren (2. Zeitraum SoSe 25)
+
+- 18.08.25 - 31.08.25
+- Klausurzeitraum (2. Zeitraum WiSe SoSe 25)
+
+- 11.09.25 - 26.09.25
+
+- Semsterferien
+    - 23.07.25 - 10.09.25
+
+#### Termine Wintersemester 2025/26
+
+- 06.10.25
+
+## FB Maschinenbau-Automatisierungstechnik
+
+#### Termine Wintersemester 2024/25
+
+- 07.10.2024 - 25.01.2025
+
+- Technik- und Unternehmensmanagement M.Eng. - Wirtschaftsingenieurwesen-Maschinenbau B.Eng. - Anmeldezeitraum für Klausuren (2. Zeitraum SoSe 2024)
+    - 19.08. - 01.09.2024
+- Klausurzeitraum (2. Zeitraum SoSe 2024)
+
+- 12.09. - 28.09.2024
+- Frühanmeldezeitraum Klausuren
+
+- 07.10. - 03.11.2024
+- Abmeldungszeitraum aus Frühanmeldungen
+
+- 07.10. - 17.11.2024
+- Anmeldezeitraum für Klausuren (1. Zeitraum WiSe 2024/25)
+
+- 16.12.2024 - 06.01.2025
+- Klausurzeitraum (1. Zeitraum WiSe 2024/25)
+
+- 27.01. - 11.02.2025
+- Anmeldezeitraum für Klausuren (2. Zeitraum WiSe 2024/25)
+
+- 24.02. - 09.03.2025
+- Klausurzeitraum (2. Zeitraum WiSe 2024/25)
+
+- 20.03. - 05.04.2025
+
+- Weihnachten
+    - 23.12.2024 - 03.01.2025
+- Semesterferien
+
+- 12.02. - 19.03.2025
+
+#### Termine Sommersemester 2025
+
+- Einführungswoche DT-M
+    - 31.03.25 - 04.04.25
+
+- 07.04.2025
+
+- 05.07.2025
+
+- Technik- und Unternehmensmanagement M.Eng. - Wirtschaftsingenieurwesen-Maschinenbau B.Eng. - Anmeldezeitraum für Klausuren (2. Zeitraum WiSe 2024/25)
+    - 24.02. - 09.03.2025
+- Klausurzeitraum (2. Zeitraum WiSe 2024/25)
+
+- 20.03. - 05.04.2025
+- Frühanmeldezeitraum Klausuren
+
+- 07.04. - 04.05.2025
+- Abmeldungszeitraum aus Frühanmeldungen
+
+- 07.04. - 18.05.2025
+- Anmeldezeitraum für Klausuren (1. Zeitraum SoSe 2025)
+
+- 02.06. - 15.06.2025
+- Klausurzeitraum (1. Zeitraum SoSe 2025)
+
+- 07.07.- 22.07.2025
+- Anmeldezeitraum für Klausuren (2. Zeitraum SoSe 2025)
+
+- 18.08. - 31.08.2025
+- Klausurzeitraum (2. Zeitraum SoSe 2025)
+
+- 11.09. - 27.09.2025
+
+- Semesterferien
+    - 23.07.25 - 10.09.25
+
+#### Termine Wintersemester 2025/26
+
+- Vorkurse MB, DPM, DT-B
+    - N.N. - Begrüßungsveranstaltung MB, DT-B, DPM
+
+- N.N. - Einführungswoche DT-M
+
+- N.N. - Einführungswoche TUM
+
+- N.N. - Einführungswochenende WIM
+
+- N.N. - 06.10.2025
+
+Beiträge &amp; Gebühren
+
+Online-Services
+
+Ansprech-partner*innen
+
+Services &amp; Einrichtungen
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3820903
+

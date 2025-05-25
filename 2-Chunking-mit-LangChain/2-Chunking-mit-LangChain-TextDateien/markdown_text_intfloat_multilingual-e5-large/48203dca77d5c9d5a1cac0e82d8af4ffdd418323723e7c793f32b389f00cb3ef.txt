@@ -1,0 +1,63 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 260
+
+Metadata: {'id': 703, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: # Elektrotechnik B.Eng.
+
+## Hagen
+
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+5. Prüfungsordnungen
+
+# Prüfungsordnungen, Modulhandbücher, Verlaufspläne
+
+## Fachprüfungsordnung 2024
+
+Fachprüfungsordnung vom 28. Februar 2024
+
+## Fachprüfungsordnung 2017
+
+Fachprüfungsordnung vom 7. August 2017
+
+FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018)
+
+## Modulhandbuch*
+
+FPO 2024: Modulhandbuch Elektrotechnik
+
+FPO 2017: Modulhandbuch Elektrotechnik
+
+## Verlaufspläne*
+
+FPO 2024: Studienverlaufsplan
+
+FPO 2017: Studienverlaufsplan
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806840
+

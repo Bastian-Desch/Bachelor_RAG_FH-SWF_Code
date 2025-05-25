@@ -1,0 +1,42 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 468
+
+Metadata: {'id': 1405, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/1_AeO_FPO_MA_ETM_17.pdf', 'hash': 'e6a479b76de5bcb804bdd9e315915890f12fa46ce5ae3438e65abead2653aba6'}
+Text: ## Ordnung
+
+## zur Änderung der Fachprüfungsordnung für den Masterstudiengang Elektrotechnik an der Fachhochschule Südwestfalen, Standort Meschede
+
+vom 27. August 2020
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16.  September  2014  (GV.  NRW.  S.  547),  zuletzt geändert  durch  Gesetz  vom  14.  April  2020  (GV.  NRW.  S.  218b),  und  des  §  1  Absatz  1  der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Ingenieur- und Wirtschaftswissenschaften der Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+## Artikel I
+
+Die Fachprüfungsordnung für den Masterstudiengang Elektrotechnik an der Fachhochschule Südwestfalen, Standort Meschede vom 30. Juni 2017 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 14.07.2017) wird wie folgt geändert:
+
+- 1. § 19 Absatz 2 erhält folgende Fassung:
+- '(2) Zur Praxisphase wird auf Antrag zugelassen, wer in den Modulprüfungen der Anlagen 1 und 2 18 Credits erworben hat. Im Antrag müssen Zeitraum, Unternehmen bzw. Institution, die zu bearbeitende Thematik und die betreuende Professorin oder der betreuende Professor des Fachbereichs Ingenieurund  Wirtschaftswissenschaften  der  Fachhochschule  Südwestfalen  genannt  werden.  Über  die Zulassung zum Praxisphase entscheidet der Prüfungsausschuss. Mit der Antragstellung erklärt die oder der Studierende verbindlich, dass sie oder er die Praxisphase absolvieren möchte.'
+- 2. § 20 Absatz 3 erhält folgende Fassung:
+- '(3) Zum Hauptseminar Elektrotechnik wird auf Antrag zugelassen, wer:
+- a)     an der Fachhochschule Südwestfalen eingeschrieben oder als Zweithörerin oder als Zweithörer gemäß § 52 Absatz 2 HG zugelassen ist,
+- b) in den Modulprüfungen der Anlagen 1 und 2 18 Credits erworben hat.'
+- 3. § 22 erhält folgende Fassung:
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 223
+
+Metadata: {'id': 1406, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/1_AeO_FPO_MA_ETM_17.pdf', 'hash': 'e6a479b76de5bcb804bdd9e315915890f12fa46ce5ae3438e65abead2653aba6'}
+Text: 'Ergänzend  zu  §  29  Absatz  1  RPO  kann  zur  Masterarbeit  nur  zugelassen  werden,  wer  in  den Modulprüfungen in den Pflicht- und Wahlpflichtmodulen des Studiums gemäß Anlage 1, 2, 3, 4, 5 und 6 mindestens 48 Credits erworben hat, wobei mindestens 30 Credits aus den Anlagen 1 und 2 stammen müssen, und in dem viersemestrigen Master-Studiengang die Praxisphase erfolgreich absolviert hat.'
+
+## Artikel II
+
+Diese Ordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.
+
+Diese Ordnung wird nach Überprüfung durch das Rektorat der Fachhochschule Südwestfalen aufgrund des Beschlusses des Fachbereichsrats des Fachbereichs Ingenieur- und Wirtschaftswissenschaften vom 26. August 2020 ausgefertigt.
+
+Iserlohn, den 27. August 2020
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Claus Schuster
+

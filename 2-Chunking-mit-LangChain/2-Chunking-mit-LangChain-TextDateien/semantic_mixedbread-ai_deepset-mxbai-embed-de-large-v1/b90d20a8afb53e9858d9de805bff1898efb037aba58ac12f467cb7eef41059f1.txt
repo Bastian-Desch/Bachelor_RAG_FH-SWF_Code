@@ -1,0 +1,61 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 107
+
+Metadata: {'id': 151, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_b_eng_/AeO_FPO_ETM_19.pdf', 'hash': 'b90d20a8afb53e9858d9de805bff1898efb037aba58ac12f467cb7eef41059f1'}
+Text: ## Ordnung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Elektrotechnik an der Fachhochschule Südwestfalen, Standort Meschede
+
+vom 14. Februar 2020
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16. September  2014  (GV. NRW. S. 547)  -  in  der Fassung des Gesetzes zur Änderung des Hochschulgesetzes vom 12. Juli 2019 (GV. NRW.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 1085
+
+Metadata: {'id': 152, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_b_eng_/AeO_FPO_ETM_19.pdf', 'hash': 'b90d20a8afb53e9858d9de805bff1898efb037aba58ac12f467cb7eef41059f1'}
+Text: S. 377) -  und des  § 1 Absatz  1 der Rahmenprüfungsordnung  für  Bachelor-  und  Masterstudiengänge  an  der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Ingenieurund Wirtschaftswissenschaften der Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+## Artikel I
+
+Die Fachprüfungsordnung für den Bachelorstudiengang Elektrotechnik an der Fachhochschule Südwestfalen, Standort Meschede vom 26. April 2019 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 15.05.2019) wird wie folgt geändert:
+
+- 1. § 3 wird um folgenden Absatz 6 ergänzt:
+- ' (6) In  Ergänzung  zu  §  5  Absatz  6  RPO  entspricht  ein  Leistungspunkt  einem  studentischen Arbeitsaufwand von 30 Zeitstunden. Pro Studienjahr werden 1.800 Arbeitsstunden veranschlagt.'
+- 2. § 18 erhält folgende Fassung:
+- ' (1) Das  Studium  beinhaltet  eine  Vertiefungsphase  mit  Wahlpflichtmodulen  gemäß  der  Anlagen  3 und 4. Die zu erbringenden Credits in den einzelnen Anlagen sind § 3 Absatz 4 zu entnehmen. - (2) Studierende  können  ihr  Studium  in  der  Vertiefungsphase  nach  einem  Studienschwerpunkt ausrichten. Dieser Schwerpunkt wird auf Antrag des Studierenden auf dem Bachelorzeugnis vermerkt, wenn während des Studiums mindestens 30 Credits in Modulen eines Schwerpunktes der Anlage 3 erworben wurden. Die möglichen Studienschwerpunkte sind:
+
+- a) Automatisierungstechnik und Mechatronik,
+- b) Elektronik,
+- c) Ingenieurinformatik,
+- d) Kommunikationstechnik und
+- e) Medientechnik. - (3) Wird ein optionales Fachsemester absolviert, kann auf Antrag ein zweiter Studienschwerpunkt auf dem Zeugnis ausgewiesen werden, wenn für diesen zweiten Schwerpunkt ebenfalls mindestens 30 Credits in Modulen der Anlage 3 erworben wurden. - (4) Die Wahlpflichtmodule gemäß Anlage 3 sind einzelnen Studienschwerpunkten zugeordnet. Die Zuordnung ist in Anlage 5 angegeben. Wahlpflichtmodule können je nach Ausrichtung auch mehreren Studienschwerpunkten zugeordnet sein. - 3. § 25 Absatz 2 erhält folgende Fassung:
+- ' (2) Ergänzend zu § 33 Absatz 1 RPO können auf Antrag des Studierenden auf dem Zeugnis bis zu zwei Studienschwerpunkte angegeben werden, wenn die Voraussetzungen gemäß § 18 erfüllt sind. Dieser Antrag ist dem Antrag auf Ausstellung des Zeugnisses beizufügen.'
+- 4. Anlage 1 erhält folgende Fassung
+
+## Anlage 1: Pflichtmodule
+ 
+| Modul                           |   Credits | Studien- leistung   |   Fach- Semester | Erstmaliges  Angebot   | 
+|---------------------------------|-----------|---------------------|------------------|------------------------| 
+| Grundlagen der Elektrotechnik 1 |         6 | SL: Labor           |                1 | WS 17/18               |
+ 
+| Informatik                                 |   6 |           |   1 | WS 19/20   | 
+|--------------------------------------------|-----|-----------|-----|------------| 
+| Ingenieurmathematik 1                      |   6 |           |   1 | WS 17/18   | 
+| Digitaltechnik 1                           |   6 | SL: Labor |   1 | WS 17/18   | 
+| Physik 1                                   |   6 | SL: Labor |   1 | WS 17/18   | 
+| Elektrische Messtechnik                    |   6 | SL: Labor |   2 | SS 18      | 
+| Grundlagen der Elektrotechnik 2            |   6 |           |   2 | SS 18      | 
+| Programmierung                             |   6 | SL: Übung |   2 | SS 20      | 
+| Ingenieurmathematik 2 für Elektrotechniker |   6 |           |   2 | SS 18      | 
+| Physik 2                                   |   6 | SL: Labor |   2 | SS 18      | 
+| Elektrotechnisches Seminar                 |   6 |           |   5 | WS 17/18   | 
+| Managementkompetenz und  Projektmanagement |   3 |           |   6 | WS 18/19   | 
+| Projektarbeit                              |   6 |           |   6 | WS 17/18   |
+
+- 5. In Anlage  3 wird bei dem  Wahlpflichtmodul  'Introduction to Data  Science'  die zugehörige Studienleistung gestrichen. - 6. In Anlage  4  wird  das  Wahlpflichtmodul  'Betriebswirtschaftslehre'  durch  das  Wahlpflichtmodul 'Technisches Management' ersetzt. ## Artikel II
+
+Diese Ordnung tritt am Tag nach ihrer Veröffentlichung in Kraft  Diese  Ordnung  wird  in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. Sie  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule  Südwestfalen  aufgrund  des Beschlusses  des  Fachbereichsrats  des  Fachbereichs  Ingenieur-  und  Wirtschaftswissenschaften  vom 13. Februar 2020 ausgefertigt. Iserlohn, den 14. Februar 2020
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Claus Schuster
+

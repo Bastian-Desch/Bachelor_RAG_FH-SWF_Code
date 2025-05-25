@@ -1,0 +1,156 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 22
+
+Metadata: {'Header 1': 'Die Fachhochschule', 'id': 5660, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: # Die Fachhochschule
+Südwestfalen in Hagen  
+1. Über uns
+2. Standorte
+3. Hagen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 124
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'id': 5661, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: # Unser Standort in Hagen  
+## Zwischen Modernität und Tradition  
+Modernität und Tradition Hand in Hand – für die Fachhochschule Südwestfalen und gerade für ihren Standort Hagen gilt genau diese Devise. Denn zum einen ist die Fachhochschule Südwestfalen mit dem Gründungsjahr 2002 eine junge Hochschule, zum anderen reicht ihre Geschichte bis weit ins 19. Jahrhundert zurück. Bereits 1824 wurde in Hagen die Lehranstalt für Technik gegründet. Sie war die erste von etlichen Vorgängereinrichtungen der Fachhochschule Südwestfalen und damit die Keimzelle unserer Hochschule.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 224
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Zwischen den Besten', 'id': 5662, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Zwischen den Besten  
+Studieren lässt sich in Hagen in den beiden Fachbereichen Technische Betriebswirtschaft sowie Elektrotechnik und Informationstechnik. Die Studierenden schätzen den Ruf des Standorts, ein starkes Fundament für eine erfolgreiche berufliche Zukunft zu legen. Wer sich für ein Studium bei uns entscheidet, der bekommt eine maßgeschneiderte Ausbildung in kleinen Gruppen, hochmodernen Laboren und direktem Draht zur heimischen Wirtschaft. All diese Faktoren erschließen wertvolle Vorteile auf dem Arbeitsmarkt.  
+Öffnungszeiten  
+| Mo. - Fr.   | 07:00 - 21:00 Uhr, vorlesungsfreie Zeit 07:00 - 20:00 Uhr   |
+|-------------|-------------------------------------------------------------|
+| Sa.         | 08:00 - 18:00 Uhr, vorlesungsfreie Zeit: nur nach Bedarf    |  
+Diese Angaben beziehen sich auf die Gebäude. Servicezeiten von Einrichtungen und Ansprechpartnern finden Sie auf den jeweiligen Webseiten.  
+Anschrift  
+Fachhochschule Südwestfalen
+Standort Hagen
+Haldener Straße 182
+58095 Hagen  
+Telefon: (02331) 9330-0
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 228
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Zwischen Hengsteysee und Harkortsee', 'id': 5663, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Zwischen Hengsteysee und Harkortsee  
+Und die Stadt Hagen? Die hat das alte, verkrustete Image einer grauen Industriestadt längst abgelegt. Geradezu beispielhaft ist es gelungen, das Profil als Zentrum für Kultur und Bildung mit darüber hinaus vorzüglichen Einkaufsmöglichkeiten zu schärfen. Hagen hat Charme, Hagen hat sich zu einer bedeutenden Drehscheibe Südwestfalens entwickelt und sich dabei ein Charakteristikum bewahrt, das spätestens beim zweiten Blick unverkennbar ist: Mit seiner Lage inmitten der Natur und einer zu fast 50 Prozent bewaldeten Stadtfläche gilt Hagen als „grünste Großstadt in Nordrhein-Westfalen“. Und wem Wälder allein nicht reichen, der findet in Hagen auch Wasser – und zwar reichlich. Die beiden landschaftlich reizvollen Ruhrseen Hengsteysee und Harkortsee sind als Eldorado für Segler, Windsurfer, Kanuten und Ruderer ein Begriff. Und wer hätte gedacht, dass Hagen fast 400 Kilometer Fließgewässer durchziehen?
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 107
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Zwischen Sauerland und Ruhrgebiet', 'id': 5664, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Zwischen Sauerland und Ruhrgebiet  
+Und dann ist da noch die Lage Hagens an der Schnittstelle von
+Sauerland und den Metropolen des
+Ruhrgebiets. So sind beispielsweise die idyllischen Stauseen des Sauerlands ebenso schnell erreicht wie die pulsierenden Ruhrgebiets-Innenstädte. Damit erschließt sich ein Spektrum der Freizeitgestaltung, das größer kaum sein könnte.  
+Weiterführende Links  
+- Anfahrt &amp; Lageplan
+- Stadt &amp; Umland
+- Fachberatung für Studieninteressierte
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 25
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Fachbereich Technische Betriebswirtschaft', 'id': 5665, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Fachbereich Technische Betriebswirtschaft  
+Technische Betriebswirtschaft - Ausgezeichnete Studiengänge für ausgezeichnete Zukunftschancen.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 28
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Fachbereich Elektrotechnik und Informationstechnik', 'id': 5666, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Fachbereich Elektrotechnik und Informationstechnik  
+Mit Praxis zum Traumberuf - der Fachbereich Elektrotechnik und Informationstechnik begrüßt Sie.
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 36
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Fachbibliothek Hagen', 'id': 5667, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Fachbibliothek Hagen  
+Über 600 m², 47.000 Medien, 80 Arbeitsplätze, 2 Gruppenarbeitsräume – In der Fachbibliothek Hagen hat Wissen ein Zuhause.
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 37
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Zwischen Modernität und Tradition', 'Header 3': 'Mensa "Snack it!"', 'id': 5668, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Mensa "Snack it!"  
+Vom ersten Kaffee des Tages bis zu einer großen Auswahl an warmen Mittagsgerichten - Willkommen im "Snack it"!
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 236
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Jubiläumsfeier in Hagen', 'id': 5669, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ## Jubiläumsfeier in Hagen  
+Feier am 29.09.2024 in der Fachhochschule am Standort Hagen:  
+200 Jahre anwendungsorientierte Bildung in Hagen +
+100 Jahre Verein der Freunde der Fachhochschule Südwestfalen in Hagen e.V.  
+Bei der Feierstunde im Audimax ...  
+... heizte das Queen-Cover Duo "Royal Squeeze Box" dem Publikum ein.  
+Oberbürgermeister Erik O. Schulz (vierter v.l.) gemeinsam mit den Redner*innen und Akteur*innen von Hochschule und Förderverein.  
+Im Innenhof der Fachhochschule kamen die Besucher*innen zusammen bei gutem Essen, Austausch, ...  
+... Live-Musik und ...  
+... einem Auftritt der Cheerleader der Basketballmannschaft Phoenix Hagen.  
+Auch spannende Laborbesichtigungen für Groß ...  
+... und Klein waren Teil der erfolgreichen Jubiläumsfeier!  
+Bei der Show mit den beliebten Physikanten ...  
+...wurde zum Mitmachen animiert ...  
+... bis der Hörsaal Kopf stand!  
+Anfahrt &amp; Lageplan  
+Termine und Aktuelles  
+Studienangebot  
+Stadt &amp; Umland
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 48
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Jubiläumsfeier in Hagen', 'Header 3': 'Tobias Augustin', 'id': 5670, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Tobias Augustin  
+„Die Professoren an der Fachhochschule Südwestfalen sind einfach Klasse. Fünf Minuten für eine spontane Frage haben sie eigentlich immer. Einige dürfte ich dafür vielleicht sogar nachts aus dem Bett klingeln."
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 61
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Jubiläumsfeier in Hagen', 'Header 3': 'Ariane Lauster', 'id': 5671, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Ariane Lauster  
+„Für mich stand eigentlich schon immer fest, dass ich an der Fachhochschule Südwestfalen studieren möchte. Jetzt bin ich hier und das ist gut so. Man kennt sich hier – das gilt für die Kommilitonen ebenso wie für die Professoren."
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 57
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'id': 5672, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ## Noch Fragen? Wir sind für Sie da!  
+Haldener Straße 182  
+Postfach 4161  
+Haldener Straße 182  
+Postfach 4161  
+58041 Hagen  
+Haldener Straße 182  
+58095 Hagen  
+Raum: HE 11 und HE 11/1  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Unser Standort in Hagen', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5673, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php', 'hash': '59c7eeca43d99cfad3a178cd5fd70dca2c01256bc7630ae481bf2d89ef2cdb0a'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3462944
+

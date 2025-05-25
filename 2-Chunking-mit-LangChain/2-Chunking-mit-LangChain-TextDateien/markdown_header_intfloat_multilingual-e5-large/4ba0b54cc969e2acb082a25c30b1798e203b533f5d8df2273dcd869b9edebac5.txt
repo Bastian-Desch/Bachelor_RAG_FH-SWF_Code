@@ -1,0 +1,173 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 24
+
+Metadata: {'Header 1': 'Die Fachhochschule', 'id': 5702, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: # Die Fachhochschule
+Südwestfalen in Meschede  
+1. Über uns
+2. Standorte
+3. Meschede
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 72
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'id': 5703, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: # Der Standort Meschede  
+## Lebendiger Hochschulstandort in einer starken Industrieregion  
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet. Studieninteressierte finden exzellente Bedingungen vor, die überregional attraktiv sind.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 118
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Studieren in einer wirtschaftsstarken Region', 'id': 5704, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Studieren in einer wirtschaftsstarken Region  
+Der Standort Meschede liegt in Südwestfalen. Die Region gibt nicht nur der Fachhochschule den Namen, sondern zählt auch zu den stärksten Industrieregionen Deutschlands. Südwestfälische Unternehmen agieren in Marktsegmenten, in denen sie oft sogar Weltmarktführer sind. Gute Kontakte unserer Dozentinnen und Dozenten über die südwestfälische Wirtschaft hinaus sind Erfolgsfaktoren für ein Studium mit starkem Praxisbezug und hoher Relevanz für den Arbeitsmarkt.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 118
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Moderne Hochschule in attraktiver Umgebung', 'id': 5705, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Moderne Hochschule in attraktiver Umgebung  
+Helle und freundliche Gebäude, moderne Ausstattung: In allen Veranstaltungsräumen sind Beamer vorhanden und die zahlreichen Labore ermöglichen ein Studium zum Anfassen. Die gute Verkehrsanbindung – sowohl mit öffentlichen Verkehrsmitteln als auch mit dem PKW – und die zahlreich vorhandenen Parkplätze runden das vorbildliche Serviceangebot der Hochschule ab.  
+Für den Hochschulstadt Meschede sprechen nicht nur die günstigen Mieten, sondern auch die vielfältigen Ausflugs- und Sportmöglichkeiten am Hennesee und im umliegenden Sauerland.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 93
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': '', 'id': 5706, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ###  
+Öffnungszeiten  
+Montag - Freitag
+07:00 - 20:00 Uhr  
+Samstag
+09:00 - 16:30 Uhr
+(nur bei Präsenzterminen im Verbundstudium)  
+Bei Veranstaltungen ggf. längere Öffnungszeiten. Diese Angaben beziehen sich auf die Gebäude. Servicezeiten von Einrichtungen und Ansprechpartnern finden Sie auf den jeweiligen Webseiten.  
+Anschrift  
+Fachhochschule Südwestfalen
+Standort Meschede
+Lindenstraße 53
+59872 Meschede  
+Telefon: (0291) 9910-0
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 106
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Persönliche Atmosphäre als Motivation für ein erfolgreiches Studium', 'id': 5707, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Persönliche Atmosphäre als Motivation für ein erfolgreiches Studium  
+Immer wieder loben Studierende die kleinen Lerngruppen, die eine vorbildliche Betreuung durch die Dozenten ermöglichen. Das soll auch so bleiben, denn die Fachhochschule Südwestfalen ist keine anonyme Massenhochschule. Studierende wie Dozentinnen und Dozenten kommen gerne hierher. Man kennt sich und trifft sich auch im Bistro Da Vinci. Das Essen schmeckt gut und das Personal ist stets gut gelaunt.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 137
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Machen Sie sich selbst ein Bild!', 'id': 5708, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Machen Sie sich selbst ein Bild!  
+Schauen Sie sich unsere Fotos an und werfen Sie gerne einen Blick in das Jahrbuch, um einen ersten Eindruck vom Hochschulstandort im Herzen des Sauerlands zu bekommen. Doch all dies kann ein Besuch in Meschede nicht ersetzen – zum Beispiel bei einer der zahlreichen Veranstaltungen. Wir freuen uns auf Ihren Besuch!  
+Gute Einblicke in die Region Südwestfalen bieten die
+Homebase Sauerland und die Südwestfalenagentur:
+Alles echt!  
+Weiterführende Links  
+- Anfahrt, ÖPNV &amp; Lageplan
+- Wohnen
+- Stadt &amp; Umland  
+Jahrbuch Download  
+- Jahrbuch 2024 PDF
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 31
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Fachbereich Ingenieur- und Wirtschaftswissenschaften', 'id': 5709, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Fachbereich Ingenieur- und Wirtschaftswissenschaften  
+Zukunftsweisende Bachelor- und Masterstudiengänge aus den Bereichen Wirtschaft, Maschinenbau und Elektrotechnik.
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 41
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Fachbibliothek Meschede', 'id': 5710, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Fachbibliothek Meschede  
+Rund 810 m², 28.000 Medien, 60 Einzelarbeitsplätze, 3 Gruppenarbeitsräume – In der Fachbibliothek Meschede ist Raum für Wissen.
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 41
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Lebendiger Hochschulstandort in einer starken Industrieregion', 'Header 3': 'Mensa "da Vinci"', 'id': 5711, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Mensa "da Vinci"  
+Wenn Sie der Hunger plagt, sind Sie im "da Vinci" genau richtig. Die Mensa befindet sich im Untergeschoss der FH Südwestfalen.
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 166
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Der Hochschulstandort Meschede…', 'id': 5712, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ## Der Hochschulstandort Meschede…  
+…heißt Sie willkommen!  
+…ist ein Ort persönlicher Begegnungen.  
+…verfügt über helle und freundliche Gebäude.  
+…bietet Lernen in familiärer Wohlfühlatmosphäre.  
+…beherbergt eine sehr gut ausgestattete Bibliothek.  
+…verfügt über attraktive Arbeitsplätze…  
+…und moderne Hörsäle.  
+…steht für individuelle Förderung,  
+… zukunftsweisende Entwicklungen,  
+…praxisorientiertes Arbeiten,  
+…Hands-on-Mentalität,  
+…Forschungsdrang und Entdeckergeist,  
+…enge Zusammenarbeit mit der heimischen Industrie und Wirtschaft,  
+…immerwährende Neugierde,  
+…Teamwork, kleine Lerngruppen und persönliche Betreuung.  
+Anfahrt  
+Termine und Aktuelles  
+Storys  
+Studienangebot
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 38
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Der Hochschulstandort Meschede…', 'Header 3': 'Sandra Möhring', 'id': 5713, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Sandra Möhring  
+„Ich schätze den hohen Praxisbezug des Studiums und freue mich über die guten Kontakte zu zahlreichen Unternehmen. Außerdem mag ich das Sauerland.“
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 40
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Der Hochschulstandort Meschede…', 'Header 3': 'Felix Schulte', 'id': 5714, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Felix Schulte  
+„Ich habe Bewertungen von Hochschulen im Internet verglichen. Mir war vor allem der Praxisbezug sehr wichtig. Und es ist nah an meinem Heimatort.“
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 71
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Einblicke in ein Studien-Projekt', 'id': 5715, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ## Einblicke in ein Studien-Projekt  
+Was versteht man eigentlich unter dem Magnus-Effekt? Studierende der Fachhochschule Südwestfalen in Meschede haben sich dem Thema ganz praktisch angenommen – unter Verwendung von Organoblech, das eine besonders leichte Bauweise ermöglicht. Wie das Ganze genau funktioniert sehen Sie im Video.
+
+=== Chunk-Nr. 14 ===
+Anzahl Token in diesem Chunk: 85
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'id': 5716, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ## Noch Fragen? Wir sind für Sie da!  
+Lindenstr. 53  
+Lindenstr. 53  
+Studierenden-Servicebüro Meschede  
+Ansprechpartner*innen, Sprech- und Öffnungszeiten sowie Kontaktdaten: Alle wichtigen Informationen rund um die Leistungen des Studierenden-Servicebüros in Meschede finden Sie auf dieser Seite.  
+- Zu den Infos des Studierenden-Servicebüros Meschede  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 15 ===
+Anzahl Token in diesem Chunk: 30
+
+Metadata: {'Header 1': 'Der Standort Meschede', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5717, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php', 'hash': '4ba0b54cc969e2acb082a25c30b1798e203b533f5d8df2273dcd869b9edebac5'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3462953
+

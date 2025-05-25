@@ -1,0 +1,13 @@
+Frage 9: Was sind die Inhalte im Modul IT-Sicherheit?
+
+Antwort:
+Die Inhalte des Moduls IT-Sicherheit umfassen:
+
+- Grundbegriffe der IT-Sicherheit, Schutzziele, Angreifermodelle
+- Prozessmodelle für Security Engineering, Misuse Cases, Attack Trees
+- Sicherheitsmodelle (BLP & BIBA), IFC-Sprachen
+- Asymmetrische und Symmetrische Verschlüsselung (RSA, AES)
+- Hashfunktionen, Block- und Stromchiffren, Betriebsmodi
+- kryptographische Protokolle (NSP, Kerberos, Diffie-Hellman)
+- Zertifikate und digitale Signaturen
+

@@ -1,0 +1,65 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 16
+
+Metadata: {'id': 5652, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: Fachhochschule Südwestfalen Sachgebiet 2.4 Studentische Angelegenheiten
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 99
+
+Metadata: {'Header 2': 'Regelungen zum Rücktritt von einer Prüfung wegen Krankheit', 'id': 5653, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## Regelungen zum Rücktritt von einer Prüfung wegen Krankheit  
+Diese Informationen beziehen sich auf Klausuren, Klausuren im Antwortwahlverfahren und mündliche Prüfungen. Für weitere, semesterbegleitende Prüfungsformen (z.B. Semesterarbeiten, Projektarbeiten,  etc.)  entnehmen  Sie  die  Fristen  für  den  Prüfungsrücktritt  bitte  der  entsprechenden Prüfungsordnung.  In  der  Regel  findet  sich  diese  Information  im  Paragrafen  'Zulassungen  zu Modulprüfungen'.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 35
+
+Metadata: {'Header 2': '(1) Rücktritt bis 7 Tage vor der Prüfung', 'id': 5654, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## (1) Rücktritt bis 7 Tage vor der Prüfung  
+Der Rücktritt von einer Prüfung ist ohne weitere Nachweise völlig unproblematisch online bis 7 Tage vor der Prüfung möglich.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 466
+
+Metadata: {'Header 2': '(2)  Rücktritt  nach  Ablauf  der  Wochenfrist  (=  innerhalb  1 Woche  vor  der  Prüfung  bis einschließlich Prüfungstag)', 'id': 5655, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## (2)  Rücktritt  nach  Ablauf  der  Wochenfrist  (=  innerhalb  1 Woche  vor  der  Prüfung  bis einschließlich Prüfungstag)  
+Nach Ablauf der Wochenfrist für die Abmeldung von einer Prüfung kann der Rücktritt von der Prüfung nur aus triftigen Gründen erklärt werden. Im Falle eines Rücktritts wegen Erkrankung ist die Vorlage eines  ärztlichen  Attestes  im  Original  erforderlich,  das  vor  dem  oder spätestens  am  Prüfungstag ausgestellt  sein  muss  und  unverzüglich  eingereicht  werden  muss.  Denn  einen  oder  mehrere  Tage nach der Prüfung ist es kaum feststellbar, ob zum Prüfungstermin Prüfungsunfähigkeit vorgelegen hat.  
+Das rechtzeitig ausgestellte Attest muss spätestens innerhalb von drei Werktagen nach der Prüfung beim  Studierenden-Servicebüro in  Papierform eingehen.  (Digital  eingereichte  Atteste  per  Email und/oder  elektronische  Arbeitsunfähigkeitsbescheinigung  können  nicht  berücksichtigt  werden!)  Wird der Rücktritt genehmigt, wird der Prüfungsversuch nicht auf die Zahl der Fehlversuche angerechnet.  
+Tritt die Erkrankung erst am Prüfungstag auf, ist noch am Prüfungstag ein Arzt aufzusuchen - auch an einem Mittwoch oder Samstag. Sind Arztpraxen geschlossen, sind Sie verpflichtet, einen Vertretungsarzt  aufzusuchen  bzw.  sich  an  einen  ärztlichen  Bereitschaftsdienst  /  Notdienst  oder  die Ambulanz eines Krankenhauses zu wenden. Bei Bettlägerigkeit ist ggf. der Hausbesuch des Hausoder Notarztes in die Wege zu leiten.  
+Ebenfalls zum Rücktritt aus triftigen Gründen berechtigt sind Sie im Falle der Erkrankung Ihres Kindes am  Prüfungstag,  sofern  das  Kind  in  Ihrem  Haushalt  lebt,  eine  andere  in  Ihrem  Haushalt  lebende Person das Kind nicht beaufsichtigen, betreuen oder pflegen kann und das Kind das 12. Lebensjahr noch nicht vollendet hat.  
+In diesem Fall ist die Vorlage eines ärztlichen Attestes für das Kind, ausgestellt vor oder spätestens am Prüfungstag, erforderlich. Darüber hinaus müssen Sie eine schriftliche Erklärung einreichen, aus welcher sich ergibt, dass keine andere im Haushalt lebende Person für die Betreuung oder Pflege des Kindes zur Verfügung steht. Das Attest sowie die Erklärung müssen unverzüglich, d.h. innerhalb von drei Werktagen, im Studierenden-Servicebüro eingereicht werden.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 49
+
+Metadata: {'Header 2': '(3)  Kein nachträglicher Prüfungsrücktritt', 'id': 5656, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## (3)  Kein nachträglicher Prüfungsrücktritt  
+Rückdatierte Atteste, d.h. Atteste, die einen oder mehrere Tage nach der Prüfung ausgestellt sind, werden aus den vorgenannten Gründen nicht akzeptiert.
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 360
+
+Metadata: {'Header 2': '(4)  Prüfungsabbruch', 'id': 5657, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## (4)  Prüfungsabbruch  
+Sollten  Sie  eine  Prüfung  begonnen  haben,  diese  aber  wegen  plötzlicher  Erkrankung  abbrechen müssen, sind Sie verpflichtet, dies der / dem Aufsichtsführenden mitzuteilen und unverzüglich einen Arzt / eine Ärztin aufzusuchen, die / der ein entsprechendes, aussagefähiges Attest ausstellt.  
+Es ist ein qualifiziertes Attest erforderlich, in dem für Nichtmediziner nachvollziehbar bescheinigt wird, dass  Sie  als  prüfungsunfähig  zum  Zeitpunkt  der  Prüfung  eingeschätzt  werden  und  warum  diese Einschätzung getroffen wird, d.h. wie sich Ihre Erkrankung auf die Prüfung(en) auswirkt. Dies ist erst recht erforderlich, wenn Sie nach der Teilnahme an der Prüfung den Rücktritt mit Attest erklären. Der Vordruck 'Ärztliches Attest zur Vorlage beim Prüfungsausschuss' kann hierzu verwendet werden.  
+Außerhalb der Öffnungszeiten der Ärzte (z.B. samstags) ist ein ärztlicher Notdienst / die Ambulanz des Krankenhauses zu konsultieren.  
+Grundsätzlich  wird  im  Falle  einer  Erkrankung  von  Ihnen  verlangt,  dass  Sie  die  entsprechenden Konsequenzen  ziehen  und  rechtzeitig  von  der  Prüfung  zurücktreten.  Unterziehen  Sie  sich  der Prüfung, obwohl Sie Ihre Prüfungsunfähigkeit kannten oder den Umständen nach kennen mussten, so handeln  Sie  auf  eigenes  Risiko.  In  diesem  Falle  können  Sie  sich  weder  nach  Erbringen  der Prüfungsleistung noch beim Abbruch der Prüfung auf Ihre Prüfungsunfähigkeit berufen. Nur für den Fall, dass die Krankheit vor der Prüfung für Sie nicht erkennbar war oder sich während der Prüfung wesentlich verschlimmert hat, kann ggf. eine Berücksichtigung der Prüfungsunfähigkeit bei Prüfungsabbruch unter den genannten Voraussetzungen erfolgen.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 177
+
+Metadata: {'Header 2': '(5) Prüfungsangst / Teilnahme an Prüfung trotz Attest / Kosten für Atteste / Zweifelsfall:', 'id': 5658, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## (5) Prüfungsangst / Teilnahme an Prüfung trotz Attest / Kosten für Atteste / Zweifelsfall:  
+Probleme,  die durch die Prüfung selbst verursacht sind (z.B. Prüfungsangst) stellen keinen Rücktrittsgrund dar.  
+Sofern  eine  Ärztin  /  ein  Arzt  Ihnen  ein  Attest  ausgestellt  hat,  das  für  mehrere  Tage  gilt  und  Sie  in dieser Zeit trotzdem an einer Prüfung teilnehmen , erklären Sie sich mit dem Beginn der Prüfung als prüfungsfähig. Das Ergebnis dieser Prüfung müssen Sie sich zurechnen lassen, unabhängig davon, welches  Ergebnis  Sie  dabei  erzielen.  Dies  gilt  auch,  wenn  Sie  an  einem  Tag  für  zwei  Prüfungen angemeldet waren und Sie nur an einer Prüfung teilnehmen.  
+Für ein Attest anfallende Kosten können von der Hochschule nicht übernommen werden.  
+Im Zweifelsfall gilt immer: erkundigen Sie sich bitte rechtzeitig bei Ihrem Studierenden-Servicebüro!
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 52
+
+Metadata: {'Header 2': 'Unpünktliches Erscheinen', 'id': 5659, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf', 'hash': '4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e'}
+Text: ## Unpünktliches Erscheinen  
+Sie  müssen  unbedingt  dafür  Sorge  tragen,  dass  Sie  rechtzeitig  zur  Prüfung  erscheinen.  Mögliche Staus, Bahnverspätungen usw. (auch bei Schnee und Eis) sind dabei von Ihnen einzukalkulieren.
+

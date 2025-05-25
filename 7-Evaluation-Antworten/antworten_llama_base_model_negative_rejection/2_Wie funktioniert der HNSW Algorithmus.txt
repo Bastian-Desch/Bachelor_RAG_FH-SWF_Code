@@ -1,0 +1,5 @@
+Frage 2: Wie funktioniert der HNSW Algorithmus?
+
+Antwort:
+Das weiß ich leider nicht.
+

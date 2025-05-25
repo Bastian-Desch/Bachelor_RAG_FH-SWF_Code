@@ -1,0 +1,24 @@
+Hier gefunden: https://link.springer.com/chapter/10.1007/978-3-030-99739-7_30
+Gefundenes Python Framework für Retrieval Evaluation heißt ranx.
+Ist nicht für RAG entwickelt, sondern generell für das Information Retrieval.
+
+qrels -> Query relevance judgements
+
+Wird in einem Dictionary aufgebaut:
+
+qrels = {
+    "q_1": {"d_12": 1, "d_13": 0.8, "d_14": 0.5},
+    "q_2": {"d_2": 0.5, "d_2000": 0.8, "d_140": 1,
+    "q_3": {"d_122": 0.5, "d_1337": 0.8, "d_1412": 1},
+}
+
+Zu einer Frage wird die ID erfasst (Frage 1).
+Die IDs der Dokumente werden angegeben, die für die Frage relevant sind (Das was erwartet wird, was bei einer Suche in der Datenbank zurückgegeben werden sollte).
+Zu den erwarteten Dokumenten gibt man dann noch an, wie relevant diese sind (z. B. 0.0 - 1.0).
+Kann auch nur ein Dokument sein bzw. so viele wie es Chunks mit relevanten Antworten gibt.
+
+
+Danach wird ein run-Dictionary genutzt. Dieses nimmt die Ergebnisse des Retrievers auf.
+D. h. es muss eine Abfrage über den Retriever mit Scores durchgeführt werden.
+
+Die Ergebnisse werden dann in das Dictionary wieder mit Query-ID und Dokument-ID eingetragen.

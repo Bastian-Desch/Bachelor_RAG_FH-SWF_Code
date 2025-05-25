@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/png"
+    href="https://ds4sd.github.io/docling/assets/logo.png"/>
+    <meta charset="UTF-8">
+    <title>
+    Powered by Docling
+    </title>
+    <style>
+    html {
+    background-color: LightGray;
+    }
+    body {
+    margin: 0 auto;
+    width:800px;
+    padding: 30px;
+    background-color: White;
+    font-family: Arial, sans-serif;
+    box-shadow: 10px 10px 10px grey;
+    }
+    figure{
+    display: block;
+    width: 100%;
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    img {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 640px;
+    max-height: 640px;
+    }
+    table {
+    min-width:500px;
+    background-color: White;
+    border-collapse: collapse;
+    cell-padding: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    th, td {
+    border: 1px solid black;
+    padding: 8px;
+    }
+    th {
+    font-weight: bold;
+    }
+    table tr:nth-child(even) td{
+    background-color: LightGray;
+    }
+    math annotation {
+    display: none;
+    }
+    .formula-not-decoded {
+    background: repeating-linear-gradient(
+    45deg, /* Angle of the stripes */
+    LightGray, /* First color */
+    LightGray 10px, /* Length of the first color */
+    White 10px, /* Second color */
+    White 20px /* Length of the second color */
+    );
+    margin: 0;
+    text-align: center;
+    }
+    </style>
+    </head>
+<ul>
+<li>Jetzt bewerben!</li>
+<li>Merken &amp; Infos</li>
+<li>Login</li>
+<li>International</li>
+</ul>
+<figure></figure>
+<ul>
+<li>Zurück</li>
+<li>Studieninteressierte Studieninteressierte Studieninteressierte</li>
+<ul>
+<li>Zurück</li>
+<li>Studieninteressierte</li>
+<li>Information &amp; Beratung</li>
+<ul>
+<li>Zurück</li>
+<li>Information &amp; Beratung</li>
+<li>Allgemeine Studienberatung</li>
+<li>Talentscouting</li>
+<li>Info-Veranstaltungen</li>
+<li>Warum bei uns studieren?</li>
+<li>Studieren ohne Abitur</li>
+<li>Wir erklären die Hochschulwelt</li>
+<li>Studium von A-Z</li>
+</ul>
+</ul>
+<li>Bewerbung &amp; Einschreibung</li>
+<ul>
+<li>Zurück</li>
+<li>Bewerbung &amp; Einschreibung</li>
+<li>Bewerbung für ein Bachelorstudium</li>
+<li>Bewerbung für ein Masterstudium</li>
+<li>Bewerbung für Gasthörer/Quereinsteiger/Zweithörer</li>
+<li>Bewerbung für ein Promotionsstudium</li>
+<li>Bewerbungsfristen</li>
+<li>Beiträge und Gebühren</li>
+</ul>
+</ul>
+<li>Studienvorbereitung</li>
+<ul>
+<li>Zurück</li>
+<li>Studienvorbereitung</li>
+<li>Finanzielles</li>
+<li>Wohnen</li>
+<li>Studienstart</li>
+</ul>
+<li>Schnupperangebote</li>
+<li>Angebote für Geflüchtete</li>
+<li>Studienangebot Studienangebot Studienangebot</li>
+<ul>
+<li>Zurück</li>
+<li>Studienangebot</li>
+<li>Studiengänge</li>
+<ul>
+<li>Zurück</li>
+<li>Studiengänge</li>
+<li>Hagen</li>
+<li>Iserlohn</li>
+<li>Lüdenscheid</li>
+<li>Meschede</li>
+<li>Soest</li>
+<li>Hagen-Meschede</li>
+<li>Hagen-Lüdenscheid</li>
+<li>Iserlohn Meschede Lüdenscheid</li>
+</ul>
+</ul>
+<li>Studienmodelle</li>
+<li>Fachgebiete</li>
+<ul>
+<li>Zurück</li>
+<li>Fachgebiete</li>
+<li>Agrarwirtschaft</li>
+<li>Designmanagement und Produktentwicklung</li>
+<li>Gesundheits- und Naturwissenschaften</li>
+<li>Informatik und Digitalisierung</li>
+<li>Pädagogik und Psychologie</li>
+<li>Technik und Ingenieurwesen</li>
+<li>Umwelt und Nachhaltigkeit</li>
+<li>Wirtschaft und Recht</li>
+</ul>
+<li>Studierende Studierende Studierende</li>
+<ul>
+<li>Zurück</li>
+<li>Studierende</li>
+<li>Rund ums Studium</li>
+<ul>
+<li>Zurück</li>
+<li>Rund ums Studium</li>
+<li>Studienorganisation</li>
+<li>Online-Services</li>
+<li>Semestertermine</li>
+<li>Studienstart</li>
+<li>Beiträge und Gebühren</li>
+<li>BaFöG und Stipendien</li>
+<li>Studium von A-Z</li>
+</ul>
+</ul>
+<li>Services &amp; Einrichtungen</li>
+<ul>
+<li>Zurück</li>
+<li>Services &amp; Einrichtungen</li>
+<li>Bibliothek</li>
+<li>IT-Services</li>
+<li>Mensa</li>
+<li>Lernzentren / Studi-Points</li>
+<li>AudioVisuellesMedienZentrum</li>
+<li>Hochschulsport</li>
+<li>Familienbüro</li>
+<ul>
+<li>Zurück</li>
+<li>Familienbüro</li>
+<li>Kinderbetreuung</li>
+<ul>
+<li>Zurück</li>
+<li>Kinderbetreuung</li>
+<li>Ferienbetreuung</li>
+</ul>
+</ul>
+<li>Väter</li>
+<li>Hilfe und Beratung</li>
+<li>Newsletter</li>
+<li>Pflege von Angehörigen</li>
+<ul>
+<li>Zurück</li>
+<li>Pflege von Angehörigen</li>
+<li>Vorsorge</li>
+<li>Vereinbarkeit von Pflege und Beruf</li>
+<li>Linkliste und Downloads</li>
+</ul>
+</ul>
+<li>Studieren mit Kind</li>
+<ul>
+<li>Zurück</li>
+<li>Studieren mit Kind</li>
+<li>Infos für werdende Eltern</li>
+<li>Finanzierung des Studiums mit Kind(ern)</li>
+</ul>
+<li>Arbeiten mit Kind</li>
+<li>Veranstaltungen</li>
+<li>Studierendenwerk Dortmund</li>
+<li>Weitere Ansprechpartner*innen</li>
+<li>Ansprechpartner*innen</li>
+<ul>
+<li>Zurück</li>
+<li>Ansprechpartner*innen</li>
+<li>Studierenden-Servicebüros</li>
+<li>Studienfachberatung</li>
+<li>Studierendencoaching</li>
+<li>International Office</li>
+<li>Career Service</li>
+<li>Psychotherapeutische Sprechstunde</li>
+<li>Studium und Behinderung</li>
+<ul>
+<li>Zurück</li>
+<li>Studium und Behinderung</li>
+<li>Bewerbung und Zulassung</li>
+<li>Nachteilsausgleiche bei Prüfungen</li>
+</ul>
+</ul>
+<li>Gleichstellung</li>
+<ul>
+<li>Zurück</li>
+<li>Gleichstellung</li>
+<li>Queer an der Fachhochschule Südwestfalen</li>
+</ul>
+<li>Qualitätsverbesserungskommission</li>
+<li>Studentisches Engagement</li>
+<li>Services &amp; Einrichtungen</li>
+<li>International studieren</li>
+<li>Zusätzliche Angebote</li>
+<ul>
+<li>Zurück</li>
+<li>Zusätzliche Angebote</li>
+<li>Studium Flexibel</li>
+<li>Tutorien</li>
+<li>Zusatzqualifikationen</li>
+<ul>
+<li>Zurück</li>
+<li>Zusatzqualifikationen</li>
+<li>Berufsschullehrer*in werden</li>
+<li>Weitere Zusatzqualifikationen</li>
+</ul>
+</ul>
+<li>Dezentrale Angebote</li>
+<ul>
+<li>Zurück</li>
+<li>Dezentrale Angebote</li>
+<li>Big Band</li>
+<li>HochschulChor</li>
+<li>radioFH</li>
+<li>Regionalstelle Bürgermedien</li>
+<li>Studentische Projekte</li>
+</ul>
+<li>Forschung &amp; Transfer Forschung &amp; Transfer Forschung &amp; Transfer</li>
+<ul>
+<li>Zurück</li>
+<li>Forschung &amp; Transfer</li>
+<li>Forschungsfelder</li>
+<li>Forschungs- und Transferprojekte</li>
+<li>Transfer und Dienstleistungen für Partner und Interessierte</li>
+<li>Hochschulinternes Zentrum für Forschungsmanagement und Transfer</li>
+<li>Gründungsunterstützung</li>
+<li>Innovative Hochschule</li>
+</ul>
+<li>Karriere Karriere Karriere</li>
+<ul>
+<li>Zurück</li>
+<li>Karriere</li>
+<li>Die FH Südwestfalen als Arbeitgeber</li>
+<li>Wissenschaftlicher Nachwuchs und Promotion</li>
+<li>Jobs für Studierende und Absolventinnen</li>
+<li>Career Service</li>
+<li>Karrieretag</li>
+<ul>
+<li>Zurück</li>
+<li>Karrieretag</li>
+<li>Aussteller Karrieretag Hagen</li>
+</ul>
+</ul>
+<li>Alumni</li>
+<ul>
+<li>Zurück</li>
+<li>Alumni</li>
+<li>Fördervereine</li>
+<li>Ehemalige</li>
+<li>Alumni-Netzwerk für Promovierte</li>
+</ul>
+<li>Über uns Über uns Über uns</li>
+<ul>
+<li>Zurück</li>
+<li>Über uns</li>
+<li>News &amp; Events</li>
+<ul>
+<li>Zurück</li>
+<li>News &amp; Events</li>
+<li>Veranstaltungen &amp; Events</li>
+<ul>
+<li>Zurück</li>
+<li>Veranstaltungen &amp; Events</li>
+<li>intern_events</li>
+</ul>
+</ul>
+<li>News &amp; Pressemitteilungen</li>
+<li>Storys von der Fachhochschule</li>
+<li>Forschung &amp; Transfer im Fokus</li>
+</ul>
+<li>Portrait &amp; Leitbild</li>
+<ul>
+<li>Zurück</li>
+<li>Portrait &amp; Leitbild</li>
+<li>Hochschulentwicklungsplan</li>
+<li>Internationalisierung</li>
+<li>Diversity</li>
+</ul>
+<li>Infos, Zahlen &amp; Fakten</li>
+<ul>
+<li>Zurück</li>
+<li>Infos, Zahlen &amp; Fakten</li>
+<li>Historie</li>
+<li>Zahlenspiegel</li>
+<li>Mitgliedschaften</li>
+<li>Ehrensenatoren &amp; Honorarprofessoren</li>
+<li>Auszeichnungen</li>
+<ul>
+<li>Zurück</li>
+<li>Auszeichnungen</li>
+<li>Budde-Preis</li>
+<li>DAAD-Preis</li>
+<li>Dr. Kirchhoff-Preis</li>
+<li>Förderpreis des UVWM</li>
+<li>Preis des Fördervereins Meschede</li>
+<li>Soester Agrarpreis</li>
+<li>Soester Innovationspreis</li>
+<li>Soroptimist-Förderpreis</li>
+</ul>
+</ul>
+<li>Standorte</li>
+<ul>
+<li>Zurück</li>
+<li>Standorte</li>
+<li>Hagen</li>
+<ul>
+<li>Zurück</li>
+<li>Hagen</li>
+<li>Fachbereich Elektrotechnik und Informationstechnik</li>
+<ul>
+<li>Zurück</li>
+<li>Fachbereich Elektrotechnik und Informationstechnik</li>
+<li>Evaluation</li>
+<li>Der Dekan im Interview</li>
+<li>Fachschaft E&amp;I</li>
+</ul>
+</ul>
+<li>Fachbereich Technische Betriebswirtschaft</li>
+<ul>
+<li>Zurück</li>
+<li>Fachbereich Technische Betriebswirtschaft</li>
+<li>Fachschaft TBW</li>
+<li>Der Dekan im Interview</li>
+<li>Evaluation</li>
+<li>Verbundstudium</li>
+<ul>
+<li>Zurück</li>
+<li>Verbundstudium</li>
+<li>Verbundstudiengänge Betriebswirtschaft/Wirtschaftsrecht</li>
+</ul>
+</ul>
+</ul>
+<li>Anfahrt, ÖPNV &amp; Lageplan</li>
+<li>Iserlohn</li>
+<ul>
+<li>Zurück</li>
+<li>Iserlohn</li>
+<li>FB Informatik und Naturwissenschaften</li>
+<ul>
+<li>Zurück</li>
+<li>FB Informatik und Naturwissenschaften</li>
+<li>Termine</li>
+<ul>
+<li>Zurück</li>
+<li>Termine</li>
+<li>Wintersemester 2021</li>
+<li>Sommersemester 2022</li>
+<li>Wintersemester 2022</li>
+<li>Sommersemester 2023</li>
+<li>Wintersemester 2023</li>
+<li>Sommersemester 2024</li>
+<li>Wintersemester 2024</li>
+<li>Sommersemester 2025</li>
+<li>Sommersemester 2026</li>
+<li>Wintersemester 2026</li>
+<li>Sommersemester 2028</li>
+</ul>
+</ul>
+</ul>
+<li>FB Maschinenbau</li>
+<ul>
+<li>Zurück</li>
+<li>FB Maschinenbau</li>
+<li>Termine Semester</li>
+</ul>
+<li>Anfahrt, ÖPNV &amp; Lageplan</li>
+<li>Lüdenscheid</li>
+<ul>
+<li>Zurück</li>
+<li>Lüdenscheid</li>
+<li>Anfahrt, ÖPNV &amp; Lageplan</li>
+<li>Angeschlossene Fachbereiche</li>
+</ul>
+<li>Meschede</li>
+<ul>
+<li>Zurück</li>
+<li>Meschede</li>
+<li>FB Ingenieur- und Wirtschaftswissenschaften</li>
+<ul>
+<li>Zurück</li>
+<li>FB Ingenieur- und Wirtschaftswissenschaften</li>
+<li>Anerkennung von Prüfungsleistungen</li>
+<li>Der Dekan im Interview</li>
+</ul>
+</ul>
+<li>Anfahrt, ÖPNV &amp; Lageplan</li>
+<li>Soest</li>
+<ul>
+<li>Zurück</li>
+<li>Soest</li>
+<li>FB Agrarwirtschaft</li>
+<ul>
+<li>Zurück</li>
+<li>FB Agrarwirtschaft</li>
+<li>Versuchsgut Merklingsen</li>
+<li>Susatia</li>
+<li>Forschungsprojekte</li>
+<li>Der Dekan im Interview</li>
+<li>Evaluation</li>
+<li>Forschungsnotizen</li>
+<li>Sprechzeiten FB Agrarwirtschaft</li>
+<li>Fachschaft Agrarwirtschaft</li>
+</ul>
+</ul>
+<li>FB Bildungs- und Gesellschaftswissenschaften</li>
+<ul>
+<li>Zurück</li>
+<li>FB Bildungs- und Gesellschaftswissenschaften</li>
+<li>Fachschaft Bildungs- und Gesellschaftswissenschaften</li>
+</ul>
+<li>FB Elektrische Energietechnik</li>
+<li>FB Maschinenbau-Automatisierungstechnik</li>
+<li>Anfahrt, ÖPNV &amp; Lageplan</li>
+<li>Organisation &amp; Beschäftigte</li>
+<li>Presse</li>
+<li>FH-Shop</li>
+<h1>Wirtschaftsinformatik B.Sc.</h1>
+<h3>Hagen</h3>
+<figure></figure>
+<ol>
+<li>Studienangebot</li>
+<li>Studiengänge</li>
+<li>Hagen</li>
+<li>Wirtschaftsinformatik (B.Sc.)</li>
+</ol>
+<h3>Bachelor-Studium Wirtschaftsinformatik</h3>
+<h4>Interdisziplinarität! Das ist der große Trumpf des Bachelor-Studiengangs Wirtschaftsinformatik. Er kombiniert Inhalte aus den Bereichen Informatik, Betriebswirtschaftslehre (BWL) und Technik zu einer attraktiven Mischung mit besten beruflichen Perspektiven. Auf dem Lehrplan stehen Fächer wie IT-Sicherheit, Business Intelligence oder Web-Programmierung. Dazu gibt es eine fundierte Fremdsprachenausbildung in Englisch, Französisch oder Spanisch.</h4>
+<p>Auf einen Blick</p>
+<p>Was? Kombination von Informatik, Betriebswirtschaftslehre und Technik</p>
+<p>Für wen? Für alle, die interessiert, wie Informatik in Unternehmen eingesetzt wird</p>
+<p>Warum? Interdisziplinäres Studium mit fundierter Fremdsprachenausbildung</p>
+<p>Du hast diesen Studiengang bereits gespeichert!</p>
+<p>Der Studiengang wurde erfolgreich gemerkt!</p>
+<p>Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.</p>
+<p>Bewerbungsfristen &amp; Studienstart-Termine</p>
+<p>Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für<br>Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres.Hier finden Sie Fristen für<br>weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.).</p>
+<ul>
+<li>Neugierig? Besuchen Sie unsere  Infoveranstaltungen</li>
+<li>Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs</li>
+</ul>
+<h3>Auf dieser Seite</h3>
+<ul>
+<li>Der Studiengang im Überblick</li>
+<li>Studienvoraussetzungen</li>
+<li>Infos zum Bewerbungsverfahren</li>
+<li>Info-Video zum Studiengang</li>
+<li>Zielgruppe</li>
+<li>Berufliche Perspektiven</li>
+<li>Studi-Stimmen</li>
+<li>Studienaufbau / Verlaufsplan</li>
+<li>Infoveranstaltungen / Veranstaltungen zum Studienstart</li>
+<li>Weitere Infos / Prüfungsordnungen, Modulhandbücher</li>
+<li>Kontakt</li>
+</ul>
+<figure></figure>
+<p>Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für<br>Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres.</p>
+<p>Hier finden Sie Fristen für<br>weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.).</p>
+<h4>Zulassung: NC-frei</h4>
+<p>Dieser Studiengang hat keine Zulassungsbeschränkung.<br>Je nach Qualifikation wird der Nachweis einer praktischen Tätigkeit (Praktikum) gefordert.</p>
+<h4>Studienabschluss</h4>
+<p>Bachelor of Science (B.Sc.)<br>210 ECTS</p>
+<h4>Studienmodell</h4>
+<p>Vollzeitstudium</p>
+<h4>Studienbeginn / -dauer</h4>
+<p>Beginn: zum Wintersemester (September)<br><br>Regelstudienzeit: 7 Semester / 3,5 Jahre</p>
+<h4>Studienort</h4>
+<figure></figure>
+<p>Standort Hagen</p>
+<h4>Beiträge und Gebühren</h4>
+<h4>Hauptunterrichtssprache</h4>
+<p>Deutsch<br>(für internationale Bewerbende: Level DSH2 / TestDaf4 / C1)</p>
+<h3>Vor Beginn des Studiums – <br>Voraussetzungen &amp; Bewerbungsverfahren</h3>
+<h4>Voraussetzungen</h4>
+<p>Der Studiengang ist NC-frei, das heißt es besteht keine Zulassungsbeschränkung. Nachgewiesen werden müssen lediglich die folgenden Punkte*.</p>
+<p>Die Qualifikation für das Studium wird durch ein Zeugnis der Fachhochschulreife, der Allgemeinen Hochschulreife (Abitur) oder durch eine als gleichwertig anerkannte Vorbildung nachgewiesen.</p>
+<ul>
+<li>Mehr Infos zu den Voraussetzungen</li>
+</ul>
+<p>*Rechtlich verbindlich sind ausschließlich die Angaben der<br>jeweils gültigen Prüfungsordnung</p>
+<h4>Bewerbung und Einschreibung zum Wintersemester</h4>
+<ul>
+<li>Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres.Hier finden Sie Fristen für weitere Bewerbungsgruppen (Hochschulwechsler, Gasthörende u.ä.).</li>
+<li>Bewerbung über das Bewerbungsportal <br>(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)</li>
+<li>Mehr Informationen zum Bewerbungsverfahren finden Sie hier</li>
+</ul>
+<ul>
+<li>Bewerbungsfrist: in der Regel Anfang März bis 15. Juli</li>
+<li>Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal <br>(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)</li>
+<li>Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier</li>
+</ul>
+<h4>Bewerbung und Einschreibung zum Sommersemester</h4>
+<p>Für Bachelorstudiengänge ist eine Bewerbung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der<br>Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)</p>
+<figure></figure>
+<figure></figure>
+<p>Im Video erzählen Studierende und Lehrende der Wirtschaftsinformatik, was den Studiengang an der Fachhochschule Südwestfalen ausmacht.</p>
+<h3>An wen richtet sich der Bachelor-Studiengang Wirtschaftsinformatik?</h3>
+<p>Natürlich sollten Sie sich für Informatik interessieren, keine Frage. Der Studiengang Wirtschaftsinformatik mit seinem interdisziplinären Ansatz bietet aber viel mehr. Wie wird Informatik in Unternehmen eingesetzt? Wie verändern Algorithmen die Wirtschaft? Und wie schützen sich Betriebe vor Hackerangriffen und verschlüsseln ihre Firmengeheimnisse am sichersten?</p>
+<p>Das Studium gibt Ihnen Antworten auf Fragen wie diese, die immer mehr an Relevanz gewinnen. Darüber hinaus qualifiziert er Sie für Ihre spätere Tätigkeit in betrieblichen Querschnittsfunktionen. Dieser Studiengang öffnet Ihnen vielen Türen. Sie haben die Wahl!</p>
+<figure></figure>
+<h3>Welche Berufsaussichten bietet das Studium Wirtschaftsinformatik?</h3>
+<p>Mögliche Berufsfelder unserer Absolventinnen und Absolventen sind fachübergreifend und umfassen vorwiegend betriebliche Querschnittsfunktionen, vor allem für den Dienstleistungssektor, im Handel oder in der Unternehmensberatung. Aber auch im produzierenden Gewerbe in den Bereichen Logistik, Materialwirtschaft, Einkauf, Projektorganisation sowie Marketing und Vertrieb sind unsere Absolventinnen und Absolventen gefragt.</p>
+<figure></figure>
+<h4>Tobias Augustin (Wirtschaftsinformatik)</h4>
+<figure></figure>
+<p>„Die Professorinnen und Professoren an der Fachhochschule Südwestfalen sind einfach Klasse. Fünf Minuten für eine spontane Frage haben sie eigentlich immer. Einige dürfte ich dafür vielleicht sogar nachts aus dem Bett klingeln. Bei der Wahl des Studiums hat mir auch das CHE-Ranking geholfen. Hier schneidet mein Studiengang hervorragend ab. Und das, wie ich inzwischen bestätigen kann, völlig zu Recht.“</p>
+<h3>Wie ist Bachelor Wirtschaftsinformatik aufgebaut?</h3>
+<p>Im Studiengang Wirtschaftsinformatik werden Lehrinhalte aus den Bereichen Informatik, Betriebswirtschaftslehre und Technik interdisziplinär vermittelt. Es werden sowohl Fächer wie Grundlagen der Informatik, Algorithmen und Datenstrukturen, Datenbanken, Kommunikationssysteme als auch Grundlagen des Wirtschaftens, Rechnungswesen, Unternehmensprozesse, Betriebliche Planungstechniken/Führungstechniken sowie Überblicke über Maschinenbau, Elektrotechnik und Verfahrenstechnik angeboten.</p>
+<p>Die Studierenden erhalten eine fundierte Fremdsprachenausbildung in Englisch und wahlweise in Französisch oder Spanisch. Damit orientiert sich das Studium gezielt an den Anforderungen eines internationalen Arbeitsmarktes</p>
+<p>In den ersten drei Semestern werden die Grundlagenfächer zur BWL und Informatik gelehrt, mit vielen Übungen und Praktika zum Vertiefen des Stoffs der Vorlesungen und zum Üben der Programmierung. Ab dem dritten und vierten Semester kann man sich in den verschiedenen Bereichen der BWL und der Informatik spezialisieren, ebenso werden Grundlagenfächer des Ingenieurwesens angeboten. Im letzten Semester wird die Praxisphase in Unternehmen absolviert, aus der ein Thema für die Abschlussarbeit entstehen kann.</p>
+<figure></figure>
+<h3>Studienverlaufsplan Wirtschaftsinformatik B.Sc.*</h3>
+<table><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1. Semester</td><td>Wirtschaftsenglisch</td><td>Recht</td><td>Mathematik 1</td><td>Einführung in die BWL</td><td>Externes Rechnungswesen</td><td>Grundlagen der Wirtschaftsinformatik</td><td>Grundlagen der Programmierung</td><td></td></tr><tr><td>2. Semester</td><td>Wirtschaftsenglisch</td><td>Recht</td><td>Mathematik 2</td><td>Management der Unternehmensprozesse</td><td>Internes Rechnungswesen</td><td>Rechnersysteme und Rechnernetze</td><td>Algorithmik</td><td>Elektrotechnik</td></tr><tr><td>3. Semester</td><td>Wirtschaftsenglisch</td><td>Unternehmensplanspiel</td><td>Softwarepraktikum</td><td>Datenbanken</td><td>Statistik</td><td>Seminar BWL</td><td>Grundlagen der Fertigungstechnik</td><td>Grundlagen des Marketing 1 ODER Logistik</td></tr><tr><td>4. Semester</td><td>Projektmanagement</td><td>Technisches Englisch</td><td>Software Engineering</td><td>Sozialkompetenzen</td><td>Grundlagen integrierter Informationssysteme</td><td>Grundlagen des Marketing 2 ODER Produktionsmanagement</td><td>Wahlpflichtmodul 1 aus Katalog</td><td></td></tr><tr><td>5. Semester</td><td>Mensch-Computer-Interaktion</td><td>Technisches Englisch</td><td>Marktforschung ODER Einkauf/SCM ODER Controlling</td><td>2 aus 3: Business Intelligence 1 / Webtechnologie 1 / IT-Sicherheit 1</td><td>Fertigungsanlagen ODER Automatisierungstechnik</td><td></td><td></td><td></td></tr><tr><td>6. Semester</td><td>Strategisches Management</td><td>Seminar Wirtschaftsinformatik</td><td>Führung</td><td>Qualitätsmanagement</td><td>Wahlpflichtmodul 2 aus Katalog</td><td>2 aus 3: Business Intelligence 2 / Webtechnologie 2 / IT-Sicherheit 2</td><td>ALTERNATIV: AUSLANDSSEMESTER</td><td></td></tr><tr><td>7. Semester</td><td>Praxisprojekt</td><td>Bachelorarbeit</td><td>Kolloquium</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="4">*Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<h4>Legende zum Studienverlaufsplan</h4>
+<h3>Infoveranstaltungen / Veranstaltungen zum Studienstart</h3>
+<p>Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte in den besten Händen.</p>
+<p>Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote.</p>
+<p>Damit Sie gut vorbereitet in Ihr Studium einsteigen können, bieten wir Ihnen einen Brückenkurs zur Mathematik an. Allen Studienanfänger*innen wird eine Teilnahme am gesamten Kurs empfohlen.</p>
+<h3>Weitere Informationen zum Bachelor-Studiengang Wirtschaftsinformatik</h3>
+<h4>Prüfungsordnungen, Modulhandbücher und Verlaufspläne</h4>
+<ul>
+<li>Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen</li>
+</ul>
+<h4>Möglichkeiten eines Master-Studiums</h4>
+<ul>
+<li>Angewandte Informatik M.Sc. (berufsbegleitendes Verbundstudium)</li>
+<li>Informatics and Business M.Sc.</li>
+<li>Angewandte Künstliche Intelligenz M.Sc. (berufsbegleitendes Verbundstudium)</li>
+<li>Data Science M.Sc. (berufsbegleitendes Verbundstudium)</li>
+</ul>
+<p>Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung.</p>
+<p>Bei Fragen unterstützt Sie die<br>Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter.</p>
+<p>Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.</p>
+<p>Prüfungsorganisation</p>
+<p>Hier finden Sie die Prüfungspläne für den Fachbereich Technische Betriebswirtschaft in Hagen.</p>
+<p>Termine für Studieninteressierte</p>
+<p>Standort Hagen</p>
+<p>Fachgebiet</p>
+<p>Storys</p>
+<h3>Fragen zum Studiengang oder zur Studienwahl?</h3>
+<p>Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.</p>
+<ul>
+<li>Per Mail studienberatung@fh-swf.de</li>
+<li>Per Telefon 02371 566 538</li>
+<li>Nach Absprache per Videokonferenz (Zoom)</li>
+<li>Und natürlich persönlich: <br>Zum Beratungsangebot der Allgemeinen Studienberatung</li>
+</ul>
+<p>Hier finden Sie<br>weitere Ansprechpartner*innen.</p>
+<h4>Infos zu Bewerbungsfristen? Abonnieren Sie unseren <br>Newsletter!</h4>
+<figure></figure>
+<p>Sprechzeiten</p>
+<table><tbody><tr><td>Mo., Di., Do., Fr.:</td><td>9.00 - 16.00 Uhr</td></tr><tr><td>Mittwochs:</td><td>13.00 - 17.30 Uhr</td></tr></tbody></table>
+<ul>
+</ul>
+<h4>Initiativen und Mitgliedschaften</h4>
+<figure></figure>
+<figure></figure>
+<figure></figure>
+<figure></figure>
+<figure></figure>
+<figure></figure>
+<figure></figure>
+<ul>
+<li>Impressum</li>
+<li>Datenschutz</li>
+<li>Disclaimer</li>
+<li>Barrierefreiheit</li>
+<li>Sitemap</li>
+<li>Kontakt</li>
+<li>Cookie Einstellungen</li>
+<li>3805325</li>
+</html>

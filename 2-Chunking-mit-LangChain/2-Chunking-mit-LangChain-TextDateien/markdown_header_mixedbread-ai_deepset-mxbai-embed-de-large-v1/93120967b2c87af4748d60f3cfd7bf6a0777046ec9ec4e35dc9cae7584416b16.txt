@@ -1,0 +1,160 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 28
+
+Metadata: {'Header 1': 'Die FachhochschuleSüdwestfalen in Iserlohn', 'id': 5674, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: # Die FachhochschuleSüdwestfalen in Iserlohn  
+1. Über uns
+2. Standorte
+3. Iserlohn
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 117
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'id': 5675, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: # Der Standort Iserlohn  
+## Studienqualität trifft auf Lebensqualität  
+Perfekte Perspektiven für ein erfolgreiches und lebenswertes Studium: Die Fachhochschule in Iserlohn bietet die optimale Kombination aus praxisbezogenen Studiengängen mit exellenter Laborausstattung in einem persönlichem Umfeld. Unser Hochschulstandort mit den beiden Fachbereichen Maschinenbau sowie Informatik und Naturwissenschaften steht für höchste Studienqualität und liegt dazu noch mitten im Grünen. Kurzum: Hier lässt es sich prima studieren und in Iserlohn wunderbar leben.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 288
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Studienqualität', 'id': 5676, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Studienqualität  
+Ob Präsenz- oder Verbundstudiengang, ob Bachelor oder Master: Der Hochschulstandort Iserlohn ebnet Ihnen mit seinem umfangreichen Studienangebot den Weg in eine erfolgreiche Karriere in den Berufsfeldern Maschinenbau, Informatik und Naturwissenschaften. Dafür sorgt neben der starken Praxisorientierung auch die enge Zusammenarbeit mit der heimischen Wirtschaft.  
+Studierende lernen am Hochschulstandort Iserlohn in einem modernen akademischen Umfeld und besonders intensiv durch kleine Gruppen, die eine individuelle Förderung ganz nah an ihren Interessen ermöglichen. Die Fachhochschule Südwestfalen setzt auf persönliche Kontakte: Bei uns hat jede*r Studierende ein Gesicht – nicht nur eine Matrikelnummer!  
+Öffnungszeiten  
+| Mo. - Fr.   | 07:00 - 19:30 Uhr                                             |
+|-------------|---------------------------------------------------------------|
+| Sa.         | 08:00 - 18:00 Uhr (nur bei Präsenzterminen im Verbundstudium) |  
+Diese Angaben beziehen sich auf die Gebäude. Servicezeiten von Einrichtungen und Ansprechpartnern finden Sie auf den jeweiligen Webseiten. In den Semesterferien bleiben die Gebäude samstags geschlossen.  
+Anschrift  
+Hausanschrift
+Fachhochschule Südwestfalen
+Standort Iserlohn
+Frauenstuhlweg 31
+58644 Iserlohn  
+Postanschrift
+Postfach 2061
+58590 Iserlohn  
+Telefon: (02371) 566-0
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 188
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Qualität für die Zukunft', 'id': 5677, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Qualität für die Zukunft  
+Iserlohn und die Fachhochschule sind eingebettet in Südwestfalen und damit in die Industrieregion Nummer 1 in NRW: Hier sind über 150 Weltmarktführer und attraktive Arbeitgeber beheimatet, die auf Fach- und Führungskräfte aus dem direkten Umfeld bauen. Neben der Metall verarbeitenden Industrie haben in Iserlohn wichtige Unternehmen der pharmazeutischen Branche, der Kunststoffherstellung oder des Automotive-Bereichs ihren Sitz. Die FH versteht sich als kompetente Aus- und Weiterbildungsstätte für die heimische Wirtschaft, die zusammen ein starkes Netzwerk mit vielen Kooperationsmöglichkeiten bilden. Unsere Studierenden erhalten oft schon während des Studiums differenzierte Einblicke in die Arbeitswelt, die nach erfolgreichem Abschluss häufig einen nahtlosen Übergang ins Berufsleben ermöglichen – und das praktisch vor der Haustür.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 278
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Lebensqualität', 'id': 5678, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Lebensqualität  
+Waldstadt - dieser Name kommt nicht von ungefähr: Als größte Stadt im Märkischen Kreis mit rund 95 000 Einwohnern ist Iserlohn und sein größter Ortsteil Letmathe umgeben von Grün. Eine Lernpause in der Natur, eine Joggingrunde durch den Park oder zum Event ins Parktheater - das ist hier für die Studierenden ein Klacks. Schließlich liegen die Gebäude der Fachhochschule am Rande des Stadtwaldes unterhalb des Iserlohner Wahrzeichens, dem Danzturm, mit einzigartigem Blick in die Ferne, und oberhalb der Alexanderhöhe, die mit dem größten Schützenfest Südwestfalens stets am ersten Juliwochende zur Feiermeile wird.  
+Darf's noch ein bisschen mehr sein? Für jede Menge sportliche Aktivitäten steht die Region rund um den Seilersee, der auch Heimat der Iserlohn Roosters ist: Die Eishockeyspiele der DEL-Mannschaft versprechen jede Menge Spannung. Nicht nur danach lockt die Innenstadt mit Cafés, Kino und Co. Wer's gern ein bisschen individueller beim Shoppen mag: Hier gibt es sie noch, die inhabergeführten Läden mit Flair.  
+Weiterführende Links  
+- Anfahrt, ÖPNV &amp; Lageplan
+- Wohnen
+- Stadt &amp; Umland
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 46
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Fachbereich Informatik und Naturwissenschaften', 'id': 5679, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Fachbereich Informatik und Naturwissenschaften  
+Das Innovations- und Kreativitätszentrum mit Studiengängen wie Angewandte Künstliche Intelligenz oder Angewandte Biologie oder Informatik.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Fachbereich Maschinenbau', 'id': 5680, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Fachbereich Maschinenbau  
+Gestalten Sie die Welt von morgen! Im Fachbereich Maschinenbau werden zukünftige Technologien entwickelt und umgesetzt.
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 50
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Mensa "Canapé"', 'id': 5681, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Mensa "Canapé"  
+In Iserlohn trägt sie den Namen "Canapé". Im Sommer lässt man es sich auf der Terrasse schmecken. Nach dem Mittagessen sorgt der Kicker für ein bisschen Bewegung.
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 34
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Studienqualität trifft auf Lebensqualität', 'Header 3': 'Fachbibliothek Iserlohn', 'id': 5682, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Fachbibliothek Iserlohn  
+Hier finden Sie ein umfangreiches Informationsangebot zugeschnitten auf den Lern- und Forschungsalltag der Hochschulangehörigen.
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 262
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Der Hochschulstandort Iserlohn', 'id': 5683, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ## Der Hochschulstandort Iserlohn  
+Hier trifft Studien- auf Lebensqualität.  
+Das moderne akademische Umfeld, die spezifische Ausstattung der Labore und die enge, produktive Zusammenarbeit mit der heimischen Industrie eröffnen exzellente und zukunftsweisende Studienbedingungen.  
+Bei uns hat jeder Studierende ein Gesicht – nicht nur eine Matrikelnummer. Kleine Lerngruppen, ein direkter Draht zu den Dozentinnen und Dozenten und individuelle Förderung ermöglichen ein Studium ganz nach ihren Bedürfnissen.  
+Unsere beiden Fachbereiche Informatik &amp; Naturwissenschaften …  
+… und Maschinenbau enthalten ein breites Angebot an zukunftsweisenden Präsenz- und Verbundstudiengängen wie z.B. …  
+Integrierte Produktentwicklung, …  
+Digitale Transformation Maschinenbau,...  
+… Kunststofftechnik, …  
+… Automotive, …  
+… Angewandte Informatik, …  
+… Angewandte Biologie, …  
+… Angewandte Künstliche Intelligenz, …  
+… Produktentwicklung/Konstruktion, …  
+… Fertigungstechnik, …  
+… Life Science Engineering, …  
+... Mechatronik und vieles mehr. Schauen Sie sich um!  
+Anfahrt  
+Termine und Aktuelles  
+Stadt &amp; Umland  
+Studienangebot
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 61
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Der Hochschulstandort Iserlohn', 'Header 3': 'Paul Gruner', 'id': 5684, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Paul Gruner  
+„Ich bin zum Studieren hier, fertig. An der Fachhochschule fühle ich mich super wohl, super Professoren, super Bedingungen, alles super. Auch die City ist richtig schön, nur leider werden viel zu früh die Bürgersteige hochgeklappt."
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 68
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Der Hochschulstandort Iserlohn', 'Header 3': 'Daniel Faust', 'id': 5685, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Daniel Faust  
+„Iserlohn? Bergig, waldig, hat was. Mit den Leuten in Kontakt zu kommen, ist schwierig. Das geht in Berlin, wo ich herkomme, schneller. Alles in allem ist der Iserlohner aber vielleicht freundlicher als der Berliner. Wenn man ihn dann mal kennt.“
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 46
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'id': 5686, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ## Noch Fragen? Wir sind für Sie da!  
+Frauenstuhlweg 31  
+Postfach 2061  
+Frauenstuhlweg 31  
+Postfach 2061  
+Frauenstuhlweg 31  
+58644 Iserlohn  
+Raum: H 113  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 30
+
+Metadata: {'Header 1': 'Der Standort Iserlohn', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5687, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Iserlohn', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php', 'hash': '93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3462947
+

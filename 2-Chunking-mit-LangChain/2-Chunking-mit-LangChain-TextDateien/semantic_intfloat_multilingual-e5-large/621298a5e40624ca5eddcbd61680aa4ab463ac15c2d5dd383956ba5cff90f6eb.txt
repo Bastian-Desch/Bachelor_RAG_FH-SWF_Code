@@ -1,0 +1,250 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 84
+
+Metadata: {'id': 107, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf', 'hash': '621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb'}
+Text: ## Fachprüfungsordnung
+
+für den Bachelorstudiengang
+
+## Elektrotechnik
+
+an der Fachhochschule Südwestfalen
+
+Standort Hagen
+
+vom 28. Februar 2024
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes  Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16. September  2014,  zuletzt geändert durch Gesetz vom 29. August 2023 (GV. NRW.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 5430
+
+Metadata: {'id': 108, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf', 'hash': '621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb'}
+Text: 2022 S. 1072), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelorund Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Elektrotechnik und Informationstechnik der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen:
+
+## INHALTSÜBERSICHT
+
+## Teil 1 Allgemeines
+
+- § 1 Geltungsbereich
+- § 2 Hochschulgrad
+- § 3 Beginn, Dauer, Aufbau und Umfang des Studiums
+- § 4 Prüfungsausschuss
+- § 5 Bewertung von Prüfungsleistungen
+- § 6 Wiederholung von Prüfungsleistungen
+
+## Teil 2
+
+## Modulprüfungen und Studienleistungen
+
+- § 7 Umfang und Form der Modulprüfungen
+- § 8 Zulassung zu Modulprüfungen
+- § 9 Klausurarbeiten
+- § 10 Klausurarbeiten im Antwortwahlverfahren
+- § 11 Mündliche Prüfungen
+- § 12 Hausarbeiten
+- § 13 Projektarbeiten
+- § 14 Referate
+- § 15 Portfolio
+
+## Teil 3 Das Studium
+
+- § 16 Umfang der Bachelorarbeit
+- § 17 Zulassung zur Bachelorarbeit
+- § 18 Durchführung und Bewertung der Bachelorarbeit
+- § 19 Kolloquium
+
+Teil 4
+
+## Ergebnis der Abschlussprüfung, Zusatzmodule, Doppelabschluss
+
+§ 20 Zeugnis, Gesamtnote
+
+## Teil 5
+
+## Schlussbestimmungen
+
+- § 21 Inkrafttreten, Auslaufregelung, Aufwuchsregelung und Veröffentlichung
+
+Anlage 1: Pflichtmodule
+
+- Anlage 2:  Ergänzungswahlpflichtmodule
+- Anlage 3:  Nichttechnische Wahlpflichtmodule
+
+## Teil 1 Allgemeines
+
+## § 1 Geltungsbereich
+
+Diese Fachprüfungsordnung (FPO) für den Bachelorstudiengang Elektrotechnik im Fachbereich Elektrotechnik und Informationstechnik in Hagen gilt zusammen mit der jeweils aktuell gültigen Fassung der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen. ## § 2 Hochschulgrad
+
+Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen  in  dem  Studiengang  Elektrotechnik  den  akademischen  Grad  'Bachelor  of Engineering', kurz 'B.Eng.'. ## § 3
+
+## Beginn, Dauer, Aufbau und Umfang des Studiums
+
+- (1)  Das Studium beginnt zum Wintersemester. - (2)  Die Regelstudienzeit beträgt sieben Semester. - (3)  Das Studium umfasst
+- a) Pflichtmodule im Umfang von 175 Leistungspunkten,
+- b) Ergänzungsund nichttechnische Wahlpflichtmodule im Umfang von 20 Leistungspunkten,  wobei  maximal  fünf  Leistungspunkte  in  einem  nichttechnischen Wahlpflichtmodul erworben werden dürfen,
+- c) die Bachelorarbeit im Umfang von zwölf Leistungspunkten und
+- d) das Kolloquium im Umfang von drei Leistungspunkten. Der Leistungsumfang  beträgt insgesamt 210 Leistungspunkte. Ein Leistungspunkt entspricht einem studentischen Arbeitsaufwand von 30 Zeitstunden. - (4)  Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind  der  Anlage  1  zu  entnehmen. Der  Katalog,  aus  dem  laut  §  4  Absatz  4  RPO  die Wahlpflichtmodule zu wählen sind, ist in den Anlagen 2 und 3 aufgeführt. Näheres zur Gliederung des Studiums sowie Details zu Art, Umfang, Inhalten und Prüfungsformen der Module  sind  den  Anlagen,  dem  Studienverlaufsplan  und  dem  Modulhandbuch  zu entnehmen. - (5)  Studierende des Studiengangs Elektrotechnik können am Programm 'Studium Flexibel' teilnehmen, welches die Studieninhalte der ersten beiden Fachsemester auf vier Semester streckt. Dies führt nicht zu einer Verlängerung der Regelstudienzeit. ## § 4 Prüfungsausschuss
+
+Bezugnehmend  auf  §  6  Absatz  3  RPO  erfolgt  die  Wahl  des  vorsitzenden  und  des stellvertretend vorsitzenden Mitglieds des Prüfungsausschusses nicht durch den Prüfungsausschuss, sondern durch den Fachbereichsrat. ## § 5 Bewertung von Prüfungsleistungen
+
+Bezugnehmend auf § 9 Absatz 6 RPO gilt in dem Studiengang folgende Bonuspunkteregelung:
+
+Die Bewertung einer bestandenen Modulprüfung kann durch Bonuspunkte, die im Rahmen einer freiwilligen Zusatzleistung erworben werden können, um einen einheitlich festgesetzten Notenwert verbessert werden. Die Endnote muss eine Note gemäß §  9  Absatz  3  RPO  sein. Diese  Notenverbesserung  ist  nur  für  die  zwei  Prüfungstermine anrechenbar, die unmittelbar auf die Erbringung der Zusatzleistung folgen. Eine bessere Note als  1,0  ist  nicht  erreichbar. Ob  und  wofür  im  Rahmen  einer  freiwilligen  Zusatzleistung Bonuspunkte erworben werden können, wird in der Modulbeschreibung festgelegt. In dieser wird auch der je Zusatzleistung einheitliche Notenwert festgelegt. Der Notenwert 0,7 darf im Rahmen der Verbesserung nicht überschritten werden. § 6
+
+## Wiederholung von Prüfungsleistungen
+
+Abweichend von § 10 Absatz 3 RPO gilt für bestandene Prüfungen, dass in bis zu drei Modulen zur Verbesserung der Note die Modulprüfung an der Fachhochschule Südwestfalen auf Antrag einmal wiederholt werden kann. Mit der Teilnahme an dem Kolloquium erlischt die Möglichkeit der Notenverbesserung. Erreicht die Kandidatin oder der Kandidat in der Wiederholungsprüfung  eine bessere Note, so wird diese Note der Berechnung  der Gesamtnote der Bachelorprüfung zugrunde gelegt. ## Teil 2 Modulprüfungen und Studienleistungen
+
+## § 7
+
+## Umfang und Form der Modulprüfungen
+
+- (1)  Eine Modulprüfung kann neben den in § 13 Absatz 1 RPO aufgezählten Formen ebenfalls in Form eines Referates oder einer Portfolioprüfung durchgeführt werden. - (2)  Abweichend von § 13 Absatz 3 RPO gilt die Möglichkeit der Einstufungsprüfung nicht für Modulprüfungen, die nach dieser Fachprüfungsordnung Bestandteil des fünften oder eines höheren Fachsemesters sind. ## § 8
+
+## Zulassung zu Modulprüfungen
+
+- (1)  Bei der Beantragung der Zulassung zu Modulprüfungen gemäß § 14 Absatz 2 RPO sind folgende Fristen einzuhalten:
+- a) Im  Falle einer Modulprüfung  in  Form  einer  Klausurarbeit,  Klausurarbeit  im Antwortwahlverfahren,  elektronisch  gestützten  Prüfung  oder  einer  mündlichen Prüfung wird diese Frist vom Prüfungsausschuss festgelegt. - b) Im  Falle  der  Modulprüfung  in  Form  einer  Hausarbeit,  eines  Referates,  einer Portfolioprüfung oder einer Kombinationsprüfung beträgt diese Frist vier Wochen nach Beginn der Lehrveranstaltungen des Semesters. - (2)  Bei der Rücknahme des Antrags auf Zulassung zu einer Modulprüfung gemäß § 14 Absatz 5 RPO gelten folgende Fristen:
+- a) Bei Modulprüfungen in Form einer Klausurarbeit, Klausurarbeit im Antwortwahlverfahren, elektronisch gestützten Prüfung oder mündlichen Prüfung beträgt diese Frist eine Woche vor dem festgesetzten Prüfungstermin. - b) Bei Modulprüfungen in Form einer Hauarbeit, eines Referates, einer Portfolioprüfung oder einer Kombinationsprüfung endet diese Frist zwei Wochen nach Ablauf der Frist zur Antragsstellung zwecks Zulassung. Bei einer Projektarbeit beträgt diese Frist zwei Wochen nach Antragstellung. Ersatzweise kann einmal ein neues Thema verlangt werden. - (3)  Die Zulassung zu Modulprüfungen kann gemäß § 14 Absatz 7 RPO von der Erbringung von Vorleistungen (Studienleistungen) abhängig gemacht werden. Für welche Prüfungen solche Studienleistungen notwendig sind, ist für die Pflichtmodule der Anlage 1 dieser FPO zu entnehmen. Die Studienleistungen der einzelnen Wahlpflichtmodule der in den Anlagen 2 und 3 angegebenen Container werden durch den Fachbereichsrat beschlossen und sind dem jeweils aktuellen Modulhandbuch zu entnehmen. - (4)  Bezugnehmend auf § 14 Absatz 10 RPO müssen für die Zulassung zu einer Modulprüfung in  einem  Wahlpflichtmodul  oder  in  einem  Pflichtmodul,  das  planmäßig  ab  dem  vierten Fachsemester angeboten wird, in den Modulprüfungen des ersten und zweiten Fachsemesters mindestens 40 Leistungspunkte erworben worden sein. Diese müssen zu Beginn der Prüfung vorliegen. ## § 9
+
+## Klausurarbeiten
+
+- (1)  Die Bearbeitungsdauer einer Klausurarbeit gemäß § 17 RPO beträgt 60 bis 120 Minuten. - (2)  In diesem Studiengang besteht die Möglichkeit der mündlichen Ergänzungsprüfung gemäß § 17 Absatz 4 RPO. Die Ergänzungsprüfung kann für höchstens zwei Modulprüfungen in Anspruch genommen werden. ## § 10
+
+## Klausurarbeiten im Antwortwahlverfahren
+
+Für Klausurarbeiten im Antwortwahlverfahren gilt § 9 entsprechend. ## § 11 Mündliche Prüfungen
+
+Eine  mündliche  Prüfung  gemäß  §  20  RPO  dauert  mindestens  20  Minuten,  maximal  45 Minuten. ## § 12
+
+## Hausarbeiten
+
+- (1)  Eine Hausarbeit nach § 21 RPO hat in der Regel einen Umfang von zwei bis fünf Seiten je Leistungspunkt. Tabellen, Abbildungen und Verzeichnisse werden bei der Berechnung des Umfangs nicht mitgezählt. - (2)  Hausarbeiten können durch einen Fachvortrag von maximal 45 Minuten Dauer ergänzt werden. In  welchen  Modulen  ein  ergänzender  Fachvortrag  erforderlich  ist,  wird  im Modulhandbuch geregelt. Die Festlegung der Gewichtung von Hausarbeit und Fachvortrag für die Berechnung der Note der Modulprüfung erfolgt in Textform durch die Dozentin oder den Dozenten zu Beginn der Lehrveranstaltung. - (3)  Handelt es  sich bei der Lehrveranstaltung  um  ein  Seminar,  wird  die  Hausarbeit grundsätzlich durch einen Fachvortrag von maximal 45 Minuten ergänzt. Seminare sind Lehrveranstaltungen, bei der die Kandidatin oder der Kandidat zeigen soll, dass  sie  oder  er  in  der  Lage  ist,  selbstständig  ein  vorgegebenes  Thema  inhaltlich  zu erfassen, dieses zu strukturieren und aufzubereiten und einem Zuhörerkreis im Rahmen eines Fachvortrags verständlich zu präsentieren. Dem Vortrag folgt ein wissenschaftlicher Diskurs, in dem die Kandidatin oder der Kandidat eine Rückmeldung von den Zuhörern über den Vortrag erhält. Der Diskurs dient somit zur Erfolgskontrolle und zum Erlernen von Feedback-Methoden. Um das Ausbildungsziel erreichen zu können, ist die regelmäßige Teilnahme aller Teilnehmerinnen und Teilnehmer an den Vorträgen und den anschließenden Diskussionen erforderlich. ## § 13 Projektarbeiten
+
+- (1)  Bezugnehmend auf § 23 Absatz 1 RPO haben Projektarbeiten in der Regel einen Umfang von  20  bis  25  Seiten. Tabellen,  Abbildungen  und  Verzeichnisse  werden  bei  der Berechnung des Umfangs nicht mitgezählt. - (2)  Die Durchführung der Projektarbeit in einer Einrichtung außerhalb der Hochschule bedarf der Zustimmung des Prüfungsausschusses. - (3)  Die gemäß § 23 Absatz 5 RPO von den Prüfenden festzusetzende Bearbeitungszeit der Projektarbeit  kann  höchstens  acht  Wochen  betragen. Auf  einen  vor  Ablauf  der  Frist gestellten begründeten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss bei Vorliegen eines triftigen Grundes eine Nachfrist der Bearbeitungszeit von bis zu drei Wochen gewähren. ## § 14 Referate
+
+- (1)  Referate sind Fachvorträge von bis zu 45 Minuten Länge. - (2)  Über Art, Umfang, zeitlichen Rahmen und Ausführung des Referates entscheiden die Lehrenden im Rahmen der Maßgaben des Absatzes 1. ## § 15
+
+## Portfolio
+
+- (1) Ein Portfolio ist eine eigenständig zu erarbeitende schriftliche Lernprozessdokumentation. Sie  umfasst  die  Reflexion  und  metakognitive  Auseinandersetzung  mit  dem  eigenen Kompetenzerwerb  in  einem  Modul. Gegebenenfalls  wird  in  ergänzenden  mündlichen Prüfungen der Kompetenzerwerb anhand des Portfolios reflektiert. Das Portfolio besteht
+
+aus  mehreren  Einzelelementen,  zum  Beispiel  Protokoll,  Textanalyse,  Präsentation, Fallstudie,  konstruktiver  Entwurf,  Klausurarbeit,  Hausarbeit,  Programmierleistung  usw. Die  Anzahl  der  Einzelelemente  ist  auf  maximal  fünf  begrenzt. Der  schriftliche  Teil  der Portfolioprüfung umfasst in der Regel drei bis sechs Seiten (inklusive Bilder und Tabellen) je Leistungspunkt, der mündliche Teil sechs bis zehn Minuten je Leistungspunkt. - (2) Die  Zusammensetzung  des  Portfolios  und  die  Bewertungskriterien  gemäß  der  in  der Modulbeschreibung  festgelegten  Varianten  werden  von  der  oder  dem  Lehrenden  zu Beginn  der  Lehrveranstaltung  in  Textform  bekannt  gemacht. Das  schließt  auch  die Gewichtung  der  einzelnen  Elemente  des  Portfolios  für  die  Berechnung  der  Note  der Modulprüfung mit ein. Die Prüferin oder der Prüfer kann dabei auch festlegen, ob zum Bestehen der Modulprüfung alle einzelnen Elemente erfolgreich bestanden sein müssen oder ob ein Notenausgleich möglich ist. - (3) Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit zulassen, wenn der als Prüfungsleistung zu bewertende Beitrag der einzelnen Studierenden auf Grund der Angabe  von  Abschnitten,  Seitenzahlen  oder  anderen  objektiven  Kriterien,  die  eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt. - (4)  Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Ausarbeitung) orientiert sich an der Modullänge und darf ein Semester nicht überschreiten. - (5)  Die Beurteilung eines Portfolios erfolgt auf Grund der schriftlichen Ausarbeitungen und der mündlichen Prüfungen, sofern solche im Portfolio enthalten sind. Die Portfolioprüfung wird in der Regel von einer oder einem Prüfenden bewertet. Bei Klausurarbeitsanteilen findet § 9 Absatz 2 RPO entsprechende Anwendung. ## Teil 3 Das Studium
+
+## § 16 Umfang der Bachelorarbeit
+
+- (1)  Der Umfang der Bachelorarbeit gemäß § 28 Absatz 1 RPO beträgt in der Regel etwa 30 Seiten  à  etwa  50  Zeilen. Tabellen,  Abbildungen  und  Verzeichnisse  werden  bei  der Berechnung des Umfangs nicht mitgezählt. - (2)  Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Bachelorarbeit) beträgt höchstens neun Wochen. Auf einen vor Ablauf der Frist gestellten begründeten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss bei Vorliegen eines triftigen Grundes, der die Fortsetzung der Bearbeitung verhindert, eine Nachfrist der Bearbeitungszeit gewähren. Im Falle der Erkrankung des oder der Studierenden ist dem Antrag  ein  ärztliches  Attest  beizufügen,  aus  dem  die  Prüfungsunfähigkeit  und  die voraussichtliche Dauer der Erkrankung hervorgehen. Die festgelegte Dauer der Verlängerung hat sich daran zu orientieren. Sofern die Erkrankung insgesamt länger als vier Wochen beträgt, ist die Prüferin oder der Prüfer der Bachelorarbeit zu dem Antrag zu hören, um den Prüfungsausschuss zu beraten, ob die Durchführung der Bachelorarbeit weiterhin sinnvoll ist oder nach der Erkrankung ein neues Thema vergeben werden soll. In dem  Fall,  dass  es  sich  um  einen  anderen  Grund  als  eine  Erkrankung  der  oder  des Studierenden  handelt,  kann  eine  Nachfrist  von  insgesamt  höchstens  drei  Wochen,  bei einer Erkrankung von insgesamt höchstens sechs Wochen, gesetzt werden . - (3)  Die Durchführung der Bachelorarbeit in einer Einrichtung außerhalb der Hochschule bedarf der Zustimmung des Prüfungsausschusses. ## § 17
+
+## Zulassung zur Bachelorarbeit
+
+- (1) Ergänzend zu § 29 Absatz 1 RPO kann zur Bachelorarbeit nur zugelassen werden, wer in  den  Modulen  des  ersten  bis  siebten  Fachsemesters  gemäß  der  Anlagen  1  bis  3 mindestens 180 Leistungspunkte erworben hat. - (2)   Abweichend  von  §  14  Absatz  6  RPO  gilt,  dass  dem  Antrag  auf  Zulassung  zur Bachelorarbeit eine Erklärung beizufügen ist, welche Module der Anlagen 2 und 3 als Wahlpflichtmodule zu werten sind. ## § 18
+
+## Durchführung und Bewertung der Bachelorarbeit
+
+- (1)  Bezugnehmend auf § 30 Absatz 2 RPO kann das Thema der Bachelorarbeit nur innerhalb der  ersten  zwei  Wochen  des  Bearbeitungszeitraums  ohne  Angaben  von  Gründen zurückgegeben werden. - (2)  Abweichend  von  §  30  Absatz  4  RPO  kann  die  Bachelorarbeit  nicht  nur  in  deutscher Sprache, sondern auch in englischer Sprache verfasst werden. - (3)  In Ergänzung zu § 30 Absatz 5 RPO gilt, dass unter den Prüfenden der Bachelorarbeit die Betreuerin oder der Betreuer sowie eine Professorin oder ein Professor des Fachbereichs Elektrotechnik und Informationstechnik der Fachhochschule Südwestfalen sein müssen. - (4)  Bezugnehmend auf § 30 Absatz 7 RPO werden durch das Bestehen der Bachelorarbeit zwölf Leistungspunkte erworben. ## § 19 Kolloquium
+
+- (1)  Ergänzend  zu  den  Regelungen  in  §  31  Absatz  2  RPO  kann  zum  Kolloquium  nur zugelassen werden, wer in den Pflichtmodulen gemäß Anlage 1 und den Wahlpflichtmodulen gemäß Anlage 2 und 3 insgesamt 195 Leistungspunkte erworben hat. - (2)  Das Kolloquium wird gemäß § 31 Absatz 5 RPO als mündliche Prüfung mit einer Zeitdauer von mindestens 30 und maximal 45 Minuten durchgeführt und durch eine Präsentation ergänzt. - (3)  Bezugnehmend auf § 31 Absatz 6 RPO werden durch das Bestehen des Kolloquiums drei Leistungspunkte erworben. - (4)  Das  Kolloquium  kann  mit  Zustimmung  des  oder  der  Prüfenden  per  Videokonferenz durchgeführt werden. Sollten beide Prüfenden der oder dem Studierenden per Videokonferenz zugeschaltet sein, muss sich zusätzlich eine sachkundige Beisitzerin oder ein sachkundiger Beisitzer vor Ort bei der oder dem Studierenden befinden. ## Teil 4
+
+## Ergebnis der Abschlussprüfung, Zusatzmodule, Doppelabschluss
+
+## § 20 Zeugnis, Gesamtnote
+
+Bei der Bildung der Gesamtnote gemäß § 33 Absatz 2 RPO werden folgende Notengewichte zugrunde gelegt:
+
+Noten der Modulprüfungen Note der Bachelorarbeit Note des Kolloquiums
+
+80%
+
+17%
+
+3%. ## Teil 5 Schlussbestimmungen
+
+## § 21
+
+## Inkrafttreten, Aufwuchsregelung, Auslaufregelung und Veröffentlichung
+
+- (1)  Diese Fachprüfungsordnung tritt am 1. September 2024 in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. - (2)  Die Regelungen dieser Fachprüfungsordnung gelten erstmals für die Studierenden, die im Wintersemester  2024/2025  im  ersten  Fachsemester  im  Studiengang  Elektrotechnik eingeschrieben sind. - (3)  Wann während des Aufwachsens der Regelungen dieser Prüfungsordnung des Bachelorstudiengangs Elektrotechnik  die  einzelnen  Module  spätestens  zum  ersten  Mal angeboten werden, ist in den Anlagen 1 bis 3 genannt. - (4)  Für die Studierenden des Studiengangs Elektrotechnik, die ihr Studium vor Inkrafttreten dieser Fachprüfungsordnung aufgenommen haben, findet die Fachprüfungsordnung vom 7. August 2017 zuletzt geändert durch Änderungsordnung vom 7. März 2018 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen vom 21.03.2018) mit folgender Maßgabe bis zum Ablauf des Sommersemesters 2029 weiterhin Anwendung:
+
+Die jeweiligen Prüfungen gemäß der Prüfungsordnung vom 7. August 2017 können im Prüfungszeitraum des nachfolgend aufgeführten Semesters letztmalig abgelegt werden:
+
+- a) Prüfungen in Modulen des 1. Fachsemesters Wintersemester 2025/26,
+- b) Prüfungen in Modulen des 2. Fachsemesters Sommersemester 2026,
+- c) Prüfungen in Modulen des 3. Fachsemesters Wintersemester 2026/27,
+- d) Prüfungen in Modulen des 4. Fachsemesters Sommersemester 2027,
+- e) Prüfungen in Modulen des 5. Fachsemesters Wintersemester 2027/28
+- f)  Prüfungen in Modulen des 6. Fachsemesters Sommersemester 2028 und
+- g) Prüfungen in Modulen des 7. Fachsemesters Wintersemester 2028/29. Die  Bachelorprüfung  gemäß  der  Prüfungsordnung  vom  7. August  2017  muss  bis zum 31. August 2029 abgeschlossen sein. Auf Antrag der Studierenden können diese ihr Studium  nach  dieser  Prüfungsordnung  vom  28.02.2024  fortsetzen. Dieser  Antrag  ist unwiderruflich. Über die Genehmigung des Antrags entscheidet der Prüfungsausschuss. - (5)  Diese Prüfungsordnung wird nach Überprüfung durch das Rektorat der Fachhochschule Südwestfalen  auf  Grund  des  Beschlusses  des  Fachbereichsrates  des  Fachbereichs Elektrotechnik und Informationstechnik vom 24.01.2024 erlassen. Iserlohn, den 28. Februar 2024
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Schuster
+
+## Anlage 1: Pflichtmodule
+ 
+| Modul                                                |   LP | Stl. |   Prüfung  im  Fachsem. | Erstmaliges  Angebot   | 
+|------------------------------------------------------|------|--------|-------------------------|------------------------| 
+| Mathematische Grundlagen                             |    5 | Stl. |                       1 | WiSe 24/25             | 
+| Analysis 1                                           |    5 | Stl. |                       1 | WiSe 24/25             | 
+| Elektrotechnik 1                                     |    5 | -      |                       1 | WiSe 24/25             | 
+| Physik 1 - Mechanik                                  |    5 | Stl. |                       1 | WiSe 24/25             | 
+| Prozedurale Programmierung                           |    5 | Stl. |                       1 | WiSe 24/25             | 
+| Lernstrategien und Einführung in die  Elektrotechnik |    5 | -      |                       1 | WiSe 24/25             | 
+| Analysis 2                                           |    5 | Stl. |                       2 | SoSe 25                | 
+| Fourier- und Laplacetransformation                   |    5 | Stl. |                       2 | SoSe 25                | 
+| Elektrotechnik 2                                     |    5 | Stl. |                       2 | SoSe 25                | 
+| Physik 2 - Schwingungen und Wellen                   |    5 | Stl. |                       2 | SoSe 25                | 
+| Objektorientierte Programmierung                     |    5 | Stl. |                       2 | SoSe 25                | 
+| Digitaltechnik                                       |    5 | Stl. |                       2 | SoSe 25                | 
+| Modellbildung und Simulation                         |    5 | -      |                       3 | WiSe 25/26             | 
+| Elektronik 1                                         |    5 | Stl. |                       3 | WiSe 25/26             | 
+| Elektrotechnik 3                                     |    5 | Stl. |                       3 | WiSe 25/26             | 
+| Einführung in die Messtechnik                        |    5 | Stl. |                       3 | WiSe 25/26             | 
+| Signale und Systeme                                  |    5 | Stl. |                       3 | WiSe 25/26             | 
+| Mikrocontroller                                      |    5 | Stl. |                       3 | WiSe 25/26             | 
+| Technisches Englisch                                 |    5 | Stl. |                       4 | SoSe 26                | 
+| Elektronik 2                                         |    5 | Stl. |                       4 | SoSe 26                | 
+| Regelungstechnik 1                                   |    5 | Stl. |                       4 | SoSe 26                | 
+| Digitale Messsysteme                                 |    5 | Stl. |                       4 | SoSe 26                | 
+| Optik und Einführung in die Lichttechnik             |    5 | Stl. |                       4 | SoSe 26                | 
+| Rechnerkommunikation                                 |    5 | Stl. |                       4 | SoSe 26                | 
+| Automatisierungssysteme                              |    5 | Stl. |                       5 | WiSe 26/27             | 
+| Elektrische Antriebe                                 |    5 | -      |                       5 | WiSe 26/27             | 
+| Regelungstechnik 2                                   |    5 | -      |                       5 | WiSe 26/27             | 
+| Sensorsysteme                                        |    5 | -      |                       5 | WiSe 26/27             | 
+| Projektmanagement                                    |    5 | -      |                       6 | SoSe 27                | 
+| Energiesysteme                                       |    5 | -      |                       6 | SoSe 27                | 
+| Angewandte Schaltungstechnik                         |    5 | -      |                       6 | SoSe 27                | 
+| Leistungselektronik                                  |    5 | -      |                       6 | SoSe 27                | 
+| Seminar                                              |    5 | -      |                       7 | WiSe 27/28             | 
+| Projektarbeit                                        |   10 | -      |                       7 | WiSe 27/28             |
+
+## Für die Wahl der Wahlpflichtmodule gilt folgende Regelung:
+
+Es sind insgesamt vier Wahlpflichtmodule zu belegen. Davon darf maximal ein Modul aus dem Katalog der Anlage 3 gewählt werden. Die übrigen Module werden aus dem Katalog der Anlage 2 gewählt. ## Anlage 2: Ergänzungswahlpflichtmodule
+ 
+| Container                         |   LP | Stl. *   | Prüfung im  Fachsem. | Erstmaliges  Angebot   | 
+|-----------------------------------|------|-----------|------------------------|------------------------| 
+| Themen der Elektrotechnik         |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Gebäudesystemtechnik   |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Informatik             |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Medieninformatik       |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Medizintechnik         |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Robotik                |    5 |           | 4, 5 oder 6            | SoSe 26                | 
+| Themen der Technischen Informatik |    5 |           | 4, 5 oder 6            | SoSe 26                |
+
+## Anlage 3: Nichttechnische Wahlpflichtmodule
+ 
+| Container              |   LP | Stl. *   | Prüfung im  Fachsem. | Erstmaliges  Angebot   |
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 173
+
+Metadata: {'id': 109, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf', 'hash': '621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb'}
+Text: 
+|------------------------|------|-----------|------------------------|------------------------| 
+| Nichttechnische Themen |    5 |           | 4, 5 oder 6            | SoSe 26                |
+
+Erläuterung: Die Container werden mit konkreten Modulen befüllt. Ein Modul innerhalb eines Containers hat eine Wertigkeit von fünf Leistungspunkten und schließt mit einer Prüfung ab. Wenn  ein  Container  mehrere  Module  enthält,  kann  der  Container  gemäß  der  Anzahl  der enthaltenen Module mehrfach als Wahlpflichtmodul gewählt werden. - * Ob ein Modul eines Containers eine Studienleistung erfordert, ist der jeweiligen Modulbeschreibung zu entnehmen. LP = Leistungspunkte = ECTS Sem. = Semester SoSe = Sommersemester Stl. = Studienleistung WiSe = Wintersemester
+

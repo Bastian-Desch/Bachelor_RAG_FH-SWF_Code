@@ -1,0 +1,5 @@
+#    Model                                  NDCG@5    MRR@5    MAP@5      P@5    Recall@5    Hits@5    Hit Rate@5
+---  -------------------------------------  --------  -------  -------  -----  ----------  --------  ------------
+a    recursive_result_no_filters            0.431     0.495    0.335     0.28       0.59        1.4           0.8
+b    recursive_result_optimal_filters       0.813ᵃ    0.900ᵃ   0.769ᵃ    0.36       0.79        1.8           0.9
+c    recursive_result_self_query_retriever  0.447     0.583    0.436     0.26       0.503       1.3           0.7

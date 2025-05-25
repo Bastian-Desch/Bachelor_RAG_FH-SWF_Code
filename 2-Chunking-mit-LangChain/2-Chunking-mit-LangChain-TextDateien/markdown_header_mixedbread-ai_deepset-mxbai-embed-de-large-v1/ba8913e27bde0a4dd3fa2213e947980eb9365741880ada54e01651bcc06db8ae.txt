@@ -1,0 +1,157 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 22
+
+Metadata: {'Header 1': 'Die Fachhochschule', 'id': 5688, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: # Die Fachhochschule
+Südwestfalen in Soest  
+1. Über uns
+2. Standorte
+3. Soest
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 175
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'id': 5689, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: # Unser Standort in Soest  
+## Familiär, aber auch international  
+Kleine Studiengruppen und eine persönliche Betreuung, das ist eines der Erfolgsrezepte der Fachhochschule Südwestfalen. Die Studierenden der vier Fachbereiche Agrarwirtschaft, Bildungs- und Gesellschaftswissenschaften, Elektrische Energietechnik sowie Maschinenbau-Automatisierungstechnik profitieren außerdem von modernen Laboren und Werkstätten, einer hervorragend bestückten Bibliothek und hellen, angenehmen Arbeitsräumen.  
+Internationale Studiengänge machen das Studium in Soest nicht nur für ausländische Studierenden interessant. Vier Studiengänge werden komplett in englischer Sprache durchgeführt und vom
+Center for Business Education koordiniert. Es herrscht eine weltoffene und aufgeschlossene Atmosphäre auf unserem Campus an dem man leicht in Austausch mit Kommiliton*innen und Mitarbeiter*innen treten kann.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 277
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'Studiengänge mit Spitzenranking', 'id': 5690, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Studiengänge mit Spitzenranking  
+Im renommierten Hochschulranking der Wochenzeitschrift „DIE ZEIT“ und des Centrums für Hochschulentwicklung (CHE) stehen die Fachbereiche des Fachhochschulstandorts Soest immer wieder ganz weit vorn. Der Fachbereich Elektrische Energietechnik erhielt sehr gute Werte, der Fachbereich Maschinenbau-Automatisierungstechnik gehört gar zu den Spitzenreitern in NRW und liegt auch bundesweit in der Spitzengruppe. Als Fachbereich mit viel Tradition bildet die Agrarwirtschaft angehende Führungskräfte für das Agribusiness aus. Der Fachbereich Bildungs- und Gesellschaftswissenschaften bietet verschiedene Studienmodelle aus dem Bereich der Früh- und Medienpädagogik an.  
+Öffnungszeiten  
+| Mo. - Fr.   | 07:00 - 19:30 Uhr                                             |
+|-------------|---------------------------------------------------------------|
+| Sa.         | 08:00 - 17:00 Uhr (nur bei Präsenzterminen im Verbundstudium) |  
+Diese Angaben beziehen sich auf die Gebäude. Servicezeiten von Einrichtungen und Ansprechpartnern finden Sie auf den jeweiligen Webseiten.  
+Anschrift  
+Hausanschrift
+Fachhochschule Südwestfalen
+Standort Soest
+Lübecker Ring 2
+59494 Soest  
+Postanschrift
+Postfach 1465
+59474 Soest  
+Telefon: (02921) 378-0
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 176
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'Partner der Wirtschaft und der Forschung', 'id': 5691, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Partner der Wirtschaft und der Forschung  
+Die Fachhochschule Südwestfalen ist Ansprechpartner für Industrie, Landwirtschaft und Handwerk auf vielen Gebieten der neuesten Technologien und Verfahren. In gemeinsamen Projekten oder als Gesprächspartner für Innovations- und Technologieberatung sind Forschung und Wirtschaft erfolgreich miteinander verknüpft. Zahlreiche Forschungsprojekte der vier Soester Fachbereiche werden als "Forschungshighlights" gefördert. Neben unterschiedlichsten Forschungs- und Kooperationsprojekten entstand so auch das Duale Studium Soest, bei dem Studierende von einem kooperierenden Unternehmen ein Stipendium zum Studium erhalten und in den vorlesungsfreien Zeiten im Betrieb die praktische Seite kennenlernen.  
+Interdisziplinäres Arbeiten ist eine wichtige wissenschaftliche Grundlage und dank der Vielfalt und großen Bandbreite der Fachbereiche ergeben sich spannende Synergien.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 154
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'Abwechlung zwischen Münsterland und Sauerland', 'id': 5692, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Abwechlung zwischen Münsterland und Sauerland  
+Darüber hinaus punktet Soest mit historischem Ambiente, dem nahegelegenen Möhnesee und abwechslungsreichem Freizeitangebot. Eingebettet zwischen Münsterland und Sauerland, die verkehrsgünstige Lage mit den Ruhrmetropolen gleich nebenan – so lässt sich auch die Freizeit vielfältig gestalten.  
+Gute Einblicke in die Region Südwestfalen bieten die
+Südwestfalen Agentur und
+Homebase Sauerland.  
+Weiterführende Links  
+- Anfahrt, ÖPNV &amp; Lageplan
+- Wohnen
+- Stadt &amp; Umland  
+Social Media  
+Folgen Sie dem Campus Soest in Social Media und bleiben Sie auf dem Laufenden:  
+Campus Soest bei Instagram  
+Campus Soest bei Facebook
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 71
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'FB Agrarwirtschaft', 'id': 5693, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### FB Agrarwirtschaft  
+Das Fachhochschulstudium der Agrarwirtschaft (mit den Abschlüssen Bachelor und Master) bietet in NRW nur die Fachhochschule Südwestfalen an. Der Ruf und die Bedeutung von Ausbildung, Forschung und Lehre der Soester Agrarwirtschaft reicht jedoch weit über die Region und das Land hinaus.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 62
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'FB Bildungs- und Gesellschaftswissenschaften', 'id': 5694, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### FB Bildungs- und Gesellschaftswissenschaften  
+Bachelor- und Masterstudiengänge in Präsenz oder berufsbegleitend absolvieren. Der Fachbereich Bildungs- und Gesellschaftswissenschaften bietet ein breites Portfolio an Studiengängen mit Fokus auf Früh- und Medienpädagogik.
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 37
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'Mensa Soest', 'id': 5695, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Mensa Soest  
+Der zentrale Treffpunkt für Studierende und Mitarbeiter*innen. Die Mensa Soest auf dem Campus in Soest überzeugt mit einer täglich frischen Küche.
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 43
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'FB Elektrische Energietechnik', 'id': 5696, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### FB Elektrische Energietechnik  
+Die Studiengänge im Soester Fachbereich Elektrische Energietechnik sind als Antwort auf die Bedürfnisse und Trends auf dem nationalen Arbeitsmarkt sowie an die Ingenieursausbildung entwickelt.
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 64
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'FB Maschinenbau-Automatisierungstechnik', 'id': 5697, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### FB Maschinenbau-Automatisierungstechnik  
+Seit Jahren zählt der Soester Fachbereich Maschinenbau-Automatisierungstechnik zu den Spitzenreitern im Hochschulranking Nordrhein-Westfalens. Die Absolventinnen und Absolventen aus Soest sind gefragte Fachkräfte auf dem Arbeitsmarkt.
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 50
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Familiär, aber auch international', 'Header 3': 'Bibliothek Soest', 'id': 5698, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Bibliothek Soest  
+Die Bibliothek in Soest ist mit 877m² der größte von allen vier Fachbibliotheken und bietet Platz für über 80 Einzel- und Gruppenarbeitsplätze, daneben stehen drei separate Gruppenarbeitsräume zur Verfügung.
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 94
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Der Hochschulstandort Soest', 'id': 5699, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ## Der Hochschulstandort Soest  
+…heißt Sie willkommen!  
+…ist ein Ort persönlicher Begegnungen.  
+…überzeugt mit moderner Ausstattung und einladender Lernatmosphäre.  
+…überzeugt mit guter Verpflegung,...  
+…innovativen Forschungsprojekten in top ausgestatteten Laboren und...  
+…bietet viele Arbeitsplätze zum allein oder gemeinsam Lernen.  
+Anfahrt  
+Termine und Aktuelles  
+Studienangebot  
+Stadt &amp; Umland
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 39
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'id': 5700, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ## Noch Fragen? Wir sind für Sie da!  
+Lübecker Ring 2  
+Postfach 1465  
+Lübecker Ring 2  
+Postfach 1465  
+Lübecker Ring 2  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Unser Standort in Soest', 'Header 2': 'Noch Fragen? Wir sind für Sie da!', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5701, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3805283
+

@@ -1,0 +1,114 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 17
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Eine Vielzahl an Studiengängen und trotzdem familiär', 'id': 5472, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: # Studienangebot  
+## Eine Vielzahl an Studiengängen und trotzdem familiär  
+1. Studienangebot
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 110
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Eine Vielzahl an Studiengängen und trotzdem familiär', 'Header 3': 'Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation.', 'id': 5473, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation.  
+Wann bewerben?  
+Auf dieser Seite  
+- Studiengang konfigurieren
+- Fachgebiete
+- Studienmodelle
+- Standorte
+- Kontakt Allgemeine Studienberatung
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 15
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Hier finden Sie den passenden Studiengang!', 'Header 3': 'Studiengangsuche', 'id': 5474, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ## Hier finden Sie den passenden Studiengang!  
+### Studiengangsuche
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 269
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Übersicht Fachgebiete', 'id': 5475, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ## Übersicht Fachgebiete  
+Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement.  
+Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang.  
+Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich.  
+Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran.  
+„Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl.  
+Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei.  
+Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt.  
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 28
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Studienmodelle', 'Header 3': 'Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?', 'id': 5476, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ## Studienmodelle  
+### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?  
+- Zu den Studienmodellen
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 167
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Unsere Standorte', 'id': 5477, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ## Unsere Standorte  
+Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft.  
+Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium ausmachen.  
+Die Fachhochschule Südwestfalen wächst! An unserem jüngsten Standort in Lüdenscheid werden Studiengänge von Hagener und Iserlohner Fachbereichen angeboten.  
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet.  
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Landschaft zum Arbeiten und Lernen: Der Standort Soest.
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 119
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Noch Fragen zum Studiengang oder zur Studienwahl?', 'id': 5478, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ## Noch Fragen zum Studiengang oder zur Studienwahl?  
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.  
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 1538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich:
+Zum Beratungsangebot der Allgemeinen Studienberatung  
+Die Allgemeine Studienberatung der FH Südwestfalen beruft sich auf das
+Beratungsverständnis der GIBeT, der Gesellschaft für Information, Beratung und Therapie an Hochschulen e.V.  
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 2
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Noch Fragen zum Studiengang oder zur Studienwahl?', 'Header 5': '', 'id': 5479, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: #####
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 70
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Noch Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Infos zu Bewerbungsfristen? Abonnieren Sie unseren', 'id': 5480, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren
+Newsletter!  
+Sprechzeiten  
+| montags, dienstags, donnerstags und freitags   | 9.00 - 16.00 Uhr    |
+|------------------------------------------------|---------------------|
+| mittwochs                                      | 13.00 - 17.30 Uhr   |  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Studienangebot', 'Header 2': 'Noch Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5481, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3851004
+

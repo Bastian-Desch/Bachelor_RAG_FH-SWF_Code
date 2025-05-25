@@ -1,0 +1,77 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 316
+
+Metadata: {'id': 345, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/AeO_FPO_BA_WFM_19.pdf', 'hash': 'd00abcb16a2402d37c83ecdc8804cbd45ed37dfd72300b295c28b702f0a9515f'}
+Text: ## Ordnung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Meschede
+
+vom 14. Februar 2020
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16.  September  2014  (GV.  NRW.  S.  547)  -  in  der Fassung des Gesetzes zur Änderung des Hochschulgesetzes vom 12. Juli 2019 (GV. NRW. S. 377) -  und des  § 1 Absatz  1 der Rahmenprüfungsordnung  für  Bachelor-  und  Masterstudiengänge  an  der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Ingenieurund Wirtschaftswissenschaften der Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+## Artikel I
+
+Die  Fachprüfungsordnung  für  den  Bachelorstudiengang  Wirtschaftsinformatik  an  der  Fachhochschule Südwestfalen, Standort Meschede vom 26. April 2019 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 15.05.2019) wird wie folgt geändert:
+
+- 1. § 3 Absatz 6 erhält folgende Fassung:
+- ' (6) In  Ergänzung  zu  §  5  Absatz  6  RPO  entspricht  ein  Leistungspunkt  einem  studentischen Arbeitsaufwand von 30 Zeitstunden. Pro Studienjahr werden 1.800 Arbeitsstunden veranschlagt.'
+- 2. Anlage 1 erhält folgende Fassung:
+
+## Anlage 1: Pflichtmodule
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 458
+
+Metadata: {'id': 346, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/AeO_FPO_BA_WFM_19.pdf', 'hash': 'd00abcb16a2402d37c83ecdc8804cbd45ed37dfd72300b295c28b702f0a9515f'}
+Text: ## Anlage 1: Pflichtmodule
+
+| Modul                                        |   Credits | Studien- leistung   |   Fach-  semester |
+|----------------------------------------------|-----------|---------------------|-------------------|
+| Allgemeine Betriebswirtschaftslehre          |         6 | -                   |                 1 |
+| Datenbanksysteme 1                           |         6 | SL                  |                 1 |
+| Software Modellierung &amp; IT-Projektmanagement |         6 | SL                  |                 1 |
+| Wirtschaftsinformatik                        |         6 | -                   |                 1 |
+| Wirtschaftsmathematik                        |         6 | SL                  |                 1 |
+| Produktionswirtschaft                        |         6 | -                   |                 2 |
+| Projektmanagement                            |         6 | -                   |                 2 |
+| Grundlagen der Programmierung                |         6 | SL                  |                 2 |
+| Statistik                                    |         6 | SL                  |                 2 |
+| Unternehmensrechnung                         |         6 | -                   |                 2 |
+| Algorithmen und Datenstrukturen              |         6 | SL                  |                 3 |
+| Business Intelligence 1                      |         6 | -                   |                 3 |
+| Grundlagen Operations Research               |         6 | -                   |                 3 |
+
+| IT-Sicherheit                                                    |   6 | SL   |   3 |
+|------------------------------------------------------------------|-----|------|-----|
+| Logistik und Supply Chain Management                             |   6 | -    |   3 |
+| IT-gestützte Geschäftsprozesse                                   |   6 | SL   |   4 |
+| Marketing: Strategien und Instrumente in der  Unternehmenspraxis |   6 | -    |   4 |
+| Human Resources &amp; Führung                                        |   6 | -    |   4 |
+| IT-Management                                                    |   6 | -    |   5 |
+| Software-Entwicklung für ERP Systeme                             |   6 | -    |   5 |
+| Studienarbeit                                                    |   6 | -    |   6 |
+
+- 3. Anlage 2 wird um folgende Wahlpflichtmodule ergänzt:
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 210
+
+Metadata: {'id': 347, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/AeO_FPO_BA_WFM_19.pdf', 'hash': 'd00abcb16a2402d37c83ecdc8804cbd45ed37dfd72300b295c28b702f0a9515f'}
+Text: - 3. Anlage 2 wird um folgende Wahlpflichtmodule ergänzt:
+
+| Modul                          |   Credits | Studien- leistung   | Fach-  semester   |
+|--------------------------------|-----------|---------------------|-------------------|
+| Introduction to Data Science   |         6 | -                   | -                 |
+| Mobile Application Development |         6 | SL                  | -                 |
+
+## Artikel II
+
+Diese Ordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.
+
+Diese Ordnung wird nach Überprüfung durch das Rektorat der Fachhochschule Südwestfalen aufgrund des Beschlusses des Fachbereichsrats des Fachbereichs Ingenieur- und Wirtschaftswissenschaften vom 13. Februar 2020 ausgefertigt.
+
+Iserlohn, den 14. Februar 2020
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Claus Schuster
+

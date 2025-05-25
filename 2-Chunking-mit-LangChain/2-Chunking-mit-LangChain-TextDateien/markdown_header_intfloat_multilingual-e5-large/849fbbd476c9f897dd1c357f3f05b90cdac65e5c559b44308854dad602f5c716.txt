@@ -1,0 +1,82 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 22
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng. /', 'id': 4855, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: # Elektrotechnik B.Eng. /
+dual ausbildungsintegrierend /
+dual praxisintegrierend
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 25
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng. /', 'Header 2': 'Soest', 'id': 4856, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: ## Soest  
+1. Studienangebot
+2. Studiengänge
+3. Soest
+4. Elektrotechnik, B.Eng.
+5. Prüfungsordnungen
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 119
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend', 'Header 3': 'Fachprüfungsordnung 2020', 'id': 4857, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: # Prüfungsordnungen  
+## Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend  
+### Fachprüfungsordnung 2020  
+Lesefassung zur Fachprüfungsordnung vom 30. April 2020 (inkl. aller Änderungsordnungen)  
+Fachprüfungsordnung vom 30. April 2020  
+FPO 2020: Ordnung zur Änderung der FPO (v. 26.11.2020)  
+FPO 2020: Zweite Ordnung zur Änderung der FPO (v. 04.05.2021)  
+FPO 2020: Dritte Ordnung zur Änderung der FPO (v. 22.02.2023)
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 13
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend', 'Header 3': 'Praktikumsordnung*', 'id': 4858, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: ### Praktikumsordnung*  
+Praktikumsordnung vom 28. April 2022
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 44
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend', 'Header 3': 'Modulhandbücher*', 'id': 4859, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: ### Modulhandbücher*  
+FPO 2020: Modulhandbuch  
+FPO 2020: Modulhandbuch Wahlpflichtangebot  
+im Wintersemester  
+im Sommersemester  
+Aktuelle Infos zum Angebot in diesem Semester finden Sie auf
+Moodle
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 111
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend', 'Header 3': 'Verlaufspläne*', 'id': 4860, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: ### Verlaufspläne*  
+FPO 2020: Studienverlaufsplan  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.  
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 4861, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php', 'hash': '849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3810351
+

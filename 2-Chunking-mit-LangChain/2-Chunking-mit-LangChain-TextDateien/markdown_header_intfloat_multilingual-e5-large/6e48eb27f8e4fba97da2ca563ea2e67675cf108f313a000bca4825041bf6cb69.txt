@@ -1,0 +1,24 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 898
+
+Metadata: {'Header 2': 'Ausnahmeregelung zu der', 'id': 119, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/Ausnahmeregelung_BA_IBE_IBI_WIS_WFS.pdf', 'hash': '6e48eb27f8e4fba97da2ca563ea2e67675cf108f313a000bca4825041bf6cb69'}
+Text: ## Ausnahmeregelung zu der  
+Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics und der Fachprüfungsordnung für die Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen  
+vom 25. Juni 2020  
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom  14.  April  2020  (GV.  NRW.  S.  218b),  und  des  §  1  Absatz  1  der  Rahmenprüfungsordnung  für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft der Fachhochschule Südwestfalen für die Durchführung der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen und Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Hagen und International Studies of Business  Administration  and  Engineering  und  International  Studies  of  Business  Administration  and Computer  Science  an  der  Fachhochschule  Südwestfalen,  Standort  Hagen  und  der  Staffordshire University  vom  13.  November  2015  und  der  Fachprüfungsordnung  für  die  Bachelorstudiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und  International Business  Administration  and  Informatics  an  der  Fachhochschule  Südwestfalen, Standort Hagen vom 19. Juli 2018 im Sommersemester 2020 während des eingeschränkten Notbetriebs aufgrund der Prävention zur Corona-Pandemie folgenden Beschluss gefasst:  
+Der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft beschließt, dass ab sofort bis zum 30.09.2021 in den oben genannten Studiengängen gilt, dass  
+- 1. die  Praktika  spätestens  bis  zum  Semesterbeginn  des  fünften  Studiensemesters  nachgewiesen werden müssen,
+- 2. zur Praxisphase oder zum  Praxisprojekt zugelassen wird, wer an der Fachhochschule Südwestfalen  als  Studierende  oder  Studierender  eingeschrieben  oder  als  Zweithörerin  oder Zweithörer gemäß  §  52  Absatz 2 HG  zugelassen  ist und in dem  ersten bis fünften Studiensemester laut Studienplan abhängig vom studierten Studiengang die folgende Anzahl an Leistungspunkten erworben hat:
+- a) Wirtschaftsingenieurwesen und Wirtschaftsinformatik: 105 Leistungspunkte aus den ersten fünf Studiensemestern, davon 80 Leistungspunkte aus den ersten drei Studiensemestern,
+- b) International Business Administration and Engineering, International Business Administration and  Informatics,  International  Studies  of  Business  Administration  and  Engineering  und International Studies of Business Administration and Computer Science: 85 Leistungspunkte aus  den  ersten  vier  Studiensemestern,  davon  60  Leistungspunkte  aus  den  ersten  drei Studiensemestern,
+- 3. zum  Auslandssemester zugelassen wird, wer an der Fachhochschule Südwestfalen als Studierende  oder  Studierender  eingeschrieben  oder  als  Zweithörerin  oder  Zweithörer  gemäß § 52 Absatz 2 HG zugelassen ist und 80 Leistungspunkte aus den ersten drei Studiensemestern erworben hat,
+- 4. zum  Studienjahr  im  Ausland  zugelassen  wird,  wer  an  der  Fachhochschule  Südwestfalen  als Studierende  oder  Studierender  eingeschrieben  oder  als  Zweithörerin  oder  Zweithörer  gemäß § 52 Absatz 2 HG zugelassen ist und 80 Leistungspunkte aus den ersten drei Studiensemestern erworben hat. Die Modulprüfung im Modul 'Business English' muss bestanden sein.
+- 5. ergänzend  zu  §  29  Absatz  1  RPO  zur  Bachelorarbeit  nur  zugelassen  werden  kann,  wer  155 Leistungspunkte aus den ersten sechs Studiensemestern laut Studienplan und gegebenenfalls dem Auslandssemester bzw. dem Studienjahr im Ausland erworben hat.  
+1  
+Diese Ausnahmeregelung wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.  
+Sie  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule  Südwestfalen  auf  Grund  des Beschlusses des Fachbereichsrats des Fachbereichs Technische Betriebswirtschaft vom 10. Juni 2020 erlassen.  
+Iserlohn, den 25. Juni 2020  
+Der Rektor der Fachhochschule Südwestfalen  
+Prof. Dr. Claus Schuster  
+2
+

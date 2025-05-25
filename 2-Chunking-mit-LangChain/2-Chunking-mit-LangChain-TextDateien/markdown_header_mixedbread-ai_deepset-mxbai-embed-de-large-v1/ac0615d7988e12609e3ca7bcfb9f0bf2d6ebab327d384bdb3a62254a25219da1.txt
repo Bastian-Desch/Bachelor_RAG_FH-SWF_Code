@@ -1,0 +1,88 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 16
+
+Metadata: {'Header 2': 'Amtliche Bekanntmachung der Fachhochschule Südwestfalen', 'id': 4934, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## Amtliche Bekanntmachung der Fachhochschule Südwestfalen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 41
+
+Metadata: {'Header 2': '- Verkündungsblatt der Fachhochschule Südwestfalen -', 'id': 4935, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## - Verkündungsblatt der Fachhochschule Südwestfalen -  
+Baarstraße 6, 58636 Iserlohn  
+Nr. 1047                             Ausgabe und Tag der Veröffentlichung:   01.12.2020
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 133
+
+Metadata: {'Header 2': 'Ordnung', 'id': 4936, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## Ordnung  
+zur Änderung Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest  
+vom 26. November 2020  
+Der Wortlaut wird im Folgenden bekannt gegeben:  
+Hinweis:  
+Nach Ablauf eines Jahres nach Bekanntmachung dieser Ordnung können nur unter den Voraussetzungen des § 12 Absatz 5 Hochschulgesetz NRW Verletzungen von Verfahrens- oder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen Rechts der Hochschule geltend gemacht werden, ansonsten ist eine solche Rüge ausgeschlossen.  
+1  
+## Ordnung
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 168
+
+Metadata: {'Header 2': 'zur Änderung Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest', 'id': 4937, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## zur Änderung Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest  
+vom 26. November 2020  
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 1. September 2020 (GV. NRW. S. 890), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs  Elektrische  Energietechnik  der  Fachhochschule  Südwestfalen  die  folgende  Ordnung erlassen:
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 234
+
+Metadata: {'Header 2': 'Artikel I', 'id': 4938, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## Artikel I  
+Die Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort  Soest  vom  30.  April  2020  (Amtliche  Bekanntmachung  der  Fachhochschule  Südwestfalen  Verkündungsblatt der Fachhochschule Südwestfalen - vom 08.05.2020) wird wie folgt geändert:  
+- 1.  In der Inhaltsübersicht wird die Bezeichnung '§ 24 Inkrafttreten, Übergangsregelung und Veröffentlichung' durch die Bezeichnung '§ 24 Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung'' ersetzt.
+- 2.  § 17 Absatz 1 erhält folgende Fassung:
+- '(1) Studierende aller drei Studiengänge müssen eine Praxisphase gemäß § 25 RPO absolvieren. Die Dauer beträgt zwölf Wochen. Zur Praxisphase wird zugelassen, wer in den Modulprüfungen des Grundlagenstudiums und des anwendungsorientierten Vertiefungsstudiums insgesamt 160 Credits erworben hat.'
+- 3.  § 24 erhält folgende Fassung:
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 4
+
+Metadata: {'Header 2': "' § 24", 'id': 4939, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## ' § 24
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 517
+
+Metadata: {'Header 2': 'Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung', 'id': 4940, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## Inkrafttreten, Aufwuchsregelung, Übergangsregelung und Veröffentlichung  
+- (1) Diese  Fachprüfungsordnung  tritt  am  Tag  nach  ihrer  Veröffentlichung  in  Kraft.  Sie  wird  in  der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.
+- (2) Die  Regelungen  dieser  Fachprüfungsordnung  gelten  erstmals  für  die  Studierenden,  die  im Wintersemester 2020/2021 im ersten Fachsemester im Bachelorstudiengang Elektrotechnik, im Bachelorstudiengang Elektrotechnik dual praxisintegrierend oder im Bachelorstudiengang Elektrotechnik dual ausbildungsintegrierend eingeschrieben sind.
+- (3) Für den Studiengang gilt folgende Aufwuchsregelung:  
+| Modul    | Erstmaliges Angebot   | Modulprüfung zum Ende des   |
+|----------|-----------------------|-----------------------------|
+| Physik 1 | SS 2021               | SS 2021                     |
+| Physik 2 | WS 2021/2022          | WS 2021/2022                |  
+2  
+- (4) Für  Studierende  des  Studiengangs  Elektrotechnik,  die  ihr  Studium  vor  Inkrafttreten  dieser Fachprüfungsordnung aufgenommen haben, findet die Bachelorprüfungsordnung vom 23. April 2015 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 13.05.2015) mit folgender Maßgabe bis zum Ablauf des Wintersemesters 2024/2025 weiterhin Anwendung:  
+Die jeweiligen Prüfungen gemäß  der  Prüfungsordnung vom  23. April 2015 können  im Prüfungszeitraum des nachfolgend aufgeführten Semesters letztmalig abgelegt werden:  
+- a) Prüfungen in Fächern des 1. Fachsemesters Wintersemester 2021/22  
+b) Prüfungen in Fächern des 2. Fachsemesters Sommersemester 2022  
+c) Prüfungen in Fächern des 3. Fachsemesters Wintersemester 2022/23  
+d) Prüfungen in Fächern des 4. Fachsemesters Sommersemester 2023  
+e) Prüfungen in Fächern des 5. Fachsemesters Wintersemester 2023/24  
+- f) Prüfungen in Fächern des 6. Fachsemesters Sommersemester 2024
+- g) Prüfungen in Fächern des 7. Fachsemesters Wintersemester 2024/25  
+Die Bachelorprüfung gemäß der Prüfungsordnung vom 23. April 2015 muss bis zum 28.02.2025 abgeschlossen sein.'
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 125
+
+Metadata: {'Header 2': 'Artikel II', 'id': 4941, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf', 'hash': 'ac0615d7988e12609e3ca7bcfb9f0bf2d6ebab327d384bdb3a62254a25219da1'}
+Text: ## Artikel II  
+Diese Ordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.  
+Sie  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule  Südwestfalen  aufgrund  des Beschlusses des Fachbereichsrats des Fachbereichs Elektrische Energietechnik vom 25. November 2020 ausgefertigt.  
+Iserlohn, den 26. November 2020  
+Der Rektor der Fachhochschule Südwestfalen  
+Prof. Dr. Claus Schuster  
+3
+

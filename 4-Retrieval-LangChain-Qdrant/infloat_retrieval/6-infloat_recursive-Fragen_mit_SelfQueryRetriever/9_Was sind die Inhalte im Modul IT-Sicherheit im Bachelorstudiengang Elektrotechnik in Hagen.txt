@@ -1,0 +1,483 @@
+ID: 9
+Frage: Was sind die Inhalte im Modul IT-Sicherheit im Bachelorstudiengang Elektrotechnik in Hagen?
+
+Dokument 1:
+Metadaten:
+  - id: 695
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: a178f641-89b9-410b-a4e4-cd61c59b0f61
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng.
+
+## Hagen
+
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+
+## Bachelor-Studium Elektrotechnik
+
+### Ohne Elektrotechnik geht wenig. Sie macht unser Leben heller, bunter, komfortabler, sicherer. Vieles, was die E-Technik möglich macht, ist längst selbstverständlich. Zum Beispiel die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, das Smartphone oder die Automatisierung von mühsamen oder gefährlichen Prozessen. Im zulassungsfreien Bachelorstudiengang Elektrotechnik studieren Sie nah an der Praxis und nah an Ihren persönlichen Interessen.
+
+Auf einen Blick
+
+Was? Praxisnahes Grundlagenstudium mit individueller Schwerpunktsetzung
+
+Für wen? Für alle mit Interesse an technischen Lösungen
+
+Warum? Karriereperspektive in z.B. Autoindustrie, Energieversorgung, Telekommunikation
+
+Du hast diesen Studiengang bereits gespeichert!
+
+Der Studiengang wurde erfolgreich gemerkt!
+
+Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.
+
+Bewerbungsfristen &amp; Studienstart-Termine
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+- Neugierig? Besuchen Sie unsere  Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs
+
+## Auf dieser Seite
+
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Info-Video zu den Vertiefungsrichtungen
+- Zielgruppe
+- Berufliche Perspektiven
+- Studi-Stimmen
+- Studienaufbau / Verlaufsplan
+- Info-Video zu den wichtigsten Fragen
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt
+
+Dokument 2:
+Metadaten:
+  - id: 721
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 547bd71f-d192-414e-961d-ba9df5088c4b
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Modulhandbuch zur Bachelor-Fachprüfungsordnung vom 28.02.2024 für den Studiengang Elektrotechnik
+
+## Modulhandbuch
+
+zum Bachelor-Studiengang
+
+Elektrotechnik
+
+(ET)
+
+zur Bachelor-Fachprüfungsordnung vom 28.02.2024
+
+Fachhochschule Südwestfalen
+
+Standort Hagen
+
+Fachbereich Elektrotechnik und Informationstechnik
+
+Stand: Juli 2024
+
+## Begriffserklärungen und Hinweise
+
+## Veranstaltungsformen
+
+Dokument 3:
+Metadaten:
+  - id: 705
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf
+  - hash: 621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb
+  - _id: 3b4bb0cf-31d6-48df-b333-b7dc92a39705
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Anlage 1: Pflichtmodule
+
+- Anlage 2:  Ergänzungswahlpflichtmodule
+- Anlage 3:  Nichttechnische Wahlpflichtmodule
+
+## Teil 1 Allgemeines
+
+## § 1 Geltungsbereich
+
+Diese Fachprüfungsordnung (FPO) für den Bachelorstudiengang Elektrotechnik im Fachbereich Elektrotechnik und Informationstechnik in Hagen gilt zusammen mit der jeweils aktuell gültigen Fassung der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen.
+
+## § 2 Hochschulgrad
+
+Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen  in  dem  Studiengang  Elektrotechnik  den  akademischen  Grad  'Bachelor  of Engineering', kurz 'B.Eng.'.
+
+## § 3
+
+## Beginn, Dauer, Aufbau und Umfang des Studiums
+
+- (1)  Das Studium beginnt zum Wintersemester.
+- (2)  Die Regelstudienzeit beträgt sieben Semester.
+- (3)  Das Studium umfasst
+- a) Pflichtmodule im Umfang von 175 Leistungspunkten,
+- b) Ergänzungsund nichttechnische Wahlpflichtmodule im Umfang von 20 Leistungspunkten,  wobei  maximal  fünf  Leistungspunkte  in  einem  nichttechnischen Wahlpflichtmodul erworben werden dürfen,
+- c) die Bachelorarbeit im Umfang von zwölf Leistungspunkten und
+- d) das Kolloquium im Umfang von drei Leistungspunkten.
+
+Der Leistungsumfang  beträgt insgesamt 210 Leistungspunkte. Ein Leistungspunkt entspricht einem studentischen Arbeitsaufwand von 30 Zeitstunden.
+
+- (4)  Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind  der  Anlage  1  zu  entnehmen.  Der  Katalog,  aus  dem  laut  §  4  Absatz  4  RPO  die Wahlpflichtmodule zu wählen sind, ist in den Anlagen 2 und 3 aufgeführt. Näheres zur Gliederung des Studiums sowie Details zu Art, Umfang, Inhalten und Prüfungsformen der Module  sind  den  Anlagen,  dem  Studienverlaufsplan  und  dem  Modulhandbuch  zu entnehmen.
+- (5)  Studierende des Studiengangs Elektrotechnik können am Programm 'Studium Flexibel' teilnehmen, welches die Studieninhalte der ersten beiden Fachsemester auf vier Semester streckt. Dies führt nicht zu einer Verlängerung der Regelstudienzeit.
+
+Dokument 4:
+Metadaten:
+  - id: 702
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 5f8e58ab-e3ec-4237-8bcb-b522d746305f
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+### Studienoption Lehramt Berufskolleg
+
+- Mehr Infos zur Studienoption Lehramt am Berufskolleg
+
+Prüfungsorganisation
+
+Hier finden Sie die Prüfungspläne für den Fachbereich Elektrotechnik und Informationstechnik in Hagen.
+
+Termine für Studieninteressierte
+
+Standort Hagen
+
+Fachgebiet
+
+Studium Flexibel
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806210
+
+Dokument 5:
+Metadaten:
+  - id: 703
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php
+  - hash: 48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef
+  - _id: 9eaf5d04-f927-494f-8bc3-555d13107b08
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng.
+
+## Hagen
+
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+5. Prüfungsordnungen
+
+# Prüfungsordnungen, Modulhandbücher, Verlaufspläne
+
+## Fachprüfungsordnung 2024
+
+Fachprüfungsordnung vom 28. Februar 2024
+
+## Fachprüfungsordnung 2017
+
+Fachprüfungsordnung vom 7. August 2017
+
+FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018)
+
+## Modulhandbuch*
+
+FPO 2024: Modulhandbuch Elektrotechnik
+
+FPO 2017: Modulhandbuch Elektrotechnik
+
+## Verlaufspläne*
+
+FPO 2024: Studienverlaufsplan
+
+FPO 2017: Studienverlaufsplan
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806840
+
+Dokument 6:
+Metadaten:
+  - id: 728
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: a80e2c2e-b8ad-4e21-93b9-7db0a3305e79
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+| Sensorsysteme ...................................................................................................................................... 74    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Signale und Systeme  .............................................................................................................................. 76     |
+| Technisches Englisch ............................................................................................................................. 78      |
+| Wahlpflichtmodule: Ergänzungswahlpflichtmodule   ........................................................................... 80                            |
+| Advanced Control Systems  .................................................................................................................... 81          |
+| Elektrische Antriebe 2 ........................................................................................................................... 83      |
+| Elektronische Systeme .......................................................................................................................... 85        |
+| LED in Connected Lighting Anwendungen ............................................................................................ 87                      |
+| Regenerative Energiesysteme ............................................................................................................... 89             |
+| Elektrische Gebäudeausrüstung  ............................................................................................................ 91             |
+| Gebäudeautomation ............................................................................................................................. 94         |
+| Gebäudesystemtechnik ......................................................................................................................... 96          |
+| App-Programmierung  ............................................................................................................................ 99        |
+| Datenbanken ....................................................................................................................................... 101    |
+| IT-Sicherheit ........................................................................................................................................ 103 |
+| Künstliche Intelligenz .......................................................................................................................... 105      |
+| Software Engineering .......................................................................................................................... 107        |
+| Webtechnologie 1 ............................................................................................................................... 109       |
+| Digitale Medien: Audio und Video ...................................................................................................... 111                |
+| Mensch-Computer-Interaktion ........................................................................................................... 113                |
+| Bildgebende Verfahren in der Medizin ............................................................................................... 116                   |
+
+Dokument 7:
+Metadaten:
+  - id: 701
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 1bdeec1f-3b02-44c4-aa0b-b1667615ec2f
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+### Legende zum Studienverlaufsplan
+
+Professor*innen und Studierende beantworten die wichtigsten Fragen rund um unseren Bachelor-Studiengang Elektrotechnik an der Fachhochschule Südwestfalen in Hagen.
+
+## Infoveranstaltungen / Veranstaltungen zum Studienstart
+
+Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte in den besten Händen.
+
+Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote.
+
+Damit Sie gut vorbereitet in Ihr Studium einsteigen können, bieten wir Ihnen einen Brückenkurs zur Mathematik an. Allen Studienanfänger*innen wird eine Teilnahme am gesamten Kurs empfohlen.
+
+Wir zeigen Ihnen einen Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können.
+
+## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik
+
+### Prüfungsordnungen, Modulhandbücher und Verlaufspläne
+
+- Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen
+
+### Möglichkeiten eines Master-Studiums
+
+- Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium)
+- Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium)
+- Elektrotechnik M.Eng.
+- Medizintechnik M.Eng.
+
+Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung.
+
+Bei Fragen unterstützt Sie die
+Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter.
+
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+### Studienoption Lehramt Berufskolleg
+
+Dokument 8:
+Metadaten:
+  - id: 698
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: a8e78a42-1015-4dfe-a427-92683ba381d7
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Welche Berufsaussichten bietet das Studium Elektrotechnik?
+
+Das Betätigungsfeld unserer Absolventinnen und Absolventen ist sehr weit. Elektrotechnische Systeme werden erforscht, entwickelt, betrieben oder gewartet. Das geschieht – um nur einige Beispiele zu nennen – in der Autoindustrie, der Energieversorgung, der Automationstechnik, der Telekommunikation, der Beleuchtungsbranche oder allgemein in der produzierenden Industrie.
+
+### Raphael Bechler
+
+Schon von klein auf war ich von der Elektrotechnik begeistert. Dass mein Wunschstudiengang auch an einer Hochschule in Hagen, meiner Heimatstadt, angeboten wird, war für mich optimal. An meinem Studium gefällt mir vor allem die offene personennahe Kommunikationsebene und, das die Lehre sehr praxisnah stattfindet. Dozentinnen und Dozenten nehmen sich immer gerne die Zeit und helfen einem weiter. Außerdem gibt es eine große Auswahl an interessanten Wahlmodulen.
+
+### Ariane Lauster
+
+„Für mich stand eigentlich schon immer fest, dass ich an der Fachhochschule Südwestfalen studieren möchte. Jetzt bin ich hier und das ist gut so. Man kennt sich hier – das gilt für die Kommilitonen ebenso wie für die Professorinnen und Professoren. An meinem Studiengang schätze ich die moderne Ausstattung der Labore und vor allem den Praxisbezug. Hier lernt man aus der Praxis – und nicht nur aus Büchern.“
+
+## Wie ist Bachelor Elektrotechnik aufgebaut?
+
+Im Studiengang Elektrotechnik werden die erforderlichen Inhalte anwendungsorientiert und praxisnah gelehrt. Neben den elektrotechnischen Grundlagenmodulen kann ab dem vierten Semester aus einem breit angelegten Wahlpflichtkatalog entsprechend eigener Interessen gewählt werden. Darüber hinaus werden Kenntnisse und Fähigkeiten in Themenbereichen wie Arbeitsorganisation, Teamfähigkeit oder Projektmanagement vermittelt.
+
+Dokument 9:
+Metadaten:
+  - id: 926
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 98930400-7787-4f73-832a-753f7dc9673b
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Elektrische Gebäudeausrüstung
+
+| Kennnummer  ET                      | Workload  150 h                  | Leistungs- punkte  5 ECTS      | Studien- semester  4./6. Sem.   | Häufigkeit des  Angebots  Jedes SoSe   | Dauer  1 Semester   |    |
+|-------------------------------------|----------------------------------|--------------------------------|---------------------------------|----------------------------------------|---------------------|----|
+| 1                                   | Lehrveranstaltungen              | geplante Gruppengröße          | geplante Gruppengröße           | Kontaktzeit                            | Selbststudium       |    |
+| Praktikum                     1 SWS | Sem. Unterricht            3 SWS | 30 Studierende  16 Studierende | 30 Studierende  16 Studierende  | 45 h                                   | 105 h               |    |
+
+## 2 Lernergebnisse (learning outcomes) / Kompetenzen
+
+## Kenntnisse (Wissen)
+
+Nach erfolgreich bestandenem Modul kennen die Studierenden
+
+- -Aufgaben und Ziel der elektrischen Energieversorgung in einem Gebäude
+- -wichtige Normen, Richtlinie und Vorschriften
+- -rechtliche Grundlagen des VDE-Vorschriftenwerks
+- -Aufbau von Stromversorgungssystemen in Wohn- und Zweckbauten
+- -Funktion und Aufgabe von Drehstromsystemen
+- -Aufgaben von Kompensationsanlagen
+- -wichtigste Inhalte der Technischen Anschlussbedingungen (TAB)
+- -Versorgungssysteme wie z. B. Gruppenversorgung, Ringversorgung, etc.
+- -wichtigste Komponenten (Sicherungsorgane, Leitungen, etc.) einer elektrischen Anlage
+- -Vorschriften für Bereiche, Räume und Anlagen besonderer Art
+- -grundlegende Blitzschutzkonzepte
+- -Schutzvorkehrungen und Schutzmaßnahmen gegen den elektrischen Schlag
+- -erforderliche Prüfungen der Schutzmaßnahmen
+
+## Fertigkeiten (Können)
+
+Nach erfolgreich bestandenem Modul können die Studierenden
+
+- - aktuelle Normen anwenden
+- - Stromversorgungssysteme beschreiben
+- - den Leistungsbedarf bestimmen
+- -Gefahren des elektrischen Stroms einordnen
+
+## 3 Inhalte
+
+Dokument 10:
+Metadaten:
+  - id: 725
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 7e708144-8587-4145-8db7-90faa78302e4
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+| Analysis 1  ................................................................................................................................................. 6   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Analysis 2  ................................................................................................................................................. 8   |
+| Angewandte Schaltungstechnik ............................................................................................................ 10                      |
+| Automatisierungssysteme  ..................................................................................................................... 12                 |
+| Bachelorarbeit ....................................................................................................................................... 14         |
+| Digitale Messsysteme  ............................................................................................................................ 16             |
+| Digitaltechnik  ......................................................................................................................................... 18      |
+| Einführung in die Messtechnik .............................................................................................................. 20                   |
+| Elektrische Antriebe .............................................................................................................................. 22            |
+| Elektronik 1  ............................................................................................................................................ 24     |
+| Elektronik 2  ............................................................................................................................................ 26     |
+| Elektrotechnik 1..................................................................................................................................... 28          |
+| Elektrotechnik 2..................................................................................................................................... 30          |
+| Elektrotechnik 3..................................................................................................................................... 32          |
+| Energiesysteme ..................................................................................................................................... 34           |
+| Fourier- und Laplacetransformation ..................................................................................................... 36                       |
+| Kolloquium ............................................................................................................................................ 38        |
+| Leistungselektronik ............................................................................................................................... 40            |
+| Lernstrategien und Einführung in die Elektrotechnik ........................................................................... 42                                |
+| Mathematische Grundlagen  .................................................................................................................. 45                   |
+| Mikrocontroller ..................................................................................................................................... 47          |
+

@@ -1,0 +1,143 @@
+ID: 9
+Frage: Was sind die Inhalte im Modul IT-Sicherheit im Bachelorstudiengang Elektrotechnik in Hagen?
+
+Dokument 1 (Score: 0.87208250):
+Metadaten:
+  - id: 292
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: 22a1f344-f0e8-4a0e-8337-e4cf491a88fa
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+bestimmte Einsatzszenarien zu bestimmen ·die praktische Anwendung von Verschlüsselungsverfahren in bspw. Kommunikationsprotokollen und zur Verschlüsselung bzw. Signierung von Mailnachrichten nachzuvollziehen und evtl. bestehende Schwachstellen zu identifizieren ·die Bedeutung von Public-Key-Infrastrukturen zu beschreiben und diese entsprechend anzuwenden ·Maßnahmen zur Absicherung der informationstechnischen Infrastruktur abzuleiten und entsprechende Entscheidungen zu begründen ·ausgewählte Vorgehensmodelle und Standards aus dem Bereich der Informationssicherheit zu benennen, deren Prinzipien zu erläutern und anzuwenden. Die Studierenden können außerdem wissenschaftliche Zusammenhänge anhand von Fachliteratur erarbeiten und Adressaten-gerecht präsentieren. ## Inhalte Informationstechnologie durchdringt zunehmend auch sensible Abläufe in unterschiedlichen Organisationen und rückt somit immer weiter in den Fokus potentieller Angreifer. Neben absichtlichen Angriffen ist die Informationstechnologie auch natürlichen Gefahren ausgeliefert, die die Sicherheit und Verfügbarkeit entsprechender Systeme beeinträchtigen können. Außerdem sind von Unternehmen gesetzliche Vorschriften einzuhalten, aus denen Anforderungen an die Absicherung der betriebenen informationstechnischen Systeme abzuleiten sind. Das Modul IT-Sicherheit soll die Studierenden für die Gefahren sensibilisieren, die aus einer absichtlich oder unabsichtlich herbeigeführten Einwirkung resultieren. Ausgehend von der Definition der Grundwerte der IT-Sicherheit erfolgt zunächst eine Betrachtung der aus Malware resultierenden Gefährdungen. Anschließend geht das Modul auf die Gefahren bei der Internetkommunikation und die Gefährdungen von Webanwendungen ein. Zu den identifizierten Gefährdungen werden, dem aktuellem Stand der Technik entsprechend, mögliche Gegenmaßnahmen identifiziert, die zur Abwehr oder zumindest zur Milderung der Gefahren eingesetzt werden können. Hierbei wird besonders auf den Einsatz von kryptographischen Verfahren zur Absicherung der Authentizität, Vertraulichkeit und Integrität von Informationen eingegangen. Ergänzend hierzu wird auf weitere ausgewählte infrastrukturelle Maßnahmen eingegangen, die einen Einfluss auf die Sicherheit der Informationstechnologie haben. Da IT-Sicherheit als ganzheitliche Aufgabe innerhalb eines Unternehmens verstanden wird, geht das Modul abschließend auf organisatorische Rahmenwerke ein, deren Ziel in der Etablierung von Prozessen zur
+
+Dokument 2 (Score: 0.86438970):
+Metadaten:
+  - id: 930
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_ET_2019_12.2024.pdf
+  - hash: ac2444beb69a8fa5ec1c497ea7e400f790dc496958eff5bdbb7af430124757c4
+  - _id: 57fd4c68-ac47-4394-9b0d-f67e32ba54f9
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+schreiben sowie anzuwenden ·die Gefahren der Internetkommunikation zu beschreiben und deren Ursprünge zu begründen sowie mögliche Gegenmaßnahmen zu identifizieren und deren Wirkungsweise nachzuvollziehen ·die bei der Verwendung und dem Betrieb von Webanwendungen bestehenden Gefahren zu identifizieren sowie Gegenmaßnahmen und deren Wirkungsweise zu begründen ·die Funktionsweise von ausgewählten symmetrischen und asymmetrischen Verschlüsselungsverfahren nachzuvollziehen, deren jeweilige Stärken und Schwächen zu diskutieren und deren Eignung für bestimmte Einsatzszenarien zu bestimmen ·die praktische Anwendung von Verschlüsselungsverfahren in bspw. Kommunikationsprotokollen und zur Verschlüsselung bzw. Signierung von Mailnachrichten nachzuvollziehen und evtl. bestehende Schwachstellen zu identifizieren ·die Bedeutung von Public-Key-Infrastrukturen zu beschreiben und diese entsprechend anzuwenden ·Maßnahmen zur Absicherung der informationstechnischen Infrastruktur abzuleiten und entsprechende Entscheidungen zu begründen ·ausgewählte Vorgehensmodelle und Standards aus dem Bereich der Informationssicherheit zu benennen, deren Prinzipien zu erläutern und anzuwenden. Die Studierenden können außerdem wissenschaftliche Zusammenhänge anhand von Fachliteratur erarbeiten und Adressaten-gerecht präsentieren. ## Inhalte Informationstechnologie durchdringt zunehmend auch sensible Abläufe in unterschiedlichen Organisationen und rückt somit immer weiter in den Fokus potentieller Angreifer. Neben absichtlichen Angriffen ist die Informationstechnologie auch natürlichen Gefahren ausgeliefert, die die Sicherheit und Verfügbarkeit entsprechender Systeme beeinträchtigen können. Außerdem sind von Unternehmen gesetzliche Vorschriften einzuhalten, aus denen Anforderungen an die Absicherung der betriebenen informationstechnischen Systeme abzuleiten sind. Das Modul IT-Sicherheit soll die Studierenden für die Gefahren sensibilisieren, die aus einer absichtlich oder unabsichtlich herbeigeführten Einwirkung resultieren. Ausgehend von der Definition der Grundwerte der IT-Sicherheit erfolgt zunächst eine Betrachtung der aus Malware resultierenden Gefährdungen. Anschließend geht das Modul auf die Gefahren bei der Internetkommunikation und die Gefährdungen von Webanwendungen ein. Zu den identifizierten Gefährdungen werden, dem aktuellem Stand der Technik entsprechend, mögliche Gegenmaßnahmen identifiziert, die zur Abwehr oder zumindest zur
+
+Dokument 3 (Score: 0.86225640):
+Metadaten:
+  - id: 538
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 04a70a6d-ec3a-4862-be52-84c321cc7a54
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Hagen 1. Studienangebot 2. Studiengänge 3. Hagen 4. Elektrotechnik B.Eng. ## Bachelor-Studium Elektrotechnik ### Ohne Elektrotechnik geht wenig. Sie macht unser Leben heller, bunter, komfortabler, sicherer. Vieles, was die E-Technik möglich macht, ist längst selbstverständlich. Zum Beispiel die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, das Smartphone oder die Automatisierung von mühsamen oder gefährlichen Prozessen. Im zulassungsfreien Bachelorstudiengang Elektrotechnik studieren Sie nah an der Praxis und nah an Ihren persönlichen Interessen. Auf einen Blick Was? Praxisnahes Grundlagenstudium mit individueller Schwerpunktsetzung Für wen? Für alle mit Interesse an technischen Lösungen Warum? Karriereperspektive in z.B. Autoindustrie, Energieversorgung, Telekommunikation Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs ## Auf dieser Seite - Der Studiengang im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Info-Video zu den Vertiefungsrichtungen - Zielgruppe - Berufliche Perspektiven - Studi-Stimmen - Studienaufbau / Verlaufsplan - Info-Video zu den wichtigsten Fragen - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. ### Studienabschluss Bachelor of Engineering (B.Eng.) 210 ECTS ### Studienmodell Vollzeitstudium oder kooperatives Studium ### Studienbeginn / -dauer Beginn: zum Wintersemester (September) Regelstudie
+
+Dokument 4 (Score: 0.86213420):
+Metadaten:
+  - id: 542
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: e843b4b6-eaec-4631-82d0-e92d00a26e22
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+technik 2 | Physik 2 - Schwingungen und Wellen | Objektorientierte Programmierung | Digitaltechnik | | 3. Semester | Modellbildung und Simulation | Elektronik 1 | Elektrotechnik 3 | Einführung in die Messtechnik | Signale und Systeme | Mikrocontroller | | 4. Semester | Technisches Englisch | Elektronik 2 | Regelungstechnik 1 | Digitale Messsysteme | Optik und Einführung in die Lichttechnik | Rechnerkommunikation | | 5. Semester | Wahlpflichtmodul | Wahlpflichtmodul | Regelungstechnik 2 | Sensorsysteme | Elektrische Antriebe | Automatisierungssysteme | | 6. Semester | Wahlpflichtmodul | Wahlpflichtmodul | Projektmanagement | Angewandte Schaltungstechnik | Leistungselektronik | Energiesysteme | | 7. Semester | Seminar | Projektarbeit | Bachelorarbeit | Kolloquium | | | | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | | | | ### Legende zum Studienverlaufsplan Professor*innen und Studierende beantworten die wichtigsten Fragen rund um unseren Bachelor-Studiengang Elektrotechnik an der Fachhochschule Südwestfalen in Hagen. ## Infoveranstaltungen / Veranstaltungen zum Studienstart Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte in den besten Händen. Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote. Damit Sie gut vorbereitet in Ihr Studium einsteigen können, bieten wir Ihnen einen Brückenkurs zur Mathematik an. Allen Studienanfänger*innen wird eine Teilnahme am gesamten Kurs empfohlen. Wir zeigen Ihnen einen Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können. ## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik ### Prüfungsordnungen, Modulhandbücher und Verlaufspläne - Zu den Prüfungsordnungen
+
+Dokument 5 (Score: 0.86203550):
+Metadaten:
+  - id: 559
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: fbc15b33-ee01-4879-a3a3-9b9249956e11
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Modulhandbuch zur Bachelor-Fachprüfungsordnung vom 28.02.2024 für den Studiengang Elektrotechnik ## Modulhandbuch zum Bachelor-Studiengang Elektrotechnik (ET) zur Bachelor-Fachprüfungsordnung vom 28.02.2024 Fachhochschule Südwestfalen Standort Hagen Fachbereich Elektrotechnik und Informationstechnik Stand: Juli 2024 ## Begriffserklärungen und Hinweise ## Veranstaltungsformen - · In der Vorlesung gibt die oder der Lehrende eine zusammenhängende Darstellung des Lehrstoffs, vermittelt Fakten und Methoden des Lehrgebietes und beantwortet sachbezügliche Fragen. Vorlesungen finden in Gruppen unterschiedlicher Größe statt. Die in den Modulbeschreibungen angegebene Gruppengröße bezieht sich in der Regel auf die Anzahl der Teilnehmer in der Vorlesung. - · Im Seminaristischen Unterricht vermittelt und entwickelt die oder der Lehrende den Lehrstoff durch enge Verbindung des Vortrags mit dessen exemplarischer Vertiefung unter Beteiligung der Studierenden. Die Anzahl Studierender sollte bei dieser Lehrform 30 nicht übersteigen. - · Im Seminar werden unter der Leitung der oder des Lehrenden Fakten, Erkenntnisse und komplexe Problemstellungen im Wechsel von Vortrag und Diskussion durch die Studierenden erarbeitet. Seminare fördern Strategien des Wissenserwerbs, verbessern Präsentationstechniken und fördern die kommunikative Kompetenz. - · In der Übung werden unter der Leitung der oder des Lehrenden die Lehrstoffe und ihre Zusammenhänge sowie ihre Anwendung auf Fälle aus der Praxis systematisch durchgearbeitet. Dabei gibt die oder der Lehrende im Allgemeinen eine Einführung, stellt die Aufgaben und gibt Lösungshilfen, während die Studierenden selbständig die Aufgaben einzeln oder in Gruppen in enger Rückkopplung mit der oder dem Lehrenden lösen. Eine Präsentation der Ergebnisse durch die Studierenden erlaubt eine direkte Rückkopplung des Wissensstandes an die Lehrenden und schult die kommunikative Kompetenz. Damit individuell auf einzelne Studierende eingegangen werden kann, ist die maximale Anzahl Teilnehmer bei den Übungen in der Regel auf 30 beschränkt. - · Im Praktikum werden die im betreffenden Lehrgebiet erworbenen Kenntnisse durch Bearbeitung praktischer, experimenteller Aufgaben vertieft. Während die oder der Lehrende die Studierenden anleitet und die Lehrveranstaltung überwacht, führen die Studierenden eigenständig praktische Arbeiten und Versuche aus und werten die Ergebnisse aus. Dabei werden schon erste Erfahrungen in der Team
+
+Dokument 6 (Score: 0.86155810):
+Metadaten:
+  - id: 790
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: 988df982-b53f-4f43-b695-194e7260378e
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+? Das sechssemestrige Studium der Elektrotechnik (Bachelor) gliedert sich in ein Grundlagenstudium, eine Orientierungs- sowie eine Vertiefungsphase. Während die Module im Grundlagenstudium für alle Studierenden verpflichtend sind, bestehen in den beiden anderen Phasen Wahlmöglichkeiten. #### Grundlagenstudium Zu Beginn des Studiums werden in dem zweisemestrigen Grundstudium zunächst Grundlagen in Mathematik, Physik, Elektrotechnik und Informatik gelegt. Diese werden parallel anhand ingenieurspezifischer Anwendungen vertieft (z.B. Elektronik, Digitaltechnik). Von Anfang an wird die praktische Umsetzung des Erlernten in Form von Laborversuchen in kleinen Gruppen vermittelt und geübt. #### Orientierungsphase Im Anschluss an das Grundstudium folgt die Orientierungsphase, in der Studierende acht von zehn Kernmodulen aus den verschiedenen Kernbereichen der Elektro- und Informationstechnik absolvieren. #### Vertiefungsphase In der Vertiefungsphase wählen die Studierenden Wahlpflichtmodule aus verschiedenen Wahlpflichtkatalogen aus und setzen damit individuelle Studienschwerpunkte. Durch die individuelle Zusammenstellung der Wahlpflichtmodule kann das Studium mit einem der folgenden Studienschwerpunkte abgeschlossen werden: - Automatisierungstechnik und Mechatronik - Ingenieurinformatik - Kommunikationstechnik Individueller geht es kaum: Studierende können einen der fünf empfohlenen Studienschwerpunkte belegen und auf ihrem Bachelorzeugnis nachweisen. Auch andere Kombinationen sind zulässig. Für die Bescheinigung eines Schwerpunktes sind mindestens fünf zugehörige Wahlpflichtmodule zu absolvieren. Detaillierte Informationen zu den Studienschwerpunkten und Wahlpflichtmodulen: #### Automatisierungstechnik und Mechatronik Passende Kern- und Wahlpflichtmodule (Auswahl): Regelungstechnik 1, Grundlagen elektrischer Maschinen und Antriebe, Automatisierungstechnik 1, Robotik, Sensorik und Automatisierung, Aktorik, Grundlagen des Maschinenbaus, Grundlagen der elektrischen Energietechnik, Mechatronische Systeme und deren Simulation, Grundlagen der Maschinenelemente #### Ingenieurinformatik Passende Kern- und Wahlpflichtmodule (Auswahl): Algorithmen und Datenstrukturen, Software Engineering, Anwendungsprogrammierung, Objektorientierte Programmierung, Datenbanksysteme 1, Mobile Application Development, IT-Sicherheit, Introduction to Data Science, Web
+
+Dokument 7 (Score: 0.85511020):
+Metadaten:
+  - id: 545
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php
+  - hash: 48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef
+  - _id: 1c9e7692-6903-4447-aad0-b9679f127aa1
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Hagen 1. Studienangebot 2. Studiengänge 3. Hagen 4. Elektrotechnik B.Eng. 5. Prüfungsordnungen # Prüfungsordnungen, Modulhandbücher, Verlaufspläne ## Fachprüfungsordnung 2024 Fachprüfungsordnung vom 28. Februar 2024 ## Fachprüfungsordnung 2017 Fachprüfungsordnung vom 7. August 2017 FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018) ## Modulhandbuch* FPO 2024: Modulhandbuch Elektrotechnik FPO 2017: Modulhandbuch Elektrotechnik ## Verlaufspläne* FPO 2024: Studienverlaufsplan FPO 2017: Studienverlaufsplan \_\_\_\_\_\_\_\_\_\_\_\_\_\_ *) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung. Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3806840
+
+Dokument 8 (Score: 0.85245760):
+Metadaten:
+  - id: 293
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: 589dbbdc-b79f-4d76-90f6-dc0ae04dc8f3
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+auf die Sicherheit der Informationstechnologie haben. Da IT-Sicherheit als ganzheitliche Aufgabe innerhalb eines Unternehmens verstanden wird, geht das Modul abschließend auf organisatorische Rahmenwerke ein, deren Ziel in der Etablierung von Prozessen zur Herstellung, Aufrechterhaltung und kontinuierlichen Verbesserung der IT-Sicherheit besteht. ## Lehrformen Vorlesung, Übung Hinweis: Die Lehrveranstaltung kann gegebenenfalls auch in englischer Sprache durchgeführt werden! ## Teilnahmevoraussetzungen Formal: gem. RPO/FPO Inhaltlich: Wirtschaftsinformatik und Informatik Im Modul kann die Lernplattform Moodle zum Einsatz kommen. Die Einschreibung in den entsprechenden Kurs auf der Lernplattform ist in diesen Fällen Voraussetzung für die Teilnahme. 27 ## Prüfungsformen Klausur, mündl. Prüfung Wird die Modulprüfung in Form einer Portfolioprüfung durchgeführt, können prüfungsrechtlich relevante Daten innerhalb des Kurses in Moodle erhoben werden. ## Prüfungsvorleistungen SL für Labor ## Voraussetzungen für die Vergabe von Kreditpunkten Bestandene Modulprüfung ## Stellenwert der Note für die Endnote Anteilig gem. RPO/FPO ## Verwendbarkeit des Moduls Verwendung in folgenden Studiengängen: Data Science, Elektrotechnik, Maschinenbau, Wirtschaftsinformatik, Wirtschaftsingenieurwesen ## Modulbeauftragter Prof. Dr. René Ramacher ## Sonstige Informationen " IT-Sicherheit: Konzepte - Verfahren - Protokolle, Eckert 2019 IT-Sicherheit: Eine Einführung (De Gruyter Studium), Hellmann, 2019 Angewandte Kryptographie, Ertel, 2012 Hacking im Web, Schäfers,2018. Management der Informationssicherheit : Kontrolle und Optimierung, Sowa, 2017" 28 ## Modulbezeichnung Prüfungs-Nr. 50 Kolloquium (Colloquium) (2 CP) Workload 60 Credits 2 Studiensemester 6/7 Dauer 1 ## Lehrveranstaltungen Kontaktzeit (SWS) Kontaktzeit (h) 0 0 Selbststudium 60 geplante Gruppengröße ## Lernergebnisse Befähigung, die Ergebnisse der Bachelorarbeit, ihre fachlichen Grundlagen, ihre fachübergreifenden Zusammenhänge und ihre außerfachlichen Bezüge mündlich darzustellen und selbstständig zu begründen sowie ihre Bedeutung für die Praxis einzuschätzen. Dabei ist auch die Art und Weise der Bearbeitung des Themas der Bachelorarbeit zu erörtern. ## Inhalte Themenkomplex und Umfeld der Bachelorarbeit ##
+
+Dokument 9 (Score: 0.85234520):
+Metadaten:
+  - id: 540
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: cd97fb04-6c11-4d66-9109-f64c34066aae
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Bewerbungszeitraums möglich!) Im Video erklären Marvin, Florian, Felix und Ariane was ihre gewählten Vertiefungsrichtungen Automatisierungstechnik, Lichttechnik und Energietechnik ausmachen. ## An wen richtet sich der Bachelor-Studiengang Elektrotechnik? Die Elektrotechnik ist heutzutage unser ständiger Begleiter. Durch sie wird unser Leben komfortabler und sicherer und viele mit der Elektrotechnik einhergehende oder verbundene Errungenschaften nehmen wir als selbstverständlich wahr. Einige Beispiele hierfür sind die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, die Kommunikation mit dem Smartphone oder die Automatisierung von für Menschen mühsamen oder gar gefährlichen Prozessen. Darüber hinaus ist die Elektrotechnik eine äußerst innovative Branche, die stets sehr aktuelle Fragestellungen hervorbringt und vorantreibt. ### Zielgruppe Natürlich sollten Sie sich für Technik interessieren, keine Frage. Ansonsten gilt: Mit Ausbildungs- oder beruflichem Hintergrund werden Sie bei uns genauso abgeholt, wie frische Schulabsolvent*innen. Nach dem Studium können Sie nach Belieben durchstarten. Es erwartet Sie ein regional, überregional und international aktiver und hochinnovativer Wachstumsmarkt. ## Welche Berufsaussichten bietet das Studium Elektrotechnik? Das Betätigungsfeld unserer Absolventinnen und Absolventen ist sehr weit. Elektrotechnische Systeme werden erforscht, entwickelt, betrieben oder gewartet. Das geschieht – um nur einige Beispiele zu nennen – in der Autoindustrie, der Energieversorgung, der Automationstechnik, der Telekommunikation, der Beleuchtungsbranche oder allgemein in der produzierenden Industrie. ### Raphael Bechler Schon von klein auf war ich von der Elektrotechnik begeistert. Dass mein Wunschstudiengang auch an einer Hochschule in Hagen, meiner Heimatstadt, angeboten wird, war für mich optimal. An meinem Studium gefällt mir vor allem die offene personennahe Kommunikationsebene und, das die Lehre sehr praxisnah stattfindet. Dozentinnen und Dozenten nehmen sich immer gerne die Zeit und helfen einem weiter. Außerdem gibt es eine große Auswahl an interessanten Wahlmodulen. ### Ariane Lauster „Für mich stand eigentlich schon immer fest, dass ich an der Fachhochschule Südwestfalen studieren möchte. Jetzt bin ich hier und das ist gut so. Man kennt sich hier – das gilt für
+
+Dokument 10 (Score: 0.84975374):
+Metadaten:
+  - id: 543
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 61ea37cf-d71c-4751-b4ee-d65b77147f72
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können. ## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik ### Prüfungsordnungen, Modulhandbücher und Verlaufspläne - Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen ### Möglichkeiten eines Master-Studiums - Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. - Medizintechnik M.Eng. Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. ### Studienoption Lehramt Berufskolleg - Mehr Infos zur Studienoption Lehramt am Berufskolleg Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich Elektrotechnik und Informationstechnik in Hagen. Termine für Studieninteressierte Standort Hagen Fachgebiet Studium Flexibel ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 380
+

@@ -1,0 +1,10 @@
+Frage 10: Wie lange dauern die Klausuren?
+
+Antwort:
+Die Dauer der Klausur hängt von den Leistungspunkten des Moduls ab. 
+
+- Bei Modulen mit 2 LP (Leistungspunkten) beträgt die Bearbeitungszeit mindestens 15 Minuten und höchstens 30 Minuten.
+- Bei Modulen mit 5 LP beträgt die Bearbeitungszeit mindestens 60 Minuten und höchstens 120 Minuten.
+- Bei Modulen mit 6 LP beträgt die Bearbeitungszeit mindestens 80 Minuten und höchstens 150 Minuten.
+- Bei Modulen mit 7 LP beträgt die Bearbeitungszeit mindestens 100 Minuten und höchstens 180 Minuten.
+

@@ -1,0 +1,299 @@
+ID: 8
+Frage: Was muss ich beachten, wenn ich bei einer Prüfung krank bin?
+
+Dokument 1:
+Metadaten:
+  - id: 2390
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: 1cd75d2e-b7c1-43d2-a9fc-4a27cf96dd61
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Außerhalb der Öffnungszeiten der Ärzte (z.B. samstags) ist ein ärztlicher Notdienst / die Ambulanz des Krankenhauses zu konsultieren.
+
+Grundsätzlich  wird  im  Falle  einer  Erkrankung  von  Ihnen  verlangt,  dass  Sie  die  entsprechenden Konsequenzen  ziehen  und  rechtzeitig  von  der  Prüfung  zurücktreten.  Unterziehen  Sie  sich  der Prüfung, obwohl Sie Ihre Prüfungsunfähigkeit kannten oder den Umständen nach kennen mussten, so handeln  Sie  auf  eigenes  Risiko.  In  diesem  Falle  können  Sie  sich  weder  nach  Erbringen  der Prüfungsleistung noch beim Abbruch der Prüfung auf Ihre Prüfungsunfähigkeit berufen. Nur für den Fall, dass die Krankheit vor der Prüfung für Sie nicht erkennbar war oder sich während der Prüfung wesentlich verschlimmert hat, kann ggf. eine Berücksichtigung der Prüfungsunfähigkeit bei Prüfungsabbruch unter den genannten Voraussetzungen erfolgen.
+
+## (5) Prüfungsangst / Teilnahme an Prüfung trotz Attest / Kosten für Atteste / Zweifelsfall:
+
+Probleme,  die durch die Prüfung selbst verursacht sind (z.B. Prüfungsangst) stellen keinen Rücktrittsgrund dar.
+
+Sofern  eine  Ärztin  /  ein  Arzt  Ihnen  ein  Attest  ausgestellt  hat,  das  für  mehrere  Tage  gilt  und  Sie  in dieser Zeit trotzdem an einer Prüfung teilnehmen , erklären Sie sich mit dem Beginn der Prüfung als prüfungsfähig. Das Ergebnis dieser Prüfung müssen Sie sich zurechnen lassen, unabhängig davon, welches  Ergebnis  Sie  dabei  erzielen.  Dies  gilt  auch,  wenn  Sie  an  einem  Tag  für  zwei  Prüfungen angemeldet waren und Sie nur an einer Prüfung teilnehmen.
+
+Für ein Attest anfallende Kosten können von der Hochschule nicht übernommen werden.
+
+Im Zweifelsfall gilt immer: erkundigen Sie sich bitte rechtzeitig bei Ihrem Studierenden-Servicebüro!
+
+## Unpünktliches Erscheinen
+
+Sie  müssen  unbedingt  dafür  Sorge  tragen,  dass  Sie  rechtzeitig  zur  Prüfung  erscheinen.  Mögliche Staus, Bahnverspätungen usw. (auch bei Schnee und Eis) sind dabei von Ihnen einzukalkulieren.
+
+Dokument 2:
+Metadaten:
+  - id: 2389
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: 5f5c85a9-48fc-430f-b6e4-833410d779a9
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Ebenfalls zum Rücktritt aus triftigen Gründen berechtigt sind Sie im Falle der Erkrankung Ihres Kindes am  Prüfungstag,  sofern  das  Kind  in  Ihrem  Haushalt  lebt,  eine  andere  in  Ihrem  Haushalt  lebende Person das Kind nicht beaufsichtigen, betreuen oder pflegen kann und das Kind das 12. Lebensjahr noch nicht vollendet hat.
+
+In diesem Fall ist die Vorlage eines ärztlichen Attestes für das Kind, ausgestellt vor oder spätestens am Prüfungstag, erforderlich. Darüber hinaus müssen Sie eine schriftliche Erklärung einreichen, aus welcher sich ergibt, dass keine andere im Haushalt lebende Person für die Betreuung oder Pflege des Kindes zur Verfügung steht. Das Attest sowie die Erklärung müssen unverzüglich, d.h. innerhalb von drei Werktagen, im Studierenden-Servicebüro eingereicht werden.
+
+## (3)  Kein nachträglicher Prüfungsrücktritt
+
+Rückdatierte Atteste, d.h. Atteste, die einen oder mehrere Tage nach der Prüfung ausgestellt sind, werden aus den vorgenannten Gründen nicht akzeptiert.
+
+## (4)  Prüfungsabbruch
+
+Sollten  Sie  eine  Prüfung  begonnen  haben,  diese  aber  wegen  plötzlicher  Erkrankung  abbrechen müssen, sind Sie verpflichtet, dies der / dem Aufsichtsführenden mitzuteilen und unverzüglich einen Arzt / eine Ärztin aufzusuchen, die / der ein entsprechendes, aussagefähiges Attest ausstellt.
+
+Es ist ein qualifiziertes Attest erforderlich, in dem für Nichtmediziner nachvollziehbar bescheinigt wird, dass  Sie  als  prüfungsunfähig  zum  Zeitpunkt  der  Prüfung  eingeschätzt  werden  und  warum  diese Einschätzung getroffen wird, d.h. wie sich Ihre Erkrankung auf die Prüfung(en) auswirkt. Dies ist erst recht erforderlich, wenn Sie nach der Teilnahme an der Prüfung den Rücktritt mit Attest erklären. Der Vordruck 'Ärztliches Attest zur Vorlage beim Prüfungsausschuss' kann hierzu verwendet werden.
+
+Außerhalb der Öffnungszeiten der Ärzte (z.B. samstags) ist ein ärztlicher Notdienst / die Ambulanz des Krankenhauses zu konsultieren.
+
+Dokument 3:
+Metadaten:
+  - id: 2388
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf
+  - hash: 4bfbc87a928c279860db7fc32f7710789890f3fb6bc4d9451e65003863db6c7e
+  - _id: 1786e09e-3934-43ac-a84d-78a60f2e1e98
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+Fachhochschule Südwestfalen Sachgebiet 2.4 Studentische Angelegenheiten
+
+## Regelungen zum Rücktritt von einer Prüfung wegen Krankheit
+
+Diese Informationen beziehen sich auf Klausuren, Klausuren im Antwortwahlverfahren und mündliche Prüfungen. Für weitere, semesterbegleitende Prüfungsformen (z.B. Semesterarbeiten, Projektarbeiten,  etc.)  entnehmen  Sie  die  Fristen  für  den  Prüfungsrücktritt  bitte  der  entsprechenden Prüfungsordnung.  In  der  Regel  findet  sich  diese  Information  im  Paragrafen  'Zulassungen  zu Modulprüfungen'.
+
+## (1) Rücktritt bis 7 Tage vor der Prüfung
+
+Der Rücktritt von einer Prüfung ist ohne weitere Nachweise völlig unproblematisch online bis 7 Tage vor der Prüfung möglich.
+
+## (2)  Rücktritt  nach  Ablauf  der  Wochenfrist  (=  innerhalb  1 Woche  vor  der  Prüfung  bis einschließlich Prüfungstag)
+
+Nach Ablauf der Wochenfrist für die Abmeldung von einer Prüfung kann der Rücktritt von der Prüfung nur aus triftigen Gründen erklärt werden. Im Falle eines Rücktritts wegen Erkrankung ist die Vorlage eines  ärztlichen  Attestes  im  Original  erforderlich,  das  vor  dem  oder spätestens  am  Prüfungstag ausgestellt  sein  muss  und  unverzüglich  eingereicht  werden  muss.  Denn  einen  oder  mehrere  Tage nach der Prüfung ist es kaum feststellbar, ob zum Prüfungstermin Prüfungsunfähigkeit vorgelegen hat.
+
+Das rechtzeitig ausgestellte Attest muss spätestens innerhalb von drei Werktagen nach der Prüfung beim  Studierenden-Servicebüro in  Papierform eingehen.  (Digital  eingereichte  Atteste  per  Email und/oder  elektronische  Arbeitsunfähigkeitsbescheinigung  können  nicht  berücksichtigt  werden!)  Wird der Rücktritt genehmigt, wird der Prüfungsversuch nicht auf die Zahl der Fehlversuche angerechnet.
+
+Tritt die Erkrankung erst am Prüfungstag auf, ist noch am Prüfungstag ein Arzt aufzusuchen - auch an einem Mittwoch oder Samstag. Sind Arztpraxen geschlossen, sind Sie verpflichtet, einen Vertretungsarzt  aufzusuchen  bzw.  sich  an  einen  ärztlichen  Bereitschaftsdienst  /  Notdienst  oder  die Ambulanz eines Krankenhauses zu wenden. Bei Bettlägerigkeit ist ggf. der Hausbesuch des Hausoder Notarztes in die Wege zu leiten.
+
+Dokument 4:
+Metadaten:
+  - id: 2357
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: ce9b093a-56c3-42e3-bad4-07ebcbe5545b
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+11
+
+und spätestens am Tag der Prüfung ausgestellt wurde. Dies gilt auch für Prüfungen in den  Nachmittags-  und  Abendstunden  oder  an  Samstagen,  gegebenenfalls  ist  die ärztliche Bescheinigung einer Notdienstoder Notfalleinrichtung beizubringen. Entsprechendes gilt  auch  bei  Erkrankung  der  Kandidatin  oder  des  Kandidaten  nach Prüfungsantritt. Im Falle der Erkrankung eines zu betreuenden Kindes ist ebenfalls ein ärztliches Attest vorzulegen. Werden die Gründe vom Prüfungsausschuss anerkannt, so gilt die Prüfung in dem betroffenen Modul als nicht unternommen.
+
+- (3) Versucht  der  oder  die  Studierende,  das  Ergebnis  seiner  beziehungsweise  ihrer Prüfungsleistung  durch Täuschung  oder  Benutzung  nicht  zugelassener Hilfsmittel  zu beeinflussen,  kann  -  je  nach  Schwere  des  Täuschungsversuchs  -  die  betreffende Prüfung als 'nicht ausreichend' (5,0) bewertet werden. Studierende, die den ordnungsgemäßen Ablauf der Prüfung stören, können von den jeweiligen Prüfenden oder  Aufsichtsführenden  von  der  Fortsetzung  der  Prüfungsleistung  ausgeschlossen werden;  in  diesem  Fall  gilt  die  betreffende  Prüfungsleistung  als  'nicht  ausreichend (5,0)' bewertet. Die Gründe für den Ausschluss sind aktenkundig zu machen. Wird der oder die Studierende von der weiteren Erbringung der Prüfungsleistung ausgeschlossen,  so  kann  er  oder  sie  verlangen,  dass  diese  Entscheidung  vom Prüfungsausschuss  überprüft wird. Dies gilt entsprechend bei Täuschung  oder Benutzung von nicht zugelassenen Hilfsmitteln.
+- (4) Werden  Täuschungshandlungen  erst  nach  Abschluss  der  Prüfung  festgestellt,  ist gemäß Absatz 3 zu verfahren.
+
+## II. Modulprüfungen und Studienleistungen
+
+## § 13 Ziel, Umfang und Form der Modulprüfungen
+
+Dokument 5:
+Metadaten:
+  - id: 2363
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: c23cb4f4-9e2f-41a0-8773-a35da24f9fa3
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+14
+
+## § 16 Nachteilsausgleich
+
+- (1) Macht  ein  Studierender/eine  Studierende  glaubhaft,  dass  er  bzw.  sie  wegen  einer chronischen Krankheit oder einer Behinderung (im Sinne von § 2 Abs. 1 SGB IX) nicht in der Lage ist, die Prüfungsleistungen ganz oder teilweise in der vorgesehenen Form oder  innerhalb  der  in dieser Ordnung  vorgesehenen  Prüfungsfristen  abzulegen, gestattet  der  bzw.  die  Vorsitzende  des  Prüfungsausschusses  die  Verlängerung  der Bearbeitungszeit für Prüfungsleistungen bzw. der Fristen für das Ablegen  von Prüfungen bzw. die Erbringung gleichwertiger Prüfungsleistungen in einer bedarfsgerechten  Form.  Entsprechendes  gilt  für  Studienleistungen.  Der  Antrag  auf Gewährung eines prüfungsrechtlichen Nachteilsausgleichs ist schriftlich rechtzeitig vor der Prüfung an den/die Vorsitzende/n des Prüfungsausschusses zu richten.
+- (2) Bei Entscheidungen der bzw. des Prüfungsausschussvorsitzenden nach Absatz 1 ist die bzw. der Beauftragte für die Belange Studierender mit Beeinträchtigung gemäß § 62 b Hochschulgesetz NRW zu beteiligen.
+- (3) Zur Glaubhaftmachung einer chronischen Krankheit oder einer Behinderung kann die Vorlage geeigneter Nachweise verlangt werden.
+
+## § 17
+
+## Klausurarbeiten
+
+Dokument 6:
+Metadaten:
+  - id: 2356
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: b512d010-a544-4e98-b141-a270907f84b1
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+## § 10
+
+## Wiederholung von Prüfungsleistungen
+
+- (1) Modulprüfungen,  die  nicht  bestanden  sind  oder  als  nicht  bestanden  gelten,  können zweimal wiederholt  werden. Sofern es der besondere Charakter eines Studiengangs erfordert,  kann  die  jeweilige  Fachprüfungsordnung  ausnahmsweise  vorsehen,  dass eine nicht bestandene Prüfung nur einmal wiederholt werden darf. Bei nicht bestandenen Modulprüfungen in Form einer Projekt- oder Hausarbeit muss jeweils ein neues  Projekt  beziehungsweise  eine  neue  Hausarbeit  bearbeitet  werden. Bei  einer nicht bestandenen Modulprüfung, die aus Teilprüfungen besteht, können nur die nicht bestandenen Teilprüfungen wiederholt werden.
+- (2) Die  Abschlussarbeit  (Bachelor-  oder  Masterarbeit)  sowie  das  Kolloquium  können  bei 'nicht  ausreichender'  Leistung  je  einmal  wiederholt  werden.  Dabei  wird  ein  neues Thema ausgegeben.
+- (3) Eine  bestandene  Prüfung  kann  grundsätzlich  nicht  wiederholt  werden.  Ausnahmen regeln die entsprechenden Fachprüfungsordnungen.
+
+## § 11
+
+## Kompensation
+
+Regelungen zur Kompensation sind der jeweiligen Fachprüfungsordnung zu entnehmen.
+
+## § 12
+
+## Versäumnis, Rücktritt, Täuschung, Ordnungsverstoß
+
+- (1) Eine Prüfung gilt als 'nicht ausreichend (5,0)' bewertet, wenn der oder die Studierende zu einem Prüfungstermin ohne triftigen Grund nicht erscheint oder wenn  sie beziehungsweise  er  nach  Beginn  der  Prüfung  ohne  triftigen  Grund  von  dieser zurücktritt. Dies gilt auch für den Fall, dass die oder der Studierende die Prüfungsleistung (zum Beispiel Abschlussarbeit, Hausarbeit) nicht fristgemäß abliefert. Ein  triftiger Grund  kann  zum  Beispiel  die  eigene  oder  die  Erkrankung  des  zu betreuenden Kindes sein.
+- (2) Die  für  den  nicht  fristgerechten  Rücktritt  oder  das  Versäumnis  geltend  gemachten Gründe müssen dem Prüfungsausschuss unverzüglich, spätestens innerhalb von drei Werktagen  nach  dem  Prüfungstermin,  schriftlich  angezeigt  und  glaubhaft  gemacht werden.  Im  eigenen  Krankheitsfalle  ist  der  Nachweis  durch  Vorlage  eines  ärztlichen Attests zu erbringen, welches die krankheitsbedingte Prüfungsunfähigkeit bescheinigt
+
+11
+
+Dokument 7:
+Metadaten:
+  - id: 712
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf
+  - hash: 621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb
+  - _id: 84cd8cbc-d4d1-4a74-b353-889240aea609
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+## Teil 3 Das Studium
+
+## § 16 Umfang der Bachelorarbeit
+
+- (1)  Der Umfang der Bachelorarbeit gemäß § 28 Absatz 1 RPO beträgt in der Regel etwa 30 Seiten  à  etwa  50  Zeilen.  Tabellen,  Abbildungen  und  Verzeichnisse  werden  bei  der Berechnung des Umfangs nicht mitgezählt.
+- (2)  Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Bachelorarbeit) beträgt höchstens neun Wochen. Auf einen vor Ablauf der Frist gestellten begründeten Antrag der Kandidatin oder des Kandidaten kann der Prüfungsausschuss bei Vorliegen eines triftigen Grundes, der die Fortsetzung der Bearbeitung verhindert, eine Nachfrist der Bearbeitungszeit gewähren. Im Falle der Erkrankung des oder der Studierenden ist dem Antrag  ein  ärztliches  Attest  beizufügen,  aus  dem  die  Prüfungsunfähigkeit  und  die voraussichtliche Dauer der Erkrankung hervorgehen. Die festgelegte Dauer der Verlängerung hat sich daran zu orientieren. Sofern die Erkrankung insgesamt länger als vier Wochen beträgt, ist die Prüferin oder der Prüfer der Bachelorarbeit zu dem Antrag zu hören, um den Prüfungsausschuss zu beraten, ob die Durchführung der Bachelorarbeit weiterhin sinnvoll ist oder nach der Erkrankung ein neues Thema vergeben werden soll. In dem  Fall,  dass  es  sich  um  einen  anderen  Grund  als  eine  Erkrankung  der  oder  des Studierenden  handelt,  kann  eine  Nachfrist  von  insgesamt  höchstens  drei  Wochen,  bei einer Erkrankung von insgesamt höchstens sechs Wochen, gesetzt werden .
+- (3)  Die Durchführung der Bachelorarbeit in einer Einrichtung außerhalb der Hochschule bedarf der Zustimmung des Prüfungsausschusses.
+
+## § 17
+
+## Zulassung zur Bachelorarbeit
+
+- (1) Ergänzend zu § 29 Absatz 1 RPO kann zur Bachelorarbeit nur zugelassen werden, wer in  den  Modulen  des  ersten  bis  siebten  Fachsemesters  gemäß  der  Anlagen  1  bis  3 mindestens 180 Leistungspunkte erworben hat.
+- (2)   Abweichend  von  §  14  Absatz  6  RPO  gilt,  dass  dem  Antrag  auf  Zulassung  zur Bachelorarbeit eine Erklärung beizufügen ist, welche Module der Anlagen 2 und 3 als Wahlpflichtmodule zu werten sind.
+
+## § 18
+
+## Durchführung und Bewertung der Bachelorarbeit
+
+Dokument 8:
+Metadaten:
+  - id: 2362
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: 1f86ecbf-da4f-4611-bf54-6b185328ebed
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+## § 15
+
+## Durchführung von Modulprüfungen
+
+- (1) Modulprüfungen können in unterschiedlicher  Form  erbracht  werden.  Anzahl,  Art  und Umfang der abzulegenden Modulprüfungen sowie die zu erbringenden Vorleistungen regeln die jeweiligen Fachprüfungsordnungen.
+- (2) Die  Zeiträume  der  Modulprüfungen  werden  vom  Prüfungsausschuss  festgesetzt  und bei Semesterbeginn oder zum Ende des vorhergehenden Semesters den Studierenden bekannt  gegeben.  Die  Prüfungstermine  sollen  so  angesetzt  werden,  dass  dadurch keine Lehrveranstaltungen ausfallen.
+- (3) Die oder der zu Prüfende hat sich auf Verlangen der Prüferin oder des Prüfers oder der beziehungsweise des Aufsichtsführenden mit einem Personalausweis oder einem Pass auszuweisen.
+- (4) Die  Bewertung  von  Modulprüfungen  ist  den  Studierenden  in  der  Regel  spätestens sechs Wochen nach dem Prüfungstermin mitzuteilen.
+- (5) Der  Prüfungstermin  von  Modulprüfungen  in  Form  einer  Klausurarbeit,  einer  Klausurarbeit  im Antwortwahlverfahren oder mündlichen Prüfung wird rechtzeitig, in der Regel mindestens zwei Wochen vor der betreffenden Prüfung, bekannt gegeben.
+
+14
+
+## § 16 Nachteilsausgleich
+
+Dokument 9:
+Metadaten:
+  - id: 2306
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 821119c6-5761-4f23-b206-deb1bd6e8439
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+### Rahmenprüfungsordnung
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. Die Rahmenprüfungsordnung finden Sie hier:
+
+- Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen vom 6. Juni 2018  PDF
+- Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen vom 6. Juni 2018 (english version)  PDF
+- Änderungsordnung der Bachelor- und Masterprüfungsordnungen für die Studiengänge der Fachhochschule Südwestfalen vom 14. Februar 2020  PDF
+
+Bitte beachten Sie, dass eine Prüfungsordnung immer im Zusammenhang mit ihren Änderungssatzungen / Änderungsordnungen zu lesen ist.
+
+### Regelungen Rücktritt Krankheit
+
+Regelungen zum Rücktritt von einer Prüfung wegen Krankheit (PDF)
+
+### Open-Book-Klausuren: Vorlage Eidesstattliche Versicherung
+
+Vorlage Eidesstattliche Versicherung für Open-Book-Klausuren (PDF)
+
+### Prüfungsordnungen auslaufender Studiengänge
+
+- Zur Übersicht der auslaufenden Studiengänge
+
+- Zur Übersicht unserer aktuellen Studiengänge
+
+## Projektarbeiten / Projektpraktika / Hausarbeiten / Industrieprojekte: Anmeldeformulare Projektarbeiten
+
+Standort- und Fachbereichsspezifische Anträge finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+##### Anmeldung zu Projektarbeiten / Praxisprojekten / Hausarbeiten / Industrieprojekten (Fachbereich E&amp;I)
+
+- Anmeldung zur Projektarbeit / Internationalen Projektarbeit / Projektpraktikum (Hausarbeit) Fachbereich Elektrotechnik und Informationstechnik  PDF
+- Anmeldung zum Praxisprojekt im Master-Verbundstudiengang Elektrotechnik  PDF
+- Anmeldung zum Praxisprojekt im Bachelorstudiengang Wirtschaftsingenieurwesen - Energie und Gebäude  PDF
+
+### Iserlohn
+
+- Anmeldung zur Projektarbeit für alle Studiengänge am Standort Iserlohn  PDF
+
+### Meschede
+
+Dokument 10:
+Metadaten:
+  - id: 2367
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: 8ed3e9b7-41a4-4756-b2c5-6425b565ea53
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_recursive_chunks
+
+Inhalt:
+- -die vom Prüfling erzielte Note.
+- (5) Ergibt  sich  nach  Durchführung  der  Prüfung,  dass  einzelne  Prüfungsfragen  oder Antwortmöglichkeiten fehlerhaft sind, gelten die betreffenden Prüfungsfragen als nicht gestellt. Die Zahl der Prüfungsaufgaben  vermindert  sich  entsprechend,  bei  der Bewertung ist die verminderte Aufgabenzahl zugrunde zu legen. Die Verminderung der Prüfungsaufgaben darf sich nicht zum Nachteil des Prüflings auswirken.
+

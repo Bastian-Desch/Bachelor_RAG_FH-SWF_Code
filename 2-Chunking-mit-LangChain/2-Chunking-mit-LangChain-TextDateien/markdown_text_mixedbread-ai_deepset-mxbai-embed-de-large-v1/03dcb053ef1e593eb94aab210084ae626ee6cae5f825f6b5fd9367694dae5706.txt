@@ -1,0 +1,176 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 320
+
+Metadata: {'id': 1084, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: # Elektrotechnik B.Eng.
+
+## Meschede
+
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Elektrotechnik B.Eng. Meschede
+5. Prüfungsordnungen
+
+# Prüfungsordnungen
+
+## Fachprüfungsordnung 2022 - Teilzeit Fachprüfungsordnung
+
+Fachprüfungsordnung vom 16. Februar 2022
+
+PDF
+
+## Fachprüfungsordnung 2019 - Vollzeit Fachprüfungsordnung
+
+Fachprüfungsordnung vom 26. April 2019
+
+PDF
+
+FPO 2009: Ordnung zur Änderung der FPO (v. 14.02.2020) 
+
+PDF
+
+## Fachprüfungsordnung - Vollzeit 2017
+
+Fachprüfungsordnung vom 4. Juli 2017
+
+PDF
+
+## Bachelorprüfungsordnung - Vollzeit 016
+
+Bachelorprüfungsordnung vom 13. September 2016 
+
+PDF
+
+## Bachelorprüfungsordnung - Vollzeit 2015
+
+Bachelorprüfungsordnung vom 7. Mai 2015
+
+PDF
+
+## Bachelorprüfungsordnung - Vollzeit 2009
+
+Bachelorprüfungsordnung vom 3. November 2009 
+
+PDF
+
+BPO 2009: Ordnung zur Änderung der BPO (v. 03.03.2011) 
+
+PDF
+
+BPO 2009: Ordnung zur Änderung der BPO (v. 17.01.2012) 
+
+PDF
+
+## Modulhandbücher*Modulhandbücher
+
+Eine Art Vorlesungsverzeichnis mit vielen Informationen zu den Pflicht- und Wahlpflichtfächern und deren inhaltliche Beschreibung
+
+FPO 2022: Modulhandbuch 
+
+﻿PDF
+
+FPO 2019: Modulhandbuch 
+
+PDF
+
+FPO 2017: Modulhandbuch 
+
+PDF
+
+BPO 2016: Modulhandbuch 
+
+PDF
+
+BPO 2015: Modulhandbuch 
+
+PDF
+
+BPO 2009: Modulhandbuch 
+
+PDF
+
+## Verlaufspläne*Verlaufspläne
+
+FPO 2022: Studienverlaufsplan (Teilzeit)
+
+PDF
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 267
+
+Metadata: {'id': 1085, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: PDF
+
+## Verlaufspläne*Verlaufspläne
+
+FPO 2022: Studienverlaufsplan (Teilzeit)
+
+PDF
+
+FPO 2019: Studienverlaufsplan 
+
+PDF
+
+FPO 2017: Studienverlaufsplan 
+
+PDF
+
+BPO 2016: Studienverlaufspläne
+
+PDF
+
+BPO 2015: Studienverlaufspläne
+
+PDF
+
+BPO 2009: Studienverlaufspläne 
+Studienrichtung Informations- und Medientechnik
+
+PDF
+
+Studienrichtung Kommunikationstechnik
+
+PDF
+
+Studienrichtung Mechatronik und Automatisierungstechnik 
+
+PDF
+
+## Verlaufsplan mit integrierten Praxisphasen*
+
+BPO 2016: Studienverlaufsplan mit integrierten Praxisphasen 
+
+PDF
+
+Auf dieser Seite
+
+- Prüfungsordnungen
+- Modulhandbücher
+- Verlaufspläne
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3801971
+

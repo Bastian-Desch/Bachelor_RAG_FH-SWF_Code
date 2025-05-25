@@ -1,0 +1,436 @@
+{
+  "studiengaenge": [
+    {
+      "studiengang": "Wirtschaftsinformatik",
+      "abschluss": "Bachelor",
+      "standort": "Hagen",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/wirtschaftsinformatik__b_sc__1.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik__b_sc__/pruefungsordnungen_9/pruefungsordnungen_10.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/FPO_2018_WiIng_WiInf_IBE_IBI.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/AO_FPO_2018_WingWinf_final.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/alt_2/downloads/hv2/sg_2_2/amtliche_bekanntmachungen/2020_2/Nr._953_vom_30.01.2020_-_Zweite_Ordnung_Aenderung_FPO_Wirt-IngWirt-InfIBAEIBAI.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/Ausnahmeregelung_BA_IBE_IBI_WIS_WFS.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/Ausnahmeregelung_BA_IBE_IBI_WIS_WFS_II.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/Nr._1067_vom_22.02.2021_-_Dritte_Ordnung_Aenderung_FPO_der_Studiengaenge_Wirtschaftsingenieurwesen_Wirtschaftsinformatik_IBAE_IBAI_Standort_Hagen.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/Nr._1106_vom_20.07.2021_-_Ausnahmeregelung_BPO_und_FPO_Wirtschaftsingenieurwesen_Wirtschaftsinformatik_IBAE_IBAI.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/Nr._1110_vom_06.08.2021_-_Ausnahmeregelung_FPO_Wirtschaftsingenieurwesen_Wirtschaftsinformatik_national_und_international_Hagen.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/sg21/amtliche_bekanntmachungen_1/2022_2/Nr._1149_vom_12.04.2022_-_Vierte_Ordnung_Aenderung_FPO_Wirtschaftsing._Wirtschaftsinfo._Intern._Bus._Admin._and_Engineering_Intern._Bus._Admin._and_Informatics_FH_SWF_Hagen.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00001543/Nr.%201310%20vom%2012.09.2024%20-%20F%C3%BCnfte%20%C3%84O%20BA%20WING,%20WI,%20International%20Business%20Administration%20and%20Engineering%20and%20Informatics.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/tbw_neu/Modulhandbuch_Winf_FPO_2018_Stand_09.2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Wirtschaftsinformatik",
+      "abschluss": "Bachelor",
+      "standort": "Meschede",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/FPO_2019_Winfo.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/wirtschaftsinformatik_b_sc_/AeO_FPO_BA_WFM_19.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00001823/Nr.%201318%20vom%2018.12.2024%20-%20Zweite%20%C3%84O%20FPO%20BA%20Wirtschaftsinformatik%20Meschede.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+    ]
+    },
+    {
+      "studiengang": "Elektrotechnik",
+      "abschluss": "Bachelor",
+      "standort": "Hagen",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Elektrotechnik",
+      "abschluss": "Bachelor",
+      "standort": "Meschede",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_b_eng_/FPO_2019_ETM.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_b_eng_/AeO_FPO_ETM_19.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_ET_2019_12.2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Elektrotechnik",
+      "abschluss": "Master",
+      "standort": "Meschede",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/1_AeO_FPO_MA_ETM_17.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_ET_MA_2024_12.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Elektrotechnik",
+      "abschluss": "Bachelor",
+      "standort": "Soest",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2020_3/Nr._1047_vom_01.12.2020_-_Ordnung_Aenderung_FPO_Bachelorstudiengaenge_Elektrotechnik_Elektrotechnik_dual_praxisintegrierend_und_Elektrotechnik_dual_ausbildungsintegrierend_Soest.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/NR10821.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00000633/Nr.%201208%20vom%2028.02.2023%20-%20Dritte%20Ordnung%20%C3%84nderung%20FPO%20Bachelorstudi.%20Elektrotechnik,%20Elektrotechnik%20dual%20praxisinteg.,%20Elektrotechnik%20dual%20ausbildungsinteg.%20an%20der%20FH%20SWF,%20Soest.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/sg21/amtliche_bekanntmachungen_1/2022_2/Nr._1162_vom_06.05.2022_-_Praktikumsordnung_Fachbereich_Elektrische_Energietechnik_an_der_FH_SWF_Standort_Soest.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_WiSe_BA_ETS_ETA_ETP_20_10.2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_SoSe_BA_ETS_ETA_ETP_20_02.2024.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Alle",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studieninteressierte/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/studierende/studienorganisation/index.php",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/Allg._AeO_-_ECTS-Einstufungstabellen-final.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        },
+        {
+          "typ": "pdf",
+          "link": "https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_pruefungsorga/Ruecktritt-Info-2023.pdf",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Hagen",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/hagen_4/hagen_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Iserlohn",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Soest",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Meschede",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/meschede_4/meschede_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    },
+    {
+      "studiengang": "Alle",
+      "abschluss": "Alle",
+      "standort": "Lüdenscheid",
+      "dokumente": [
+        {
+          "typ": "html",
+          "link": "https://www.fh-swf.de/de/ueber_uns/standorte_4/luedenscheid_4/luedenscheid_1.php",
+          "hash": "",
+          "markdown_datei": ""
+        }
+      ]
+    }
+  ]
+}

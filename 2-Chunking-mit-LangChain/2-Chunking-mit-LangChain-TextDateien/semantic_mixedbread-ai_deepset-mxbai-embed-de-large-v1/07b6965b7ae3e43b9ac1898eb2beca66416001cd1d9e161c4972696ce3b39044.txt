@@ -1,0 +1,56 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 929
+
+Metadata: {'id': 59, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00001823/Nr.%201318%20vom%2018.12.2024%20-%20Zweite%20%C3%84O%20FPO%20BA%20Wirtschaftsinformatik%20Meschede.pdf', 'hash': '07b6965b7ae3e43b9ac1898eb2beca66416001cd1d9e161c4972696ce3b39044'}
+Text: ## Amtliche Bekanntmachung der Fachhochschule Südwestfalen
+
+- Verkündungsblatt der Fachhochschule Südwestfalen Baarstraße 6, 58636 Iserlohn
+
+Nr. 1318                           Ausgabe und Tag der Veröffentlichung:   18.12.2024
+
+Zweite Ordnung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Meschede
+
+vom 11. Dezember 2024
+
+Der Wortlaut wird im Folgenden bekannt gegeben:
+
+## Hinweis:
+
+Nach Ablauf eines Jahres nach Bekanntmachung dieser Ordnung können nur unter den Voraussetzungen des § 12 Absatz 5 Hochschulgesetz NRW Verletzungen von Verfahrensoder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen Rechts der Hochschule geltend gemacht werden, ansonsten ist eine solche Rüge ausgeschlossen. ## Zweite Ordnung zur Änderung der Fachprüfungsordnung für den Bachelorstudiengang Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Meschede
+
+vom 11. Dezember 2024
+
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16. September  2014  (GV. NRW. S. 547),  zuletzt geändert  durch  Gesetz  vom  29. Oktober  2024  (GV. NRW. S. 704),  und  des  §  1  Absatz  1  der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Ingenieur- und Wirtschaftswissenschaften der Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+## Artikel I
+
+Die  Fachprüfungsordnung  für  den  Bachelorstudiengang  Wirtschaftsinformatik  an  der  Fachhochschule Südwestfalen, Standort Meschede vom 26. April 2019 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 15.05.2019), zuletzt geändert durch Ordnung vom 14. Februar 2020 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen Verkündungsblatt der Fachhochschule Südwestfalen - vom 27.02.2020), wird wie folgt geändert:
+
+- 1. Anlage 2 wird um folgende Wahlpflichtmodule ergänzt:
+ 
+| Modul                                                       |   Credits | Studien- leistung   | Fach-  semester   | 
+|-------------------------------------------------------------|-----------|---------------------|-------------------| 
+| Automatisierung und IOT                                     |         6 | SL                  | -                 | 
+| Cloud Computing und verteilte Systeme                       |         6 | -                   | -                 | 
+| Computer Vision                                             |         6 | -                   | -                 | 
+| E-Learning Management Systeme im  Unternehmenskontext       |         6 | -                   | -                 | 
+| Ethical Hacking                                             |         6 | -                   | -                 | 
+| Forecasting and Control                                     |         6 | -                   | -                 | 
+| Innovations- und Wissensmanagement                          |         6 | -                   | -                 | 
+| Introduction to Machine Learning                            |         6 | -                   | -                 | 
+| Künstliche Intelligenz - Grundlagen und  Anwendungszenarien |         6 | -                   | -                 | 
+| Management der Informationssicherheit                       |         6 | -                   | -                 | 
+| Natural Language Processing                                 |         6 | -                   | -                 | 
+| Programmierung Python                                       |         6 | -                   | -                 | 
+| Programmierung R                                            |         6 | -                   | -                 | 
+| Softwarequalität                                            |         6 | -                   | -                 | 
+| Statistical Modelling                                       |         6 | -                   | -                 |
+
+## Artikel II
+
+Diese Ordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht. Diese Ordnung wird nach Überprüfung durch das Rektorat der Fachhochschule Südwestfalen aufgrund des Beschlusses des Fachbereichsrats des Fachbereichs Ingenieur- und Wirtschaftswissenschaften vom 10.12.2024 ausgefertigt. Iserlohn, den 11. Dezember 2024
+
+Der Rektor der Fachhochschule Südwestfalen
+
+Professor Dr. Dr. Dr. habil. Alexander Prange
+

@@ -1,0 +1,209 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 693
+
+Metadata: {'id': 51, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: # Wirtschaftsinformatik B.Sc. ## Meschede
+
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Wirtschaftsinformatik B.Sc. ## Bachelor-Studium Wirtschaftsinformatik
+
+### Informatik und Wirtschaftswissenschaften: Wie lassen sich Digitalisierung und Big Data nutzen, um die richtigen Entscheidungen zu treffen und Unternehmen nach vorne zu bringen? Das ist das Themengebiet der Wirtschaftsinformatik. Sie verbindet die angewandte Informatik mit zentralen Inhalten der Betriebswirtschaftslehre, besonders in aktuellen Themen wie E-Business, Data Science, digitalisierte und vernetzte Produktion, Cyber-Security und dem Einsatz von Web-Apps und KI im Unternehmen. ###
+
+Auf einen Blick
+
+Was? Entwicklung und Einsatz von IT in Unternehmen
+
+Für wen? Für alle, die sich für Informatik und ihre Anwendung in betrieblichen Abläufen interessieren
+
+Warum? Daten und IT prägen Wirtschaft und Gesellschaft in Zukunft. Wer das verstehen und mitgestalten will, braucht dazu fachübergreifende Kompetenzen
+
+Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse
+
+## Auf dieser Seite
+
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Für wen ist dieser Studiengang? - Berufliche Perspektiven
+- Studi-Stimmen
+- Studienaufbau / Verlaufsplan
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen. ### Zulassung: NC-frei
+
+Dieser Studiengang hat keine Zulassungsbeschränkung. ### Studienabschluss
+
+Wirtschaftsinformatik B.Sc. 180 - 210 ECTS
+
+### Studienmodelle
+
+- Vollzeitstudium
+- Teilzeitstudium
+- Kooperatives Studium
+
+### Studienbeginn / -dauer
+
+- Beginn: Zum Wintersemester (September)
+- Dauer: 6 Semester (3 Jahre), 7 Semester mit Praxisphase oder optionalem Fachsemester
+
+### Studienort
+
+Meschede
+
+### Beiträge und Gebühren
+
+### Hauptunterrichtssprache
+
+Deutsch
+(für internationale Bewerbende: Level DSH2 / TestDaf4 / C1)
+
+## Vor Beginn des WINFO-Studiums – 
+Voraussetzungen &amp; Bewerbungsverfahren
+
+### Voraussetzungen
+
+- Abitur oder Fachhochschulreife
+- Oder eine als gleichwertig anerkannte Vorbildung
+- Oder bestandene Zugangsprüfung (in zulassungsfreien Studiengängen auch Probestudium möglich) für Bewerber*innen ohne formale Hochschulreife
+
+### Bewerbung und Einschreibung zum Wintersemester
+
+- Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 1284
+
+Metadata: {'id': 52, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Bewerbung über das Bewerbungsportal 
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Mehr Informationen zum Bewerbungsverfahren finden Sie hier
+
+- Bewerbungsfrist: in der Regel Anfang März bis 15. Juli
+- Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal 
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier
+
+### Bewerbung und Einschreibung zum Sommersemester
+
+Für Bachelorstudiengänge ist eine Bewerbung und Einschreibung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der
+Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+
+## An wen richtet sich der Bachelor-Studiengang Wirtschaftsinformatik? Sie interessieren sich für die modernen Themen der Informatik, zum Beispiel Künstliche Intelligenz, IT-Sicherheit, Web-Apps, und deren Anwendung zur Lösung von Herausforderungen zur digitalen Transformation der Wirtschaft und Gesellschaft? Dann ist der praxisorientierte Studiengang der Wirtschaftsinformatik genau das Richtige für Sie. Das Studium der Wirtschaftsinformatik vermittelt sowohl Kompetenzen im Bereich der angewandten Informatik als auch umfangreiche Kenntnisse über ökonomische Zusammenhänge und betriebswirtschaftliche Abläufe. Absolvent*innen der Wirtschaftsinformatik sind somit hervorragend für ein breites Spektrum an möglichen Berufsfeldern qualifiziert – von eher technologisch getriebenen Berufen wie Softwareentwickler und Softwarearchitekten über IT- und Prozessberater bis hin zu Tätigkeiten im Bereich des IT-Sicherheitsmanagements. ### Kooperatives Studium
+
+Der Studiengang kann in Kooperation mit einem Unternehmen studiert werden. Praxisphasen, Projekt- bzw. Studienarbeiten und die Bachelorarbeit werden in diesem Fall im selben Unternehmen absolviert. Basis ist üblicherweise eine Werkstudierenden-Tätigkeit neben dem Studium, aber auch die Kombination mit einer betrieblichen Ausbildung ist möglich. Zum
+Kooperativen Studium
+
+Ankerpunkt
+
+## Welche Berufsaussichten bietet das Studium der Wirtschaftsinformatik? Im Zeitalter der Digitalisierung sind Wirtschaftsinformatiker*innen unverzichtbar für den gesellschaftlichen und wirtschaftlichen Wandel. Mit den im Studiengang vermittelten Kompetenzen sind Wirtschaftsinformatiker*innen bestens ausgestattet für ein breites Spektrum an möglichen beruflichen Entfaltungsmöglichkeiten. Zu den möglichen Berufen zählen:
+
+- Für stärker technisch Interessierte: Softwareentwicklung bzw. Anwendung von KI und maschinellem Lernen zur Analyse großer Datenmengen durch Data Science, Entwickler*innen für Softwarearchitektur für betriebliche Anwendung
+- Berufe an der klassischen Schnittstelle zwischen Wirtschaft und Informatik: Prozessanalysten und IT-Beratung für E-Commerce und anderes E-Business sowie Business Intelligence
+- Bei Interesse an Organisations- und Managementaufgaben: Tätigkeiten im Bereich des IT-Management und der Prozessoptimierung, zum Beispiel in ERP-Systemen oder im Bereich der Cyber-Security
+
+Die durch ein Studium der Wirtschaftsinformatik vermittelten Fähigkeiten sind grundlegend und bereiten die Studierenden nicht nur auf die aktuellen, sondern auch auf zukünftige Herausforderungen eines sich schnell entwickelnden Bereichs vor. Ein Bachelor-Studiengang in der Wirtschaftsinformatik bietet für diese Herausforderungen eine solide Basis. Und mehr noch: Die erworbenen Kompetenzen ermöglichen die berufliche Weiterentwicklung ganz nach einer sich im Zeitverlauf ändernden Interessenslage. Zum Beispiel vom Softwarewareentwickler zum IT-Manager? Kein Problem mit einem Bachelorabschluss in der Wirtschaftsinformatik. #### Masterstudium im Anschluss
+
+Die durch das Bachelorstudium der Wirtschaftsinformatik gelegte breite Basis ermöglicht die Aufnahme von Master-Studiengängen aus unterschiedlichen Bereichen. Weitere Informationen zum
+Masterstudium
+
+Nach meinem Studium habe ich vor, in einer IT-Abteilung eines größeren Unternehmens tätig zu werden, gerne mit Kontakt zu Kunden. Anschließend könnte ich mir sehr gut eine Aufgabe im Projektmanagement vorstellen. ## Wie ist das Studium der Wirtschaftsinformatik aufgebaut? Der Studiengang beruht auf einem durchgängigen didaktischen Konzept: Ausgehend von den betrieblichen Grundfunktionen wie Einkauf, Produktion und Vertrieb lernen Sie informationstechnische Inhalte als bereichsübergreifende Querschnittsfunktionen zu verstehen und mit betriebswirtschaftlichen Fragestellungen zu verknüpfen. ### Inhalt des Studiums
+
+In den einzelnen Modulen erhalten Sie einen Überblick über typische betriebswirtschaftliche Herausforderungen und lernen diese mit Herangehensweisen und Technologien der Informatik zu unterstützen. Sie lernen, wie betriebswirtschaftliche Probleme mit informationstechnischen Mitteln gelöst werden. Je nach Neigung und Berufswunsch können Sie ab dem 4. Semester entsprechende Spezialisierungen über Wahlpflichtfächer wählen. Hierbei steht ein breites Spektrum von möglichen Schwerpunkten offen, auf die Sie sich spezialisieren können: Datenanalyse / Business Intelligence, IT-Sicherheit, App- und Web-Entwicklung
+
+Einen besonders hohen Stellenwert hat dabei das Lernen in Projekten, die oft in Zusammenarbeit mit Industriepartnern durchgeführt werden. Dazu gehört eine Studienarbeit, in der ein praxisbezogenes Projekt oder eine theoretische Forschungsaufgabe bearbeitet wird. Den Praxisbezug ihres Studiums können Studierende zudem durch ein fakultatives Praxissemester ausbauen. Den Abschluss des Studiums bilden schließlich die Bachelorarbeit und eine mündliche Prüfung, das Kolloquium. ### Flexible Studienorganisation
+
+Sie können Ihr Studium individuell und flexibel gestalten. Vorlesungen, Übungen, Labore oder auch Projekt- bzw. Blockwochen werden in Präsenz durchgeführt. Hier besteht die Möglichkeit die Veranstaltung persönlich vor Ort besuchen oder an einer angebotenen Online-Veranstaltung teilzunehmen. Umfangreiche Selbstlernmaterialien wie Studienbücher, Online-Formate, Tutorien oder Lernplattformen stehen Ihnen ergänzend zur Verfügung. ## Studienverlaufsplan Wirtschaftsinformatik B.Sc. |                  |                                                                                          |                                                                                          |                                              |                              |                                                |
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 33
+
+Metadata: {'id': 53, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: 
+|------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------|------------------------------------------------|
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 874
+
+Metadata: {'id': 54, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: 
+| 1. Semester      | Allgemeine Betriebswirtschaftslehre                                                      | Datenbanksysteme 1                                                                       | Software Modellierung &amp; IT-Projektmanagement | Wirtschaftsinformatik        | Wirtschaftsmathematik                          | 
+| 2. Semester      | Grundlagen der Programmierung                                                            | Produktionswirtschaft                                                                    | Projektmanagement                            | Statistik                    | Unternehmensrechnung                           | 
+| 3. Semester      | Algorithmen und Datenstrukturen                                                          | Business Intelligence 1                                                                  | Grundlagen Operations Research               | IT Sicherheit                | Logistik und Supply Chain Management           | 
+| 4. Semester      | IT-gestützte Geschäftsprozesse                                                           | Marketing: Strategien und Instrumente in der Unternehmenspraxis                          | Technisches Wahlpflichtmodul                 | Technisches Wahlpflichtmodul | Wirtschaftswissenschaftliches Wahlpflichtmodul | 
+| 5. Semester      | Human Resources &amp; Führung                                                                | IT-Management                                                                            | Software-Entwicklung für ERP Systeme         | Technisches Wahlpflichtmodul | Wirtschaftswissenschaftliches Wahlpflichtmodul | 
+| 6. Semester      | Praxisphase (nur bei Wahl des Studiengangs mit Praxisphase) oder optionales Fachsemester | Praxisphase (nur bei Wahl des Studiengangs mit Praxisphase) oder optionales Fachsemester |                                              |                              |                                                | 
+| 6. / 7. Semester | Technisches Wahlpflichtmodul                                                             | Wirtschaftswissenschaftliches Wahlpflichtmodul                                           | Studienarbeit                                | Bachelorarbeit               | Kolloquium                                     |
+
+### Legende zum Studienverlaufsplan
+
+### Informationen zum WINFO-Teilzeit-Studium
+
+Der Studiengang Wirtschaftsinformatik B.Sc. wird auch als Teilzeit-Modell angeboten. Teilzeit-Variante mit Studienverlaufsplan
+
+## Infoveranstaltungen / Veranstaltungen zum Studienstart
+
+Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote. ## Bachelor-Studiengang Wirtschaftsinformatik: Weitere Informationen
+
+### Flyer zum Download
+
+Studiengang Wirtschaftsinformatik B.Sc. Flyer (PDF)
+
+### Prüfungsordnung, Modulhandbücher und Verlaufspläne
+
+- Prüfungsordnungen und Modulhandbücher sowie die Studienverlaufspläne des Vollzeit- u. Teilzeitstudiums Wirtschaftsinformatik B.Sc. ### Möglichkeiten eines Master-Studiums
+
+- Data Science M.Sc. (berufsbegleitend)
+- Informatics and Business M.Sc. - Strategisches Management M.A. Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die
+Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. Prüfungsorganisation
+
+Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede. Termine für Studieninteressierte
+
+Standort Meschede
+
+Fachgebiet
+
+FAQs / häufige Fragen
+
+## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter! Sprechzeiten
+ 
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   | 
+|------------------------|---------------------| 
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3809979
+

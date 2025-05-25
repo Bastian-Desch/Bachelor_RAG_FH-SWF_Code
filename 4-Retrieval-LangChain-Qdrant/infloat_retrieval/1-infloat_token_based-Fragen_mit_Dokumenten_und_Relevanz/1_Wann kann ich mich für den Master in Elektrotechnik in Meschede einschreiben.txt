@@ -1,0 +1,143 @@
+ID: 1
+Frage: Wann kann ich mich für den Master in Elektrotechnik in Meschede einschreiben?
+
+Dokument 1 (Score: 0.89314590):
+Metadaten:
+  - id: 1021
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 579aeac7-499f-4213-b1ea-0e9425bb6c64
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Jahre abhängig von den Studienvoraussetzungen) ### Studienort Meschede ### Beiträge und Gebühren ### Hauptunterrichtssprache Deutsch (für internationale Bewerbende: Level DSH3 / TestDaf5 / C2) ## Vor Beginn des Elektrotechnik Master-Studiums – Voraussetzungen &amp; Bewerbungsverfahren ### Voraussetzungen ##### Für den viersemestrigen Masterstudiengang - Abschluss eines sechssemestrigen Studiums mit mind. 180 Credits in einem der unten aufgeführten Studiengänge mit einer Gesamtnote von mindestens 2,7 (oder mit einer Gesamtnote von mindestens 3,0 und einer Bachelorarbeit mit einer besseren Note als 2,3) ##### Für den dreisemestrigen Masterstudiengang - Abschluss eines siebensemestrigen Studiums mit einem Umfang von mind. 210 Credits in einem der unten auf geführten Studiengänge mit einer Gesamtnote von mindestens 2,7 (oder mit einer Gesamtnote von mindestens 3,0 und einer Bachelorarbeit mit einer besseren Note als 2,3) ##### Anerkannte Bachelor- oder Diplomstudiengänge - Elektrotechnik - Wirtschaftsingenieurwesen-Elektrotechnik - Maschinenbau - Mechatronik - Wirtschaftsinformatik - der ein anderes gleichwertiges Studium mit vergleichbaren Inhalten und einem Umfang von mindestens 180 bzw. 210 Credits Es müssen mindestens 30 Credits in den Bereichen der Elektrotechnik, der Informations- und Kommunikationstechnik, der Informatik, der Automatisierungstechnik oder der Mechatronik erworben worden sein. ### Bewerbung und Einschreibung Für Deutsche und Deutschen gleichgestellte Bewerber*innen - Wintersemester: i.d.R. Mitte Mai bis bis Ende August jeden Jahres - Sommersemester: i.d.R. Anfang Dezember bis Ende Februar jeden Jahres - Bewerbung über das Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Hier finden Sie mehr Informationen zum Bewerbungsverfahren Für Bewerber*innen aus Nicht-EU-Ländern - Wintersemester: i.d.R. Anfang März bis 15. Juli jeden Jahres - Sommersemester: i.d.R. Anfang November bis zum 15. Januar jeden Jahres - Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Hier finden Sie mehr Informationen zur Bewerbung mit internationalem Abschluss Hier finden Sie Fristen für weitere Bewerbungsgruppen
+
+Dokument 2 (Score: 0.89032580):
+Metadaten:
+  - id: 1020
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 42db7fb2-efcf-4100-b473-76c79702cf70
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Elektrotechnik M.Eng. ## Meschede 1. Studienangebot 2. Studiengänge 3. Meschede 4. Elektrotechnik M.Eng. ## Master-Studiengang Elektrotechnik ### Industrie 4.0, Smart Grids, autonomes Fahren oder Telemedizin: Bei der Gestaltung moderner vernetzter Produktions- und Dienstleistungsprozesse ist ein Zusammenspiel von IT-Systemen, Kommunikationstechnik sowie der Automatisierungssysteme und Mechatronik äußerst relevant. Der anwendungsorientierte Master Elektrotechnik bietet die Möglichkeit, sich in einem dieser drei Bereiche zu vertiefen, auch berufsbegleitend. Auf einen Blick Was? Anwendungsbezogener Studiengang mit Vertiefungmöglichkeiten Für wen? Absolvent*innen der Bachelorstudiengänge Elektrotechnik, Wirtschaftsingenieurwesen-Elektrotechnik, Maschinenbau, Mechatronik, Wirtschaftsinformatik Warum? Weil das Zusammenspiel der Disziplinen aus den Bereichen der IT-Systeme, der Kommunikationstechnik sowie der Automatisierungssysteme und Mechatronik relevant ist Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine - Interessiert? Hier finden Sie die Bewerbungsfristen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse ## Auf dieser Seite - Der Studiengang MA ET im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Für wen ist dieser Studiengang? - Berufliche Perspektiven - Studi-Stimmen - Studienaufbau / Verlaufsplan - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt ### Zulassung ### Studienabschluss Master of Engineering (M.Eng.) 90 - 120 ECTS ### Studienmodell - Vollzeitstudium - Berufsverträglich ### Studienbeginn / -dauer - Beginn: Zum Sommer- und Wintersemester - Dauer: 3 - 4 Semester (1,5 oder 2 Jahre abhängig von den Studienvoraussetzungen) ### Studienort Meschede ### Beiträge und Gebühren ### Hauptunterrichtssprache Deutsch (für internationale Bewerbende: Level DSH3 / TestDaf5 / C
+
+Dokument 3 (Score: 0.88990490):
+Metadaten:
+  - id: 787
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: 5975c31a-b020-4d3c-ac5b-2ea2449ecef4
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Meschede 1. Studienangebot 2. Studiengänge 3. Meschede 4. Elektrotechnik B.Eng. Meschede ## Bachelor-Studium Elektrotechnik ### Energiewende, Smart Grids, Industrie 4.0, Internet der Dinge: Die Elektrotechnik ist die treibende Kraft für viele wichtige Innnovationen. Hierfür legen unsere Studienschwerpunkte Ingenieurinformatik, Kommunikationstechnik, Automatisierungstechnik und Mechatronik die Grundlagen. Der Bachelor-Studiengang an der Fachhochschule Südwestfalen bietet beste Voraussetzungen für erfolgreiche Berufswege. ### Auf einen Blick Was? Fundierte Grundlagenausbildung mit hohem Praxisbezug Für wen? Für alle mit Interesse an technologischen Innovationen Warum? Wahl eines fachlichen Schwerpunkts ab dem 3. Semester: Ingenieurinformatik, Kommunikationstechnik, Automatisierungstechnik und Mechatronik Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse ## Auf dieser Seite - Der Studiengang im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Info-Video zum Studiengang - Für wen ist dieser Studiengang? - Berufliche Perspektiven - Studi-Stimmen - Studienaufbau / Verlaufsplan - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. ### Studienabschluss Bachelor of Engineering (B.Eng.) 180 - 210 ECTS ### Studienmodelle - Vollzeitstudium - Teilzeitstudium - Kooperatives Studium ### Studienbeginn / -dauer - Beginn: Zum Winter
+
+Dokument 4 (Score: 0.88495636):
+Metadaten:
+  - id: 788
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: b5337ded-cd64-4c54-b0de-edc0351383d6
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+. ### Studienabschluss Bachelor of Engineering (B.Eng.) 180 - 210 ECTS ### Studienmodelle - Vollzeitstudium - Teilzeitstudium - Kooperatives Studium ### Studienbeginn / -dauer - Beginn: Zum Wintersemester (September) - Dauer: 6 Semester (3 Jahre), 7 oder 8 Semester mit Praxisphase und/oder optionalem Fachsemester ### Studienort Meschede ### Beiträge und Gebühren ### Hauptunterrichtssprache Deutsch (für internationale Bewerbende: Level DSH2 / TestDaf4 / C1) ## Vor Beginn des Studiums – Voraussetzungen &amp; Bewerbungsverfahren ### Voraussetzungen Sie qualifizieren sich für das Studium durch: - Ein Zeugnis der Fachhochschulreife (schulischer und praktischer Teil) - Oder ein Zeugnis der Allgemeinen Hochschulreife (Abitur) - Oder durch eine als gleichwertig anerkannte Vorbildung Der Nachweis einer praktischen Tätigkeit in Form eines Grund- oder Fachpraktikums ist nicht erforderlich. ### Bewerbung und Einschreibung zum Wintersemester - Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Bewerbung über das Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Mehr Informationen zum Bewerbungsverfahren finden Sie hier - Bewerbungsfrist: in der Regel Anfang März bis 15. Juli - Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) - Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier ### Bewerbung und Einschreibung zum Sommersemester Für Bachelorstudiengänge ist eine Bewerbung und Einschreibung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!) Was macht ein Eletrotechnik-Studium an der Fachhochschule Südwestfalen in Meschede aus? ## An wen richtet sich der Bachelor-Studiengang Elektrotechnik? Der Bachelorstudiengang Elektrotechnik richtet sich an alle Interessenten, die sich für die technischen Aspekte der Energiewende, der Industrie 4.0,
+
+Dokument 5 (Score: 0.88297830):
+Metadaten:
+  - id: 1024
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 96608704-476b-454e-b594-995831abc68b
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+Videokonferenzsystem zur Übertragung der Lehrveranstaltungen eingesetzt, die großteils am späten Nachmittag bzw. frühen Abend angeboten werden. ## Studienverlaufsplan Elektrotechnik M.Eng. | | | | | |-------------|-------------------------------------------|-----------------------------------------------------------|----------------------------| | 1. Semester | Seminar Modellierung und Simulation 1 + 2 | 1 oder 2 Kernmodule | 2 oder 3 Wahlpflichtmodule | | 2. Semester | Seminar Modellierung und Simulation 1 + 2 | 1 oder 2 Kernmodule | 2 oder 3 Wahlpflichtmodule | | 3. Semester | Praxisprojekt mit begleitendem Seminar | Hauptseminar Elektrotechnik (nur viersemestrige Variante) | | | 4. Semester | Masterarbeit | Kolloquium | | ### Legende zum Studienverlaufsplan #### Kernmodule (3 von 4) Aktorik und Mechatronik, IT-Systeme und IT-Projektmanagement, Leitungsgebundene Systeme für die Breitbandkommunikation, Vernetzte Automatisierung #### Wahlpflichtmodule z.B. Audiovisuelle Kommunikationssysteme, Digitale Bildverarbeitung, Funksysteme für die Breitband- und M2M-Kommunikation, Hochfrequenz-Schaltungen und Messsysteme, Digitale Produktion, Industriekommunikation, Sensorsysteme, Softwareentwicklung für Echtzeitsysteme, Spezialgebiete der IT, Systemtechnik elektronischer Medien, Rechtliche und Betriebswirtschaftliche Aspekte der IT und TK ## Infoveranstaltungen / Veranstaltungen zum Studienstart Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote. ## Master-Studiengang Elektrotechnik: Weitere Informationen ### Prüfungsordnung, Modulhandbücher und Verlaufspläne für den Studiengang Elektrotechnik M.Eng. am Standort Meschede Zu den PDFs Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede. Termine für Studieninteressierte Standort Meschede Fachgebiet FAQs ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Video
+
+Dokument 6 (Score: 0.87521670):
+Metadaten:
+  - id: 793
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: f563580c-43ee-45a5-9fc3-570329ebaea9
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+handbücher sowie die Studienverlaufspläne des Vollzeit- u. Teilzeitstudiums Elektrotechnik B.Eng. ### Studienoption Lehramt Berufskolleg - Mehr Infos zur Studienoption Lehramt am Berufskolleg ### Videos zu den Studienschwerpunkten Zu den Videos ### Möglichkeiten eines Master-Studiums - Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium) - Data Science M.Sc. (berufsbegleitend) - Digitale Technologien M.Eng. - Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. - Advanced Engineering and Engineering Management M.Sc. - Technik- und Unternehmensmanagement M.Eng. (berufsbegleitender weiterbildender Master-Verbundstudiengang) Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede. Termine für Studieninteressierte Standort Meschede Fachgebiet FAQs / häufige Fragen ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr |
+
+Dokument 7 (Score: 0.87017330):
+Metadaten:
+  - id: 1023
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 8888026a-9f1a-4c01-afbb-3bd76182cbaa
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+ich hier berufsbegleitend,was wunderbar funktioniert." Sebastian Henke „Weil ich hier die Ruhe bekommen habe, ein erfolgreiches Studium zu absolvieren. Ich habe vorher zwei Semester an der Uni Duisburg studiert, das war mir zu groß. Die kleine Hochschule in Meschede und die Nähe zu den Lehrenden verschafft mir einen großen Vorteil." Stefan Lach ## Wie ist das Master-Studium Elektrotechnik aufgebaut? Der Master-Studiengang Elektrotechnik wird in einer viersemestrigen und einer dreisemestrigen Variante angeboten. ### Inhalte des Studiums In den ersten zwei Semestern sind neben den zwei Pflichtmodulen zur Simulation und Modellierung und drei Kernmodulen vier Wahlpflichtmodule zu absolvieren. - IT-Systeme, - Kommunikationstechnik - Automatisierungssysteme und Mechatronik Die Wahlpflichtmodule sind gemäß der drei Schwerpunkte kategorisiert. Über die Wahlpflichtmodule erwerben die Studierenden vertiefte Fach- und Methodenkompetenzen und werden an den aktuellen Stand der Forschung in dem Schwerpunkt ihrer Wahl herangeführt. Zur Schwerpunktbildung trägt ebenfalls die Projektarbeit bei. Ferner erweitern sie ihre Soft Skills, beispielweise in Bezug auf rechtliche, betriebs- oder volkswirtschaftliche Fragestellungen. Durch Laborpraktika, Projektarbeiten und Kleinprojekte wird zudem die Teamarbeit gefördert. Das dritte Semester umfasst ein Hauptseminar sowie ein von der Hochschule begleitetes Praxisprojekt. Für Studierende, die die Voraussetzungen für den dreisemestrigen Masterstudiengang erfüllen, entfällt dieses Semester. Den Abschluss des Studiums bildet im vierten Semester eine praxisbezogene Masterarbeit und eine mündliche Prüfung, das Kolloquium. #### Berufsvertraglich Berufsverträgliches Studium Nicht nur in Präsenz / Vollzeit, sondern auch in Teilzeit: Die Hochschule unterstützt ein berufsverträgliches Studium. Die ersten beiden Semester mit Vorlesungen, Übungen, Laboren und Seminaren können in einer berufsverträglichen Variante auf vier Semester gestreckt werden. Um Studierenden außerhalb der unmittelbaren Region eine Teilnahme zu ermöglichen, wird ein professionelles Videokonferenzsystem zur Übertragung der Lehrveranstaltungen eingesetzt, die großteils am späten Nachmittag bzw. frühen Abend angeboten werden. ## Studienverlaufsplan Elektrotechnik M.Eng. | | | | |
+
+Dokument 8 (Score: 0.86667120):
+Metadaten:
+  - id: 1026
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php
+  - hash: 4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806
+  - _id: 80562ee8-e086-4918-bbdf-f34b1a78f347
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Elektrotechnik M.Eng. ## Meschede 1. Studienangebot 2. Studiengänge 3. Meschede 4. Elektrotechnik M.Eng. 5. Prüfungsordnungen # Prüfungsordnungen ## Fachprüfungsordnung 2017 Fachprüfungsordnung Fachprüfungsordnung vom 30. Juni 2017 PDF FPO 2017: Ordnung zur Änderung der FPO (v. 27.08.2020) PDF ## ## ModulhandbuchModulhandbuch FPO 2017: Modulhandbuch PDF ## ## Verlaufspläne*Verlaufspläne FPO 2017: Studienverlaufsplan der dreisemestrigen Variante PDF FPO 2017: Studienverlaufsplan der viersemestrigen Variante PDF Auf dieser Seite - Prüfungsordnungen - Modulhandbücher - Verlaufspläne \_\_\_\_\_\_\_\_\_\_\_\_\_\_ *) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung. Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3810550
+
+Dokument 9 (Score: 0.86644125):
+Metadaten:
+  - id: 1055
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_ET_MA_2024_12.pdf
+  - hash: 8a2df029d7feb6fbf55592a91fe3b52a34de06d833d27e2c176d92b9fcfdea88
+  - _id: 3380fa27-6c75-474a-b73b-7b9f844f5cf5
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+1 | | | | 4 6 | 1 | | | | | | | | | 11 | Hauptseminar Elektrotechnik | 2 | 6 | 1 | | | | | | 2 | 6 | 1 | | | | | | 12 | Praxisprojekt mit begleitendem Seminar 0 | | 24 | 0 | | | | | | 0 | 24 | 0 | | | | | | 13 | Masterarbeit | 0 | 25 | 1 | | | | | | | | 0 | 1 | 25 | | | | 14 | Kolloquium 0 Summe | 39 | 5 120 | 1 13 | 20 | 30 | 5 | 17 30 | 5 | 2 | 30 | 0 1 0 | 5 30 | 2 | 1 | | SWS = Semesterwochenstunden, C = Credits (ECTS-Punkte), P = Modulprüfungen, VL = Vorleistungen (*): Reihenfolge hängt vom Studienbeginn ab (WiSe oder SoSe) Modellierung und Simulation 1 (im WiSe) Modellierung und Simulation 2 (im SoSe), kann vor 1 gehört werden ## Kernmodule (3 aus 4) IT-Systeme und IT-Projektmanagement (im WiSe) Leitungsgebundene Systeme für die Breitbandkommunikation (im WiSe) Vernetzte Automatisierung (im SoSe) Aktorik und Mechatronik (im SoSe) 4 Fachhochschule Südwestfalen, Standort Meschede Fachbereich Ingenieur- und Wirtschaftswissenschaften ## Master-Studiengang Elektrotechnik mit dem Abschluss Master of Engineerung (M. Eng.) - 4-semstrige Variante Studienplan für Studienbeginn ab WS 17/18 | | Elemente des Studiums | Merkmale | Merkmale | Merkmale | 1. Sem.GLYPH&lt;10&gt; | 1. Sem.GLYPH&lt;10&gt; | 1. Sem.GLYPH&lt;10&gt; | 2.
+
+Dokument 10 (Score: 0.86356777):
+Metadaten:
+  - id: 789
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: 61fa3f93-ad36-49bf-b16f-06fec6ef1412
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+in Meschede aus? ## An wen richtet sich der Bachelor-Studiengang Elektrotechnik? Der Bachelorstudiengang Elektrotechnik richtet sich an alle Interessenten, die sich für die technischen Aspekte der Energiewende, der Industrie 4.0, dem Internet der Dinge und vieler weiterer Themen interessieren. Den Absolventinnen und Absolventen bieten sich hervorragende Berufsaussichten. ### Sie interessieren sich allgemein für Technik und speziell für diese Themen? - Energiewende - Smart Grids - Industrie 4.0 - Internet der Dinge - Breitbandige Kommunikationssysteme - Softwaretechnik - Autonome Fahrzeuge - Leistungsstarke und vernetzte Sensoren - Steuerungs- und Antriebssysteme Dann sollten Sie Elektrotechnik an der Fachhochschule Südwestfalen in Meschede studieren. ### Kooperatives Studium Der Studiengang kann in Kooperation mit einem Unternehmen studiert werden. Praxisphasen, Projekt- bzw. Studienarbeiten und die Bachelorarbeit werden in diesem Fall im selben Unternehmen absolviert. Basis ist üblicherweise eine Werkstudierenden-Tätigkeit neben dem Studium, aber auch die Kombination mit einer betrieblichen Ausbildung ist möglich. Zum Kooperativen Studium Ankerpunkt ## Welche Berufsaussichten bietet das Elektrotechnik-Studium? Die Jobperspektiven sind sehr vielfältig. Je nach Schwerpunkt arbeiten Elektrotechnikerinnen und Elektrotechniker in Betrieben des Maschinen- und Anlagenbaus, der Verfahrenstechnik, der Elektrotechnik und Elektronik, in der Automobil- und Luftfahrtindustrie, der Automatisierungstechnik sowie Robotik, bei Internet- oder Online-Diensten, E-Commerce, Software- und Datenbankentwicklern, im IT-Management, in der Medien- und Kommunikationsbranche, in der Kommunikations- und Informationstechnik-Branche, aber auch bei Netzbetreibern, Rundfunkanstalten, Automobilzulieferern oder Ingenieurbüros. Ich hatte Mathematik und Physik im Abitur. Ich komme aus Sundern und wollte in der Region bleiben, deshalb habe ich mich für das Studium hier in Meschede entschieden. Am meisten Spaß machen mir jetzt Digitaltechnik und Informatik. ## Wie ist das Elektrotechnik-Studium aufgebaut? Das sechssemestrige Studium der Elektrotechnik (Bachelor) gliedert sich in ein Grundlagenstudium, eine Orientierungs- sowie eine Vertiefungsphase. Während die Module im Grundlagenstudium für alle Studierenden ver
+

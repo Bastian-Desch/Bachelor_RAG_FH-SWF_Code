@@ -1,0 +1,126 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 415
+
+Metadata: {'id': 2292, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: # Studienangebot
+
+## Eine Vielzahl an Studiengängen und trotzdem familiär
+
+1. Studienangebot
+
+### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation.
+
+Wann bewerben?
+
+Auf dieser Seite
+
+- Studiengang konfigurieren
+- Fachgebiete
+- Studienmodelle
+- Standorte
+- Kontakt Allgemeine Studienberatung
+
+## Hier finden Sie den passenden Studiengang!
+
+### Studiengangsuche
+
+## Übersicht Fachgebiete
+
+Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement.
+
+Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang.
+
+Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich.
+
+Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran.
+
+„Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl.
+
+Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei.
+
+Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt.
+
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 419
+
+Metadata: {'id': 2293, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?
+
+- Zu den Studienmodellen
+
+## Unsere Standorte
+
+Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft.
+
+Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium ausmachen.
+
+Die Fachhochschule Südwestfalen wächst! An unserem jüngsten Standort in Lüdenscheid werden Studiengänge von Hagener und Iserlohner Fachbereichen angeboten.
+
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet.
+
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Landschaft zum Arbeiten und Lernen: Der Standort Soest.
+
+## Noch Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 1538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Die Allgemeine Studienberatung der FH Südwestfalen beruft sich auf das
+Beratungsverständnis der GIBeT, der Gesellschaft für Information, Beratung und Therapie an Hochschulen e.V.
+
+Hier finden Sie
+ weitere Ansprechpartner*innen.
+
+#####
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| montags, dienstags, donnerstags und freitags   | 9.00 - 16.00 Uhr    |
+|------------------------------------------------|---------------------|
+| mittwochs                                      | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+-
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 35
+
+Metadata: {'id': 2294, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/index.php', 'hash': '1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0'}
+Text: - 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3851004
+

@@ -1,0 +1,108 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 416
+
+Metadata: {'id': 248, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studieninteressierte/index.php', 'hash': '02f58f7e2349530e4408375669789c87d6e278a5cb8080c30d4c69b07a7c0690'}
+Text: # Unser Studienprogramm:
+praxisorientiert, international
+und facettenreich
+
+Die Fachhochschule Südwestfalen als starker Partner für Ihre erfolgreiche Zukunft. 1. Studieninteressierte
+
+## Hier finden Sie den passenden Studiengang
+
+### Studiengangsuche
+
+## Zahlen und Fakten (Stand: 13.02.2025)
+
+Studierende
+
+Studiengänge
+
+Beschäftigte
+
+Absolvent*innen (2024)
+
+## Studienstart
+
+### Wir helfen Ihnen bei Ihrem Start. Von Vorkursen über Einführungsveranstaltungen bis zur Organisation beim Studienstart. ## Studienmodelle
+
+Vollzeitstudium
+
+Duales Studium
+
+Verbundstudium
+
+Kooperatives Studium
+
+## Events
+
+Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten. Workshops, Infoveranstaltungen, Studienberatung - mehr Events finden Sie in unserem Veranstaltungskalender. ## Studi-Stimmen
+
+Ich würde mich immer sehr gut informieren, auch über Studiengänge, die man nicht so auf dem Schirm hat. Man sollte sich vor allem den Beruf anschauen, auf den man aus ist und nicht von Studieninhalten wie zum Beispiel Mathe abschrecken lassen. ## Weitere Infos
+
+Bewerbung &amp; Einschreibung
+
+Schnupperangebote
+
+Finanzierung
+
+Info-Veranstaltungen
+
+## Noch Fragen? Wir sind für Sie da! Herr Matthias Vitte (SG 2.5)
+
+Haldener Straße 182
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Frau Alexandra Bock (SG 2.5)
+
+Frauenstuhlweg 31 
+
+58644 Iserlohn 
+
+Raum: Z.128
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Herr Arp Hinrichs (SG 2.5)
+
+Lübecker Ring 2 
+
+59494 Soest 
+
+Raum: 17.115
+
+Lübecker Ring 2
+
+59494 Soest
+
+Frau Kerstin Sobkowiak (SG 2.5)
+
+Lindenstr. 53 
+
+59872 Meschede 
+
+Raum: 2.3.7
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3850700
+

@@ -1,0 +1,37 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 2
+
+Metadata: {'Header 2': 'Ordnung', 'id': 100, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/AO_FPO_2018_WingWinf_final.pdf', 'hash': 'd8817a548e38fa8c55fdca725dd11502c6830f820577f7d4d2fa3aec3b7e4c81'}
+Text: ## Ordnung
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 131
+
+Metadata: {'Header 2': 'zur Änderung der Fachprüfungsordnung der', 'id': 101, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/AO_FPO_2018_WingWinf_final.pdf', 'hash': 'd8817a548e38fa8c55fdca725dd11502c6830f820577f7d4d2fa3aec3b7e4c81'}
+Text: ## zur Änderung der Fachprüfungsordnung der  
+Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics  
+an der Fachhochschule Südwestfalen, Standort Hagen  
+vom 15. April 2019  
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen  (Hochschulgesetz  -  HG)  vom  16.  September  2014  (GV.  NRW.  S.  547)  zuletzt geändert durch Gesetz vom 17. Oktober 2017 (GV. NRW. S. 806) hat die Fachhochschule Südwestfalen die folgende Ordnung erlassen:
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 146
+
+Metadata: {'Header 2': 'Artikel I', 'id': 102, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/AO_FPO_2018_WingWinf_final.pdf', 'hash': 'd8817a548e38fa8c55fdca725dd11502c6830f820577f7d4d2fa3aec3b7e4c81'}
+Text: ## Artikel I  
+Die Fachprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International  Business  Administration  and  Engineering  und  International  Business  Administration  and Informatics an  der Fachhochschule  Südwestfalen,  Standort  Hagen  vom  19.  Juli  2018  (Amtliche Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - vom 31.07.2018) wird wie folgt geändert:  
+- 1.  In Anlage 5 werden die folgenden Sätze angefügt:  
+'Diese Wahlpflichtmodule müssen angemeldet werden. Sie werden nur durchgeführt, wenn sich mehr als vier Studierende für ein Modul anmelden. Über Ausnahmefälle entscheidet die Dekanin oder der Dekan.'
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 124
+
+Metadata: {'Header 2': 'Artikel II', 'id': 103, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbtbw_1/AO_FPO_2018_WingWinf_final.pdf', 'hash': 'd8817a548e38fa8c55fdca725dd11502c6830f820577f7d4d2fa3aec3b7e4c81'}
+Text: ## Artikel II  
+Diese Ordnung tritt am  Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen -Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.  
+Sie  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule  Südwestfalen  aufgrund  des Beschlusses des Fachbereichsrats des Fachbereichs Technische Betriebswirtschaft vom 10. April 2019 ausgefertigt.  
+Iserlohn, den 15. April 2019  
+Der Rektor der Fachhochschule Südwestfalen  
+Prof. Dr. Claus Schuster  
+1
+

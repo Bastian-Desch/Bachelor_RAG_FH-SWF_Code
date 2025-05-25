@@ -1,0 +1,535 @@
+ID: 3
+Frage: Welche Fachgebiete sind an der FH vertreten?
+
+Dokument 1 (Score: 0.82166433):
+Metadaten:
+  - id: 2293
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 83ff60b5-ac6c-4df9-8721-1f75f5785d0b
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?
+
+- Zu den Studienmodellen
+
+## Unsere Standorte
+
+Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft.
+
+Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium ausmachen.
+
+Die Fachhochschule Südwestfalen wächst! An unserem jüngsten Standort in Lüdenscheid werden Studiengänge von Hagener und Iserlohner Fachbereichen angeboten.
+
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet.
+
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Landschaft zum Arbeiten und Lernen: Der Standort Soest.
+
+## Noch Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 1538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Die Allgemeine Studienberatung der FH Südwestfalen beruft sich auf das
+Beratungsverständnis der GIBeT, der Gesellschaft für Information, Beratung und Therapie an Hochschulen e.V.
+
+Hier finden Sie
+ weitere Ansprechpartner*innen.
+
+#####
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| montags, dienstags, donnerstags und freitags   | 9.00 - 16.00 Uhr    |
+|------------------------------------------------|---------------------|
+| mittwochs                                      | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+-
+
+Dokument 2 (Score: 0.81581340):
+Metadaten:
+  - id: 2286
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/index.php
+  - hash: 52edbb52dced546e0135dd3ab719525c5895a21c5a2d38566e746b17e7946f2b
+  - _id: 4c0f0b61-1a9a-4255-b8d8-fe5d8c65309d
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Wo Profs nicht nur deinen Namen kennen, sondern dir auch wirklich weiterhelfen.
+
+Studieren in Hagen, Iserlohn, Lüdenscheid, Meschede und Soest
+
+## Studieren an der Fachhochschule Südwestfalen
+
+## Noch unentschlossen?
+
+Schauen Sie sich unsere Fachgebiete an:
+
+- Agrarwirtschaft
+
+- Designmanagement und Produktentwicklung
+
+- Gesundheits- und Naturwissenschaften
+
+- Informatik und Digitalisierung
+
+- Pädagogik und Psychologie
+
+- Technik und Ingenieurwesen
+
+- Umwelt und Nachhaltigkeit
+
+- Wirtschaft und Recht
+
+## Sie wissen, was Sie wollen?
+
+Direkt zu den Studiengängen:
+
+## Gut informiert und bereits entschieden? Dann jetzt für einen Studiengang bewerben!
+
+Hinweis: Für manche Studiengänge gelten bestimmte Zugangsvoraussetzungen. Prüfen Sie diese bitte vor der Online-Bewerbung.
+
+## Aktuelle Events
+
+Die Agentur für Arbeit Meschede-Soest steht Studierenden und Studieninteressierten beratend zur Seite. Sie berät neben der Studienwahl auch über Studienwechsel oder dem Austritt aus dem Studium und bietet mögliche Alternativen an. Weitere Themen und Unterstützungsangebote gibt es zu Praktika, dem erstellen von Bewerbungsunterlagen und die Vermittlung in den Arbeitsmarkt.
+
+Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten.
+
+Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte des Fachbereichs Technische Betriebswirtschaft und des Fachbereichs Elektrotechnik und Informationstechnik in den besten Händen.
+
+Dokument 3 (Score: 0.80935144):
+Metadaten:
+  - id: 2290
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studieninteressierte/index.php
+  - hash: 02f58f7e2349530e4408375669789c87d6e278a5cb8080c30d4c69b07a7c0690
+  - _id: 67eb13d9-1826-4ebd-bb9e-e72c3362ed54
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Unser Studienprogramm:
+praxisorientiert, international
+und facettenreich
+
+Die Fachhochschule Südwestfalen als starker Partner für Ihre erfolgreiche Zukunft.
+
+1. Studieninteressierte
+
+## Hier finden Sie den passenden Studiengang
+
+### Studiengangsuche
+
+## Zahlen und Fakten (Stand: 13.02.2025)
+
+Studierende
+
+Studiengänge
+
+Beschäftigte
+
+Absolvent*innen (2024)
+
+## Studienstart
+
+### Wir helfen Ihnen bei Ihrem Start.
+
+Von Vorkursen über Einführungsveranstaltungen bis zur Organisation beim Studienstart.
+
+## Studienmodelle
+
+Vollzeitstudium
+
+Duales Studium
+
+Verbundstudium
+
+Kooperatives Studium
+
+## Events
+
+Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten.
+
+Workshops, Infoveranstaltungen, Studienberatung - mehr Events finden Sie in unserem Veranstaltungskalender.
+
+## Studi-Stimmen
+
+Ich würde mich immer sehr gut informieren, auch über Studiengänge, die man nicht so auf dem Schirm hat. Man sollte sich vor allem den Beruf anschauen, auf den man aus ist und nicht von Studieninhalten wie zum Beispiel Mathe abschrecken lassen.
+
+## Weitere Infos
+
+Bewerbung &amp; Einschreibung
+
+Schnupperangebote
+
+Finanzierung
+
+Info-Veranstaltungen
+
+## Noch Fragen? Wir sind für Sie da!
+
+Herr Matthias Vitte (SG 2.5)
+
+Haldener Straße 182
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Frau Alexandra Bock (SG 2.5)
+
+Frauenstuhlweg 31 
+
+58644 Iserlohn 
+
+Raum: Z.128
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Herr Arp Hinrichs (SG 2.5)
+
+Dokument 4 (Score: 0.80841260):
+Metadaten:
+  - id: 2299
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php
+  - hash: fac6aea83ac9db81acc9b1aff3cfa2406e92e2a5edb539544698a72900a54f04
+  - _id: a8ede0a9-6354-436a-b89d-5372005fc4be
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Unsere Studiengänge
+
+1. Studienangebot
+2. Studiengänge
+
+### Auslaufende Studiengänge
+
+Sie haben da mal von einem Studiengang gehört, finden aber nicht, was Sie suchen? Die Fachhochschule Südwestfalen ist fortwährend bestrebt, ihr Profil und Studienangebot an die moderne Berufswirklichkeit anzupassen. Klicken Sie hier, um 
+auslaufende Studiengänge mit ihren Nachfolgern oder Alternativen anzuzeigen.
+
+## Weitere Infos
+
+Studienmodelle
+
+Fachgebiete
+
+Fristen &amp; Termine
+
+Einschreibung &amp; Bewerbung
+
+## Noch Fragen? Wir sind für Sie da!
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3844458
+
+Dokument 5 (Score: 0.80670595):
+Metadaten:
+  - id: 2292
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 666f6a15-c44b-406d-af0f-904053a6ab9a
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Studienangebot
+
+## Eine Vielzahl an Studiengängen und trotzdem familiär
+
+1. Studienangebot
+
+### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation.
+
+Wann bewerben?
+
+Auf dieser Seite
+
+- Studiengang konfigurieren
+- Fachgebiete
+- Studienmodelle
+- Standorte
+- Kontakt Allgemeine Studienberatung
+
+## Hier finden Sie den passenden Studiengang!
+
+### Studiengangsuche
+
+## Übersicht Fachgebiete
+
+Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement.
+
+Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang.
+
+Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich.
+
+Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran.
+
+„Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl.
+
+Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei.
+
+Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt.
+
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+Dokument 6 (Score: 0.80262405):
+Metadaten:
+  - id: 2311
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: b4c856d3-eaa6-4f8b-b5a9-1c7ad2eced29
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Sollte das Unternehmen die GHV der FH SWF aus irgendwelchen Gründen ablehnen und Ihnen stattdessen eine eigene GHV überreichen, so senden Sie diese bitte ebenfalls vor der Unterzeichnung einer konkreten Vereinbarung an das Justitiariat. Die jeweiligen Kontaktdaten finden Sie auf unserer Webseite:
+Kontakt Recht und Compliance
+
+## Masterarbeit - Anträge zur Zulassung Masterarbeit
+
+Antragsformulare zur Anmeldung der Masterarbeit finden Sie in Ihrem Studierenden-Servicebüro und hier:
+
+### Hagen
+
+- Antrag auf Zulassung für den Vollzeitstudiengang Informatics and Business  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Medizintechnik  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Wirtschaftsingenieurwesen (MPO 2014)  PDF
+- Antrag auf Zulassung für den Vollzeitstudiengang Wirtschaftsingenieurwesen (FPO 2021)  PDF
+- Antrag auf Zulassung für die Verbundstudiengänge am Standort Hagen  PDF
+- Erklärung über die Abgabe von Zusatzexemplaren der Abschlussarbeiten für die Vollzeitstudiengänge des Fachbereichs TBW  PDF
+
+### Iserlohn
+
+- Antrag auf Zulassung für den Studiengang Integrierte Produktentwicklung  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Informatik (MPO 2016)  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Informatik (FPO 2020)  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Angewandte Künstliche Intelligenz  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Maschinenbau  PDF
+- Antrag auf Zulassung für den Verbundstudiengang Life Science Engineering  PDF
+
+### Meschede
+
+- Antrag auf Zulassung zur Masterarbeit für Vollzeitstudiengänge  PDF
+- Antrag auf Zulassung zur Masterarbeit für den Master-Verbundstudiengang Maschinenbau  PDF
+
+### Soest
+
+Dokument 7 (Score: 0.80171263):
+Metadaten:
+  - id: 2304
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 51bcf897-624f-4add-9814-bec8f947d230
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Fachbereich Informatik und Naturwissenschaften Präsenz
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Angewandte Biologie (FPO 2022) 
+- alle Prüfungsleistungen PDF 
+- Prüfungsleistungen des Berufskollegs Olsberg  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Bio- und Nanotechnologien (BPO 2013)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Bio- und Nanotechnologien (FPO 2020)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Informatik (FPO 2019)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Werkstoffe und Oberflächen (FPO 2017)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Bachelorstudiengang Life Science Analytics (FPO 2020)  PDF
+
+Fachbereich Informatik und Naturwissenschaften Verbund
+
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Informatik (Bachelor)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Informatik (Master)  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Life Science Engineering (Master) Studienbeginn ab WS 2024/25  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Life Science Engineering (Master) Studienbeginn vor dem WS 2024/25  PDF
+- Antrag auf Anerkennung von Prüfungsleistungen im Verbundstudiengang Angewandte Künstliche Intelligenz (Master)  PDF
+
+#### Meschede
+
+Antragsformulare und Informationen zur Anerkennung von Prüfungsleistungen erhalten Sie hier.
+
+#### Soest
+
+- Antrag auf Anerkennung von Prüfungsleistungen  PDF
+
+Anerkennung von außerhalb des Hochschulwesens erworbene Kompetenzen:
+
+- Antrag auf Anerkennung von außerhalb des Hochschulwesens erworbene Kompetenzen  PDF
+- Informationen zur Anerkennung von außerhalb des Hochschulwesens erwobenen Kompetenzen auf das
+Präsenzstudium der Frühpädagogik (B.A.)  PDF
+
+#### Lüdenscheid
+
+Dokument 8 (Score: 0.80152667):
+Metadaten:
+  - id: 2288
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/index.php
+  - hash: 52edbb52dced546e0135dd3ab719525c5895a21c5a2d38566e746b17e7946f2b
+  - _id: 1e6ddfd5-87b9-4965-8f36-3098acb51370
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+### Iserlohn
+
+Hervorragende Studienqualität, exzellente Zukunftsperspektiven und eine lebenswerte Umgebung – am Standort Iserlohn stimmt die Mischung. Individuelle Förderung der Studierenden und enge Zusammenarbeit mit der heimischen Industrie zeichnen die Lehre in Iserlohn aus.
+
+### Lüdenscheid
+
+Unser jüngster Standort steht für Aufbruch, Fortschritt und Innovation. Gelernt und gelehrt wird nach dem bewährten Erfolgsrezept der Fachhochschule Südwestfalen in hochmodernen Laboren und kleinen Gruppen.
+
+### Meschede
+
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet. Studieninteressierte finden in einer der stärksten Industrieregionen Deutschlands exzellente Bedingungen vor, die überregional attraktiv sind.
+
+### Soest
+
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Umgebung zum Arbeiten und Lernen: Der Campus in Soest hat viel zu bieten.
+
+## Warum an der Fachhochschule Südwestfalen studieren?
+
+Ich studiere die Vertiefung Tourismus und habe Meschede ausgewählt, weil das relativ nahe an meinem Heimatort Lüdenscheid ist. Mein Bruder hat an der Fachhochschule Südwestfalen in Iserlohn sein Studium begonnen und ich habe mich für die gleiche Fachhochschule entschieden, weil ich schon wusste, das ist ein kleiner Standort, da wird man gut betreut. Die Dozent*innen sind wirklich dahinter her, dass man etwas lernt und den Stoff auch versteht.
+
+## Noch Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 1538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Dokument 9 (Score: 0.79979765):
+Metadaten:
+  - id: 2319
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: 18c43e3f-9014-44ee-ba6e-c7d5de51350e
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Neu an der Fachhochschule Südwestfalen? In den ersten Woche Ihres Studiums bieten wir Ihnen viele spannende Termine und Kennenlern-Angebote.
+
+## Vorlesungszeiten Vorlesungszeiten
+
+|                           |                               |
+|---------------------------|-------------------------------|
+| Wintersemester 2024/2025: | von 23.09.2024 bis 07.02.2025 |
+| Sommersemester 2025:      | von 24.03.2025 bis 18.07.2025 |
+| Wintersemester 2025/2026: | von 22.09.2025 bis 06.02.2026 |
+| Sommersemester 2026:      | von 06.04.2026 bis 31.07.2026 |
+| Wintersemester 2026/2027: | von 28.09.2026 bis 12.02.2027 |
+| Sommersemester 2027:      | von 29.03.2027 bis 23.07.2027 |
+| Wintersemester 2027/2028: | von 27.09.2027 bis 11.02.2028 |
+| Sommersemester 2028:      | von 03.04.2028 bis 28.07.2028 |
+| Wintersemester 2028/2029: | von 25.09.2028 bis 09.02.2029 |
+| Sommersemester 2029:      | von 26.03.2029 bis 20.07.2029 |
+| Wintersemester 2029/2030: | von 24.09.2029 bis 08.02.2030 |
+| Sommersemester 2030:      | von 19.03.2030 bis 12.07.2030 |
+
+Eine Erstattung der Semesterbeiträge sowie ggf. der Medien- und Servicegebühren ist nur bei Exmatrikulation bis zum o. g. Vorlesungsbeginn des jeweiligen Semesters möglich. Für Ihren individuellen Studiengang können jedoch abweichende Termine bestehen. Information erfolgt durch den Fachbereich - siehe unten. Für die Erstattung ist jedoch weiterhin das Datum des o. g. Vorlesungsbeginns relevant.
+
+Diese Vorlesungszeiten der Studiengänge an Fachhochschulen des Landes Nordrhein-Westfalen ergeben sich aus den Erlassen des Ministeriums für Kultur und Wissenschaft des Landes Nordrhein-Westfalen.
+
+## Termine der Fachbereiche/Studiengänge
+
+Dokument 10 (Score: 0.79920393):
+Metadaten:
+  - id: 2287
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/index.php
+  - hash: 52edbb52dced546e0135dd3ab719525c5895a21c5a2d38566e746b17e7946f2b
+  - _id: 2afb9bf6-fe93-4423-8d14-5fa696faf857
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Wenn ein Physiker und Signaltheoretiker Freude an der Musik hat, fängt er natürlich an, über Musik nachzudenken. Das sind Töne, Klänge, Harmonie und Rhythmus und noch einiges mehr. Wenn man das genauer verstehen möchte, ist man schnell bei einem Mix aus Physik, Mathematik und Signaltheorie. In diesem Vortrag soll diesen Fragen in allgemein verständlicher Weise nachgegangen werden.
+
+## Aktuelle News
+
+Korrosion begrenzt die Leistung und Lebensdauer der für eine Wasserstoffwirtschaft wichtigen Brennstoffzellen. Im Forschungsprojekt Corromap geht es vor diesem Hintergrund um Korrosionsmessungen im laufenden Betrieb der Zellen. Projektpartner sind die Fachhochschule Südwestfalen in Iserlohn und das Zentrum für Brennstoffzellentechnologie Duisburg (ZBT).
+
+Er darf sich künftig Dr.-Ing. nennen: Maik Pannok hat als erster Doktorand der Fachhochschule Südwestfalen seine Disputation im Promotionskolleg NRW bestanden. Am 27. Januar 2025 verteidigte er erfolgreich seine Dissertation mit dem Titel „Planung von modularen Intralogistiksystemen für wandlungsfähige, dezentrale Produktionskonzepte in der chemischen Industrie“.
+
+Premiere für den neuen Rektor der Fachhochschule Südwestfalen: Prof. Dr. Dr. Alexander Prange begrüßte am 25. Februar über 200 Gäste aus Hochschule, Politik und Wirtschaft zum Jahresempfang im Soester Audimax. Traditionell bot der Empfang die Bühne für die Verleihung des Dr. Kirchhoff-Preises.
+
+Die Fachhochschule Südwestfalen überzeugt mit ihren flachen Hierarchien, dem familiären Flair, dem breiten Studienangebot, ihren internationalen Kooperationen und der engen Vernetzung zur Wirtschaft.
+
+##
+
+Studiengänge
+
+Studienmodelle
+
+Forschung
+
+Presse
+
+## Standorte
+
+### Hagen
+
+In Hagen trifft Innovation auf Tradition. Hier gibt es das maßgeschneiderte Studium in kleinen Gruppen, hochmodernen Laboren und mit direktem Draht zur heimischen Wirtschaft.
+
+### Iserlohn
+

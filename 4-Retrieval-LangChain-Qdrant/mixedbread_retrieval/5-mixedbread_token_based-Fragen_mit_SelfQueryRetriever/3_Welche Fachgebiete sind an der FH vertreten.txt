@@ -1,0 +1,143 @@
+ID: 3
+Frage: Welche Fachgebiete sind an der FH vertreten?
+
+Dokument 1:
+Metadaten:
+  - id: 240
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php
+  - hash: ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3
+  - _id: 8794d59a-6afb-44d1-94fe-f6509a7018be
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+gebiet FAQs / häufige Fragen ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3809979
+
+Dokument 2:
+Metadaten:
+  - id: 265
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: 5dae3c15-a90c-455a-8394-36e66d46e8d8
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+PFs: z.B. Sondergebiete der Informatik, | | | | | | | | | | | | | | | | | | | Digitaltechnik, ERP-Systeme, Kommunikationsnetze 2, | | | | | | | | | | | | | | 4 | 1 | 6 | | | Content Management Systeme, Web Engineering, IT- | 16 | | 4 | | | | | | | | | 8 2 | 12 | 6 | | | | | Forensik | | 24 | | | | | | | | | | | | | | | | | Wirtschaftswissenschaftliche Wahlpflichtmodule aus dem | | | | | | | | | | | | | | | | | | | Container "Wahlpflichtseminar": z.B. Business English, | 12 | | 3 | | | | | | | | | | | 12 | | | | | Business Law, Unternehmensplanung Studienarbeit | | 18 | | | | | | | | | | | | | | | | | | 0 | | 0 | | | | | | | | | | | | | | 0 | | Bachelorarbeit Kolloquium | 0 | 6 | | | | | | | | | | | | | | | | | | 0 | 10 | 0 | | | | | | | | | | | 8 | 2 | 6 | 4 | | | | 2 | 0 | | | |
+
+Dokument 3:
+Metadaten:
+  - id: 1481
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 434a0f36-e65e-400d-8ac5-372d27828b16
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft. Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium ausmachen. Die Fachhochschule Südwestfalen wächst! An unserem jüngsten Standort in Lüdenscheid werden Studiengänge von Hagener und Iserlohner Fachbereichen angeboten. Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet. Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Landschaft zum Arbeiten und Lernen: Der Standort Soest. ## Noch Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 1538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Die Allgemeine Studienberatung der FH Südwestfalen beruft sich auf das Beratungsverständnis der GIBeT, der Gesellschaft für Information, Beratung und Therapie an Hochschulen e.V. Hier finden Sie weitere Ansprechpartner*innen. ##### ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | montags, dienstags, donnerstags und freitags | 9.00 - 16.00 Uhr | |------------------------------------------------|---------------------| | mittwochs | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3851004
+
+Dokument 4:
+Metadaten:
+  - id: 1025
+  - studiengang: Elektrotechnik
+  - abschluss: Master
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/index.php
+  - hash: 23d5055fb6686b7f964ad1114b3e41d5d939a5dfe2428fa974f4bd6af87e72a5
+  - _id: 8a36e577-3171-479e-81f0-300253bb94e7
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3810135
+
+Dokument 5:
+Metadaten:
+  - id: 1561
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Iserlohn
+  - link: https://www.fh-swf.de/de/ueber_uns/standorte_4/iserlohn_4/iserlohn_1.php
+  - hash: 93120967b2c87af4748d60f3cfd7bf6a0777046ec9ec4e35dc9cae7584416b16
+  - _id: e9cf5b9a-b172-4da9-8ec2-4c44b150ab58
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+### Fachbereich Informatik und Naturwissenschaften Das Innovations- und Kreativitätszentrum mit Studiengängen wie Angewandte Künstliche Intelligenz oder Angewandte Biologie oder Informatik. ### Fachbereich Maschinenbau Gestalten Sie die Welt von morgen! Im Fachbereich Maschinenbau werden zukünftige Technologien entwickelt und umgesetzt. ### Mensa "Canapé" In Iserlohn trägt sie den Namen "Canapé". Im Sommer lässt man es sich auf der Terrasse schmecken. Nach dem Mittagessen sorgt der Kicker für ein bisschen Bewegung. ### Fachbibliothek Iserlohn Hier finden Sie ein umfangreiches Informationsangebot zugeschnitten auf den Lern- und Forschungsalltag der Hochschulangehörigen. ## Der Hochschulstandort Iserlohn Hier trifft Studien- auf Lebensqualität. Das moderne akademische Umfeld, die spezifische Ausstattung der Labore und die enge, produktive Zusammenarbeit mit der heimischen Industrie eröffnen exzellente und zukunftsweisende Studienbedingungen. Bei uns hat jeder Studierende ein Gesicht – nicht nur eine Matrikelnummer. Kleine Lerngruppen, ein direkter Draht zu den Dozentinnen und Dozenten und individuelle Förderung ermöglichen ein Studium ganz nach ihren Bedürfnissen. Unsere beiden Fachbereiche Informatik &amp; Naturwissenschaften...... und Maschinenbau enthalten ein breites Angebot an zukunftsweisenden Präsenz- und Verbundstudiengängen wie z.B.... Integrierte Produktentwicklung,... Digitale Transformation Maschinenbau,...... Kunststofftechnik,...... Automotive,...... Angewandte Informatik,...... Angewandte Biologie,...... Angewandte Künstliche Intelligenz,...... Produktentwicklung/Konstruktion,...... Fertigungstechnik,...... Life Science Engineering,...... Mechatronik und vieles mehr. Schauen Sie sich um! Anfahrt Termine und Aktuelles Stadt &amp; Umland Studienangebot ### Paul Gruner „Ich bin zum Studieren hier, fertig. An der Fachhochschule fühle ich mich super wohl, super Professoren, super Bedingungen, alles super. Auch die City ist richtig schön, nur leider werden viel zu früh die Bürgersteige hochgeklappt." ### Daniel Faust „Iserlohn? Bergig, waldig, hat was.
+
+Dokument 6:
+Metadaten:
+  - id: 1183
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: 3a2d6382-7fdb-43ae-8bf9-18b30ca748d9
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3808862
+
+Dokument 7:
+Metadaten:
+  - id: 793
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/index.php
+  - hash: 65e525617f6b7990187dd16eb9c16c4ab668e756687fb23b09e337d3f0896681
+  - _id: 1c98e3b5-9077-4495-a6dd-3a526be2aa85
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+handbücher sowie die Studienverlaufspläne des Vollzeit- u. Teilzeitstudiums Elektrotechnik B.Eng. ### Studienoption Lehramt Berufskolleg - Mehr Infos zur Studienoption Lehramt am Berufskolleg ### Videos zu den Studienschwerpunkten Zu den Videos ### Möglichkeiten eines Master-Studiums - Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium) - Data Science M.Sc. (berufsbegleitend) - Digitale Technologien M.Eng. - Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. - Advanced Engineering and Engineering Management M.Sc. - Technik- und Unternehmensmanagement M.Eng. (berufsbegleitender weiterbildender Master-Verbundstudiengang) Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede. Termine für Studieninteressierte Standort Meschede Fachgebiet FAQs / häufige Fragen ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr |
+
+Dokument 8:
+Metadaten:
+  - id: 61
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/Nr._1110_vom_06.08.2021_-_Ausnahmeregelung_FPO_Wirtschaftsingenieurwesen_Wirtschaftsinformatik_national_und_international_Hagen.pdf
+  - hash: 128a2801f824354fb37df40de6871a1ffec069caf34fe3c9d74ad6e3af9b321c
+  - _id: ef4a11f0-92ed-4e0b-9d28-0934567a1e7d
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+## Amtliche Bekanntmachung der Fachhochschule Südwestfalen ## - Verkündungsblatt ## der Fachhochschule Südwestfalen - Baarstraße 6, 58636 Iserlohn Nr. 1110 Ausgabe und Tag der Veröffentlichung: 06.08.2021 ## Ausnahmeregelung zu der Fachprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen und der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Hagen und International Studies of Business Administration and Engineering und International Studies of Business Administration and Computer Science an der Fachhochschule Südwestfalen, Standort Hagen und der Staffordshire University vom 5. August 2021 Der Wortlaut wird im Folgenden bekannt gegeben: Hinweis: Nach Ablauf eines Jahres nach Bekanntmachung dieser Ordnung können nur unter den Voraussetzungen des § 12 Absatz 5 Hochschulgesetz NRW Verletzungen von Verfahrensoder Formvorschriften des Hochschulgesetzes oder des Ordnungs- oder des sonstigen Rechts der Hochschule geltend gemacht werden, ansonsten ist eine solche Rüge ausgeschlossen. ## Ausnahmeregelung zu der Fachprüfungsordnung der Studiengänge ## Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International Business Administration and Engineering und International Business Administration and Informatics an der Fachhochschule Südwestfalen, Standort Hagen und der Bachelorprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik an der Fachhochschule Südwestfalen, Standort Hagen und International Studies of Business Administration and Engineering und International Studies of Business Administration and Computer Science an der Fachhochschule Südwestfalen, Standort Hagen und der Staffordshire University vom 5. August 2021 Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 25. März 2021 (GV. NRW. S. 331), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Technische Betriebswirtschaft der Fachhochschule Südwestfalen für die Durchführung der Fachprüfungsordnung der Studiengänge Wirtschaftsingenieurwesen, Wirtschaftsinformatik, International
+
+Dokument 9:
+Metadaten:
+  - id: 563
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 14eb5f55-6843-44c6-805c-ce0bb87398ea
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+| Elektronische Systeme.......................................................................................................................... 85 | | LED in Connected Lighting Anwendungen............................................................................................ 87 | | Regenerative Energiesysteme............................................................................................................... 89 | | Elektrische Gebäudeausrüstung............................................................................................................ 91 | | Gebäudeautomation............................................................................................................................. 94 | | Gebäudesystemtechnik......................................................................................................................... 96 | | App-Programmierung............................................................................................................................ 99 | | Datenbanken....................................................................................................................................... 101 | | IT-Sicherheit........................................................................................................................................ 103 | | Künstliche Intelligenz.......................................................................................................................... 105 | | Software Engineering.......................................................................................................................... 107 | | Webtechnologie 1............................................................................................................................... 109 | | Digitale Medien: Audio und Video...................................................................................................... 111 | | Mensch-Computer-Interaktion........................................................................................................... 113 | | Bildgebende Verfahren in der Medizin............................................................................................... 116 | | Biosensorik.......................................................................................................................................... 119 | | Biosignale und ihre Verarbeitung........................................................................................................ 121 | | Elektronische Prothesen...................................................................................................................... 124 | | Medizinische Elektronik...................................................................................................................... 126 | | Neuronale Netze................................................................................................................................. 128 | | Auslegung mechatronischer Systeme................................................................................................. 130 | | Ausfallsichere Systeme........................................................................................................................ 132 | | Betriebssysteme.................................................................................................................................. 134 | | Echtzeitsysteme................................................................................................................................... 136 | | Hardwarebeschreibungssprachen und rekonfigurierbare Logik......................................................... 138 | | Wahlpflichtmodule: Nichttechnische Wahlpflichtmodule................................................................ 142 | | Eignungs- und Orientierungspraktikum..............................................................
+
+Dokument 10:
+Metadaten:
+  - id: 818
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_b_eng_/FPO_2019_ETM.pdf
+  - hash: 8c2f504ed2e987f70e6dace06843c485bc2b27e36e5c323e0631dfb0acf12e20
+  - _id: c61d3334-c9e3-4059-b77b-c21e8de09cc9
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+| x | | Leistungselektronik für elektrische Antriebe | x | x | | | | | Mechatronische Systeme und deren Simulation | x | | | | | | | | | x | | | | Medienproduktion | | | | x | x | | Mikrocomputertechnik 1 | x | x | x | x | | | Mikrocomputertechnik 2 | x | x | x | x | | | Mobile Application Development | | | x | | x | | Multimedia Präsentationstechnik | | | | x | x | | Objektorientierte Programmierung | | | x | | | | Optimierungsalgorithmen | x | | x | x | | | Radartechnik | x | x | | x | | | Regelungstechnik 1 | x | x | | | | | Robotik | x | | | | | | Sensorik und Automatisierung | x | x | | x | | | Sensorik und Signalverarbeitung | x | x | | x | | | Signale und Systeme | x | | x | x | x | | Software Engineering | x | | x | x | | | Sondergebiete der Automatisierungstechnik | x | x | | x | | | Sondergebiete der digitalen Signalverarbeitung | x | x | x | x | x | | Sondergebiete der elektrischen Energietechnik | x | x | | | | | Sondergebiete der elektrischen Messtechnik | x | x | | x | | | Sondergebiete der Elektrotechnik | x | x | x | x | x | | Sondergebiete der Hochfrequenztechnik | | x | | x |
+

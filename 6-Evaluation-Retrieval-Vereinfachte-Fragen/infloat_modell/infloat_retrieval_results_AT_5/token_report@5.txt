@@ -1,0 +1,5 @@
+#    Model                                      NDCG@5    MRR@5    MAP@5  P@5       Recall@5  Hits@5      Hit Rate@5
+---  ---------------------------------------  --------  -------  -------  ------  ----------  --------  ------------
+a    token_based_result_no_filters               0.279    0.378    0.238  0.220        0.35   1.100              0.6
+b    token_based_result_optimal_filters          0.67     0.8      0.608  0.340ᵃ       0.667  1.700ᵃ             0.8
+c    token_based_result_self_query_retriever     0.327    0.4      0.312  0.180        0.317  0.900              0.4

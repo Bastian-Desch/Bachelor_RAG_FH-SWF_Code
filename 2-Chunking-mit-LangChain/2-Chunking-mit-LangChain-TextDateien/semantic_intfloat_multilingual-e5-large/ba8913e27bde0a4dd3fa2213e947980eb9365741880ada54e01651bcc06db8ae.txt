@@ -1,0 +1,108 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 1293
+
+Metadata: {'id': 245, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Soest', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/soest_4/soest_1.php', 'hash': 'ba8913e27bde0a4dd3fa2213e947980eb9365741880ada54e01651bcc06db8ae'}
+Text: # Die Fachhochschule 
+Südwestfalen in Soest
+
+1. Über uns
+2. Standorte
+3. Soest
+
+# Unser Standort in Soest
+
+## Familiär, aber auch international
+
+Kleine Studiengruppen und eine persönliche Betreuung, das ist eines der Erfolgsrezepte der Fachhochschule Südwestfalen. Die Studierenden der vier Fachbereiche Agrarwirtschaft, Bildungs- und Gesellschaftswissenschaften, Elektrische Energietechnik sowie Maschinenbau-Automatisierungstechnik profitieren außerdem von modernen Laboren und Werkstätten, einer hervorragend bestückten Bibliothek und hellen, angenehmen Arbeitsräumen. Internationale Studiengänge machen das Studium in Soest nicht nur für ausländische Studierenden interessant. Vier Studiengänge werden komplett in englischer Sprache durchgeführt und vom 
+Center for Business Education koordiniert. Es herrscht eine weltoffene und aufgeschlossene Atmosphäre auf unserem Campus an dem man leicht in Austausch mit Kommiliton*innen und Mitarbeiter*innen treten kann. ### Studiengänge mit Spitzenranking
+
+Im renommierten Hochschulranking der Wochenzeitschrift „DIE ZEIT“ und des Centrums für Hochschulentwicklung (CHE) stehen die Fachbereiche des Fachhochschulstandorts Soest immer wieder ganz weit vorn. Der Fachbereich Elektrische Energietechnik erhielt sehr gute Werte, der Fachbereich Maschinenbau-Automatisierungstechnik gehört gar zu den Spitzenreitern in NRW und liegt auch bundesweit in der Spitzengruppe. Als Fachbereich mit viel Tradition bildet die Agrarwirtschaft angehende Führungskräfte für das Agribusiness aus. Der Fachbereich Bildungs- und Gesellschaftswissenschaften bietet verschiedene Studienmodelle aus dem Bereich der Früh- und Medienpädagogik an. Öffnungszeiten
+ 
+| Mo. - Fr. | 07:00 - 19:30 Uhr                                             | 
+|-------------|---------------------------------------------------------------| 
+| Sa. | 08:00 - 17:00 Uhr (nur bei Präsenzterminen im Verbundstudium) |
+
+Diese Angaben beziehen sich auf die Gebäude. Servicezeiten von Einrichtungen und Ansprechpartnern finden Sie auf den jeweiligen Webseiten. Anschrift
+
+Hausanschrift
+Fachhochschule Südwestfalen
+Standort Soest
+Lübecker Ring 2
+59494 Soest
+
+Postanschrift
+Postfach 1465
+59474 Soest
+
+Telefon: (02921) 378-0
+
+### Partner der Wirtschaft und der Forschung
+
+Die Fachhochschule Südwestfalen ist Ansprechpartner für Industrie, Landwirtschaft und Handwerk auf vielen Gebieten der neuesten Technologien und Verfahren. In gemeinsamen Projekten oder als Gesprächspartner für Innovations- und Technologieberatung sind Forschung und Wirtschaft erfolgreich miteinander verknüpft. Zahlreiche Forschungsprojekte der vier Soester Fachbereiche werden als "Forschungshighlights" gefördert. Neben unterschiedlichsten Forschungs- und Kooperationsprojekten entstand so auch das Duale Studium Soest, bei dem Studierende von einem kooperierenden Unternehmen ein Stipendium zum Studium erhalten und in den vorlesungsfreien Zeiten im Betrieb die praktische Seite kennenlernen. Interdisziplinäres Arbeiten ist eine wichtige wissenschaftliche Grundlage und dank der Vielfalt und großen Bandbreite der Fachbereiche ergeben sich spannende Synergien. ### Abwechlung zwischen Münsterland und Sauerland
+
+Darüber hinaus punktet Soest mit historischem Ambiente, dem nahegelegenen Möhnesee und abwechslungsreichem Freizeitangebot. Eingebettet zwischen Münsterland und Sauerland, die verkehrsgünstige Lage mit den Ruhrmetropolen gleich nebenan – so lässt sich auch die Freizeit vielfältig gestalten. Gute Einblicke in die Region Südwestfalen bieten die
+Südwestfalen Agentur und
+Homebase Sauerland. Weiterführende Links
+
+- Anfahrt, ÖPNV &amp; Lageplan
+- Wohnen
+- Stadt &amp; Umland
+
+Social Media
+
+Folgen Sie dem Campus Soest in Social Media und bleiben Sie auf dem Laufenden:
+
+Campus Soest bei Instagram
+
+Campus Soest bei Facebook
+
+### FB Agrarwirtschaft
+
+Das Fachhochschulstudium der Agrarwirtschaft (mit den Abschlüssen Bachelor und Master) bietet in NRW nur die Fachhochschule Südwestfalen an. Der Ruf und die Bedeutung von Ausbildung, Forschung und Lehre der Soester Agrarwirtschaft reicht jedoch weit über die Region und das Land hinaus. ### FB Bildungs- und Gesellschaftswissenschaften
+
+Bachelor- und Masterstudiengänge in Präsenz oder berufsbegleitend absolvieren. Der Fachbereich Bildungs- und Gesellschaftswissenschaften bietet ein breites Portfolio an Studiengängen mit Fokus auf Früh- und Medienpädagogik. ### Mensa Soest
+
+Der zentrale Treffpunkt für Studierende und Mitarbeiter*innen. Die Mensa Soest auf dem Campus in Soest überzeugt mit einer täglich frischen Küche. ### FB Elektrische Energietechnik
+
+Die Studiengänge im Soester Fachbereich Elektrische Energietechnik sind als Antwort auf die Bedürfnisse und Trends auf dem nationalen Arbeitsmarkt sowie an die Ingenieursausbildung entwickelt. ### FB Maschinenbau-Automatisierungstechnik
+
+Seit Jahren zählt der Soester Fachbereich Maschinenbau-Automatisierungstechnik zu den Spitzenreitern im Hochschulranking Nordrhein-Westfalens. Die Absolventinnen und Absolventen aus Soest sind gefragte Fachkräfte auf dem Arbeitsmarkt. ### Bibliothek Soest
+
+Die Bibliothek in Soest ist mit 877m² der größte von allen vier Fachbibliotheken und bietet Platz für über 80 Einzel- und Gruppenarbeitsplätze, daneben stehen drei separate Gruppenarbeitsräume zur Verfügung. ## Der Hochschulstandort Soest
+
+…heißt Sie willkommen! …ist ein Ort persönlicher Begegnungen. …überzeugt mit moderner Ausstattung und einladender Lernatmosphäre. …überzeugt mit guter Verpflegung,... …innovativen Forschungsprojekten in top ausgestatteten Laboren und... …bietet viele Arbeitsplätze zum allein oder gemeinsam Lernen. Anfahrt
+
+Termine und Aktuelles
+
+Studienangebot
+
+Stadt &amp; Umland
+
+## Noch Fragen? Wir sind für Sie da! Lübecker Ring 2
+
+Postfach 1465
+
+Lübecker Ring 2
+
+Postfach 1465
+
+Lübecker Ring 2
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3805283
+

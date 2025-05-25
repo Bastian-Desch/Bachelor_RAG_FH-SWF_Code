@@ -1,0 +1,143 @@
+ID: 5
+Frage: Welche Studienmodelle werden angeboten?
+
+Dokument 1 (Score: 0.83081657):
+Metadaten:
+  - id: 1482
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 1fb8da97-dd67-47e1-a453-2ea128274d49
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Unsere Studienmodelle ## So flexibel wie Sie es sich wünschen 1. Studienangebot 2. Studienmodelle ## Duales Studium, berufsbegleitendes Studium oder doch der Klassiker? ### Ihr Studiengang sollte Ihren Interessen und Zielen entsprechen, Ihr Studienmodell muss darüber hinaus aber auch zu Ihrem Leben passen! Wir bieten Ihnen die freie Auswahl unterschiedlicher Studienmodelle. Vom berufsbegleitenden Studium über das duale Studium bis hin zum klassischen Vollzeitstudium – bei uns finden Sie das Studienmodell, das zu Ihren Ansprüchen, Ihren Zielen und zu Ihrem Leben passt. ### Auf dieser Seite - Vollzeitstudium - Teilzeitstudium - Kooperative Studienmodelle - Duale Studienmodelle - Berufsbegleitendes oder ausbildungsbegleitendes Verbundstudium - Zertifikatsstudium ## Vollzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell Das Vollzeitstudium ist das meist verbreitete Studienmodell. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs. Der durchschnittliche Arbeitsaufwand für ein Vollzeitstudium beträgt ca. 40 Stunden in der Woche und entspricht damit einer Vollzeitberufstätigkeit. Die 40 Stunden beziehen sich dabei nicht nur auf die Lernveranstaltungen im Hörsaal, sondern auch auf die Vor- und Nachbereitungszeit der einzelnen Vorlesungen, Seminare und Prüfungen. Die Lehrveranstaltungen finden meist montags bis freitags statt. Eine Anwesenheitspflicht gibt es nur punktuell z.B. in Praktika, Übungen oder Prüfungen. Anwendungsorientierte Vorlesungen, Seminare und Laborpraktika sowie praxiserfahrene Dozent*innen sorgen für ein praxisnahes Studium. ## Teilzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell, jedoch in Teilzeit Das Teilzeitstudium bietet die Möglichkeit neben dem Studium noch anderen Verpflichtungen in Ihrem Leben nachzukommen. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs, jedoch mit einer reduzierten Modulanzahl je Semester. ## Kooperative Studienmodelle Ankerpunkt ### Studieren in Voll- oder Teilzeit mit Praxis in Unternehmen Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in
+
+Dokument 2 (Score: 0.80237097):
+Metadaten:
+  - id: 1486
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php
+  - hash: fac6aea83ac9db81acc9b1aff3cfa2406e92e2a5edb539544698a72900a54f04
+  - _id: 850ebb11-55ca-44d8-b69c-db48e4e0d087
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Unsere Studiengänge 1. Studienangebot 2. Studiengänge ### Auslaufende Studiengänge Sie haben da mal von einem Studiengang gehört, finden aber nicht, was Sie suchen? Die Fachhochschule Südwestfalen ist fortwährend bestrebt, ihr Profil und Studienangebot an die moderne Berufswirklichkeit anzupassen. Klicken Sie hier, um auslaufende Studiengänge mit ihren Nachfolgern oder Alternativen anzuzeigen. ## Weitere Infos Studienmodelle Fachgebiete Fristen &amp; Termine Einschreibung &amp; Bewerbung ## Noch Fragen? Wir sind für Sie da! - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3844458
+
+Dokument 3 (Score: 0.79821694):
+Metadaten:
+  - id: 1483
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 03f56d56-f011-42ee-966d-414db6d7fea3
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+in Unternehmen Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in der vorlesungsfreien Zeit im Unternehmen ergänzt. Möglich ist natürlich auch die Kombination mit einer betrieblichen Ausbildung. Die Studiendauer entspricht in der Regel dem Vollzeitstudium, ggf. verlängert um Praxis- oder Ausbildungsphasen. Ein Teil unserer Studiengänge kann auch planmäßig als Teilzeitstudium absolviert werden. So lassen sich Studium und praktische Erfahrungen beispielsweise als Werkstudierende ideal kombinieren. Kooperatives Modell Hagen Kooperatives Modell Meschede Was ist eigentlich eine Werkstudentin oder ein Werkstudent? Werkstudierende sind zunächst einmal regulär in Volllzeitstudiengänge eingeschrieben. Parallel zum Studium arbeiten sie über einen längeren Zeitraum bis zu maximal 20 Stunden pro Woche in einem Unternehmen, vorzugsweise aus einer mit dem Studienbereich verwandten Branche. Ein Werkstudium ist also prinzipiell in allen unseren Vollzeitstudiengängen möglich! ## Duale Studienmodelle Duale Studienmodelle ### Enge Verzahnung von Theorie und Praxis Enger können Sie Theorie und Praxis nicht verknüpfen. Sie lernen in der Hochschule und gewinnen wertvolle Eindrücke in einem Unternehmen. Dieses Studienmodell funktioniert auf Basis einer Kooperationsvereinbarung, die mindestens zwischen dem beteiligten Unternehmen und der Hochschule geschlossen werden muss. Während des Studienverlaufs wechseln die Phasen der Praxis im Unternehmen mit denen der Lehrveranstaltungen an der Hochschule ab. Unterschieden werden das praxisintegrierende Studium und das ausbildungsintegrierende Studium. Praxisintegrierendes duales Studium Praxisintegrierende Studiengänge werden entweder im Block- oder Wochenmodell angeboten und führen zu einem Hochschulabschluss. Beim Blockmodell finden die Zeiten im Unternehmen und die an der Hochschule in längeren aufeinanderfolgenden Blöcken statt. Im Wochenmodell wechseln sich Praxis- und Vorlesungszeiten während der Woche ab (z. B. zwei Tage an der Hochschule und drei im Betrieb). Ausbildungsintegrierendes duales Studium Kombination einer klassischen Berufsausbildung (mit IHK/HWK-Abschluss) mit einem Studium. Dabei werden die Studienphasen und die Berufsausbildung inhaltlich, zeitlich und organisatorisch miteinander verzahnt. Es werden zwei Abschlüsse er
+
+Dokument 4 (Score: 0.79818200):
+Metadaten:
+  - id: 1480
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 7e4f30ea-3d97-4031-876e-e4551282207a
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Studienangebot ## Eine Vielzahl an Studiengängen und trotzdem familiär 1. Studienangebot ### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation. Wann bewerben? Auf dieser Seite - Studiengang konfigurieren - Fachgebiete - Studienmodelle - Standorte - Kontakt Allgemeine Studienberatung ## Hier finden Sie den passenden Studiengang! ### Studiengangsuche ## Übersicht Fachgebiete Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement. Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang. Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich. Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran. „Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl. Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei. Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt. Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren. ## Studienmodelle ### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker? - Zu den Studienmodellen ## Unsere Standorte Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft. Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium
+
+Dokument 5 (Score: 0.77281570):
+Metadaten:
+  - id: 1484
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 6d0c2f31-3d1b-4189-966a-edc411eb5203
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Berufsausbildung (mit IHK/HWK-Abschluss) mit einem Studium. Dabei werden die Studienphasen und die Berufsausbildung inhaltlich, zeitlich und organisatorisch miteinander verzahnt. Es werden zwei Abschlüsse erlangt. Mehr Informationen zum dualen Studium am Standort Soest Was genau bedeutet „Duales Studium"? Der Begriff Duales Studium wird benutzt, wenn das akademische Element mit einem berufspraktischen Element verknüpft wird, das dem Studium inhaltlich nahe steht – so sagt es der Wissenschaftsrat. Dabei muss es mindestens zwei Lernorte geben, typischerweise eine Hochschule und ein Unternehmen. Außerdem muss es einen organisatorischen Rahmen für das Lernen an beiden Orten geben. ## Berufsbegleitendes Verbundstudium Ankerpunkt ### Die perfekte Kombination von Beruf oder Ausbildung und einem Studium Das Verbundstudium ist das berufsbegleitende Studienangebot der Fachhochschulen Nordrhein-Westfalens. Durch die genau aufeinander abgestimmte Kombination von Selbststudium und Präsenzstudium haben Berufstätige und Auszubildende die Möglichkeit, sich gezielt weiterzuqualifizieren – ohne Verzicht auf das gewohnte soziale Umfeld und ohne berufliche Auszeit. Das Studium wird - ähnlich wie beim Fernstudium - hauptsächlich im Selbststudium, jedoch mit Begleitseminaren absolviert. Die Präsenzzeiten sind auf die Anforderungen Berufstätiger angepasst und finden in der Regel an jedem zweiten Samstag statt, ergänzend werden Blockveranstaltungen angeboten. Das Selbststudium wird durch Lerneinheiten, E-Learning und Arbeitsgruppen unterstützt. Da das Studium neben einer (Vollzeit-)Berufstätigkeit oder einer Ausbildung absolviert werden kann, ist diese Studienform besonders interessant für Studieninteressierte mit abgeschlossener Berufsausbildung und Berufserfahrung. Unter bestimmten Voraussetzungen ist der Zugang auch ohne Fachhochschul- oder allgemeine Hochschulreife möglich. Das Verbundstudium lässt sich natürlich auch mit einer Teilzeitbeschäftigung oder Erziehungszeit verbinden. Mehr Informationen zum Verbundstudium ## Zertifikatsstudium Zertifikatsstudium Ein Zertifikatsstudium gibt Ihnen die Möglichkeit, sich in einem Themengebiet anwendungsorientierte und zugleich wissenschaftlich fundierte Expertise anzueignen, ohne dafür direkt ein ganzes Studium aufnehmen zu müssen. Alle angebotenen Weiterbildungsmodule sind auf ein berufsbegleitendes Studium ausgerichtet und richten sich an Berufstätige, die sich
+
+Dokument 6 (Score: 0.76832150):
+Metadaten:
+  - id: 1479
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studieninteressierte/index.php
+  - hash: 02f58f7e2349530e4408375669789c87d6e278a5cb8080c30d4c69b07a7c0690
+  - _id: 0bcc5bf1-c365-4300-84a2-e1c8a39274a0
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Unser Studienprogramm: praxisorientiert, international und facettenreich Die Fachhochschule Südwestfalen als starker Partner für Ihre erfolgreiche Zukunft. 1. Studieninteressierte ## Hier finden Sie den passenden Studiengang ### Studiengangsuche ## Zahlen und Fakten (Stand: 13.02.2025) Studierende Studiengänge Beschäftigte Absolvent*innen (2024) ## Studienstart ### Wir helfen Ihnen bei Ihrem Start. Von Vorkursen über Einführungsveranstaltungen bis zur Organisation beim Studienstart. ## Studienmodelle Vollzeitstudium Duales Studium Verbundstudium Kooperatives Studium ## Events Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten. Workshops, Infoveranstaltungen, Studienberatung - mehr Events finden Sie in unserem Veranstaltungskalender. ## Studi-Stimmen Ich würde mich immer sehr gut informieren, auch über Studiengänge, die man nicht so auf dem Schirm hat. Man sollte sich vor allem den Beruf anschauen, auf den man aus ist und nicht von Studieninhalten wie zum Beispiel Mathe abschrecken lassen. ## Weitere Infos Bewerbung &amp; Einschreibung Schnupperangebote Finanzierung Info-Veranstaltungen ## Noch Fragen? Wir sind für Sie da! Herr Matthias Vitte (SG 2.5) Haldener Straße 182 Postfach 2061 58590 Iserlohn Frau Alexandra Bock (SG 2.5) Frauenstuhlweg 31 58644 Iserlohn Raum: Z.128 Postfach 2061 58590 Iserlohn Herr Arp Hinrichs (SG 2.5) Lübecker Ring 2 59494 Soest Raum: 17.115 Lübecker Ring 2 59494 Soest Frau Kerstin Sobkowiak (SG 2.5) Lindenstr. 53 59872 Meschede Raum: 2.3.7 - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3850700
+
+Dokument 7 (Score: 0.76576066):
+Metadaten:
+  - id: 1485
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 67ed75c3-d318-4a94-b58a-107e1d4fe7fe
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+ierte Expertise anzueignen, ohne dafür direkt ein ganzes Studium aufnehmen zu müssen. Alle angebotenen Weiterbildungsmodule sind auf ein berufsbegleitendes Studium ausgerichtet und richten sich an Berufstätige, die sich neben dem Job neues Wissen aneignen und sich weiterbilden möchten. Die Module schließen jeweils mit einem Teilnahmezertifikat oder mit einem qualifizierten Weiterbildungszertifikat ab. Bei Vorliegen aller Voraussetzungen besteht die Möglichkeit, zu einem späteren Zeitpunkt unter Anrechnung bereits erbrachter Leitsungen in ein (Verbund-)Studium zu wechseln. Hier finden Sie unsere Angebote für ein Zertifikatsstudium ### Leonard Fromme „Das Besondere am Verbundstudium ist, dass ich studieren kann ohne große Abstriche bei Arbeit oder Ausbildung machen zu müssen. Selbstverständlich führt dies zu einer doppelten Belastung, aber so kann ich schon seit Beginn meines Studiums auch Praxiserfahrung sammeln. [...]“ ### Dominik Roeske „Die Kombination aus Ausbildung und Studium ist für mich optimal. Mein Ausbildungsbetrieb unterstützt mich bei Prüfungen und stellt mich bei wichtigen Studienterminen frei. Auch die Finanzierung des Studiums gelingt mir. Meine Ausbilder haben mir die Fachhochschule Südwestfalen empfohlen, da der Betrieb sehr gute Erfahrungen mit Absolventen gemacht hat. Klar, die Doppelbelastung ist nicht ohne, aber letztlich ist das eine Frage der Motivation.“ - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 4231516
+
+Dokument 8 (Score: 0.74848640):
+Metadaten:
+  - id: 1543
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/rahmenpruefungsordnung/RPO_2018_endgueltig.pdf
+  - hash: fa42b7a52809ae8ef812fac5e883663c0a74aa50959ec80d91fc0ce12ee837db
+  - _id: a1ecf4ec-9cbb-46a8-887a-d92cf8e271ca
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Teilnahme an der Modulprüfung ist die erfolgreiche Teilnahme an allen in diesem Modul geforderten Studienleistungen. - (3) Für die Erbringung von Studienleistungen findet bei chronischer Krankheit oder einer Behinderung (im Sinne von § 2 Absatz 1 SGB IX) der Kandidatin oder des Kandidaten die Vorschrift des § 16 Absatz 1 entsprechend Anwendung. ## § 25 Praxisphase - (1) Studiengänge können eine Praxisphase vorsehen. Diese soll die Studierenden an die angestrebte berufliche Tätigkeit durch konkrete Aufgabenstellung und praktische Mitarbeit in Betrieben oder anderen Einrichtungen der Berufspraxis heranführen. Sie soll insbesondere dazu dienen, die im bisherigen Studium erworbenen Kenntnisse und Fähigkeiten anzuwenden und die bei der praktischen Tätigkeit gemachten Erfahrungen zu reflektieren und auszuwerten. Die Praxisphase ist hochschulgelenkt und in das Studium integriert. Umfang und Dauer der Praxisphase sind den jeweiligen Fachprüfungsordnungen zu entnehmen. - (2) Studierende, die eine Praxisphase absolvieren wollen beziehungsweise müssen, erklären dies schriftlich über das Studierenden-Servicebüro dem Fachbereich und verpflichten sich damit, den zugewiesenen Platz, der von Studierenden selbst vorgeschlagen werden kann, anzunehmen. Die Erklärung kann nur unter Darlegung triftiger Gründe durch schriftliche Mitteilung an den Fachbereich zurückgezogen werden, solange die Praxisphase noch nicht angetreten ist. Näheres zur Zulassung, Durchführung und Anerkennung der Praxisphase regelt die Fachprüfungsordnung. 20 ## § 26 Auslandsstudium - (1) Ein Studiengang kann einen verpflichtenden Auslandsaufenthalt vorsehen. Das Auslandssemester soll den Studierenden die Möglichkeit geben, an ausländischen Hochschulen ihrer Wahl Erfahrungen zu sammeln und ihre sprachlichen, interkulturellen und fachlichen Fähigkeiten auszubauen. - (2) Mit dem Antrag auf Zulassung zum Auslandssemester ist von den Studierenden ein Studienplan vorzulegen, der Art, Umfang und Prüfungsbedingungen der gewählten Studienmodule enthält und vom Prüfungsausschuss in Abstimmung mit den Fachprofessoren in Form eines Learning Agreements zu genehmigen ist. An der ausländischen Hochschule sind 30 Leistungspunkte zu erbringen. Die Module sollen aus einer zum Studienziel passenden Studienrichtung gewählt werden und die Studienpläne (Anlagen) sinnvoll ergänzen. - (3) Die Fachprüfungsordnungen können für internationale Studiengänge geänderte Regelungen vorsehen. ## III. Das Studium ## §
+
+Dokument 9 (Score: 0.74729660):
+Metadaten:
+  - id: 1494
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: bbef8708-a85c-4ff0-873c-d4cbba8ebaff
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Praxisphase PDF - Antrag auf Zulassung zum Praxisprojekt für den viersemestrigen Masterstudiengang Informations- und Kommunikationssysteme und deren Management PDF - Antrag auf Zulassung zum optionalen Fachsemester PDF ### Soest - Bachelorstudiengang Design- und Projektmanagement: Antrag auf Zulassung zur Praxisphase PDF - Bachelorstudiengang Elektrotechnik (BPO 2015): Antrag auf Zulassung zur Projektphase PDF - Bachelorstudiengang Elektrotechnik (FPO 2020, 7 Semester): Antrag auf Zulassung zur Praxisphase PDF - Bachelorstudiengang Frühpädagogik (Präsenz): Bescheinigung über das Vorpraktikum PDF - Antrag auf Zulassung zum Praxisprojekt PDF - Nachweis der Einrichtung über die Praxistätigkeit: PDF - Bachelorstudiengang Frühpädagogik (Präsenz): Antrag auf Zulassung zum Praxissemester PDF - Bachelorstudiengang Maschinenbau: Antrag auf Zulassung zum Praxismodul PDF - Bachelorstudiengang Technische Redaktion und Medienmanagement: Antrag auf Zulassung zum Praxismodul PDF - Bachelorstudiengang Wirtschaftsingenieurwesen (BPO 2016 und FPO 2020): Antrag auf Zulassung zur Praxisphase PDF - Masterstudiengang International Management &amp; Information Systems: Antrag auf Zulassung zum Praxisprojekt / Application for Admission to the Practical Project PDF - Bachelorstudiengänge Digitale Technologien/ Elektrotechnik/ Maschinenbau/ Wirtschaftsingenieurwesen (ausbildungsintegrierend u. praxisintegrierend): Formular Teil 1 Zeiträume (PDF), Formular Teil 2 Abschließende Beurteilung (PDF) - Bachelorstudiengang Frühpädagogik (berufsbegleitendes Verbundstudium): Bescheinigung über das Vorpraktikum PDF - Antrag auf Zulassung zum Praxisprojekt PDF - Nachweis der Einrichtung über die Praxistätigkeit: PDF - Bachelorstudiengang Wirtschaftsingenieurwesen-Maschinenbau (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase PDF - Masterstudiengang Frühpädagogik (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase PDF - Masterstudiengang Medienpädagogik (berufsbegleitendes Verbundstudium): Antrag auf Zulassung zur Praxisphase PDF - Nachweis der Einrichtung über die Praxistätigkeit: PDF Die Antragsformulare für andere Studiengänge erhalten Sie im Studierenden-Servicebüro. ## Bachelorarbeit - Anträge zur
+
+Dokument 10 (Score: 0.74140920):
+Metadaten:
+  - id: 1505
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studierende/studienorganisation/index.php
+  - hash: e9ea21d1cfa3c26e88b7a8e65146c63fad193f4480af6e43a7bc7d88ad57f858
+  - _id: d7ee7ceb-8759-4e95-8325-92179a974356
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+bundstudiengang Elektrotechnik | | N.N. | Mathematik-Brückenkurs Präsenzstudiengänge | | 01.09.2025 - 12.09.2025 | Zweiter Prüfungszeitraum SoSe 2025 | | N.N. | Einführungswoche für Erstsemester | | 22.09.2025 | Beginn des Wintersemesters 2025/26 &amp; Vorlesungsbeginn | | Termine | im Fachbereich Technische Betriebswirtschaft | |-------------------------------------------------------|------------------------------------------------------------| | 07.10.2024 - 13.01.2025 | Anmeldungen zu den Klausuren des Wintersemesters 2024/2025 | | 07.10.2024 - 21.10.2024 (Rücktrittsfrist 04.11.2024) | Anmeldezeitraum sonstige Prüfungsformen (außer Klausur) | | 23.12.2024 - 03.01.2025 | Selbststudium | | 07.01.- 21.01.2025 | Rückmeldung zum Sommersemester 2025 | | 24.01.2025 | Vorlesungsende Wintersemester 2024/2025 | | 27.01. - 07.02.2025 | Erster Prüfungszeitraum Wintersemester 2024/2025 | | 10.02.- 14.02.2025 | Blockwoche für Bachelor- und Master-Präsenzstudiengänge | | 10.03. - 14.03.2025 | Zweiter Prüfungszeitraum Wintersemester 2024/2025 | | 24.03.2025 | Vorlesungsbeginn Sommersemester 2025 | | 04.07.2025 | Vorlesungsende Sommersemester 2025 | | 07.07. – 18.07.2025 | Erster Prüfungszeitraum Sommersemester 2025 | | 21.07. – 25.07.2025 | Blockwoche für Bachelor- und Master-Präsenzstudiengänge | | 15.09. – 19.09.25 | Zweiter Prüfungszeitraum Sommersemester 2025 | | 22.09.2025 – 26.09.2025 | Blockwoche für Bachelor- und Master-Präsenzstudiengänge | | 29.09.2025 | Vorlesungsbeginn Wintersemester 2025/2026 | | N.N. | Mathematik-Brückenkurs Präsenzstudiengänge | | N.N
+

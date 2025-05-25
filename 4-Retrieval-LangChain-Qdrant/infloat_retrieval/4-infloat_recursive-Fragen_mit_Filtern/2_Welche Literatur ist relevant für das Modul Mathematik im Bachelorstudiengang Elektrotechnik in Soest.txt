@@ -1,0 +1,544 @@
+ID: 2
+Frage: Welche Literatur ist relevant für das Modul Mathematik im Bachelorstudiengang Elektrotechnik in Soest?
+
+Dokument 1 (Score: 0.87251760):
+Metadaten:
+  - id: 1668
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf
+  - hash: 26302c09bbe8d0ea4045e76eba80ec131257d9aadd1e954f2ac91cdf526af9cb
+  - _id: 5e0b6a26-a801-4193-a4cf-38109ce44af7
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Modulhandbuch für die Bachelorstudiengänge
+
+Elektrotechnik (B.Eng.) Elektrotechnik dual praxisintegrierend (B.Eng.) Elektrotechnik dual ausbildungsintegrierend (B.Eng.)
+
+## Fachprüfungsordnung 2020
+
+Stand Sommersemester 2024
+
+Fachbereich Elektrische Energietechnik Standort Soest
+
+Alle Angaben ohne Gewähr.
+
+Verbindlich ist die Fachprüfungsordnung mit Änderungsordnungen in ihren in den Amtlichen Bekanntmachungen der Fachhochschule Südwestfalen veröffentlichten Fassungen.
+
+Modulhandbuch Elektrotechnik FPO 2020
+
+Stand 02/2024
+
+2
+
+Bachelorarbeit und Kolloquium
+
+Praxisphase im siebensemestrigen Studiengang Elektrotechnik
+
+Praxisphase in den dualen Studiengängen Elektrotechnik
+
+## Pflichtmodule:
+
+Angewandte Mathematik 1
+
+Angewandte Mathematik 2
+
+Automatisierungstechnik 1
+
+Elektrische Maschinen
+
+Energieversorgung 1
+
+Grundgebiete Elektrotechnik 1
+
+Grundgebiete Elektrotechnik 2
+
+Grundgebiete Elektrotechnik 3
+
+Informatik
+
+Leistungselektronik
+
+Mathematik
+
+Messtechnik / Elektronik 1
+
+Messtechnik / Elektronik 2
+
+Messtechnik / Elektronik 3
+
+Physik 1
+
+Physik 2
+
+Programmieren 1
+
+Programmieren 2
+
+Regelungstechnik 1
+
+Regelungstechnik 2
+
+Technische Mechanik und Konstruktion
+
+## Pflichtmodule Studienrichtung Elektrische Energietechnik:
+
+Elektrische Antriebe 1
+
+Elektrische Antriebe 2
+
+Energiepolitik und -wirtschaft
+
+Energieversorgung 2
+
+Energieversorgung 3
+
+Hochspannungstechnik 1
+
+Hochspannungstechnik 2
+
+## Pflichtmodule Studienrichtung Industrielle Informatik - Automatisierungstechnik:
+
+Automatisierungstechnik 2
+
+Automatisierungstechnik 3
+
+Dokument 2 (Score: 0.86292690):
+Metadaten:
+  - id: 1573
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: ed079114-33f9-4fd8-abdf-1fd8e4110f0e
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+### Legende zum Studienverlaufsplan
+
+## Infoveranstaltungen / Veranstaltungen zum Studienstart
+
+- Di., 01.04.25, 17.30 Uhr
+
+Es erwarten Sie Workshops, Vorträge, Infoveranstaltungen und vieles mehr. Kommen Sie mit uns in Gespräch!
+
+Klärung von Begrifflichkeiten wie "praxisintegrierend" und "ausbildungsintegrierend" und Klärung individueller Fragen.
+
+- Do., 17.04.25, 11:00 Uhr
+
+- Sa., 14.06.25, 10.00 Uhr
+
+Kurzvorstellung der Soester Studiengänge mit anschließender, persönlicher Beratung durch Professor*innen und Mitarbeitenden zu jedem Studiengang. 
+
+- Do, 26.06.2025 17.00 - 19.00 Uhr
+
+Wir zeigen Ihnen einen Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können.
+
+Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote.
+
+## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik
+
+### Prüfungsordnungen, Modulhandbücher und Verlaufspläne
+
+- Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen
+
+### Weitere Studiengangsmodelle
+
+- dual praxisintegrierend
+- dual ausbildungsintegrierend
+
+studieren!
+
+### Möglichkeiten eines Master-Studiums
+
+- Elektrotechnik M.Eng.
+- Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium)
+- Advanced Engineering and Engineering Management M.Sc.
+- Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium)
+- Data Science M.Sc. (berufsbegleitend)
+- Digitale Technologien M.Eng.
+- Technik- und Unternehmensmanagement M.Eng. (berufsbegleitender weiterbildender Master-Verbundstudiengang)
+
+Dokument 3 (Score: 0.85905070):
+Metadaten:
+  - id: 1644
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://publikationen.fhb.fh-swf.de/servlets/MCRFileNodeServlet/fhswf_derivate_00000633/Nr.%201208%20vom%2028.02.2023%20-%20Dritte%20Ordnung%20%C3%84nderung%20FPO%20Bachelorstudi.%20Elektrotechnik,%20Elektrotechnik%20dual%20praxisinteg.,%20Elektrotechnik%20dual%20ausbildungsinteg.%20an%20der%20FH%20SWF,%20Soest.pdf
+  - hash: 8108fc57938bd32b6ba23bb375ede953ff75528c7209b41eb914702533524832
+  - _id: 231e32bc-b542-4ad0-b09c-5a43c03a40e0
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Artikel I
+
+- Die Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort Soest vom
+- 30.  April  2020  (Amtliche  Bekanntmachung  der  Fachhochschule  Südwestfalen  -  Verkündungsblatt  der Fachhochschule Südwestfalen - vom 08.05.2020), zuletzt geändert durch Zweite Ordnung zur Änderung der Fachprüfungsordnung vom 4. Mai 2021 (Amtliche Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 10.05.2021), wird wie folgt geändert:
+- 1. § 4 Absatz 7 erhält folgende Fassung:
+- '(7) In den Studiengängen ist folgender Erwerb von Credits in den Semestern vorgesehen:
+- a) Im Bachelorstudiengang Elektrotechnik: 30 Credits pro Semester.
+- b) Im Bachelorstudiengang Elektrotechnik dual praxisintegrierend:
+
+In den Semestern 1, 3, 5 und 6 jeweils 25 Credits pro Semester,
+
+in den Semestern 2 und 4 jeweils 30 Credits pro Semester,
+
+im siebten Semester 15 Credits und
+
+im achten Semester 35 Credits.
+
+- c) Im Bachelorstudiengang
+
+Elektrotechnik dual
+
+ausbildungsintegrierend:
+
+In den Semestern 1 und 8 jeweils 25 Credits pro Semester, in den Semestern 2 und 5 jeweils 20 Credits pro Semester, im dritten Semester 15 Credits, im vierten Semester 10 Credits, in den Semestern 6 und 7 jeweils 30 Credits pro Semester und im neunten Semester 35 Credits pro Semester.'
+
+Dokument 4 (Score: 0.85583746):
+Metadaten:
+  - id: 1569
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: 6b6cd4e7-3a9b-49da-8bd4-01713c4d3a32
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+- In der Forschung erarbeiten Elektroingenieurinnen und Elektroingenieure an Hochschulen und wissenschaftlichen Instituten mit wissenschaftlichen Methoden technische Grundlagen.
+- In großen Elektrounternehmen sind Elektroingenieur*innen in Forschung und Entwicklung, Konstruktion, Produktion und Qualitätssicherung tätig oder mit Anlagenprojektierung, Softwaretechnik, Vertrieb und Service befasst.
+- Projektingenieurinnen und -ingenieure, die aus Komponenten, Geräten und Baugruppen komplette Systeme und Anlagen anwenderspezifisch einschließlich Software zusammenstellen, gewinnen an Bedeutung.
+- Betriebsingenieur*innen sind bei Anwendern elektrotechnischer Anlagen tätig. Dort steuern sie technische Prozesse oder die Verteilung von Information / Energie mit Hilfe elektrotechnischer Anlagen oder Systeme.
+- Elektroingenieurinnen und -ingenieure sind selbstverständlich auch im Management und in Führungspositionen tätig.
+
+Was macht ein Elektrotechnik-Studium an der Fachhochschule Südwestfalen in Soest aus?
+Antworten gibt's im Video.
+
+## Wie ist Bachelor Elektrotechnik aufgebaut?
+
+Technologisch optimal ausgestattete Labore, innovative Forschungsschwerpunkte sowie eine intensive Betreuung durch Lehrende machen den Studienort Soest zu einem attraktiven Lernort. Forschung und Entwicklung auf den Gebieten regenerative Energien, Energieverteilung, Hochspannungstechnik, Elektronik, Sensorik und Bildverarbeitung sowie Antriebs- und Automatisierungstechnik mit einem hohen Anteil technischer Informatik fließen in die Lehre ein. Internationale Kooperationen ermöglichen Auslandspraktika und den Austausch von Studierenden und Lehrenden.
+
+### Inhalte des Studiums
+
+- Elektrische Energietechnik
+- Industrielle Informatik/Automatisierungstechnik
+
+Daraus ab leiten sich Module aus den Bereichen Energieverteilung, Hochspannungs- und Kabeltechnik, Energiewirtschaft bzw. Industrie 4.0, Machine Learning, Elektronik und Antriebe, Software Engineering und Embedded Systems. Für noch mehr Know-how können Studierende Wahlpflichtmodule wie Betriebswirtschaft, Managementmethoden oder Englisch belegen.
+
+Dokument 5 (Score: 0.85498830):
+Metadaten:
+  - id: 1565
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: 7afcb290-8078-473e-8197-62d7c85ee14e
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng.
+
+## Soest
+
+1. Studienangebot
+2. Studiengänge
+3. Soest
+4. Elektrotechnik, B.Eng.
+
+## Bachelor-Studium Elektrotechnik
+
+### Top Karriereaussichten! Der Bachelor of Engineering in Elektrotechnik bietet ein technisch fundiertes Studium in den zwei zukunftsträchtigen Studienrichtungen: Elektrische Energietechnik sowie Industrielle Informatik/Automatisierungstechnik. Für den Studiengang besteht keine Zulassungsbeschränkung, das bedeutet er ist NC-frei.
+
+Auf einen Blick
+
+Was? Praxisorientiertes Studium mit Studienrichtung Elektrische Energietechnik oder Industrielle Informatik/Automatisierungstechnik
+
+Für wen? Für alle mit Interesse an innovativen technischen Lösungen von der App bis hin zum E-Motor
+
+Warum? Karriereperspektive in z.B. Luft- und Raumfahrttechnik, Medizintechnik, Umwelttechnik / Duales Modell möglich
+
+Du hast diesen Studiengang bereits gespeichert!
+
+Der Studiengang wurde erfolgreich gemerkt!
+
+Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.
+
+Bewerbungsfristen &amp; Studienstart-Termine
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+- Neugierig? Besuchen Sie unsere  Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse
+
+## Auf dieser Seite
+
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Zielgruppe
+- Berufliche Perspektiven
+- Info-Video zum Studiengang
+- Studienaufbau / Verlaufsplan
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt
+
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+### Zulassung: NC-frei
+
+Dokument 6 (Score: 0.85347724):
+Metadaten:
+  - id: 1678
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf
+  - hash: 26302c09bbe8d0ea4045e76eba80ec131257d9aadd1e954f2ac91cdf526af9cb
+  - _id: 54449b58-3ecf-446e-a73c-19634903d92c
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## 9 Voraussetzungen für die Vergabe von Kreditpunkten:
+
+Bestandene Modulprüfung
+
+## 10 Stellenwert der Note in der Endnote:
+
+Gemäß § 23 Absatz 2 Fachprüfungsordnung
+
+## 11 Modulverantwortung / Lehrende(r):
+
+Prof. Dr.-Ing. Jens Oberrath / Prof. Dr.-Ing. Jens Oberrath
+
+## 12 Literatur:
+
+- · Skript Angewandte Mathematik 1, J. Oberrath
+- · Mathematik für Ingenieure und Naturwissenschaftler, Papula, Band 2 + 3, SpringerVieweg
+- · Mathematik für Ingenieure und Naturwissenschaftler, Burg, Haff, Wille, Band 1, 3 und 4, Springer-Vieweg
+- · Numerische Mathematik, Schwarz, Köckler, Springer-Vieweg
+
+Modulhandbuch Elektrotechnik FPO 2020
+
+Stand 02/2024
+
+11
+
+Dokument 7 (Score: 0.85201275):
+Metadaten:
+  - id: 1574
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/index.php
+  - hash: 5902a2dea58938dc6115a7935f4eb6ec7ac77c36f78cfabd6bd45c24df613548
+  - _id: 1a05031c-318f-4e17-8aec-7f934bc20f41
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung.
+
+Bei Fragen unterstützt Sie die
+Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter.
+
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.
+
+### Studienoption Lehramt Berufskolleg
+
+- Mehr Infos zur Studienoption Lehramt am Berufskolleg
+
+Prüfungsorganisation
+
+Hier finden Sie die Prüfungspläne für den Fachbereich Elektrische Energietechnik in Soest.
+
+Termine für Studieninteressierte
+
+Standort Soest
+
+Fachgebiet
+
+Duales Studium
+
+## Fragen zum Studiengang oder zur Studienwahl?
+
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.
+
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich: 
+Zum Beratungsangebot der Allgemeinen Studienberatung
+
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+### Infos zu Bewerbungsfristen? Abonnieren Sie unseren 
+Newsletter!
+
+Sprechzeiten
+
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3808862
+
+Dokument 8 (Score: 0.84969800):
+Metadaten:
+  - id: 1575
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng_/pruefungsordnungen_71/index.php
+  - hash: 849fbbd476c9f897dd1c357f3f05b90cdac65e5c559b44308854dad602f5c716
+  - _id: 09ab0159-ad2c-4438-8303-d46a35f964e9
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. / 
+dual ausbildungsintegrierend / 
+dual praxisintegrierend
+
+## Soest
+
+1. Studienangebot
+2. Studiengänge
+3. Soest
+4. Elektrotechnik, B.Eng.
+5. Prüfungsordnungen
+
+# Prüfungsordnungen
+
+## Elektrotechnik B.Eng. / dual ausbildungsintegrierend / dual praxisintegrierend
+
+### Fachprüfungsordnung 2020
+
+Lesefassung zur Fachprüfungsordnung vom 30. April 2020 (inkl. aller Änderungsordnungen)
+
+Fachprüfungsordnung vom 30. April 2020
+
+FPO 2020: Ordnung zur Änderung der FPO (v. 26.11.2020)
+
+FPO 2020: Zweite Ordnung zur Änderung der FPO (v. 04.05.2021)
+
+FPO 2020: Dritte Ordnung zur Änderung der FPO (v. 22.02.2023)
+
+### Praktikumsordnung*
+
+Praktikumsordnung vom 28. April 2022
+
+### Modulhandbücher*
+
+FPO 2020: Modulhandbuch
+
+FPO 2020: Modulhandbuch Wahlpflichtangebot 
+
+im Wintersemester
+
+im Sommersemester
+
+Aktuelle Infos zum Angebot in diesem Semester finden Sie auf
+Moodle
+
+### Verlaufspläne*
+
+FPO 2020: Studienverlaufsplan
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.
+
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3810351
+
+Dokument 9 (Score: 0.84711504):
+Metadaten:
+  - id: 1624
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_2/amtliche_bekanntmachungen_1/2021_2/NR10821.pdf
+  - hash: 2569086da2b3eda79dc1d847a72c440504d7155d1281457e8912ec261cc4a9eb
+  - _id: 427ed888-62d9-4360-9ab4-8e2211fc26d4
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Artikel I
+
+Die Fachprüfungsordnung für die Bachelorstudiengänge Elektrotechnik, Elektrotechnik dual praxisintegrierend und Elektrotechnik dual ausbildungsintegrierend an der Fachhochschule Südwestfalen, Standort  Soest  vom  30.  April  2020  (Amtliche  Bekanntmachung  der  Fachhochschule  Südwestfalen  Verkündungsblatt der Fachhochschule Südwestfalen - vom 08.05.2020), zuletzt geändert durch Ordnung zur  Änderung  der  Fachprüfungsordnung  vom  26.  November  2020  (Amtliche  Bekanntmachung  der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - vom 01.12.2020), wird wie folgt geändert:
+
+Dokument 10 (Score: 0.84534144):
+Metadaten:
+  - id: 1860
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf
+  - hash: 26302c09bbe8d0ea4045e76eba80ec131257d9aadd1e954f2ac91cdf526af9cb
+  - _id: 475c9913-779b-4685-af4b-1c46fb5b3217
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Modulhandbuch Elektrotechnik FPO 2020
+
+Stand 02/2024
+
+26
+
+M. Michel: Leistungselektronik, Einführung in Schaltungen und deren Verhalten, Springer Verlag (E-Book)
+
+J. Specovius: Grundkurs Leistungselektronik, Bauelemente, Schaltungen und Systeme, Vieweg Verlag (E-Book)
+
+Modulhandbuch Elektrotechnik FPO 2020
+
+Stand 02/2024
+
+27
+
+## Mathematik
+

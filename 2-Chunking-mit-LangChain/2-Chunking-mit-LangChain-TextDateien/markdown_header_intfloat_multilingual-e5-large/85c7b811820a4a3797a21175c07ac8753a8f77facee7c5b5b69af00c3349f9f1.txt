@@ -1,0 +1,566 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 11
+
+Metadata: {'Header 2': 'Fachprüfungsordnung', 'id': 4132, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Fachprüfungsordnung  
+für den Masterstudiengang
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 154
+
+Metadata: {'Header 2': 'Elektrotechnik', 'id': 4133, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Elektrotechnik  
+an der Fachhochschule Südwestfalen  
+Standort Meschede  
+vom 30. Juni 2017  
+Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014 (GV. NRW. S. 547) ), zuletzt geändert durch Gesetz vom 15. Dezember 2016 (GV. NRW. S. 1154), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Fachhochschule  Südwestfalen,  hat  der  Fachbereichsrat  des  Fachbereichs  Ingenieur-  und Wirtschaftswissenschaften der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen:
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 9
+
+Metadata: {'Header 2': 'INHALTSÜBERSICHT', 'id': 4134, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## INHALTSÜBERSICHT
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 84
+
+Metadata: {'Header 2': 'Teil 1 Allgemeines', 'id': 4135, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 1 Allgemeines  
+- § 1 Geltungsbereich
+- § 2 Hochschulgrad
+- § 3 Spezielle Zugangsvoraussetzungen
+- § 4 Beginn, Dauer, Aufbau und Umfang des Studiums
+- § 5 Prüfungsausschuss
+- § 6 Prüfende und Beisitzende
+- § 7 Bewertung von Prüfungsleistungen
+- § 8 Wiederholung von Prüfungsleistungen
+- § 9 Kompensation  
+Teil 2
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 86
+
+Metadata: {'Header 2': 'Modulprüfungen und Studienleistungen', 'id': 4136, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Modulprüfungen und Studienleistungen  
+- § 10 Umfang und Form der Modulprüfungen
+- § 11 Zulassung zu Modulprüfungen
+- § 12 Durchführung von Modulprüfungen
+- § 13 Klausurarbeiten
+- § 14 Klausurarbeiten im Antwortwahlverfahren
+- § 15 Mündliche Prüfungen
+- § 16 Hausarbeiten
+- § 17 Projektarbeiten
+- § 18 Portfolio
+- § 19 Praxisphase
+- § 20 Hauptseminar Elektrotechnik  
+Teil 3
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 33
+
+Metadata: {'Header 2': 'Das Studium', 'id': 4137, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Das Studium  
+- § 21 Masterarbeit
+- § 22 Zulassung zur Masterarbeit
+- § 23 Durchführung und Bewertung der Masterarbeit
+- § 24 Kolloquium  
+Teil 4
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 9
+
+Metadata: {'Header 2': 'Ergebnis der Abschlussprüfung', 'id': 4138, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Ergebnis der Abschlussprüfung  
+§ 25 Zeugnis
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': 'Teil 5', 'id': 4139, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 5
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 102
+
+Metadata: {'Header 2': 'Schlussbestimmungen', 'id': 4140, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Schlussbestimmungen  
+§ 26 Inkrafttreten, Übergangsregelung und Veröffentlichung  
+- Anlage 1:   Pflichtmodule
+- Anlage 2:   Wahlpflichtmodule des Bereichs Kernmodule
+- Anlage 3:   Wahlpflichtmodule des Bereichs allgemeine Mastermodule
+- Anlage 4:   Wahlpflichtmodule des Bereichs masterfähige Bachelor-Module
+- Anlage 5:    Nicht-technische Wahlpflichtmodule: Mastermodule
+- Anlage 6:    Nicht-technische Wahlpflichtmodule: masterfähige Bachelormodule
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 1 Allgemeines', 'id': 4141, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 1 Allgemeines
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 1', 'id': 4142, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 1
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 63
+
+Metadata: {'Header 2': 'Geltungsbereich', 'id': 4143, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Geltungsbereich  
+Diese Fachprüfungsordnung (FPO) für den Masterstudiengang Elektrotechnik im Fachbereich Ingenieur- und Wirtschaftswissenschaften in Meschede gilt zusammen mit der jeweils  aktuell  gültigen  Fassung  der  Rahmenprüfungsordnung  (RPO)  der  Fachhochschule Südwestfalen.
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 57
+
+Metadata: {'Header 2': '§ 2 Hochschulgrad', 'id': 4144, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 2 Hochschulgrad  
+Auf  Grund  der  bestandenen  Masterprüfung  gemäß  §  2  RPO  verleiht  die  Fachhochschule Südwestfalen in dem Masterstudiengang Elektrotechnik den akademischen Grad 'Master of Engineering', Kurzform 'M.Eng.'.
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 609
+
+Metadata: {'Header 2': '§ 3 Spezielle Zugangsvoraussetzungen', 'id': 4145, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 3 Spezielle Zugangsvoraussetzungen  
+- (1) Neben  den  allgemeinen  Zugangsvoraussetzungen  gemäß  §  3  RPO  gelten  folgende Regelungen:
+- a) Das Studium mit der viersemestrigen Regelstudienzeit kann begonnen werden, wenn einer der Bacheloroder Diplom-Studiengänge der Elektrotechnik, des Wirtschaftsingenieurwesens-Elektrotechnik, des Maschinenbaus, der Mechatronik oder der  Wirtschaftsinformatik  mit  einer  Gesamtnote  von  mindestens  2,7  oder  mit  einer Gesamtnote von mindestens 3,0 und einer Bachelorarbeit mit einer besseren Note als 2,3  abgeschlossen  wurde  und  dabei  mindestens  30  Credits  in  den  Bereichen  der Elektrotechnik,  der  Informations-  und  Kommunikationstechnik,  der  Informatik,  der Automatisierungstechnik  oder  der  Mechatronik  erworben  wurden.  Das  Studium  kann auch begonnen werden, wenn ein anderes gleichwertiges Studium mit vergleichbaren Inhalten  und  einem  Umfang  von  mindestens  180  Credits  mit  einer  Gesamtnote  von mindestens 2,7 oder mit einer Gesamtnote von mindestens 3,0 und einer Bachelorarbeit  mit  einer  besseren  Note  als  2,3  abgeschlossen  wurde.  Über  die Gleichwertigkeit des Studiums entscheidet der Prüfungsausschuss.
+- b) Das Studium mit der dreisemestrigen Regelstudienzeit kann begonnen werden, wenn die Bedingungen  gemäß  Buchstabe  a) vorliegen mit der Maßgabe,  dass ein Bachelorstudiengang mit einem Umfang von 210 ECTS-Punkten oder ein Diplomstudiengang absolviert wurde.
+- (2) Studienbewerberinnen  und  Studienbewerber,  die  den  gemäß  Absatz  1  geforderten Studienabschluss nicht in einem deutschsprachigen Studiengang erworben haben, benötigen ferner eine bestandene DSH-Prüfung der Ebene 3 oder einen bestandenen Test DaF der Niveaustufe 5 zum Nachweis der für das Studium erforderlichen Deutschkenntnisse.
+- (3) Ist die Eignung zum Studium gemäß Absatz 2 nicht nachgewiesen worden, so wird der Studienbewerber zu einer mündlichen Prüfung geladen, die der Feststellung der Eignung für das Studium dient. Geprüft werden die deutschen Sprachkenntnisse, sowie die Vorkenntnisse auf den Gebieten der Module des Masterkurses.
+- (4) Die  Einladung  zu  der  Prüfung  erfolgt  schriftlich  mit  einer  Frist  von  mindestens  einer Woche.  Die  Prüfung  wird  von  zwei  Professorinnen  oder  Professoren  oder  Lehrkräften  für  
+besondere  Aufgaben  (LBA)  des  Fachbereichs  Ingenieur-  und  Wirtschaftswissenschaften durchgeführt  und  bewertet.  Die  Bestellung  der  Prüferinnen  und  Prüfer  erfolgt  durch  die Vorsitzende oder den Vorsitzenden des Prüfungsausschusses. Die Prüfung dauert bis zu 45 Minuten.  
+- (5) Das Ergebnis des Aufnahmeverfahrens ist der Bewerberin oder dem Bewerber schriftlich mitzuteilen. Im Fall der Ablehnung ist der Bescheid zu begründen und mit einer Rechtsbehelfsbelehrung zu versehen.
+- (6) Im Fall einer Ablehnung ist eine erneute Bewerbung nach der Erfüllung von fachlichen Auflagen zu einem weiteren Termin möglich. Eine dritte Bewerbung ist ausgeschlossen.
+
+=== Chunk-Nr. 14 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 4', 'id': 4146, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 4
+
+=== Chunk-Nr. 15 ===
+Anzahl Token in diesem Chunk: 523
+
+Metadata: {'Header 2': 'Beginn, Dauer, Aufbau und Umfang des Studiums', 'id': 4147, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Beginn, Dauer, Aufbau und Umfang des Studiums  
+- (1) Das  Studium  kann  zum  Wintersemester  und  zum  Sommersemester  aufgenommen werden. Der Masterstudiengang Elektrotechnik wird in zwei Varianten angeboten: Eine mit einer Regelstudienzeit von vier Semestern und einem Umfang von 120 Credits sowie eine andere mit einer Regelstudienzeit von drei Semestern und einem Umfang von 90 Credits.
+- (2) Der dreisemestrige Masterstudiengang umfasst Pflichtmodule im Umfang von 18 Credits, Wahlpflichtmodule im Umfang von 42 Credits, die Masterarbeit im Umfang im Umfang von 25 Credits und das Kolloquium im Umfang von fünf Credits. Der  viersemestrige  Masterstudiengang  umfasst  Pflichtmodule  im  Umfang  von  18  Credits, Wahlpflichtmodule im Umfang von 42 Credits, eine Praxisphase im Umfang von 24 Credits, das Hauptseminar Elektrotechnik im Umfang von sechs Credits, die Masterarbeit im Umfang von 25 Credits und das Kolloquium im Umfang von fünf Credits.
+- (3) Die Pflichtmodule, die gemäß § 4 Absatz 4 RPO für alle Studierenden verpflichtend sind, sind  der  Anlage  1  zu  entnehmen.  Der  Katalog,  aus  dem  laut  §  4  Absatz  4  RPO  die Wahlpflichtmodule zu wählen sind, ist in den Anlagen 2, 3, 4, 5 und 6 aufgeführt. Von den Modulen  der  Anlagen  2,  3,  4  (Kernmodule  und  technische  Wahlpflichtfächer)  und  5,  6 (nichttechnische Wahlpflichtfächer) müssen sieben Module gewählt werden, wobei mindestens drei Module aus Anlage 2, mindestens ein Modul aus Anlage 3  und mindestens ein Modul aus Anlage 5 oder 6 gewählt werden müssen. Von den Modulen aus Anlage 4 und 6 dürfen maximal zwei gewählt werden. Ein zu diesen Modulen gleichnamiges Modul darf kein Bestandteil der Bachelorprüfung gewesen sein, die zur Aufnahme des Masterstudiums berechtigt hat. Näheres zur Gliederung des Studiums sowie Details zu Art, Umfang, Inhalten und  Prüfungsformen  der  Module  sind  den  Anlagen,  dem  Studienverlaufsplan  und  dem Modulhandbuch zu entnehmen.
+- (4) Die Hochschule ist verpflichtet, die Studierenden beim Zusammenstellen ihrer Wahlpflichtmodule  zu  beraten.  Ziel  dieser  Beratung  ist  ein  im  Wahlpflichtbereich  fachlich abgestimmtes  Studium.  Wenn  Studierende  ihre  Wahlpflichtmodule  und  die  Projektarbeit nach  bestimmten  Regeln  zusammenstellen,  wird  ihnen  auf  dem  Masterzeugnis  eine Schwerpunktbildung bescheinigt (siehe § 25 Absatz 2 FPO).
+
+=== Chunk-Nr. 16 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 5', 'id': 4148, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 5
+
+=== Chunk-Nr. 17 ===
+Anzahl Token in diesem Chunk: 58
+
+Metadata: {'Header 2': 'Prüfungsausschuss', 'id': 4149, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Prüfungsausschuss  
+- (1) Bezugnehmend  auf  §  6  Absatz  3  RPO  erfolgt  die  Wahl  des  vorsitzenden  und  des stellvertretend vorsitzenden Mitglieds des Prüfungsausschusses nicht durch den Prüfungsausschuss, sondern durch den Fachbereichsrat.
+
+=== Chunk-Nr. 18 ===
+Anzahl Token in diesem Chunk: 232
+
+Metadata: {'Header 2': '§ 6 Prüfende und Beisitzende', 'id': 4150, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 6 Prüfende und Beisitzende  
+- (1) Bei  der  Bestellung  von  Prüfenden  und  Beisitzenden  gemäß  §  7  Absatz  1  RPO  gilt zusätzlich, dass eine der prüfenden Personen im Fachbereich Ingenieurund Wirtschaftswissenschaften  am  Standort  Meschede  als  Professorin  oder  Professor  lehrt. Ersatzweise kann an die Stelle der Professorin oder des Professors eine Honorarprofessorin oder  ein  Honorarprofessor  (§  41  HG)  beziehungsweise  eine  Lehrkraft  für  besondere Aufgaben  (§  42  HG)  treten,  sofern  diese  im  Fachbereich  Ingenieur-  und  Wirtschaftswissenschaften am Standort Meschede lehrt.
+- (2) Die Prüfenden und Beisitzenden unterliegen der Amtsverschwiegenheit. Sofern sie nicht im  öffentlichen  Dienst  stehen,  sind  sie  durch  die  Vorsitzende  oder  den  Vorsitzenden  des Prüfungsausschusses zur Verschwiegenheit zu verpflichten.
+- (3) In  Ergänzung  zu  §  7  Absatz  5  RPO  kann  die  oder  der  zu  Prüfende  Vorschläge  zur Betreuung  der  Masterarbeit  machen.  Der  Prüfungsausschuss  achtet  darauf,  dass  die entsprechenden Verpflichtungen möglichst gleichmäßig auf die Prüfenden verteilt werden.
+
+=== Chunk-Nr. 19 ===
+Anzahl Token in diesem Chunk: 246
+
+Metadata: {'Header 2': '§ 7 Bewertung von Prüfungsleistungen', 'id': 4151, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 7 Bewertung von Prüfungsleistungen  
+- (1) Ergänzend zu den Regelungen in § 9 Absatz 2 RPO wird vom Prüfungsausschuss auch eine dritte prüfende Person bestimmt, wenn die Differenz der Noten 2,0 oder mehr beträgt.
+- (2) Bezugnehmend auf § 9 Absatz 6 RPO gilt in dem Studiengang folgende Bonuspunkteregelung: Die Bewertung einer bestandenen Modulprüfung kann durch Bonuspunkte, die im Rahmen einer zusätzlichen, freiwilligen Studienleistung im Sinne von § 24 Absatz 1 Satz 3 RPO um einen einheitlich festgesetzten Notenwert verbessert werden. Die Endnote muss eine Note gemäß § 9 Absatz 3 RPO sein. Diese Notenverbesserung ist nur  für  die  zwei  Prüfungstermine  anrechenbar,  die  unmittelbar  auf  die  Erbringung  der Studienleistung  folgen.  Eine  bessere  Note  als  1,0  ist  nicht  erreichbar.  Ob  und  wofür  im Rahmen  einer  zusätzlichen,  freiwilligen  Studienleistung  Bonuspunkte  erworben  werden können, wird in der Modulbeschreibung festgelegt. In dieser wird auch der je Studienleistung einheitliche Notenwert festgelegt. Der Notenwert 0,7 darf im Rahmen der Verbesserung nicht überschritten werden.  
+§ 8
+
+=== Chunk-Nr. 20 ===
+Anzahl Token in diesem Chunk: 46
+
+Metadata: {'Header 2': 'Wiederholung von Prüfungsleistungen', 'id': 4152, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Wiederholung von Prüfungsleistungen  
+Die  einmalige  Wiederholung  einer  Prüfungsleistung  bei  'nicht  ausreichender'  Leistung gemäß  §  10  Absatz  2  RPO  gilt  auch  für  die Praxisphase  und  das  Hauptseminar Elektrotechnik.
+
+=== Chunk-Nr. 21 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 9', 'id': 4153, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 9
+
+=== Chunk-Nr. 22 ===
+Anzahl Token in diesem Chunk: 74
+
+Metadata: {'Header 2': 'Kompensation', 'id': 4154, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Kompensation  
+Bezugnehmend  auf  §  11  RPO  ist  es  den  Studierenden  einmal  im  Studium  gestattet,  ein durch Antrag auf Zulassung zur Prüfung bereits festgelegtes Wahlpflichtmodul auszutauschen, wenn die Prüfung in diesem Modul mindestens einmal oder auch endgültig nicht  bestanden  wurde.  Dafür  muss  ein  schriftlicher  Antrag  an  den  Prüfungsausschuss gerichtet werden.
+
+=== Chunk-Nr. 23 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': 'Teil 2', 'id': 4155, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 2
+
+=== Chunk-Nr. 24 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 2': 'Modulprüfungen und Studienleistungen', 'id': 4156, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Modulprüfungen und Studienleistungen
+
+=== Chunk-Nr. 25 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 10', 'id': 4157, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 10
+
+=== Chunk-Nr. 26 ===
+Anzahl Token in diesem Chunk: 75
+
+Metadata: {'Header 2': 'Umfang und Form der Modulprüfungen', 'id': 4158, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Umfang und Form der Modulprüfungen  
+Eine Modulprüfung kann neben den in § 13 Absatz 1 RPO aufgezählten Formen ebenfalls in Form  eines  Portfolios  (§  18  FPO)  oder  des  Hauptseminars  Elektrotechnik  (§  20  FPO) durchgeführt werden. Die Möglichkeit der Kombinationsprüfung (§ 13 Absatz 1 RPO) besteht in diesem Studiengang nicht.
+
+=== Chunk-Nr. 27 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 11', 'id': 4159, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 11
+
+=== Chunk-Nr. 28 ===
+Anzahl Token in diesem Chunk: 342
+
+Metadata: {'Header 2': 'Zulassung zu Modulprüfungen', 'id': 4160, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Zulassung zu Modulprüfungen  
+- (1) Bei der Beantragung der Zulassung zu Modulprüfungen gemäß § 14 Absatz 2 RPO sind folgende Fristen einzuhalten:
+- a) Im  Falle  einer  Modulprüfung  in  Form  einer  Klausurarbeit,  einer  Klausurarbeit  im Antwortwahlverfahren, einer elektronisch gestützten Prüfung oder einer mündlichen Prüfung wird diese Frist vom Prüfungsausschuss festgelegt.
+- b) Im  Falle  der  Modulprüfung  in  Form  einer  Hausarbeit  oder  eines  Portfolios  beträgt diese Frist vier Wochen nach Beginn der Lehrveranstaltungen des Semesters.
+- c) Die Zulassung zu Modulprüfungen in Form einer Projektarbeit oder des Hauptseminars Elektrotechnik kann jederzeit beantragt werden, sofern die Voraussetzungen erbracht sind.
+- (2) Bei  der  Rücknahme  des  Antrags  auf  Zulassung  zu  einer  Modulprüfung  gemäß  §  14 Absatz 5 RPO gelten folgende Fristen:
+- a) Bei Modulprüfungen in Form einer Klausurarbeit, einer Klausurarbeit im Antwortwahlverfahren, einer elektronisch gestützten Prüfung oder einer mündlichen Prüfung beträgt diese Frist eine Woche vor dem festgesetzten Prüfungstermin.
+- b) Bei  Modulprüfungen  in  Form  einer  Hausarbeit,  eines  Portfolios,  einer  Projektarbeit oder des Hauptseminars Elektrotechnik endet diese Frist zwei Wochen nach Ablauf der Frist zur Antragstellung zwecks Zulassung. Ersatzweise kann für eine Projektarbeit einmal ein neues Thema verlangt werden.
+- (3) Die Zulassung zu Modulprüfungen kann gemäß § 14 Absatz 7 RPO von der Erbringung von Vorleistungen abhängig gemacht werden. Für welche Prüfungen solche Studienleistungen notwendig sind, ist den Anlagen 1 bis 6 zu entnehmen.
+
+=== Chunk-Nr. 29 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 12', 'id': 4161, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 12
+
+=== Chunk-Nr. 30 ===
+Anzahl Token in diesem Chunk: 52
+
+Metadata: {'Header 2': 'Durchführung von Modulprüfungen', 'id': 4162, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Durchführung von Modulprüfungen  
+Der Prüfungstermin von Modulprüfungen in Form einer Klausurarbeit, einer Klausurarbeit im Antwortwahlverfahren  oder  mündlichen  Prüfung  wird  rechtzeitig,  in  der  Regel  mindestens zwei Wochen vor der betreffenden Prüfung, bekannt gegeben.
+
+=== Chunk-Nr. 31 ===
+Anzahl Token in diesem Chunk: 26
+
+Metadata: {'Header 2': '§ 13 Klausurarbeiten', 'id': 4163, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 13 Klausurarbeiten  
+Die Bearbeitungsdauer einer Klausurarbeit gemäß  §  17  RPO  beträgt  ein bis zwei Zeitstunden.
+
+=== Chunk-Nr. 32 ===
+Anzahl Token in diesem Chunk: 34
+
+Metadata: {'Header 2': '§ 14 Klausurarbeiten im Antwortwahlverfahren', 'id': 4164, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 14 Klausurarbeiten im Antwortwahlverfahren  
+Die  Bearbeitungsdauer  einer  Klausurarbeit  im  Antwortwahlverfahren  gemäß  §  18  RPO beträgt ein bis zwei Zeitstunden.
+
+=== Chunk-Nr. 33 ===
+Anzahl Token in diesem Chunk: 24
+
+Metadata: {'Header 2': '§ 15 Mündliche Prüfungen', 'id': 4165, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 15 Mündliche Prüfungen  
+Eine mündliche Prüfung gemäß § 20 RPO dauert 20 bis 30 Minuten.
+
+=== Chunk-Nr. 34 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 16', 'id': 4166, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 16
+
+=== Chunk-Nr. 35 ===
+Anzahl Token in diesem Chunk: 67
+
+Metadata: {'Header 2': 'Hausarbeiten', 'id': 4167, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Hausarbeiten  
+Eine Hausarbeit nach § 21 RPO hat in der Regel einen Umfang von 10 bis 15 Seiten Der Fachvortrag, durch den die Hausarbeit ergänzt werden kann, hat eine Dauer von maximal 45 Minuten. In welchen Modulen ein solcher Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt.
+
+=== Chunk-Nr. 36 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 17', 'id': 4168, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 17
+
+=== Chunk-Nr. 37 ===
+Anzahl Token in diesem Chunk: 295
+
+Metadata: {'Header 2': 'Projektarbeiten', 'id': 4169, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Projektarbeiten  
+- (1) Bezugnehmend  auf  §  23  Absatz  1  RPO  haben  Projektarbeiten  in  der  Regel  einen Umfang von 15 bis 20 Seiten. Der Fachvortrag, durch den die Projektarbeit ergänzt werden kann, hat eine Dauer von maximal 30 Minuten. Ob ein ergänzender Fachvortrag erforderlich ist, wird im Modulhandbuch geregelt.
+- (2) In  Abweichung  von  §  23  Absatz  2  RPO  muss  eine  Projektarbeit  in  der  Regel  von Professorinnen  oder  Professoren,  die  gemäß  §  7  Absatz  1  RPO  zu  Prüfenden  bestellt werden  können,  ausgegeben  und  betreut  werden.  Ersatzweise  kann  an  die  Stelle  der Professorin oder des Professors eine Honorarprofessorin oder ein Honorarprofessor (§ 41 HG) beziehungsweise eine Lehrkraft für besondere Aufgaben (§ 42 HG) treten, sofern diese im Fachbereich Ingenieur- und Wirtschaftswissenschaften am Standort Meschede lehrt.
+- (3) Die gemäß § 23 Absatz 5 RPO von den Prüfenden festzusetzende Bearbeitungszeit der Projektarbeit beträgt höchstens drei Monate.
+- (4) Bei  der  Ausgabe  der  Projektarbeit  ist  von  der  Kandidatin  oder  dem  Kandidaten  im Benehmen mit der Betreuerin oder dem Betreuer anzugeben, welchem der Studienschwerpunkte  IT-Systeme,  Kommunikationstechnik  oder  Automatisierungssysteme und Mechatronik die Projektarbeit zugeordnet ist. In Zweifelsfällen entscheidet der Prüfungsausschuss über die Zuordnung.
+
+=== Chunk-Nr. 38 ===
+Anzahl Token in diesem Chunk: 389
+
+Metadata: {'Header 2': '§ 18 Portfolio', 'id': 4170, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 18 Portfolio  
+- (1) Ein Portfolio ist eine eigenständige, schriftliche und mündliche Lernprozessdokumentation. Sie umfasst die Reflexion und metakognitive Auseinandersetzung mit dem eigenen  Kompetenzerwerb  in  einem  Modul.  Gegebenenfalls  wird  in  einer  mündlichen Prüfung  der  Kompetenzerwerb  anhand  des  Portfolios  reflektiert.  Das  Portfolio  besteht  aus mehreren  Einzelelementen,  z.  B.  Protokoll,  Textanalysen,  Präsentationen,  Fallstudien, konstruktiver Entwurf, Klausurarbeiten usw. Die Anzahl der Einzelelemente sollte fünf nicht überschreiten.  Der  schriftliche  Teil  der  Portfolioprüfung  umfasst  in  der  Regel  zehn  bis  20 Seiten, der mündliche Teil der Portfolioprüfung eine Dauer 30 bis 60 Minuten.
+- (2) Die  endgültige  Zusammensetzung  und  Bekanntgabe  des  Portfolios  erfolgt  schriftlich durch den Dozenten zu Beginn der Lehrveranstaltung. Das schließt auch die Gewichtung der einzelnen Elemente des Portfolios für die Berechnung der Note der Modulprüfung mit ein. Der Dozent kann dabei auch festlegen, ob zum Bestehen der Modulprüfung alle einzelnen Elemente erfolgreich bestanden sein müssen, oder ob ein Notenausgleich möglich ist.
+- (3) Ein Portfolio kann Einzelelemente auch in Form einer Gruppenarbeit zulassen, wenn der als  Prüfungsleistung  zu  bewertende  Beitrag  der  einzelnen  Studierenden  auf  Grund  der Angabe von Abschnitten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgrenzung ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderungen nach Absatz 1 erfüllt.
+- (4) Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  bis  zur  Abgabe  der  Ausarbeitung) orientiert sich an der Modullänge und darf ein Semester nicht überschreiten.
+- (5) Die Beurteilung eines Portfolios erfolgt auf Grund der schriftlichen Ausarbeitungen und der mündlichen Prüfungen, sofern solche im Portfolio enthalten sind.
+
+=== Chunk-Nr. 39 ===
+Anzahl Token in diesem Chunk: 377
+
+Metadata: {'Header 2': '§ 19 Praxisphase', 'id': 4171, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 19 Praxisphase  
+- (1) Bezugnehmend auf die Regelungen in § 25 RPO müssen Studierende der viersemestrigen  Variante  des  Studiengangs  Elektrotechnik  eine  Praxisphase  absolvieren. Sie  dauert  in  der  Regel  22  Wochen  und  wird  planmäßig  im  dritten  Fachsemester  des entsprechenden Masterstudiengangs absolviert.
+- (2) Zur Praxisphase wird auf Antrag zugelassen, wer in den Modulprüfungen der Anlagen 1 und 2  30 Credits erworben hat. Im Antrag müssen Zeitraum, Unternehmen bzw. Institution, die zu bearbeitende  Thematik  und  die  betreuende  Professorin  oder  der  betreuende Professor des Fachbereichs Ingenieur- und Wirtschaftswissenschaften der Fachhochschule Südwestfalen  genannt  werden.  Über  die  Zulassung  zum  Praxisphase  entscheidet  der Prüfungsausschuss. Mit der Antragstellung erklärt die oder der Studierende verbindlich, dass sie oder er die Praxisphase absolvieren möchte.
+- (3) Die Praxisphase wird anerkannt, wenn
+- a) ein positives Zeugnis der Ausbildungsstätte über die Mitarbeit der oder des Studierenden vorliegt,
+- b) die oder  der  Studierende  an  den  der  Praxisphase  zugeordneten  Begleit-  und Auswertungsveranstaltungen regelmäßig und erfolgreich teilgenommen hat,
+- c)  die  praktische  Tätigkeit  der  oder  des  Studierenden  dem  Zweck  der  Praxisphase entsprochen  und  die  oder  der  Studierende  die  ihr  oder  ihm  übertragenen  Arbeiten
+- zufriedenstellend  ausgeführt  hat;  das  Zeugnis  der  Ausbildungsstätte  ist  dabei  zu berücksichtigen; und
+- d) der  Abschlussbericht  über  Aufgabenstellung,  Durchführung  und  Ergebnisse  der Praxisphase spätestens drei Monate nach Ende desselben vorgelegt und anerkannt worden ist.
+- (4) Die  Durchführung  der  Praxisphase  stellt  eine  Studienleistung  in  der  viersemestrigen Variante des Studiengangs Elektrotechnik dar. Für das erfolgreiche Ableisten der Praxisphase werden 24 Credits angerechnet.
+
+=== Chunk-Nr. 40 ===
+Anzahl Token in diesem Chunk: 852
+
+Metadata: {'Header 2': '§ 20 Hauptseminar Elektrotechnik', 'id': 4172, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 20 Hauptseminar Elektrotechnik  
+- (1) Studierende des viersemestrigen Masterstudiengangs Elektrotechnik müssen an einem Hauptseminar  Elektrotechnik  teilnehmen.  Durch  das  Hauptseminar  Elektrotechnik  sollen Studierende  nachweisen,  dass  sie  sich  in  ein  vorgegebenes,  aktuelles  (Teil-)Gebiet  der Elektrotechnik  selbstständig  einarbeiten  können  und  hierin  ein  vertieftes  Wissen  erlangen. Des Weiteren soll im Rahmen eines Fachvortrags von maximal 30 Minuten Dauer gezeigt werden, dass sie das erworbene Wissen Studierenden und Lehrenden der Elektrotechnik in verständlicher Form darstellen können. Von der erarbeiteten Thematik ist eine ausformulierte Zusammenfassung in Schriftform zu erstellen.
+- (2) Die  Thematik  des  Hauptseminars  Elektrotechnik  kann  von  allen  Professorinnen  und Professoren,  die  gemäß  §  7  Absatz  1  RPO  zu  Prüfenden  bestellt  werden  können, ausgegeben und betreut werden. Ersatzweise kann an die Stelle der Professorin oder des Professors eine Honorarprofessorin oder ein Honorarprofessor (§ 41 HG) beziehungsweise eine  Lehrkraft  für  besondere  Aufgaben  (§  42  HG)  treten,  sofern  diese  im  Fachbereich Ingenieur- und Wirtschaftswissenschaften am Standort Meschede lehrt. Steht fest, dass eine geeignete  Thematik  für  das  Hauptseminar  Elektrotechnik  vorliegt,  so  kann  auf  Antrag  der Kandidatin oder des Kandidaten der Prüfungsausschuss auch eine Honorarprofessorin oder einen  Honorarprofessor  oder  eine  mit  entsprechenden  Aufgaben  betraute  Lehrbeauftragte beziehungsweise einen Lehrbeauftragten gemäß § 7 Absatz 1 RPO zur Betreuung bestellen. Das  Hauptseminar  Elektrotechnik  kann  an  der  Hochschule  oder  auch  außerhalb  der Hochschule  durchgeführt  werden,  wenn  es  dort  ausreichend  betreut  werden  kann.  Die Studierenden haben das Recht, Vorschläge für die Thematik des Hauptseminars Elektrotechnik zu machen.
+- (3) Zum Hauptseminar Elektrotechnik wird auf Antrag zugelassen, wer:
+- a) an der Fachhochschule Südwestfalen eingeschrieben oder als Zweithörerin oder als Zweithörer gemäß § 52 Absatz 2 HG zugelassen ist,
+- b) in den Modulprüfungen der Anlagen 1 und 2  30 Credits erworben hat.
+- (4) Die Ausgabe der Thematik des Seminars erfolgt über die Betreuerin oder den Betreuer. Als Zeitpunkt der Ausgabe gilt der Tag, an dem diese oder dieser der Kandidatin oder dem Kandidaten den präzisen Wortlaut der Thematik bekannt gibt. Der Zeitpunkt ist aktenkundig zu machen.
+- (5) Die Thematik des Seminars kann nur einmal und nur innerhalb der ersten zwei Wochen des  Bearbeitungszeitraums  ohne  Angaben  von  Gründen  zurückgegeben  werden.  Im  Falle der Wiederholung eines nicht ausreichend bewerteten Hauptseminar Elektrotechnik ist die Rückgabe  nur  zulässig,  wenn  die  Kandidatin  oder  der  Kandidat  im  Rahmen  der  ersten Thematik von dieser Möglichkeit keinen Gebrauch gemacht hat.  
+Die  Bearbeitungszeit  (Zeitraum  von  der  Ausgabe  der  Thematik  bis  zur  Abgabe  der Zusammenfassung) beträgt zehn Wochen.  
+- (7) Die Zusammenfassung ist fristgemäß beim Betreuer oder der Betreuerin abzuliefern. Bei der Abgabe  haben  die Studierenden schriftlich zu versichern, dass sie ihre Arbeit selbstständig angefertigt und keine anderen als die angegebenen und bei Zitaten kenntlich gemachten Quellen und Hilfsmittel benutzt haben. Der Abgabezeitpunkt ist aktenkundig zu machen.  Bei  Zustellung  der  Zusammenfassung  durch  die  Post  ist  der  Zeitpunkt  der Einlieferung bei der Post maßgebend.  Wird  die  Zusammenfassung  nicht  fristgemäß abgeliefert, gilt das Elektrotechnische Seminar als mit 'nicht ausreichend' bewertet.
+- (8) Die  Bewertung  des  Hauptseminars  Elektrotechnik  erfolgt  auf  Grund  des  Fachvortrags und der Zusammenfassung. Die Bewertung ist der oder dem Studierenden spätestens sechs Wochen nach dem Fachvortrag mitzuteilen.
+- (9) Bei  den  Vorträgen  des  Hauptseminars  Elektrotechnik  im  laufenden  Semester  besteht Anwesenheitspflicht, die durch eine Teilnahmebescheinigung bestätigt wird. Die Teilnahmebescheinigung ist Bedingung zum Bestehen des Elektrotechnischen Seminars.
+- (10) Durch das Bestehen des Hauptseminars Elektrotechnik werden sechs Credits erworben.
+
+=== Chunk-Nr. 41 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 3 Das Studium', 'id': 4173, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 3 Das Studium
+
+=== Chunk-Nr. 42 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 21', 'id': 4174, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 21
+
+=== Chunk-Nr. 43 ===
+Anzahl Token in diesem Chunk: 308
+
+Metadata: {'Header 2': 'Masterarbeit', 'id': 4175, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Masterarbeit  
+- (1) Der Umfang der Masterarbeit gemäß § 28 Absatz 1 RPO beträgt in der Regel etwa 50 Seiten à etwa 50 Zeilen. Die Bearbeitungszeit (Zeitraum von der Ausgabe bis zur Abgabe der Masterarbeit) beträgt höchstens 20 Wochen, bei einem empirischen oder experimentellen  Thema  höchstens  23  Wochen.  Das  Thema  und  die  Aufgabenstellung müssen  so  beschaffen  sein,  dass  die  Masterarbeit  innerhalb  der  vorgegebenen  Frist abgeschlossen werden kann. Auf einen vor Ablauf der Frist gestellten begründeten Antrag der  Kandidatin  oder  des  Kandidaten  kann  der  Prüfungsausschuss  ausnahmsweise  eine Nachfrist der Bearbeitungszeit von bis zu vier Wochen gewähren. Die Betreuerin oder der Betreuer soll zu dem Antrag gehört werden.
+- (2) In Ergänzung zu § 28 Absatz 2 RPO gilt für die Betreuung der Masterarbeit, dass diese durch folgende Gruppen erfolgen kann:
+- a) Professorinnen und Professoren des Standorts Meschede,
+- b) Honorarprofessorinnen und Honorarprofessoren, Lehrkräfte für besondere Aufgaben sowie Lehrbeauftragte des Standorts Meschede, wenn feststeht, dass ein geeignetes Thema für eine Masterarbeit vorliegt. Dies bedarf der Zustimmung des Prüfungsausschusses,
+- c) andere Professorinnen und Professoren sowie Mitarbeiterinnen und Mitarbeiter von Forschungseinrichtungen außerhalb des Hochschulbereichs, wenn feststeht, dass ein geeignetes  Thema für  eine  Masterarbeit  vorliegt.  Dies  bedarf  der  Zustimmung  des Prüfungsausschusses.
+
+=== Chunk-Nr. 44 ===
+Anzahl Token in diesem Chunk: 103
+
+Metadata: {'Header 2': '§ 22 Zulassung zur Masterarbeit', 'id': 4176, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 22 Zulassung zur Masterarbeit  
+Ergänzend zu § 29 Absatz 1 RPO kann zur Masterarbeit nur zugelassen werden, wer in den Modulprüfungen in den Pflicht- und Wahlpflichtmodulen des Studiums gemäß Anlage 1, 2, 3, 4,  5  und  6  mindestens  48  Credits  erworben  hat,  wobei  mindestens  36  Credits  aus  den Anlagen  1  und  2  stammen  müssen,  und  in  dem  viersemestrigen  Master-Studiengang  die Praxisphase erfolgreich absolviert hat.
+
+=== Chunk-Nr. 45 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 23', 'id': 4177, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 23
+
+=== Chunk-Nr. 46 ===
+Anzahl Token in diesem Chunk: 218
+
+Metadata: {'Header 2': 'Durchführung und Bewertung der Masterarbeit', 'id': 4178, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Durchführung und Bewertung der Masterarbeit  
+- (1) Die Rückgabe des Themas der Masterarbeit gemäß § 30 Absatz 2 RPO kann nur einmal und nur innerhalb  der  ersten  vier Wochen  des  Bearbeitungszeitraums ohne  Angaben  von Gründen erfolgen.
+- (2 )  Abweichend  von  §  30  Absatz  4  RPO  kann  die  Masterarbeit  nicht  nur  in  deutscher Sprache, sondern auch in englischer Sprache verfasst werden.
+- (3) In  Ergänzung  zu  §  30  Absatz  5  RPO  ist  die  Masterarbeit  von  zwei  Prüfenden  zu bewerten,  die  vom  Prüfungsausschuss  bestimmt  werden.  Darunter  müssen  die  Betreuerin oder der Betreuer sowie eine Professorin oder ein Professor des Standorts Meschede der Fachhochschule Südwestfalen sein. Anstelle einer Professorin oder eines Professors kann auch  eine  Lehrkraft  für  besondere  Aufgaben  die  Masterarbeit  bewerten,  sofern  diese  im Fachbereich Ingenieur- und Wirtschaftswissenschaften am Standort Meschede lehrt.
+- (4) Bezugnehmend auf § 30 Absatz 7 RPO werden durch das Bestehen der Masterarbeit 25 Credits erworben.
+
+=== Chunk-Nr. 47 ===
+Anzahl Token in diesem Chunk: 350
+
+Metadata: {'Header 2': '§ 24 Kolloquium', 'id': 4179, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 24 Kolloquium  
+- (1) Ergänzend  zu  den  Regelungen  in  §  31  Absatz  2  RPO  kann  zum  Kolloquium  nur zugelassen werden, wer:
+- a) die Einschreibung  als Studierende  oder  Studierender  oder  die Zulassung  als Zweithörerin oder als Zweithörer gemäß § 52 Abs. 2 HG nachgewiesen hat,
+- b) in den Modulprüfungen in den Pflicht- und Wahlpflichtmodulen des Studiums gemäß Anlage  1,  2,  3,  4,  5  und  6  mindestens  60  Credits  erworben  hat,  davon  aus  den Wahlpflichtmodulen gemäß Anlagen 2, 3, 4, 5 und 6 mindesten 42 Credits erworben hat, wobei mindesten 18 Credits aus denen der Anlage 2, mindestens 6 Credits aus denen der Anlage 3  und 6 Credits aus denen der Anlage 5 oder 6 stammen müssen und höchsten 12 Credits aus Wahlpflichtmodulen der Anlagen 4 und 6 erworben sein dürfen  und  in  dem  viersemestrigen  Masterstudiengang  die  Praxisphase  und  das Hauptseminar Elektrotechnik erfolgreich absolviert hat.
+- (c) in der Masterarbeit 25 Credits erworben hat.
+- (2) Das  Kolloquium  wird  gemäß  §  31  Absatz  5  RPO  als  mündliche  Prüfung  mit  einer Zeitdauer von mindestens 45 Minuten, maximal 60 Minuten durchgeführt.
+- (3) Das  Kolloquium  kann  mit  Zustimmung  des  oder  der  Prüfenden  per  Videokonferenz durchgeführt werden. Ein Prüfer oder eine Prüferin und der oder die Studierende müssen  
+sich  in  einem  Raum  befinden,  der  oder  die  zweite  Prüfende  kann  per  Videokonferenz zugeschaltet werden.  
+- (4) Bezugnehmend auf § 31 Absatz 6 RPO werden durch das Bestehen des Kolloquiums fünf Credits erworben.
+
+=== Chunk-Nr. 48 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 2': 'Teil 4 Ergebnis der Abschlussprüfung', 'id': 4180, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 4 Ergebnis der Abschlussprüfung
+
+=== Chunk-Nr. 49 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 25', 'id': 4181, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 25
+
+=== Chunk-Nr. 50 ===
+Anzahl Token in diesem Chunk: 291
+
+Metadata: {'Header 2': 'Zeugnis', 'id': 4182, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Zeugnis  
+- (1) Falls  die  bestandenen  Wahlpflichtmodule  aus  Anlage  3  und  4  und  die  Projektarbeit bestimmte Bedingungen erfüllen, wird ein Studienschwerpunkt gebildet:
+- a) Der Schwerpunkt 'IT-Systeme' wird bescheinigt, wenn zwei mit 'I' gekennzeichnete Module  bestanden  wurden  und  die  Projektarbeit  dem  Studienschwerpunkt  'ITSysteme' gemäß § 17 Absatz 4 FPO zugeordnet ist.
+- b) Der  Schwerpunkt  'Kommunikationstechnik'  wird  bescheinigt,  wenn  zwei  mit  'K' gekennzeichnete Module bestanden wurden und die Projektarbeit dem Studienschwerpunkt 'Kommunikationstechnik' gemäß § 17 Absatz 4 FPO zugeordnet ist.
+- c) Der  Schwerpunkt  'Automatisierungssysteme  und  Mechatronik'  wird  bescheinigt, wenn zwei mit 'A' gekennzeichnete Module bestanden wurden und die Projektarbeit dem Studienschwerpunkt 'Automatisierungssysteme und Mechatronik' gemäß § 17 Absatz 4 FPO zugeordnet ist.
+- (2) Ergänzend  zu  §  33  Absatz  1  RPO  wird  auf  dem  Zeugnis  gegebenenfalls  einer  der Studienschwerpunkte  IT-Systeme,  Kommunikationstechnik  oder  Automatisierungssysteme und Mechatronik gemäß Absatz 1 aufgeführt.
+- (3) Das Masterzeugnis wird zweisprachig in Deutsch und in Englisch ausgefertigt.
+
+=== Chunk-Nr. 51 ===
+Anzahl Token in diesem Chunk: 5
+
+Metadata: {'Header 2': 'Teil 5 Schlussbestimmungen', 'id': 4183, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Teil 5 Schlussbestimmungen
+
+=== Chunk-Nr. 52 ===
+Anzahl Token in diesem Chunk: 3
+
+Metadata: {'Header 2': '§ 26', 'id': 4184, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## § 26
+
+=== Chunk-Nr. 53 ===
+Anzahl Token in diesem Chunk: 689
+
+Metadata: {'Header 2': 'Inkrafttreten, Übergangsregelung und Veröffentlichung', 'id': 4185, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## Inkrafttreten, Übergangsregelung und Veröffentlichung  
+- (1) Diese Fachprüfungsordnung tritt am Tag nach ihrer Veröffentlichung in Kraft. Sie wird in der Amtlichen Bekanntmachung der Fachhochschule Südwestfalen - Verkündungsblatt der Fachhochschule Südwestfalen - veröffentlicht.
+- (2) Die Regelungen dieser Fachprüfungsordnung gelten erstmals für die Studierenden, die im Wintersemester  2017/18  im  ersten  Fachsemester  im  Masterstudiengang  Elektrotechnik eingeschrieben sind.
+- (3) Wann  nach  §  1  Absatz  3 RPO  während  des  Aufwachsens  des  Masterstudiengangs Elektrotechnik die einzelnen Module spätestens zum ersten Mal angeboten werden, ist den Anlagen 1 bis 6 zu entnehmen.
+- (4) Für die Studierenden des Studiengangs Informations- und Kommunikationssysteme und deren Management, die ihr Studium vor Inkrafttreten dieser Fachprüfungsordnung aufgenommen haben, findet die Masterprüfungsordnung vom 17. Oktober 2011 mit folgender Maßgabe bis zum Ablauf des Sommersemesters 2021 weiterhin Anwendung:  
+Die  jeweiligen  Prüfungen  gemäß  der  Prüfungsordnung  vom  17.  Oktober  2011  können  im Prüfungszeitraum des Sommersemesters 2020 letztmalig abgelegt werden.  
+Die  Masterprüfung gemäß der Prüfungsordnung vom 17. Oktober 2011 muss bis zum 31. August 2021 abgeschlossen sein.  
+Diese  Prüfungsordnung  wird  nach  Überprüfung  durch  das  Rektorat  der  Fachhochschule Südwestfalen auf Grund des Beschlusses des Fachbereichsrates des Fachbereichs Ingenieur- und Wirtschaftswissenschaften vom 26. Juni 2017 erlassen.  
+Iserlohn, den 30. Juni 2017  
+Der Rektor der Fachhochschule Südwestfalen  
+Professor Dr. Claus Schuster  
+Anlage 1:   Pflichtmodule  
+| Modul                         |   Credits | Prüfungs-  vorleistung   | Erstmaliges Angebot   |
+|-------------------------------|-----------|--------------------------|-----------------------|
+| Modellierung und Simulation 1 |         6 | -                        | WS 17/18              |
+| Modellierung und Simulation 2 |         6 | -                        | SS 18                 |
+| Projektarbeit                 |         6 | -                        | SS18                  |  
+In dem 4-semestrigen Master-Studiengang ist zusätzlich das folgende Modul als Pflichtmodul zu absolvieren.  
+Anlage 2:   Wahlpflichtmodule des Bereichs Kernmodule  
+| Modul                       |   Credits | Prüfungs-  vorleistung   | Erstmaliges  Angebot   |
+|-----------------------------|-----------|--------------------------|------------------------|
+| Hauptseminar Elektrotechnik |         6 | -                        | WS 18/19               |  
+| Modul                                                     |   Credits | Prüfungs-  vorleistung   | Erstmaliges  Angebot   |
+|-----------------------------------------------------------|-----------|--------------------------|------------------------|
+| Aktorik und Mechatronik                                   |         6 | -                        | SS 18                  |
+| IT-Systeme und IT-Projektmanagement                       |         6 | -                        | WS 17/18               |
+| Leitungsgebundene Systeme für die  Breitbandkommunikation |         6 | -                        | WS 17/18               |
+| Vernetzte Automatisierung                                 |         6 | -                        | SS 18                  |  
+Anlage 3:   Wahlpflichtmodule des Bereichs allgemeine Mastermodule
+
+=== Chunk-Nr. 54 ===
+Anzahl Token in diesem Chunk: 531
+
+Metadata: {'Header 2': 'I: Schwerpunkt IT-Systeme', 'id': 4186, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## I: Schwerpunkt IT-Systeme  
+- K: Schwerpunkt Kommunikationstechnik
+- A: Schwerpunkt Automatisierungssysteme und Mechatronik  
+| Modul                                                |   Credits | Prüfungs-  vorleistung   | I   |    | K  A   | Erstmaliges  Angebot   |
+|------------------------------------------------------|-----------|--------------------------|-----|----|--------|------------------------|
+| Audio-visuelle Kommunikationssysteme                 |         6 | -                        | 1   | 1  |        | WS 17/18               |
+| Digitale Bildverarbeitung                            |         6 | -                        | 1   | 1  | 1      | WS 17/18               |
+| Forensische Datenanalyse                             |         6 | -                        | 1   |    |        | SS 18                  |
+| Funksysteme für die Breitband- und  M2MKommunikation |         6 | -                        |     | 1  | 1      | SS 18                  |
+| Hochfrequenz-Schaltungen und Messsysteme             |         6 | -                        |     | 1  | 1      | WS 17/18               |
+| Digitale Produktion                                  |         6 | -                        | 1   | 1  | 1      | WS 17/18               |
+| Industriekommunikation                               |         6 | -                        |     | 1  | 1      | WS 17/18               |
+| Sensorsysteme                                        |         6 | -                        | 1   |    | 1      | WS 17/18               |
+| Softwareentwicklung für Echtzeitsysteme              |         6 | -                        | 1   | 1  | 1      | SS 18                  |
+| Spezialgebiete der Aktorik und Mechatronik           |         6 | -                        |     |    | 1      | WS 17/18               |
+| Spezialgebiete der Kommunikationstechnik             |         6 | -                        |     | 1  |        | WS 17/18               |
+| Spezialgebiete der Business Intelligence             |         6 | -                        | 1   |    |        | WS 17/18               |
+| Spezialgebiete der IT                                |         6 | -                        | 1   |    |        | WS 17/18               |
+| Systemtechnik elektronischer Medien                  |         6 | -                        |     | 1  |        | WS 17/18               |  
+Anlage 4:   Wahlpflichtmodule des Bereichs masterfähige Bachelor-Module  
+## I: Schwerpunkt IT-Systeme
+
+=== Chunk-Nr. 55 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 2': 'K: Schwerpunkt Kommunikationstechnik', 'id': 4187, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## K: Schwerpunkt Kommunikationstechnik
+
+=== Chunk-Nr. 56 ===
+Anzahl Token in diesem Chunk: 1189
+
+Metadata: {'Header 2': 'A: Schwerpunkt Automatisierungssysteme und Mechatronik', 'id': 4188, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/media/neu_np/hv_2/downloads_der_studiengangsseiten/fb_iw_1/elektrotechnik_m_eng_/FPO_MA_ETM_2017.pdf', 'hash': '85c7b811820a4a3797a21175c07ac8753a8f77facee7c5b5b69af00c3349f9f1'}
+Text: ## A: Schwerpunkt Automatisierungssysteme und Mechatronik  
+| Modul                                       |   Credits | Prüfungs-  vorleistung   | I   | K  A   | Erstmaliges  Angebot   |
+|---------------------------------------------|-----------|--------------------------|-----|--------|------------------------|
+| Analoge Schaltungstechnik                   |         6 | SL: Labor                |     | 1  1   | WS 17/18               |
+| Antennendesign und EM-Simulation            |         6 | SL: Labor                |     | 1      | WS 17/18               |
+| Anwendungsprogrammierung                    |         6 | SL: Labor                | 1   | 1      | WS 17/18               |
+| Automatisierung in der Fertigung 1          |         6 | -                        |     | 1      | WS 17/18               |
+| Automatisierung in der Fertigung 2          |         6 | -                        |     | 1      | WS 17/18               |
+| Datenbanksysteme 2                          |         6 | SL: Labor                | 1   |        | WS 17/18               |
+| Datenkompression                            |         6 | SL: Labor                | 1   | 1      | SS 18                  |
+| Digitale Kommunikationstechnik              |         6 | SL: Labor                |     | 1      | WS 17/18               |
+| E-Learning                                  |         6 | SL: Labor                | 1   | 1      | WS 17/18               |
+| Funknetzplanung                             |         6 | SL: Labor                |     | 1      | SS 18                  |
+| Funksysteme                                 |         6 | SL: Labor                | 1   | 1      | WS 17/18               |
+| Hochfrequenztechnik                         |         6 | SL: Labor                |     | 1  1   | WS 17/18               |
+| Kommunikationsnetze 1                       |         6 | SL: Labor                | 1   | 1      | SS 18                  |
+| Kommunikationsnetze 2                       |         6 | -                        | 1   | 1      | WS 17/18               |
+| Objektorientierte Programmierung            |         6 | SL: Labor                | 1   |        | WS 17/18               |
+| Optimierungsalgorithmen                     |         6 | -                        | 1   | 1  1   | SS 18                  |
+| Radartechnik                                |         6 | SL: Labor                |     | 1  1   | WS 17/18               |
+| Technik - Umwelt - Ökonomie                 |         6 | -                        | 1   | 1      | WS 17/18               |
+| Aktorik                                     |         6 | -                        |     | 1      | WS 17/18               |
+| Automatisierungstechnik 2                   |         6 | SL: Labor                |     | 1      |                        |
+| Mechatronische Systeme und deren Simulation |         6 | SL: Labor                |     | 1      | WS 17/18               |
+| Robotik                                     |         6 | -                        |     | 1      | WS 17/18               |  
+Anlage 5:    Nicht-technische Wahlpflichtmodule:  MastermoduleAnlage 6:    Nicht-technische Wahlpflichtmodule: masterfähige Bachelormodule  
+| Modul                                                         |   Credits | Prüfungs-  vorleistung   | Erstmaliges  Angebot   |
+|---------------------------------------------------------------|-----------|--------------------------|------------------------|
+| Betriebswirtschaftliche und rechtliche Aspekte der IT und  TK |         6 | -                        | WS 17/18               |
+| Compliance und Forensik                                       |         6 | -                        | SS 18                  |
+| Führung internationaler Projekte                              |         6 | -                        | WS 17/18               |
+| Interkulturelles Management                                   |         6 | -                        | SS 18                  |
+| Wirtschaftswissenschaftliches Hauptseminar                    |         6 | -                        | WS 17/18               |  
+| Modul                                   |   Credits | Prüfungs-  vorleistung   | Erstmaliges  Angebot   |
+|-----------------------------------------|-----------|--------------------------|------------------------|
+| Volkswirtschaftslehre für Ingenieure    |         6 | -                        | WS 17/18               |
+| Beschaffungsmanagement                  |         6 | -                        | WS 17/18               |
+| Betriebswirtschaftliches Grundseminar A |         6 | -                        | WS 17/18               |
+| E-Commerce                              |         6 | -                        | WS 17/18               |
+| Gewerbliche Schutzrechte                |         6 | -                        | WS 17/18               |
+| Grundseminar Entrepreneurship           |         6 | -                        | SS 18                  |
+| Konfliktmanagement                      |         6 | -                        | SS 18                  |
+| Qualitätsmanagement 1                   |         6 | -                        | WS 17/18               |
+| Qualitätsmanagement 2                   |         6 | -                        | SS 18                  |  
+Von den Modulen der Anlagen 2, 3, 4 (Kernmodule und technische Wahlpflichtfächer) und 5, 6 (nichttechnische Wahlpflichtfächer) müssen  sieben  Module  gewählt  werden,  wobei mindestens drei Module aus Anlage 2, mindestens ein Modul aus Anlage 3 und mindestens ein Modul aus Anlage 5 oder 6 gewählt werden müssen. Von den Modulen aus Anlage 4 und 6 dürfen maximal zwei gewählt werden. Ein zu diesen Modulen gleichnamiges Modul darf kein Bestandteil der Bachelorprüfung gewesen sein, die zur Aufnahme des Masterstudiums berechtigt hat.
+

@@ -1,0 +1,81 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 33
+
+Metadata: {'Header 1': 'Elektrotechnik M.Eng.', 'Header 2': 'Meschede', 'id': 4125, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: # Elektrotechnik M.Eng.  
+## Meschede  
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Elektrotechnik M.Eng.
+5. Prüfungsordnungen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 42
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Fachprüfungsordnung 2017 Fachprüfungsordnung', 'id': 4126, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: # Prüfungsordnungen  
+## Fachprüfungsordnung 2017 Fachprüfungsordnung  
+Fachprüfungsordnung vom 30. Juni 2017  
+PDF  
+FPO 2017: Ordnung zur Änderung der FPO (v. 27.08.2020)  
+PDF
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 1
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': '', 'id': 4127, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: ##
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 15
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'ModulhandbuchModulhandbuch', 'id': 4128, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: ## ModulhandbuchModulhandbuch  
+FPO 2017: Modulhandbuch  
+PDF
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 1
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': '', 'id': 4129, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: ##
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 154
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Verlaufspläne*Verlaufspläne', 'id': 4130, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: ## Verlaufspläne*Verlaufspläne  
+FPO 2017: Studienverlaufsplan der dreisemestrigen Variante  
+PDF  
+FPO 2017: Studienverlaufsplan der viersemestrigen Variante  
+PDF  
+Auf dieser Seite  
+- Prüfungsordnungen
+- Modulhandbücher
+- Verlaufspläne  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.  
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Verlaufspläne*Verlaufspläne', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 4131, 'studiengang': 'Elektrotechnik', 'abschluss': 'Master', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_m_eng_/pruefungsordnungen_78/index.php', 'hash': '4ff5af95596741f603f9e49c668fa1eb5d4f964f4cf9f67ac84427745b8e3806'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3810550
+

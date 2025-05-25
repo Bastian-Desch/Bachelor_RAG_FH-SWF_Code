@@ -1,0 +1,145 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 36
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Meschede', 'id': 2970, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: # Elektrotechnik B.Eng.  
+## Meschede  
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Elektrotechnik B.Eng. Meschede
+5. Prüfungsordnungen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 27
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Fachprüfungsordnung 2022 - Teilzeit Fachprüfungsordnung', 'id': 2971, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: # Prüfungsordnungen  
+## Fachprüfungsordnung 2022 - Teilzeit Fachprüfungsordnung  
+Fachprüfungsordnung vom 16. Februar 2022  
+PDF
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 40
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Fachprüfungsordnung 2019 - Vollzeit Fachprüfungsordnung', 'id': 2972, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Fachprüfungsordnung 2019 - Vollzeit Fachprüfungsordnung  
+Fachprüfungsordnung vom 26. April 2019  
+PDF  
+FPO 2009: Ordnung zur Änderung der FPO (v. 14.02.2020)  
+PDF
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Fachprüfungsordnung - Vollzeit 2017', 'id': 2973, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Fachprüfungsordnung - Vollzeit 2017  
+Fachprüfungsordnung vom 4. Juli 2017  
+PDF
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 19
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Bachelorprüfungsordnung - Vollzeit 016', 'id': 2974, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Bachelorprüfungsordnung - Vollzeit 016  
+Bachelorprüfungsordnung vom 13. September 2016  
+PDF
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Bachelorprüfungsordnung - Vollzeit 2015', 'id': 2975, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Bachelorprüfungsordnung - Vollzeit 2015  
+Bachelorprüfungsordnung vom 7. Mai 2015  
+PDF
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 52
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Bachelorprüfungsordnung - Vollzeit 2009', 'id': 2976, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Bachelorprüfungsordnung - Vollzeit 2009  
+Bachelorprüfungsordnung vom 3. November 2009  
+PDF  
+BPO 2009: Ordnung zur Änderung der BPO (v. 03.03.2011)  
+PDF  
+BPO 2009: Ordnung zur Änderung der BPO (v. 17.01.2012)  
+PDF
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 85
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Modulhandbücher*Modulhandbücher', 'id': 2977, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Modulhandbücher*Modulhandbücher  
+Eine Art Vorlesungsverzeichnis mit vielen Informationen zu den Pflicht- und Wahlpflichtfächern und deren inhaltliche Beschreibung  
+FPO 2022: Modulhandbuch  
+PDF  
+FPO 2019: Modulhandbuch  
+PDF  
+FPO 2017: Modulhandbuch  
+PDF  
+BPO 2016: Modulhandbuch  
+PDF  
+BPO 2015: Modulhandbuch  
+PDF  
+BPO 2009: Modulhandbuch  
+PDF
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 100
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Verlaufspläne*Verlaufspläne', 'id': 2978, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Verlaufspläne*Verlaufspläne  
+FPO 2022: Studienverlaufsplan (Teilzeit)  
+PDF  
+FPO 2019: Studienverlaufsplan  
+PDF  
+FPO 2017: Studienverlaufsplan  
+PDF  
+BPO 2016: Studienverlaufspläne  
+PDF  
+BPO 2015: Studienverlaufspläne  
+PDF  
+BPO 2009: Studienverlaufspläne
+Studienrichtung Informations- und Medientechnik  
+PDF  
+Studienrichtung Kommunikationstechnik  
+PDF  
+Studienrichtung Mechatronik und Automatisierungstechnik  
+PDF
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 138
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Verlaufsplan mit integrierten Praxisphasen*', 'id': 2979, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ## Verlaufsplan mit integrierten Praxisphasen*  
+BPO 2016: Studienverlaufsplan mit integrierten Praxisphasen  
+PDF  
+Auf dieser Seite  
+- Prüfungsordnungen
+- Modulhandbücher
+- Verlaufspläne  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.  
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 28
+
+Metadata: {'Header 1': 'Prüfungsordnungen', 'Header 2': 'Verlaufsplan mit integrierten Praxisphasen*', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 2980, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik__b_eng___meschede/pruefungsordnungen/index.php', 'hash': '03dcb053ef1e593eb94aab210084ae626ee6cae5f825f6b5fd9367694dae5706'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3801971
+

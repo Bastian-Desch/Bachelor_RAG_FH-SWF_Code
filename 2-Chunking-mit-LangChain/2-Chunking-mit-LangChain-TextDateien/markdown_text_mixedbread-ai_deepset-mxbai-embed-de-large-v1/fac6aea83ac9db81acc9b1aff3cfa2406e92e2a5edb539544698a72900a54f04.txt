@@ -1,0 +1,44 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 157
+
+Metadata: {'id': 2299, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php', 'hash': 'fac6aea83ac9db81acc9b1aff3cfa2406e92e2a5edb539544698a72900a54f04'}
+Text: # Unsere Studiengänge
+
+1. Studienangebot
+2. Studiengänge
+
+### Auslaufende Studiengänge
+
+Sie haben da mal von einem Studiengang gehört, finden aber nicht, was Sie suchen? Die Fachhochschule Südwestfalen ist fortwährend bestrebt, ihr Profil und Studienangebot an die moderne Berufswirklichkeit anzupassen. Klicken Sie hier, um 
+auslaufende Studiengänge mit ihren Nachfolgern oder Alternativen anzuzeigen.
+
+## Weitere Infos
+
+Studienmodelle
+
+Fachgebiete
+
+Fristen &amp; Termine
+
+Einschreibung &amp; Bewerbung
+
+## Noch Fragen? Wir sind für Sie da!
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3844458
+

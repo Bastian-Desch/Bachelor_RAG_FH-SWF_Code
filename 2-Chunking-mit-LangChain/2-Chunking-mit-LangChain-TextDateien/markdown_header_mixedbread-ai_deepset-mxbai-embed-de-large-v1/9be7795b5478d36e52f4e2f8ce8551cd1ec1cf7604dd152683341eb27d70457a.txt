@@ -1,0 +1,74 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 17
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'id': 5499, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: # Die Standorte der FH Südwestfalen  
+1. Über uns
+2. Standorte
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 47
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Hagen', 'id': 5500, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ## Unsere Standorte  
+### Hagen  
+In Hagen trifft Innovation auf Tradition. Hier gibt es das maßgeschneiderte Studium in kleinen Gruppen, hochmodernen Laboren und mit direktem Draht zur heimischen Wirtschaft.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 66
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Iserlohn', 'id': 5501, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ### Iserlohn  
+Hervorragende Studienqualität, exzellente Zukunftsperspektiven und eine lebenswerte Umgebung – am Standort Iserlohn stimmt die Mischung. Individuelle Förderung der Studierenden und enge Zusammenarbeit mit der heimischen Industrie zeichnen die Lehre in Iserlohn aus.
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 56
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Lüdenscheid', 'id': 5502, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ### Lüdenscheid  
+Unser jüngster Standort steht für Aufbruch, Fortschritt und Innovation. Gelernt und gelehrt wird nach dem bewährten Erfolgsrezept der Fachhochschule Südwestfalen in hochmodernen Laboren und kleinen Gruppen.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 68
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Meschede', 'id': 5503, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ### Meschede  
+Moderne Gebäude, umfassende Ausstattung: Die Transparenz der Architektur korrespondiert mit der Offenheit und Modernität, die ein Studium in Meschede auszeichnet. Studieninteressierte finden in einer der stärksten Industrieregionen Deutschlands exzellente Bedingungen vor, die überregional attraktiv sind.
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 72
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Soest', 'id': 5504, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ### Soest  
+Studiengänge mit Spitzenrankings, Forschungshighlights, Internationalität, eine Umgebung zum Arbeiten und Lernen: Der Campus in Soest hat viel zu bieten.  
+Hagen  
+Hagen  
+Iserlohn  
+Iserlohn  
+Lüdenscheid  
+Lüdenscheid  
+Meschede  
+Meschede  
+Soest  
+Soest  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Die Standorte der FH Südwestfalen', 'Header 2': 'Unsere Standorte', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 5505, 'studiengang': 'Alle', 'abschluss': 'Alle', 'standort': 'Alle', 'link': 'https://www.fh-swf.de/de/ueber_uns/standorte_4/index.php', 'hash': '9be7795b5478d36e52f4e2f8ce8551cd1ec1cf7604dd152683341eb27d70457a'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3850497
+

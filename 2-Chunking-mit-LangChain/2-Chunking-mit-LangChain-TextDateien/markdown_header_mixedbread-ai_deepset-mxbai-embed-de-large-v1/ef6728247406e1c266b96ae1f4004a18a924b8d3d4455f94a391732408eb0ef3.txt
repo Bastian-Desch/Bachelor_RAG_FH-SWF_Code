@@ -1,0 +1,322 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 30
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Meschede', 'id': 845, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: # Wirtschaftsinformatik B.Sc.  
+## Meschede  
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Wirtschaftsinformatik B.Sc.
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 111
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Bachelor-Studium Wirtschaftsinformatik', 'Header 3': 'Informatik und Wirtschaftswissenschaften: Wie lassen sich Digitalisierung und Big Data nutzen, um die richtigen Entscheidungen zu treffen und Unternehmen nach vorne zu bringen? Das ist das Themengebiet der Wirtschaftsinformatik. Sie verbindet die angewandte Informatik mit zentralen Inhalten der Betriebswirtschaftslehre, besonders in aktuellen Themen wie E-Business, Data Science, digitalisierte und vernetzte Produktion, Cyber-Security und dem Einsatz von Web-Apps und KI im Unternehmen.', 'id': 846, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Bachelor-Studium Wirtschaftsinformatik  
+### Informatik und Wirtschaftswissenschaften: Wie lassen sich Digitalisierung und Big Data nutzen, um die richtigen Entscheidungen zu treffen und Unternehmen nach vorne zu bringen? Das ist das Themengebiet der Wirtschaftsinformatik. Sie verbindet die angewandte Informatik mit zentralen Inhalten der Betriebswirtschaftslehre, besonders in aktuellen Themen wie E-Business, Data Science, digitalisierte und vernetzte Produktion, Cyber-Security und dem Einsatz von Web-Apps und KI im Unternehmen.
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 192
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Bachelor-Studium Wirtschaftsinformatik', 'Header 3': '', 'id': 847, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ###  
+Auf einen Blick  
+Was? Entwicklung und Einsatz von IT in Unternehmen  
+Für wen? Für alle, die sich für Informatik und ihre Anwendung in betrieblichen Abläufen interessieren  
+Warum? Daten und IT prägen Wirtschaft und Gesellschaft in Zukunft. Wer das verstehen und mitgestalten will, braucht dazu fachübergreifende Kompetenzen  
+Du hast diesen Studiengang bereits gespeichert!  
+Der Studiengang wurde erfolgreich gemerkt!  
+Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter.  
+Bewerbungsfristen &amp; Studienstart-Termine  
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.  
+- Neugierig? Besuchen Sie unsere Infoveranstaltungen
+- Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und Vorbereitungskurse
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 116
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'id': 848, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Auf dieser Seite  
+- Der Studiengang im Überblick
+- Studienvoraussetzungen
+- Infos zum Bewerbungsverfahren
+- Für wen ist dieser Studiengang?
+- Berufliche Perspektiven
+- Studi-Stimmen
+- Studienaufbau / Verlaufsplan
+- Infoveranstaltungen / Veranstaltungen zum Studienstart
+- Weitere Infos / Prüfungsordnungen, Modulhandbücher
+- Kontakt  
+Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für
+Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für
+weitere Bewerbungsgruppen.
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 21
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Zulassung: NC-frei', 'id': 849, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Zulassung: NC-frei  
+Dieser Studiengang hat keine Zulassungsbeschränkung.
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 16
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienabschluss', 'id': 850, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Studienabschluss  
+Wirtschaftsinformatik B.Sc.
+180 - 210 ECTS
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienmodelle', 'id': 851, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Studienmodelle  
+- Vollzeitstudium
+- Teilzeitstudium
+- Kooperatives Studium
+
+=== Chunk-Nr. 7 ===
+Anzahl Token in diesem Chunk: 39
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienbeginn / -dauer', 'id': 852, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Studienbeginn / -dauer  
+- Beginn: Zum Wintersemester (September)
+- Dauer: 6 Semester (3 Jahre), 7 Semester mit Praxisphase oder optionalem Fachsemester
+
+=== Chunk-Nr. 8 ===
+Anzahl Token in diesem Chunk: 7
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Studienort', 'id': 853, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Studienort  
+Meschede
+
+=== Chunk-Nr. 9 ===
+Anzahl Token in diesem Chunk: 6
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Beiträge und Gebühren', 'id': 854, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Beiträge und Gebühren
+
+=== Chunk-Nr. 10 ===
+Anzahl Token in diesem Chunk: 27
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Auf dieser Seite', 'Header 3': 'Hauptunterrichtssprache', 'id': 855, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Hauptunterrichtssprache  
+Deutsch
+(für internationale Bewerbende: Level DSH2 / TestDaf4 / C1)
+
+=== Chunk-Nr. 11 ===
+Anzahl Token in diesem Chunk: 17
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Vor Beginn des WINFO-Studiums –', 'id': 856, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Vor Beginn des WINFO-Studiums –
+Voraussetzungen &amp; Bewerbungsverfahren
+
+=== Chunk-Nr. 12 ===
+Anzahl Token in diesem Chunk: 57
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Vor Beginn des WINFO-Studiums –', 'Header 3': 'Voraussetzungen', 'id': 857, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Voraussetzungen  
+- Abitur oder Fachhochschulreife
+- Oder eine als gleichwertig anerkannte Vorbildung
+- Oder bestandene Zugangsprüfung (in zulassungsfreien Studiengängen auch Probestudium möglich) für Bewerber*innen ohne formale Hochschulreife
+
+=== Chunk-Nr. 13 ===
+Anzahl Token in diesem Chunk: 143
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Vor Beginn des WINFO-Studiums –', 'Header 3': 'Bewerbung und Einschreibung zum Wintersemester', 'id': 858, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Bewerbung und Einschreibung zum Wintersemester  
+- Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli jeden Jahres. Hier finden Sie Fristen für weitere Bewerbungsgruppen.
+- Bewerbung über das Bewerbungsportal
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Mehr Informationen zum Bewerbungsverfahren finden Sie hier  
+- Bewerbungsfrist: in der Regel Anfang März bis 15. Juli
+- Bewerbung je nach Voraussetzung über uni-assist oder unser Bewerbungsportal
+(Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+- Informationen zur Bewerbung mit internationalem Abschluss finden Sie hier
+
+=== Chunk-Nr. 14 ===
+Anzahl Token in diesem Chunk: 77
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Vor Beginn des WINFO-Studiums –', 'Header 3': 'Bewerbung und Einschreibung zum Sommersemester', 'id': 859, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Bewerbung und Einschreibung zum Sommersemester  
+Für Bachelorstudiengänge ist eine Bewerbung und Einschreibung zum Sommersemester nur für höhere Fachsemester möglich. Die genauen Bewerbungsfristen finden Sie in der
+Tabelle Hochschulwechsler*innen / Studiengangwechsler*innen. (Achtung: Bewerbungen sind nur innerhalb des jeweiligen Bewerbungszeitraums möglich!)
+
+=== Chunk-Nr. 15 ===
+Anzahl Token in diesem Chunk: 195
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'An wen richtet sich der Bachelor-Studiengang Wirtschaftsinformatik?', 'id': 860, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## An wen richtet sich der Bachelor-Studiengang Wirtschaftsinformatik?  
+Sie interessieren sich für die modernen Themen der Informatik, zum Beispiel Künstliche Intelligenz, IT-Sicherheit, Web-Apps, und deren Anwendung zur Lösung von Herausforderungen zur digitalen Transformation der Wirtschaft und Gesellschaft? Dann ist der praxisorientierte Studiengang der Wirtschaftsinformatik genau das Richtige für Sie.  
+Das Studium der Wirtschaftsinformatik vermittelt sowohl Kompetenzen im Bereich der angewandten Informatik als auch umfangreiche Kenntnisse über ökonomische Zusammenhänge und betriebswirtschaftliche Abläufe. Absolvent*innen der Wirtschaftsinformatik sind somit hervorragend für ein breites Spektrum an möglichen Berufsfeldern qualifiziert – von eher technologisch getriebenen Berufen wie Softwareentwickler und Softwarearchitekten über IT- und Prozessberater bis hin zu Tätigkeiten im Bereich des IT-Sicherheitsmanagements.
+
+=== Chunk-Nr. 16 ===
+Anzahl Token in diesem Chunk: 81
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'An wen richtet sich der Bachelor-Studiengang Wirtschaftsinformatik?', 'Header 3': 'Kooperatives Studium', 'id': 861, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Kooperatives Studium  
+Der Studiengang kann in Kooperation mit einem Unternehmen studiert werden. Praxisphasen, Projekt- bzw. Studienarbeiten und die Bachelorarbeit werden in diesem Fall im selben Unternehmen absolviert. Basis ist üblicherweise eine Werkstudierenden-Tätigkeit neben dem Studium, aber auch die Kombination mit einer betrieblichen Ausbildung ist möglich. Zum
+Kooperativen Studium  
+Ankerpunkt
+
+=== Chunk-Nr. 17 ===
+Anzahl Token in diesem Chunk: 319
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Welche Berufsaussichten bietet das Studium der Wirtschaftsinformatik?', 'id': 862, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Welche Berufsaussichten bietet das Studium der Wirtschaftsinformatik?  
+Im Zeitalter der Digitalisierung sind Wirtschaftsinformatiker*innen unverzichtbar für den gesellschaftlichen und wirtschaftlichen Wandel. Mit den im Studiengang vermittelten Kompetenzen sind Wirtschaftsinformatiker*innen bestens ausgestattet für ein breites Spektrum an möglichen beruflichen Entfaltungsmöglichkeiten. Zu den möglichen Berufen zählen:  
+- Für stärker technisch Interessierte: Softwareentwicklung bzw. Anwendung von KI und maschinellem Lernen zur Analyse großer Datenmengen durch Data Science, Entwickler*innen für Softwarearchitektur für betriebliche Anwendung
+- Berufe an der klassischen Schnittstelle zwischen Wirtschaft und Informatik: Prozessanalysten und IT-Beratung für E-Commerce und anderes E-Business sowie Business Intelligence
+- Bei Interesse an Organisations- und Managementaufgaben: Tätigkeiten im Bereich des IT-Management und der Prozessoptimierung, zum Beispiel in ERP-Systemen oder im Bereich der Cyber-Security  
+Die durch ein Studium der Wirtschaftsinformatik vermittelten Fähigkeiten sind grundlegend und bereiten die Studierenden nicht nur auf die aktuellen, sondern auch auf zukünftige Herausforderungen eines sich schnell entwickelnden Bereichs vor. Ein Bachelor-Studiengang in der Wirtschaftsinformatik bietet für diese Herausforderungen eine solide Basis. Und mehr noch: Die erworbenen Kompetenzen ermöglichen die berufliche Weiterentwicklung ganz nach einer sich im Zeitverlauf ändernden Interessenslage. Zum Beispiel vom Softwarewareentwickler zum IT-Manager? Kein Problem mit einem Bachelorabschluss in der Wirtschaftsinformatik.
+
+=== Chunk-Nr. 18 ===
+Anzahl Token in diesem Chunk: 79
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Welche Berufsaussichten bietet das Studium der Wirtschaftsinformatik?', 'Header 4': 'Masterstudium im Anschluss', 'id': 863, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: #### Masterstudium im Anschluss  
+Die durch das Bachelorstudium der Wirtschaftsinformatik gelegte breite Basis ermöglicht die Aufnahme von Master-Studiengängen aus unterschiedlichen Bereichen. Weitere Informationen zum
+Masterstudium  
+Nach meinem Studium habe ich vor, in einer IT-Abteilung eines größeren Unternehmens tätig zu werden, gerne mit Kontakt zu Kunden. Anschließend könnte ich mir sehr gut eine Aufgabe im Projektmanagement vorstellen.
+
+=== Chunk-Nr. 19 ===
+Anzahl Token in diesem Chunk: 73
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Wie ist das Studium der Wirtschaftsinformatik aufgebaut?', 'id': 864, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Wie ist das Studium der Wirtschaftsinformatik aufgebaut?  
+Der Studiengang beruht auf einem durchgängigen didaktischen Konzept: Ausgehend von den betrieblichen Grundfunktionen wie Einkauf, Produktion und Vertrieb lernen Sie informationstechnische Inhalte als bereichsübergreifende Querschnittsfunktionen zu verstehen und mit betriebswirtschaftlichen Fragestellungen zu verknüpfen.
+
+=== Chunk-Nr. 20 ===
+Anzahl Token in diesem Chunk: 233
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Wie ist das Studium der Wirtschaftsinformatik aufgebaut?', 'Header 3': 'Inhalt des Studiums', 'id': 865, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Inhalt des Studiums  
+In den einzelnen Modulen erhalten Sie einen Überblick über typische betriebswirtschaftliche Herausforderungen und lernen diese mit Herangehensweisen und Technologien der Informatik zu unterstützen. Sie lernen, wie betriebswirtschaftliche Probleme mit informationstechnischen Mitteln gelöst werden. Je nach Neigung und Berufswunsch können Sie ab dem 4. Semester entsprechende Spezialisierungen über Wahlpflichtfächer wählen. Hierbei steht ein breites Spektrum von möglichen Schwerpunkten offen, auf die Sie sich spezialisieren können: Datenanalyse / Business Intelligence, IT-Sicherheit, App- und Web-Entwicklung  
+Einen besonders hohen Stellenwert hat dabei das Lernen in Projekten, die oft in Zusammenarbeit mit Industriepartnern durchgeführt werden. Dazu gehört eine Studienarbeit, in der ein praxisbezogenes Projekt oder eine theoretische Forschungsaufgabe bearbeitet wird. Den Praxisbezug ihres Studiums können Studierende zudem durch ein fakultatives Praxissemester ausbauen. Den Abschluss des Studiums bilden schließlich die Bachelorarbeit und eine mündliche Prüfung, das Kolloquium.
+
+=== Chunk-Nr. 21 ===
+Anzahl Token in diesem Chunk: 94
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Wie ist das Studium der Wirtschaftsinformatik aufgebaut?', 'Header 3': 'Flexible Studienorganisation', 'id': 866, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Flexible Studienorganisation  
+Sie können Ihr Studium individuell und flexibel gestalten. Vorlesungen, Übungen, Labore oder auch Projekt- bzw. Blockwochen werden in Präsenz durchgeführt. Hier besteht die Möglichkeit die Veranstaltung persönlich vor Ort besuchen oder an einer angebotenen Online-Veranstaltung teilzunehmen. Umfangreiche Selbstlernmaterialien wie Studienbücher, Online-Formate, Tutorien oder Lernplattformen stehen Ihnen ergänzend zur Verfügung.
+
+=== Chunk-Nr. 22 ===
+Anzahl Token in diesem Chunk: 361
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Studienverlaufsplan Wirtschaftsinformatik B.Sc.', 'id': 867, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Studienverlaufsplan Wirtschaftsinformatik B.Sc.  
+|                  |                                                                                          |                                                                                          |                                              |                              |                                                |
+|------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------|------------------------------|------------------------------------------------|
+| 1. Semester      | Allgemeine Betriebswirtschaftslehre                                                      | Datenbanksysteme 1                                                                       | Software Modellierung &amp; IT-Projektmanagement | Wirtschaftsinformatik        | Wirtschaftsmathematik                          |
+| 2. Semester      | Grundlagen der Programmierung                                                            | Produktionswirtschaft                                                                    | Projektmanagement                            | Statistik                    | Unternehmensrechnung                           |
+| 3. Semester      | Algorithmen und Datenstrukturen                                                          | Business Intelligence 1                                                                  | Grundlagen Operations Research               | IT Sicherheit                | Logistik und Supply Chain Management           |
+| 4. Semester      | IT-gestützte Geschäftsprozesse                                                           | Marketing: Strategien und Instrumente in der Unternehmenspraxis                          | Technisches Wahlpflichtmodul                 | Technisches Wahlpflichtmodul | Wirtschaftswissenschaftliches Wahlpflichtmodul |
+| 5. Semester      | Human Resources &amp; Führung                                                                | IT-Management                                                                            | Software-Entwicklung für ERP Systeme         | Technisches Wahlpflichtmodul | Wirtschaftswissenschaftliches Wahlpflichtmodul |
+| 6. Semester      | Praxisphase (nur bei Wahl des Studiengangs mit Praxisphase) oder optionales Fachsemester | Praxisphase (nur bei Wahl des Studiengangs mit Praxisphase) oder optionales Fachsemester |                                              |                              |                                                |
+| 6. / 7. Semester | Technisches Wahlpflichtmodul                                                             | Wirtschaftswissenschaftliches Wahlpflichtmodul                                           | Studienarbeit                                | Bachelorarbeit               | Kolloquium                                     |
+
+=== Chunk-Nr. 23 ===
+Anzahl Token in diesem Chunk: 9
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Studienverlaufsplan Wirtschaftsinformatik B.Sc.', 'Header 3': 'Legende zum Studienverlaufsplan', 'id': 868, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Legende zum Studienverlaufsplan
+
+=== Chunk-Nr. 24 ===
+Anzahl Token in diesem Chunk: 44
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Studienverlaufsplan Wirtschaftsinformatik B.Sc.', 'Header 3': 'Informationen zum WINFO-Teilzeit-Studium', 'id': 869, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Informationen zum WINFO-Teilzeit-Studium  
+Der Studiengang Wirtschaftsinformatik B.Sc. wird auch als Teilzeit-Modell angeboten.  
+Teilzeit-Variante mit Studienverlaufsplan
+
+=== Chunk-Nr. 25 ===
+Anzahl Token in diesem Chunk: 33
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Infoveranstaltungen / Veranstaltungen zum Studienstart', 'id': 870, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Infoveranstaltungen / Veranstaltungen zum Studienstart  
+Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote.
+
+=== Chunk-Nr. 26 ===
+Anzahl Token in diesem Chunk: 32
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Bachelor-Studiengang Wirtschaftsinformatik: Weitere Informationen', 'Header 3': 'Flyer zum Download', 'id': 871, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Bachelor-Studiengang Wirtschaftsinformatik: Weitere Informationen  
+### Flyer zum Download  
+Studiengang Wirtschaftsinformatik B.Sc.  
+Flyer (PDF)
+
+=== Chunk-Nr. 27 ===
+Anzahl Token in diesem Chunk: 48
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Bachelor-Studiengang Wirtschaftsinformatik: Weitere Informationen', 'Header 3': 'Prüfungsordnung, Modulhandbücher und Verlaufspläne', 'id': 872, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Prüfungsordnung, Modulhandbücher und Verlaufspläne  
+- Prüfungsordnungen und Modulhandbücher sowie die Studienverlaufspläne des Vollzeit- u. Teilzeitstudiums Wirtschaftsinformatik B.Sc.
+
+=== Chunk-Nr. 28 ===
+Anzahl Token in diesem Chunk: 229
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Bachelor-Studiengang Wirtschaftsinformatik: Weitere Informationen', 'Header 3': 'Möglichkeiten eines Master-Studiums', 'id': 873, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Möglichkeiten eines Master-Studiums  
+- Data Science M.Sc. (berufsbegleitend)
+- Informatics and Business M.Sc.
+- Strategisches Management M.A.  
+Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung.  
+Bei Fragen unterstützt Sie die
+Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter.  
+Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier.  
+Prüfungsorganisation  
+Hier finden Sie die Prüfungspläne für den Fachbereich IW in Meschede.  
+Termine für Studieninteressierte  
+Standort Meschede  
+Fachgebiet  
+FAQs / häufige Fragen
+
+=== Chunk-Nr. 29 ===
+Anzahl Token in diesem Chunk: 78
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'id': 874, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ## Fragen zum Studiengang oder zur Studienwahl?  
+Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter.  
+- Per Mail studienberatung@fh-swf.de
+- Per Telefon 02371 566 538
+- Nach Absprache per Videokonferenz (Zoom)
+- Und natürlich persönlich:
+Zum Beratungsangebot der Allgemeinen Studienberatung  
+Hier finden Sie
+weitere Ansprechpartner*innen.
+
+=== Chunk-Nr. 30 ===
+Anzahl Token in diesem Chunk: 70
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Infos zu Bewerbungsfristen? Abonnieren Sie unseren', 'id': 875, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren
+Newsletter!  
+Sprechzeiten  
+| Mo., Di., Do., Fr.:    |  9.00 - 16.00 Uhr   |
+|------------------------|---------------------|
+| Mittwochs:             | 13.00 - 17.30 Uhr   |  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 31 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Fragen zum Studiengang oder zur Studienwahl?', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 876, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/index.php', 'hash': 'ef6728247406e1c266b96ae1f4004a18a924b8d3d4455f94a391732408eb0ef3'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3809979
+

@@ -1,0 +1,143 @@
+ID: 5
+Frage: Welche Studienmodelle werden angeboten?
+
+Dokument 1 (Score: 0.85370076):
+Metadaten:
+  - id: 1482
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 80fe827f-1077-43d8-96f8-2a90c40e0401
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Unsere Studienmodelle ## So flexibel wie Sie es sich wünschen 1. Studienangebot 2. Studienmodelle ## Duales Studium, berufsbegleitendes Studium oder doch der Klassiker? ### Ihr Studiengang sollte Ihren Interessen und Zielen entsprechen, Ihr Studienmodell muss darüber hinaus aber auch zu Ihrem Leben passen! Wir bieten Ihnen die freie Auswahl unterschiedlicher Studienmodelle. Vom berufsbegleitenden Studium über das duale Studium bis hin zum klassischen Vollzeitstudium – bei uns finden Sie das Studienmodell, das zu Ihren Ansprüchen, Ihren Zielen und zu Ihrem Leben passt. ### Auf dieser Seite - Vollzeitstudium - Teilzeitstudium - Kooperative Studienmodelle - Duale Studienmodelle - Berufsbegleitendes oder ausbildungsbegleitendes Verbundstudium - Zertifikatsstudium ## Vollzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell Das Vollzeitstudium ist das meist verbreitete Studienmodell. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs. Der durchschnittliche Arbeitsaufwand für ein Vollzeitstudium beträgt ca. 40 Stunden in der Woche und entspricht damit einer Vollzeitberufstätigkeit. Die 40 Stunden beziehen sich dabei nicht nur auf die Lernveranstaltungen im Hörsaal, sondern auch auf die Vor- und Nachbereitungszeit der einzelnen Vorlesungen, Seminare und Prüfungen. Die Lehrveranstaltungen finden meist montags bis freitags statt. Eine Anwesenheitspflicht gibt es nur punktuell z.B. in Praktika, Übungen oder Prüfungen. Anwendungsorientierte Vorlesungen, Seminare und Laborpraktika sowie praxiserfahrene Dozent*innen sorgen für ein praxisnahes Studium. ## Teilzeitstudium Ankerpunkt ### Präsenzstudium als klassisches Studienmodell, jedoch in Teilzeit Das Teilzeitstudium bietet die Möglichkeit neben dem Studium noch anderen Verpflichtungen in Ihrem Leben nachzukommen. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs, jedoch mit einer reduzierten Modulanzahl je Semester. ## Kooperative Studienmodelle Ankerpunkt ### Studieren in Voll- oder Teilzeit mit Praxis in Unternehmen Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in
+
+Dokument 2 (Score: 0.83618560):
+Metadaten:
+  - id: 1486
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php
+  - hash: fac6aea83ac9db81acc9b1aff3cfa2406e92e2a5edb539544698a72900a54f04
+  - _id: f2f9552f-eeb7-4925-afb7-b462c2c7d101
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Unsere Studiengänge 1. Studienangebot 2. Studiengänge ### Auslaufende Studiengänge Sie haben da mal von einem Studiengang gehört, finden aber nicht, was Sie suchen? Die Fachhochschule Südwestfalen ist fortwährend bestrebt, ihr Profil und Studienangebot an die moderne Berufswirklichkeit anzupassen. Klicken Sie hier, um auslaufende Studiengänge mit ihren Nachfolgern oder Alternativen anzuzeigen. ## Weitere Infos Studienmodelle Fachgebiete Fristen &amp; Termine Einschreibung &amp; Bewerbung ## Noch Fragen? Wir sind für Sie da! - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3844458
+
+Dokument 3 (Score: 0.83425295):
+Metadaten:
+  - id: 1480
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 337317df-fdf1-4e0c-a775-acf1e290f536
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Studienangebot ## Eine Vielzahl an Studiengängen und trotzdem familiär 1. Studienangebot ### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation. Wann bewerben? Auf dieser Seite - Studiengang konfigurieren - Fachgebiete - Studienmodelle - Standorte - Kontakt Allgemeine Studienberatung ## Hier finden Sie den passenden Studiengang! ### Studiengangsuche ## Übersicht Fachgebiete Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement. Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang. Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich. Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran. „Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl. Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei. Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt. Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren. ## Studienmodelle ### Duales Studium, berufsbegleitendes Studium oder doch der Klassiker? - Zu den Studienmodellen ## Unsere Standorte Unser Standort mit Wurzeln bis ins Jahr 1824. Heimat unserer Fachbereiche Elektrotechnik und Informationstechnik sowie Technische Betriebswirtschaft. Studieren in Iserlohn. In dieser Mischung stimmen die Zutaten, die ein erfolgreiches und darüber hinaus lebenswertes Studium
+
+Dokument 4 (Score: 0.83398820):
+Metadaten:
+  - id: 1483
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 1bc4a492-4d4f-44bd-b457-0502c903d784
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+in Unternehmen Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in der vorlesungsfreien Zeit im Unternehmen ergänzt. Möglich ist natürlich auch die Kombination mit einer betrieblichen Ausbildung. Die Studiendauer entspricht in der Regel dem Vollzeitstudium, ggf. verlängert um Praxis- oder Ausbildungsphasen. Ein Teil unserer Studiengänge kann auch planmäßig als Teilzeitstudium absolviert werden. So lassen sich Studium und praktische Erfahrungen beispielsweise als Werkstudierende ideal kombinieren. Kooperatives Modell Hagen Kooperatives Modell Meschede Was ist eigentlich eine Werkstudentin oder ein Werkstudent? Werkstudierende sind zunächst einmal regulär in Volllzeitstudiengänge eingeschrieben. Parallel zum Studium arbeiten sie über einen längeren Zeitraum bis zu maximal 20 Stunden pro Woche in einem Unternehmen, vorzugsweise aus einer mit dem Studienbereich verwandten Branche. Ein Werkstudium ist also prinzipiell in allen unseren Vollzeitstudiengängen möglich! ## Duale Studienmodelle Duale Studienmodelle ### Enge Verzahnung von Theorie und Praxis Enger können Sie Theorie und Praxis nicht verknüpfen. Sie lernen in der Hochschule und gewinnen wertvolle Eindrücke in einem Unternehmen. Dieses Studienmodell funktioniert auf Basis einer Kooperationsvereinbarung, die mindestens zwischen dem beteiligten Unternehmen und der Hochschule geschlossen werden muss. Während des Studienverlaufs wechseln die Phasen der Praxis im Unternehmen mit denen der Lehrveranstaltungen an der Hochschule ab. Unterschieden werden das praxisintegrierende Studium und das ausbildungsintegrierende Studium. Praxisintegrierendes duales Studium Praxisintegrierende Studiengänge werden entweder im Block- oder Wochenmodell angeboten und führen zu einem Hochschulabschluss. Beim Blockmodell finden die Zeiten im Unternehmen und die an der Hochschule in längeren aufeinanderfolgenden Blöcken statt. Im Wochenmodell wechseln sich Praxis- und Vorlesungszeiten während der Woche ab (z. B. zwei Tage an der Hochschule und drei im Betrieb). Ausbildungsintegrierendes duales Studium Kombination einer klassischen Berufsausbildung (mit IHK/HWK-Abschluss) mit einem Studium. Dabei werden die Studienphasen und die Berufsausbildung inhaltlich, zeitlich und organisatorisch miteinander verzahnt. Es werden zwei Abschlüsse er
+
+Dokument 5 (Score: 0.81845486):
+Metadaten:
+  - id: 1431
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_WiSe_BA_ETS_ETA_ETP_20_10.2024.pdf
+  - hash: 591186c9cc1f507c3799c069589b6d6798db4f5033f9b13651b1c408fd9c2f04
+  - _id: 11f076f8-6671-406a-a30c-0787aadb4571
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+; Pigneur, Y. (2010): Business Model Generation - A handbook for Visionaries, Game Changers, and Challengers, Hoboken: John Wiley &amp; Sons | Modulverantwortung / Lehrende(r): Prof. Dr. Andreas Gerlach / Prof. Dr. Andreas Gerlach Literatur: Osterwalder, A.; Pigneur, Y. (2010): Business Model Generation - A handbook for Visionaries, Game Changers, and Challengers, Hoboken: John Wiley &amp; Sons | | 10 | | | | | 11 | 12 | 12 | 12 | Wahlpflichtmodule ET Wintersemester allgemein 09/2024 19 ## Digitale Produktion | Container: Themen des Produktionsmanagements | Container: Themen des Produktionsmanagements | | | |------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Modul-ID: Workload | Modul-ID: Workload | Credits 5 CP | | | | DigProd 150 h | Credits 5 CP | | | 2 | Wintersemester 4 SWS / 60 h 90 h Lehrformen (in SWS / h pro Semester) und Gruppengröße: Vorlesung: 2 SWS / 30 h / 60 Studierende | Wintersemester 4 SWS / 60 h 90 h Lehrformen (in SWS / h pro Semester) und Gruppengröße: Vorlesung: 2 SWS / 30 h / 60 Studierende | Wintersemester 4 SWS / 60 h 90 h Lehrformen (in SWS / h pro Semester) und Gruppengröße: Vorlesung
+
+Dokument 6 (Score: 0.81595990):
+Metadaten:
+  - id: 268
+  - studiengang: Wirtschaftsinformatik
+  - abschluss: Bachelor
+  - standort: Meschede
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/meschede_6/Modulhandbuch_BA_WFM_19_2024.05.pdf
+  - hash: 8dfdff4b5049c02d316ef41b9e7115596a2090a81c97f2b9f82c3818a67db652
+  - _id: d37bce53-374a-4834-8063-e5c47c6a1028
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+| 89 | | Web Engineering | 91 | | Wirtschaftswissenschaftliche Wahlpflichtmodule | | | Agiles Projektmanagement | 94 | | Angewandte Unternehmensberatung | 96 | | Arbeits - und Produktionssysteme | 97 | | Arbeitsrecht | 98 | | Automobilwirtschaft | 100 | | Beratungskompetenz und Mentoring | 101 | | Beschaffungsmanagement | 103 | | Betriebswirtschaftliches Grundseminar A | 105 | | Betriebswirtschaftliches Grundseminar B | 106 | | Business English | 107 | | Business Law | 108 | | Business Process Management | 110 | | Business Simulation | 112 | | Business Skills - mit Schlüsselqualifikationen erfolgreich im Studium und Beruf | 113 | | Campus Experiments | 115 | | Contemporary Leadership Issues | 117 | | Crosscultural Communication in International Management | 118 | | Crossmediale Public Relations | 120 | | Data Driven Business - | 121 | | Datengetriebene Optimierung in SCM und Logistik | 123 | | Digitalisierung von Logisikprozessen mit Simulation | 125 | | Effizienzsteigerung im Unternehmen | 127 | | Einsatz eines E Learning Management Systems im Unternehmen - | 129 | | Empirische Personal - und Sozialforschung | 131 | | Entrepreneurial Communication | 133 | | Entrepreneurial Hybrid Sales Management | 135 | | EU Recht - | 137 | | Europapolitisches Seminar | 139 | | Eventmanagement | 141 | | Excel für Controller | 142 | | Female Entrepreneurship | 143 | | Fertigungsplanung und -steuerung | 145 | 4 | Financial Accounting | 147 | |-----------------------------------------------|-------| | Forecasting and Control | 149 | | Geschäftsmodelle in der 'Green Economy' | 151 | | Gesellschaftspolitisches Seminar | 152 | | Gesundheitstourismus und Kurorte
+
+Dokument 7 (Score: 0.81574863):
+Metadaten:
+  - id: 1416
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_WiSe_BA_ETS_ETA_ETP_20_10.2024.pdf
+  - hash: 591186c9cc1f507c3799c069589b6d6798db4f5033f9b13651b1c408fd9c2f04
+  - _id: 1cb5ca26-1823-4e3c-93d3-7cb0fbf5d26d
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+der Analyse, Lösung und Visualisierung der entsprechenden Modelle. Sie lernen Analogien zwischen verschiedenen Wissenschaftsbereichen kennen, kennen verschiedene Modellklassen, wie stationäre, dynamische, lokale und globale Modelle, und können entsprechende Lösungsverfahren zuordnen, anwenden und einfache | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie der Analyse, Lösung und Visualisierung der entsprechenden Modelle. Sie lernen Analogien zwischen verschiedenen Wissenschaftsbereichen kennen, kennen verschiedene Modellklassen, wie stationäre, dynamische, lokale und globale Modelle, und können entsprechende Lösungsverfahren zuordnen, anwenden und einfache | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie der Analyse, Lösung und Visualisierung der entsprechenden Modelle. Sie lernen Analogien zwischen verschiedenen Wissenschaftsbereichen kennen, kennen verschiedene Modellklassen, wie stationäre, dynamische, lokale und globale Modelle, und können entsprechende Lösungsverfahren zuordnen, anwenden und einfache | | 5 | numerische Verfahren selber mit dem Computer implementieren. Inhalte: · Einführung in die Modellbildung · Entdimensionalisierung, Skalenanalyse und asymptotische Entwicklung · Globale, lokale, dynamische, stationäre, lineare und nichtlineare Modelle · Analytische und numerische Lösungsverfahren Das Modul wird angeboten vom FB Elektrische Energietechnik (X) FB Maschinenbau-Automatisierungstechnik ( ) FB Agrarwirtschaft ( ) FB Ingenieur- und Wirtschaftswissenschaften Meschede ( ) | numerische Verfahren selber mit dem Computer implementieren. Inhalte: · Einführung in die Modellbildung · Entdimensionalisierung, Skalenanalyse und asymptotische Entwicklung · Globale, lokale, dynamische, stationäre, lineare und nichtlineare Modelle · Analytische und numerische Lösungsverfahren Das Modul wird angeboten vom FB Elektrische Energietechnik (X) FB Maschinenbau-Automatisierungstechnik ( ) FB Agrarwirtschaft ( ) FB Ingenieur- und Wirtschaftswissenschaften Meschede ( ) | numerische Verfahren selber mit dem Computer implementieren. Inhalte: · Einführung in die Modellbildung · Entdimensionalisierung, Skalenanalyse und asymptotische Entwicklung · Globale, lokale, dynamische, stationäre, lineare und nichtlineare Modelle · Analytische und numerische Lösungsverfahren Das Modul
+
+Dokument 8 (Score: 0.81475514):
+Metadaten:
+  - id: 1479
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studieninteressierte/index.php
+  - hash: 02f58f7e2349530e4408375669789c87d6e278a5cb8080c30d4c69b07a7c0690
+  - _id: 894f6283-c375-4847-8c12-3d9b4b4f461a
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+# Unser Studienprogramm: praxisorientiert, international und facettenreich Die Fachhochschule Südwestfalen als starker Partner für Ihre erfolgreiche Zukunft. 1. Studieninteressierte ## Hier finden Sie den passenden Studiengang ### Studiengangsuche ## Zahlen und Fakten (Stand: 13.02.2025) Studierende Studiengänge Beschäftigte Absolvent*innen (2024) ## Studienstart ### Wir helfen Ihnen bei Ihrem Start. Von Vorkursen über Einführungsveranstaltungen bis zur Organisation beim Studienstart. ## Studienmodelle Vollzeitstudium Duales Studium Verbundstudium Kooperatives Studium ## Events Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten. Workshops, Infoveranstaltungen, Studienberatung - mehr Events finden Sie in unserem Veranstaltungskalender. ## Studi-Stimmen Ich würde mich immer sehr gut informieren, auch über Studiengänge, die man nicht so auf dem Schirm hat. Man sollte sich vor allem den Beruf anschauen, auf den man aus ist und nicht von Studieninhalten wie zum Beispiel Mathe abschrecken lassen. ## Weitere Infos Bewerbung &amp; Einschreibung Schnupperangebote Finanzierung Info-Veranstaltungen ## Noch Fragen? Wir sind für Sie da! Herr Matthias Vitte (SG 2.5) Haldener Straße 182 Postfach 2061 58590 Iserlohn Frau Alexandra Bock (SG 2.5) Frauenstuhlweg 31 58644 Iserlohn Raum: Z.128 Postfach 2061 58590 Iserlohn Herr Arp Hinrichs (SG 2.5) Lübecker Ring 2 59494 Soest Raum: 17.115 Lübecker Ring 2 59494 Soest Frau Kerstin Sobkowiak (SG 2.5) Lindenstr. 53 59872 Meschede Raum: 2.3.7 - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3850700
+
+Dokument 9 (Score: 0.81204873):
+Metadaten:
+  - id: 1471
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_WiSe_BA_ETS_ETA_ETP_20_10.2024.pdf
+  - hash: 591186c9cc1f507c3799c069589b6d6798db4f5033f9b13651b1c408fd9c2f04
+  - _id: cbbff2b6-ba8d-4625-bc9c-63c41d622de8
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+## Zielgruppe: Die Wahlpflichtfächer der Studienoption Lehramt Berufskolleg (Edu-Tech Net OWL) richten sich an die Bachelor-Studiengänge Elektrotechnik, Maschinenbau und Wirtschaftsingenieurwesen. Die Wahlpflichtfächer ermöglichen den Übergang in den Master of Education für das Berufskolleg der Universität Paderborn. Wahlpflichtmodule ET Wintersemester allgemein 09/2024 40 ## 4 Inhalte: Teilmodul 1: Didaktische Grundlagen der beruflichen Fachrichtungen (ET bzw. MB) Zum Kern der Lehrerausbildung gehört der Erwerb didaktischer Kompetenzen, die auf Fachkompetenzen aufbauen und sie ergänzen. Dieses Modul legt die Grundlage der auf das Berufskolleg bezogenen didaktischen Ausbildung mit ihren Fachrichtungen und den darauf bezogenen Berufs- und Arbeitsfeldern und soll Konzepte und Methoden für die Gestaltung und Reflexion von schüleraktivem Unterricht bieten. Didaktische Konzepte, Modelle und Methoden werden gezielt auf Beispiele aus den Gebieten der Elektrotechnik bzw. Maschinenbautechnik angewandt. Inhalte der Veranstaltung sind historische, aktuelle und zukünftige Entwicklungen im Berufsfeld der Elektrotechnik bzw. Maschinenbautechnik, das Lernfeldkonzept in elektrotechnischen bzw. maschinenbautechnischen Berufen, Rahmenlehrpläne und Richtlinien des Landes NRW, betriebliche Aufträge und außerschulische Lernorte. Teilmodul 1 wird als Teilprüfung (TP) abgelegt, als Teil des gesamten Moduls Technikdidaktik 1 und 2, das aus Teilmodul 1: Didaktische Grundlagen der beruflichen Fachrichtungen und Teilmodul 2: Theorien, Modelle, Methoden und Medien der Technikdidaktik besteht. Teilmodul 2 wird als Teilprüfung abgelegt. Die sechs Credits werden dann vergeben, wenn beide Teilprüfungen erfolgreich bestanden wurden. Teilmodul 1 findet im Wintersemester statt, Teilmodul 2 im Sommersemester. Beide Teilmodule liegen als Blockveranstaltung in der vorlesungsfreien Zeit. Beratung zu dem Modul: Sabine Linden, Koordinatorin der Studienoption Lehramt an der FH SWF. ## 5 Das Modul wird angeboten von FB Elektrische Energietechnik ( ) FB Maschinenbau-Automatisierungstechnik ( ) Universität Paderborn (X) ## 6 Verwendung des Moduls in folgenden Studiengängen: ET: Wahlpflichtmodul, WING:
+
+Dokument 10 (Score: 0.81179360):
+Metadaten:
+  - id: 1372
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/Modulhandbuch_BA_ETS_ETA_ETP_20_02.2024.pdf
+  - hash: 26302c09bbe8d0ea4045e76eba80ec131257d9aadd1e954f2ac91cdf526af9cb
+  - _id: f6c42506-7688-41fe-8c4a-7242c9ef5e57
+  - _collection_name: intfloat_multilingual-e5-large_token_based_chunks
+
+Inhalt:
+/Berufsbildungsbericht\_2018.pdf [Stand 09.01.2019] Bundesinstitut für Berufsbildung (BIBB) (2019): Betriebe ohne Azubis, Jugendliche ohne Ausbildungsstellen. Ausbildungsmarkt in der Krise? Url.: https://www.bibb.de/dokumente/pdf/a1\_Ergebnisbericht\_EM- 2018\_Ausbildungsmarkt\_BO\_20\_12\_18ab.pdf [Stand 28.01.2019] Deutsches Institut für Internationale Pädagogische Forschung (DIPF) (2018): Bildung in Deutschland 2018. Url: https://www.bildungsbericht.de/de/bildungsberichte-seit2006/bildungsbericht-2018/pdf-bildungsbericht-2018/bildungsbericht-2018.pdf [Stand 09.01.2019] Hamburgisches WeltWirtschafts Institut (HWWI) (HWWI) (2015): Geschlechtsspezifische Berufswahl: Literatur- und Datenüberblick zu Einflussfaktoren, Anhaltspunkten struktureller Benachteiligung und Abbruchskosten. Url: http://doku.iab.de/externe/2015/k151201r03.pdf [Stand 27.03.2019] Herold, M./Landherr, B. (2004): SOL. Selbstorganisiertes Lernen. 4. Auflage. Weinheim. Sallmann, G.; IAB-Forum (2019): Der Berufs- Erfolgs- oder Auslaufmodell? Antworten aus der Geschichte auf die Frage nach der Zukunftsfähigkeit der Berufsidee. Url: https://www.iab-forum.de/der-beruf-erfolgs-oder-auslaufmodell-antworten-aus-dergeschichte-auf-die-frage-nach-der-zukunftsfaehigkeit-der-berufsidee/ [Stand 29.04.2019] Ministerium für Wissenschaft, Forschung und Kunst (MWK) (2015): Wie MINT-Projekte gelingen. URL: https://mwk.baden-wuerttemberg.de/fileadmin/redaktion/m- mwk/intern/dateien/publikationen/MINT\_150408\_Broschuere- BaWue\_DRUCK\_ohneBeschnitt.pdf [Stand 28.03.2019] Qualitäts- und UnterstützungsAg
+

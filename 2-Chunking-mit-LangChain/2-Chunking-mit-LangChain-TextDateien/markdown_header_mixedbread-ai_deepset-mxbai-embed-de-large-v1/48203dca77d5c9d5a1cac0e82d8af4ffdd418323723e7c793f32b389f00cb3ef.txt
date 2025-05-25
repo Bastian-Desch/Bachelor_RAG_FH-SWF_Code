@@ -1,0 +1,68 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 31
+
+Metadata: {'Header 1': 'Elektrotechnik B.Eng.', 'Header 2': 'Hagen', 'id': 2530, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: # Elektrotechnik B.Eng.  
+## Hagen  
+1. Studienangebot
+2. Studiengänge
+3. Hagen
+4. Elektrotechnik B.Eng.
+5. Prüfungsordnungen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 30
+
+Metadata: {'Header 1': 'Prüfungsordnungen, Modulhandbücher, Verlaufspläne', 'Header 2': 'Fachprüfungsordnung 2024', 'id': 2531, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: # Prüfungsordnungen, Modulhandbücher, Verlaufspläne  
+## Fachprüfungsordnung 2024  
+Fachprüfungsordnung vom 28. Februar 2024
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Prüfungsordnungen, Modulhandbücher, Verlaufspläne', 'Header 2': 'Fachprüfungsordnung 2017', 'id': 2532, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: ## Fachprüfungsordnung 2017  
+Fachprüfungsordnung vom 7. August 2017  
+FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018)
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 23
+
+Metadata: {'Header 1': 'Prüfungsordnungen, Modulhandbücher, Verlaufspläne', 'Header 2': 'Modulhandbuch*', 'id': 2533, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: ## Modulhandbuch*  
+FPO 2024: Modulhandbuch Elektrotechnik  
+FPO 2017: Modulhandbuch Elektrotechnik
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 118
+
+Metadata: {'Header 1': 'Prüfungsordnungen, Modulhandbücher, Verlaufspläne', 'Header 2': 'Verlaufspläne*', 'id': 2534, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: ## Verlaufspläne*  
+FPO 2024: Studienverlaufsplan  
+FPO 2017: Studienverlaufsplan  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.  
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Prüfungsordnungen, Modulhandbücher, Verlaufspläne', 'Header 2': 'Verlaufspläne*', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 2535, 'studiengang': 'Elektrotechnik', 'abschluss': 'Bachelor', 'standort': 'Hagen', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php', 'hash': '48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3806840
+

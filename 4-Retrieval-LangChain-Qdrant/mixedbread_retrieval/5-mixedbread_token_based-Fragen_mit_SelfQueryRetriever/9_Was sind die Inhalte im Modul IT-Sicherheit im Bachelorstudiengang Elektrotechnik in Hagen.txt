@@ -1,0 +1,143 @@
+ID: 9
+Frage: Was sind die Inhalte im Modul IT-Sicherheit im Bachelorstudiengang Elektrotechnik in Hagen?
+
+Dokument 1:
+Metadaten:
+  - id: 559
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 9cbada2f-7ed9-47f1-baa6-eaacd310585c
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Modulhandbuch zur Bachelor-Fachprüfungsordnung vom 28.02.2024 für den Studiengang Elektrotechnik ## Modulhandbuch zum Bachelor-Studiengang Elektrotechnik (ET) zur Bachelor-Fachprüfungsordnung vom 28.02.2024 Fachhochschule Südwestfalen Standort Hagen Fachbereich Elektrotechnik und Informationstechnik Stand: Juli 2024 ## Begriffserklärungen und Hinweise ## Veranstaltungsformen - · In der Vorlesung gibt die oder der Lehrende eine zusammenhängende Darstellung des Lehrstoffs, vermittelt Fakten und Methoden des Lehrgebietes und beantwortet sachbezügliche Fragen. Vorlesungen finden in Gruppen unterschiedlicher Größe statt. Die in den Modulbeschreibungen angegebene Gruppengröße bezieht sich in der Regel auf die Anzahl der Teilnehmer in der Vorlesung. - · Im Seminaristischen Unterricht vermittelt und entwickelt die oder der Lehrende den Lehrstoff durch enge Verbindung des Vortrags mit dessen exemplarischer Vertiefung unter Beteiligung der Studierenden. Die Anzahl Studierender sollte bei dieser Lehrform 30 nicht übersteigen. - · Im Seminar werden unter der Leitung der oder des Lehrenden Fakten, Erkenntnisse und komplexe Problemstellungen im Wechsel von Vortrag und Diskussion durch die Studierenden erarbeitet. Seminare fördern Strategien des Wissenserwerbs, verbessern Präsentationstechniken und fördern die kommunikative Kompetenz. - · In der Übung werden unter der Leitung der oder des Lehrenden die Lehrstoffe und ihre Zusammenhänge sowie ihre Anwendung auf Fälle aus der Praxis systematisch durchgearbeitet. Dabei gibt die oder der Lehrende im Allgemeinen eine Einführung, stellt die Aufgaben und gibt Lösungshilfen, während die Studierenden selbständig die Aufgaben einzeln oder in Gruppen in enger Rückkopplung mit der oder dem Lehrenden lösen. Eine Präsentation der Ergebnisse durch die Studierenden erlaubt eine direkte Rückkopplung des Wissensstandes an die Lehrenden und schult die kommunikative Kompetenz. Damit individuell auf einzelne Studierende eingegangen werden kann, ist die maximale Anzahl Teilnehmer bei den Übungen in der Regel auf 30 beschränkt. - · Im Praktikum werden die im betreffenden Lehrgebiet erworbenen Kenntnisse durch Bearbeitung praktischer, experimenteller Aufgaben vertieft. Während die oder der Lehrende die Studierenden anleitet und die Lehrveranstaltung überwacht, führen die Studierenden eigenständig praktische Arbeiten und Versuche aus und werten die Ergebnisse aus. Dabei werden schon erste Erfahrungen in der Team
+
+Dokument 2:
+Metadaten:
+  - id: 542
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 54558639-83ce-4cec-9f1d-f4e463e09804
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+technik 2 | Physik 2 - Schwingungen und Wellen | Objektorientierte Programmierung | Digitaltechnik | | 3. Semester | Modellbildung und Simulation | Elektronik 1 | Elektrotechnik 3 | Einführung in die Messtechnik | Signale und Systeme | Mikrocontroller | | 4. Semester | Technisches Englisch | Elektronik 2 | Regelungstechnik 1 | Digitale Messsysteme | Optik und Einführung in die Lichttechnik | Rechnerkommunikation | | 5. Semester | Wahlpflichtmodul | Wahlpflichtmodul | Regelungstechnik 2 | Sensorsysteme | Elektrische Antriebe | Automatisierungssysteme | | 6. Semester | Wahlpflichtmodul | Wahlpflichtmodul | Projektmanagement | Angewandte Schaltungstechnik | Leistungselektronik | Energiesysteme | | 7. Semester | Seminar | Projektarbeit | Bachelorarbeit | Kolloquium | | | | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | *Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung | | | | ### Legende zum Studienverlaufsplan Professor*innen und Studierende beantworten die wichtigsten Fragen rund um unseren Bachelor-Studiengang Elektrotechnik an der Fachhochschule Südwestfalen in Hagen. ## Infoveranstaltungen / Veranstaltungen zum Studienstart Sie möchten Ihre Studienentscheidung durch eine fachspezifische individuelle Beratung festigen? Dann sind Sie bei der Fachberatung für Studieninteressierte in den besten Händen. Für einen komfortablen und erfolgreichen Start ins Studium erwarten Sie verschiedene Orientierungsveranstaltungen und Unterstützungsangebote. Damit Sie gut vorbereitet in Ihr Studium einsteigen können, bieten wir Ihnen einen Brückenkurs zur Mathematik an. Allen Studienanfänger*innen wird eine Teilnahme am gesamten Kurs empfohlen. Wir zeigen Ihnen einen Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können. ## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik ### Prüfungsordnungen, Modulhandbücher und Verlaufspläne - Zu den Prüfungsordnungen
+
+Dokument 3:
+Metadaten:
+  - id: 538
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 795ca982-6687-45a3-b32f-489338389a51
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Hagen 1. Studienangebot 2. Studiengänge 3. Hagen 4. Elektrotechnik B.Eng. ## Bachelor-Studium Elektrotechnik ### Ohne Elektrotechnik geht wenig. Sie macht unser Leben heller, bunter, komfortabler, sicherer. Vieles, was die E-Technik möglich macht, ist längst selbstverständlich. Zum Beispiel die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, das Smartphone oder die Automatisierung von mühsamen oder gefährlichen Prozessen. Im zulassungsfreien Bachelorstudiengang Elektrotechnik studieren Sie nah an der Praxis und nah an Ihren persönlichen Interessen. Auf einen Blick Was? Praxisnahes Grundlagenstudium mit individueller Schwerpunktsetzung Für wen? Für alle mit Interesse an technischen Lösungen Warum? Karriereperspektive in z.B. Autoindustrie, Energieversorgung, Telekommunikation Du hast diesen Studiengang bereits gespeichert! Der Studiengang wurde erfolgreich gemerkt! Vergleichen Sie Studiengänge, vereinbaren Sie einen Beratungstermin oder abonnieren Sie unseren Newsletter. Bewerbungsfristen &amp; Studienstart-Termine Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. - Neugierig? Besuchen Sie unsere Infoveranstaltungen - Für einen gelungenen Start ins Studium sorgen die Erstsemesterbegrüßung und der Mathematik-Brückenkurs ## Auf dieser Seite - Der Studiengang im Überblick - Studienvoraussetzungen - Infos zum Bewerbungsverfahren - Info-Video zu den Vertiefungsrichtungen - Zielgruppe - Berufliche Perspektiven - Studi-Stimmen - Studienaufbau / Verlaufsplan - Info-Video zu den wichtigsten Fragen - Infoveranstaltungen / Veranstaltungen zum Studienstart - Weitere Infos / Prüfungsordnungen, Modulhandbücher - Kontakt Studienstart nur zum Wintersemester. Bewerbung und Einschreibung für Deutsche und Deutschen Gleichgestellte i.d.R. Mitte Mai bis Ende Juli. Hier finden Sie Fristen für weitere Bewerbungsgruppen. ### Zulassung: NC-frei Dieser Studiengang hat keine Zulassungsbeschränkung. ### Studienabschluss Bachelor of Engineering (B.Eng.) 210 ECTS ### Studienmodell Vollzeitstudium oder kooperatives Studium ### Studienbeginn / -dauer Beginn: zum Wintersemester (September) Regelstudie
+
+Dokument 4:
+Metadaten:
+  - id: 545
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/pruefungsordnungen_23/pruefungsordnungen_24.php
+  - hash: 48203dca77d5c9d5a1cac0e82d8af4ffdd418323723e7c793f32b389f00cb3ef
+  - _id: 9caa584b-3786-4333-a3dd-1ce974b1d43d
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+# Elektrotechnik B.Eng. ## Hagen 1. Studienangebot 2. Studiengänge 3. Hagen 4. Elektrotechnik B.Eng. 5. Prüfungsordnungen # Prüfungsordnungen, Modulhandbücher, Verlaufspläne ## Fachprüfungsordnung 2024 Fachprüfungsordnung vom 28. Februar 2024 ## Fachprüfungsordnung 2017 Fachprüfungsordnung vom 7. August 2017 FPO 2017: Ordnung zur Änderung der FPO (v. 07.03.2018) ## Modulhandbuch* FPO 2024: Modulhandbuch Elektrotechnik FPO 2017: Modulhandbuch Elektrotechnik ## Verlaufspläne* FPO 2024: Studienverlaufsplan FPO 2017: Studienverlaufsplan \_\_\_\_\_\_\_\_\_\_\_\_\_\_ *) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung. Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt. - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 3806840
+
+Dokument 5:
+Metadaten:
+  - id: 690
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: b6c9bae9-e364-4b6a-9632-aee8799e8e92
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Anlagen besonderer Art - -grundlegende Blitzschutzkonzepte - -Schutzvorkehrungen und Schutzmaßnahmen gegen den elektrischen Schlag - -erforderliche Prüfungen der Schutzmaßnahmen ## Fertigkeiten (Können) Nach erfolgreich bestandenem Modul können die Studierenden - - aktuelle Normen anwenden - - Stromversorgungssysteme beschreiben - - den Leistungsbedarf bestimmen - -Gefahren des elektrischen Stroms einordnen ## 3 Inhalte - -Elektrische Netze für Hoch- und Niederspannung in Gebäuden - -Grundsätzlicher Aufbau von Versorgungsnetze - -Einspeisung der elektrischen Energie in das Gebäude - -Blindleistungskompensation - -Planung und Berechnung von Niederspanungselektroanlagen im Gebäude - -Begriffe, Definitionen und Normen, insb. VDE 0100 - -Spannungsabfall auf Leitungen und Kabel - -Schutzziele und Schutzkonzepte - -Strombelastbarkeit von Kabel und Leitungen - -Dimensionierung von Leiterquerschnitten und Auswahl von Schutzeinrichtungen - -Selektivität von Schutzeinrichtungen - -Aufbau von Schaltanlagen und Verteilern - -Erdung, Blitzschutz und Überspannungsschutz - -Installationsschaltungen, Anforderungen nach DIN 18015 - -Prüfung der Schutzmaßnahmen in elektrischen Anlagen - -Weitere Anlagen der Elektrischen Gebäudeausrüstung, u.a. ITK- und Meldeanlagen - -Computergestützte Projektierung von elektrotechnischen Anlagen im Gebäude - -Einführung in die rechnergestützte Planung von Niederspannungselektroanlagen - -Anwendung der BIM-Methode für die Planung elektrotechnischer Anlagen ## 4 Lehrformen Im seminaristischen Unterricht werden die Inhalt gemeinsam erarbeitet und mit Beispielen verdeutlicht. Im Praktikum üben die Studierenden die Planung und Berechnung elektrische Systeme, wobei neben Hardware-Aufbauten vor allem diverse Software-Werkzeuge genutzt werden. ## 5 Teilnahmevoraussetzungen Formal: keine Inhaltlich: gute Grundkenntnisse der Elektrotechnik ## 6 Prüfungsformen Klausur (90 Minuten); Kombinationsprüfung Kombinationsprüfung: bestehend aus a) Ausarbeitungen zu Praktikumsversuchen sowie 2 Kurz
+
+Dokument 6:
+Metadaten:
+  - id: 546
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/prfungsundnderungsordnungen/fbeundi/FPO_BA_ELH_24.pdf
+  - hash: 621298a5e40624ca5eddcbd61680aa4ab463ac15c2d5dd383956ba5cff90f6eb
+  - _id: 9aeeea96-f844-4941-a1cb-8351c256973a
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+## Fachprüfungsordnung für den Bachelorstudiengang ## Elektrotechnik an der Fachhochschule Südwestfalen Standort Hagen vom 28. Februar 2024 Auf Grund des § 2 Absatz 4 und des § 64 Absatz 1 des Gesetzes über die Hochschulen des Landes Nordrhein-Westfalen (Hochschulgesetz - HG) vom 16. September 2014, zuletzt geändert durch Gesetz vom 29. August 2023 (GV. NRW. 2022 S. 1072), und des § 1 Absatz 1 der Rahmenprüfungsordnung für Bachelorund Masterstudiengänge an der Fachhochschule Südwestfalen, hat der Fachbereichsrat des Fachbereichs Elektrotechnik und Informationstechnik der Fachhochschule Südwestfalen folgende Fachprüfungsordnung erlassen: ## INHALTSÜBERSICHT ## Teil 1 Allgemeines - § 1 Geltungsbereich - § 2 Hochschulgrad - § 3 Beginn, Dauer, Aufbau und Umfang des Studiums - § 4 Prüfungsausschuss - § 5 Bewertung von Prüfungsleistungen - § 6 Wiederholung von Prüfungsleistungen ## Teil 2 ## Modulprüfungen und Studienleistungen - § 7 Umfang und Form der Modulprüfungen - § 8 Zulassung zu Modulprüfungen - § 9 Klausurarbeiten - § 10 Klausurarbeiten im Antwortwahlverfahren - § 11 Mündliche Prüfungen - § 12 Hausarbeiten - § 13 Projektarbeiten - § 14 Referate - § 15 Portfolio ## Teil 3 Das Studium - § 16 Umfang der Bachelorarbeit - § 17 Zulassung zur Bachelorarbeit - § 18 Durchführung und Bewertung der Bachelorarbeit - § 19 Kolloquium Teil 4 ## Ergebnis der Abschlussprüfung, Zusatzmodule, Doppelabschluss § 20 Zeugnis, Gesamtnote ## Teil 5 ## Schlussbestimmungen - § 21 Inkrafttreten, Auslaufregelung, Aufwuchsregelung und Veröffentlichung Anlage 1: Pflichtmodule - Anlage 2: Ergänzungswahlpflichtmodule - Anlage 3: Nichttechnische Wahlpflichtmodule ## Teil 1 Allgemeines ## § 1 Geltungsbereich Diese Fachprüfungsordnung (FPO) für den Bachelorstudiengang Elektrotechnik im Fachbereich Elektrotechnik und Informationstechnik in Hagen gilt zusammen mit der jeweils aktuell gültigen Fassung der Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen. ## § 2 Hochschulgrad Auf Grund der bestandenen Bachelorprüfung gemäß § 2 RPO verleiht die Fachhochschule Südwestfalen in dem Studiengang Elektrotechnik den
+
+Dokument 7:
+Metadaten:
+  - id: 540
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 5f8af3af-6986-47f6-bfb8-52c5718aaead
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Bewerbungszeitraums möglich!) Im Video erklären Marvin, Florian, Felix und Ariane was ihre gewählten Vertiefungsrichtungen Automatisierungstechnik, Lichttechnik und Energietechnik ausmachen. ## An wen richtet sich der Bachelor-Studiengang Elektrotechnik? Die Elektrotechnik ist heutzutage unser ständiger Begleiter. Durch sie wird unser Leben komfortabler und sicherer und viele mit der Elektrotechnik einhergehende oder verbundene Errungenschaften nehmen wir als selbstverständlich wahr. Einige Beispiele hierfür sind die zuverlässige Versorgung mit elektrischer Energie, elektrische Beleuchtung, die Kommunikation mit dem Smartphone oder die Automatisierung von für Menschen mühsamen oder gar gefährlichen Prozessen. Darüber hinaus ist die Elektrotechnik eine äußerst innovative Branche, die stets sehr aktuelle Fragestellungen hervorbringt und vorantreibt. ### Zielgruppe Natürlich sollten Sie sich für Technik interessieren, keine Frage. Ansonsten gilt: Mit Ausbildungs- oder beruflichem Hintergrund werden Sie bei uns genauso abgeholt, wie frische Schulabsolvent*innen. Nach dem Studium können Sie nach Belieben durchstarten. Es erwartet Sie ein regional, überregional und international aktiver und hochinnovativer Wachstumsmarkt. ## Welche Berufsaussichten bietet das Studium Elektrotechnik? Das Betätigungsfeld unserer Absolventinnen und Absolventen ist sehr weit. Elektrotechnische Systeme werden erforscht, entwickelt, betrieben oder gewartet. Das geschieht – um nur einige Beispiele zu nennen – in der Autoindustrie, der Energieversorgung, der Automationstechnik, der Telekommunikation, der Beleuchtungsbranche oder allgemein in der produzierenden Industrie. ### Raphael Bechler Schon von klein auf war ich von der Elektrotechnik begeistert. Dass mein Wunschstudiengang auch an einer Hochschule in Hagen, meiner Heimatstadt, angeboten wird, war für mich optimal. An meinem Studium gefällt mir vor allem die offene personennahe Kommunikationsebene und, das die Lehre sehr praxisnah stattfindet. Dozentinnen und Dozenten nehmen sich immer gerne die Zeit und helfen einem weiter. Außerdem gibt es eine große Auswahl an interessanten Wahlmodulen. ### Ariane Lauster „Für mich stand eigentlich schon immer fest, dass ich an der Fachhochschule Südwestfalen studieren möchte. Jetzt bin ich hier und das ist gut so. Man kennt sich hier – das gilt für
+
+Dokument 8:
+Metadaten:
+  - id: 675
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: bff23119-099b-4a48-95e0-79b3df5b0d00
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Unterricht behandelt werden, als auch zur Vorbereitung der Klausur. | | 12 | Sonstige Informationen | Sonstige Informationen | ## Wahlpflichtmodule: Ergänzungswahlpflichtmodule ## Themen der Elektrotechnik - -Advanced Control Systems - -Elektrische Antriebe 2 - -Elektronische Systeme - -LED in Connected Lighting Anwendungen - -Regenerative Energiesysteme ## Themen der Gebäudesystemtechnik - -Elektrische Gebäudeausrüstung - -Gebäudeautomation - -Gebäudesystemtechnik ## Themen der Informatik - -App-Programmierung - -Datenbanken - -IT-Sicherheit - -Künstliche Intelligenz - -Software Engineering - -Webtechnologie 1 ## Themen der Medieninformatik - -Digitale Medien: Audio und Video - -Mensch-Computer-Interaktion ## Themen der Medizintechnik - -Bildgebende Verfahren in der Medizin - -Biosensorik - -Biosignale und ihre Verarbeitung - -Elektronische Prothesen - -Medizinische Elektronik - -Neuronale Netze ## Themen der Robotik - -Auslegung mechatronischer Systeme ## Themen der Technischen Informatik - -Ausfallsichere Systeme - -Betriebssysteme - -Echtzeitsysteme - -Hardwarebeschreibungssprachen und rekonfigurierbare Logik - -Verteilte Systeme und Internet of Things (IoT) ## Advanced Control Systems | Kennnummer ET | Workload 150 h | Leistungs- punkte 5 ECTS | Studien- semester 4. Sem. | Häufigkeit des Angebots Jedes SoSe | Dauer 1 Semester | |------------------|---------------------------|-----------------------------|---------------------------------------|----------------------------------------|---------------------| | 1 | Lehrveranstaltungen | Lehrveranstaltungen | | | Selbststudium | | | Vorlesung 2 SWS | | geplante Gruppengröße 60 Studierende | Kontaktzeit 45 h | 105 h | | | Praktikum 2 SWS | | 16 Studierende | | | ## 2 Lernergebnisse (learning outcomes) / Kompetenzen Die Studierenden beschreiben lineare Mehrgrößensysteme und legen Entkopplungsregler für den Zweigrößenfall aus
+
+Dokument 9:
+Metadaten:
+  - id: 543
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/elektrotechnik_b_eng_/elektrotechnik_b_eng_1.php
+  - hash: 3fa1f100a84b4369bdda4ec5a2d47b43bc02fad9cfc3c169985c0bde7cc162fc
+  - _id: 8492d855-a3ac-4bbe-8e20-ffa3a28575d6
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+Weg wie Sie Ingenieur*in und auch Lehrkraft an einem Berufskolleg werden können. ## Weitere Informationen zum Bachelor-Studiengang Elektrotechnik ### Prüfungsordnungen, Modulhandbücher und Verlaufspläne - Zu den Prüfungsordnungen, Modulhandbücher und Verlaufsplänen ### Möglichkeiten eines Master-Studiums - Connected Lighting M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. (berufsbegleitendes Verbundstudium) - Elektrotechnik M.Eng. - Medizintechnik M.Eng. Diese Aufzählung ist lediglich eine Idee möglicher anschließender Master-Studiengänge. Voraussetzung für ein Master-Studium ist die fachliche Eignung, die unter anderem auf der gewählten Studien- oder Vertiefungsrichtung im Bachelor-Studium beruht. Neben der fachlichen Qualifikation sind aber natürlich auch die individuellen Interessen ausschlaggebend. Die Feststellung der Eignung für den gewünschten Master-Studiengang ist demnach eine Einzelfall-Entscheidung. Bei Fragen unterstützt Sie die Allgemeine Studienberatung und leitet Sie ggf. an die für Sie richtigen Ansprechpartner*innen weiter. Eine Übersicht aller Master-Studiengänge an der Fachhochschule Südwestfalen finden Sie hier. ### Studienoption Lehramt Berufskolleg - Mehr Infos zur Studienoption Lehramt am Berufskolleg Prüfungsorganisation Hier finden Sie die Prüfungspläne für den Fachbereich Elektrotechnik und Informationstechnik in Hagen. Termine für Studieninteressierte Standort Hagen Fachgebiet Studium Flexibel ## Fragen zum Studiengang oder zur Studienwahl? Das Team der Allgemeinen Studienberatung hilft Ihnen gerne weiter. - Per Mail studienberatung@fh-swf.de - Per Telefon 02371 566 538 - Nach Absprache per Videokonferenz (Zoom) - Und natürlich persönlich: Zum Beratungsangebot der Allgemeinen Studienberatung Hier finden Sie weitere Ansprechpartner*innen. ### Infos zu Bewerbungsfristen? Abonnieren Sie unseren Newsletter! Sprechzeiten | Mo., Di., Do., Fr.: | 9.00 - 16.00 Uhr | |------------------------|---------------------| | Mittwochs: | 13.00 - 17.30 Uhr | - - - - - - ### Initiativen und Mitgliedschaften - Impressum - Datenschutz - Disclaimer - Barrierefreiheit - Sitemap - Kontakt - Cookie Einstellungen - 380
+
+Dokument 10:
+Metadaten:
+  - id: 704
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 34a87ecc-8444-4db4-9739-2159fd2d5017
+  - _collection_name: mixedbread-ai_deepset-mxbai-embed-de-large-v1_token_based_chunks
+
+Inhalt:
+| 30 Studierende 16 Studierende | 45 h | 105 h | ## 2 Lernergebnisse (learning outcomes) / Kompetenzen Die Studierenden sind dazu in der Lage, sichere Softwaresysteme zu modellieren, zu entwerfen und zu analysieren. Sie wissen, wie Sicherheitsanforderungen mit Hilfe modernster Techniken umgesetzt werden können. Sie haben ein fundiertes Wissen über gängige Verschlüsselungsverfahren, praxisrelevante kryptographische Protokolle und typische Angriffsvektoren. Sie sind dazu befähigt, teamorientiert in Kleingruppen an der Lösung von Aufgabenstellungen der IT-Sicherheit zu arbeiten. ## 3 Inhalte - - Grundbegriffe der IT-Sicherheit, Schutzziele, Angreifermodelle - - Prozessmodelle für Security Engineering, Misuse Cases, Attack Trees - - Sicherheitsmodelle (BLP &amp; BIBA), IFC-Sprachen - - Asymmetrische und Symmetrische Verschlüsselung (RSA, AES) - - Hashfunktionen, Block- und Stromchiffren, Betriebsmodi - - kryptographische Protokolle (NSP, Kerberos, Diffie-Hellman) - - Zertifikate und digitale Signaturen ## 4 Lehrformen Im seminaristischen Unterricht werden den Studierenden in interaktiver Form Konzepte der IT-Sicherheit, kryptographische Verfahren und Protokolle sowie praktisch relevante Angriffe vorgestellt. Im Praktikum erproben die Studierenden Angriffe auf exemplarische, bewusst ungeschützte Anwendungen. So können sie die Funktionsweise der Angriffe und die Relevanz der anschließend zu implementierenden Gegenmaßnahmen verinnerlichen. Weiterhin erlernen die Studierenden im Praktikum den Umgang mit gängigen Krypto-Bibliotheken. ## 5 Teilnahmevoraussetzungen Formal: keine Inhaltlich: Kenntnisse aus dem Modul "Software Engineering" und Programmierkenntnisse ## 6 Prüfungsformen Mündliche Prüfung (30 Minuten) ## 7 Voraussetzungen für die Vergabe von Leistungspunkten - -40 Leistungspunkte aus den ersten beiden Fachsemestern - -Studienleistung nein - -Bonuspunkte ja - -bestandene Modulprüfung | 8 | Verwendung des Moduls im Studiengang und Modultyp | Verwendung des Moduls im Studiengang und Modultyp | |-----|--------------------------------
+

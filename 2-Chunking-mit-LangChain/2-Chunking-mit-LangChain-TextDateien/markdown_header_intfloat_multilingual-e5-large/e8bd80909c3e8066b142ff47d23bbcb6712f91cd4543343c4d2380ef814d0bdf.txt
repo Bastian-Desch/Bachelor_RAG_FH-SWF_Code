@@ -1,0 +1,98 @@
+=== Chunk-Nr. 0 ===
+Anzahl Token in diesem Chunk: 35
+
+Metadata: {'Header 1': 'Wirtschaftsinformatik B.Sc.', 'Header 2': 'Meschede', 'id': 877, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: # Wirtschaftsinformatik B.Sc.  
+## Meschede  
+1. Studienangebot
+2. Studiengänge
+3. Meschede
+4. Wirtschaftsinformatik B.Sc.
+5. Prüfungsordnungen
+
+=== Chunk-Nr. 1 ===
+Anzahl Token in diesem Chunk: 65
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Fachprüfungsordnung 2022 - Teilzeit', 'id': 878, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: # Prüfungsordnungen Fachprüfungsordnung  
+## Fachprüfungsordnung 2022 - Teilzeit  
+Fachprüfungsordnung vom 31. März 2022  
+PDF  
+FPO 2022: Ordnung zur Änderung der FPO (v. 16.02.2023)  
+PDF  
+FPO 2022: Zweite Ordnung zur Änderung der FPO (v. 11.12.2024)  
+PDF
+
+=== Chunk-Nr. 2 ===
+Anzahl Token in diesem Chunk: 56
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Fachprüfungsordnung 2019 - Vollzeit', 'id': 879, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: ## Fachprüfungsordnung 2019 - Vollzeit  
+Fachprüfungsordnung vom 26. April 2019  
+PDF  
+FPO 2019: Ordnung zur Änderung der FPO (v. 14.02.2020)  
+PDF  
+FPO 2022: Zweite Ordnung zur Änderung der FPO (v. 11.12.2024)  
+PDF
+
+=== Chunk-Nr. 3 ===
+Anzahl Token in diesem Chunk: 18
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Bachelorprüfungsordnung 2015 - Vollzeit', 'id': 880, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: ## Bachelorprüfungsordnung 2015 - Vollzeit  
+Bachelorprüfungsordnung vom 11. September 2015  
+PDF
+
+=== Chunk-Nr. 4 ===
+Anzahl Token in diesem Chunk: 77
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Modulhandbücher*Modulhandbücher', 'id': 881, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: ## Modulhandbücher*Modulhandbücher  
+Eine Art Vorlesungsverzeichnis mit vielen Informationen zu den Pflicht- und Wahlpflichtfächern und deren inhaltliche Beschreibung  
+FPO 2022: Modulhandbuch (Teilzeit)  
+PDF  
+FPO 2019: Modulhandbuch (Vollzeit)  
+PDF  
+BPO 2015: Modulhandbuch (Vollzeit)  
+PDF
+
+=== Chunk-Nr. 5 ===
+Anzahl Token in diesem Chunk: 168
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Verlaufspläne*Verlaufspläne', 'id': 882, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: ## Verlaufspläne*Verlaufspläne  
+FPO 2022: Studienverlaufsplan (Teilzeit)  
+PDF  
+FPO 2019: Studienverlaufsplan (Vollzeit)  
+PDF  
+BPO 2015: Studienverlaufspläne (Vollzeit)  
+PDF  
+Auf dieser Seite  
+- Prüfungsordnungen
+- Modulhandbücher
+- Verlaufspläne  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+*) Rechtlich verbindlich sind ausschließlich die Angaben der jeweils gültigen Prüfungsordnung.  
+Bitte beachten Sie, dass eine Fachprüfungsordnung (FPO) zusammen mit der
+Rahmenprüfungsordnung (RPO) der Fachhochschule Südwestfalen in der jeweils aktuell gültigen Fassung gilt.  
+-
+-
+-
+-
+-
+-
+
+=== Chunk-Nr. 6 ===
+Anzahl Token in diesem Chunk: 29
+
+Metadata: {'Header 1': 'Prüfungsordnungen Fachprüfungsordnung', 'Header 2': 'Verlaufspläne*Verlaufspläne', 'Header 3': 'Initiativen und Mitgliedschaften', 'id': 883, 'studiengang': 'Wirtschaftsinformatik', 'abschluss': 'Bachelor', 'standort': 'Meschede', 'link': 'https://www.fh-swf.de/de/studienangebot/studiengaenge/wirtschaftsinformatik_b_sc_/pruefungsordnungen_69/index.php', 'hash': 'e8bd80909c3e8066b142ff47d23bbcb6712f91cd4543343c4d2380ef814d0bdf'}
+Text: ### Initiativen und Mitgliedschaften  
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3810119
+

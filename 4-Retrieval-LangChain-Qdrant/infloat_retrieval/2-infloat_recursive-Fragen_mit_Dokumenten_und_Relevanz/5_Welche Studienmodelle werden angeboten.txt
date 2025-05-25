@@ -1,0 +1,393 @@
+ID: 5
+Frage: Welche Studienmodelle werden angeboten?
+
+Dokument 1 (Score: 0.85475950):
+Metadaten:
+  - id: 2295
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 0b006c3f-a68c-43b9-88a7-ff6e75b8d232
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Unsere Studienmodelle
+
+## So flexibel wie Sie es sich wünschen
+
+1. Studienangebot
+2. Studienmodelle
+
+## Duales Studium, berufsbegleitendes Studium oder doch der Klassiker?
+
+### Ihr Studiengang sollte Ihren Interessen und Zielen entsprechen, Ihr Studienmodell muss darüber hinaus aber auch zu Ihrem Leben passen! Wir bieten Ihnen die freie Auswahl unterschiedlicher Studienmodelle. Vom berufsbegleitenden Studium über das duale Studium bis hin zum klassischen Vollzeitstudium – bei uns finden Sie das Studienmodell, das zu Ihren Ansprüchen, Ihren Zielen und zu Ihrem Leben passt.
+
+###
+
+Auf dieser Seite
+
+- Vollzeitstudium
+- Teilzeitstudium
+- Kooperative Studienmodelle
+- Duale Studienmodelle
+- Berufsbegleitendes oder ausbildungsbegleitendes Verbundstudium
+- Zertifikatsstudium
+
+## Vollzeitstudium Ankerpunkt
+
+### Präsenzstudium als klassisches Studienmodell
+
+Das Vollzeitstudium ist das meist verbreitete Studienmodell. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs. Der durchschnittliche Arbeitsaufwand für ein Vollzeitstudium beträgt ca. 40 Stunden in der Woche und entspricht damit einer Vollzeitberufstätigkeit. Die 40 Stunden beziehen sich dabei nicht nur auf die Lernveranstaltungen im Hörsaal, sondern auch auf die Vor- und Nachbereitungszeit der einzelnen Vorlesungen, Seminare und Prüfungen. Die Lehrveranstaltungen finden meist montags bis freitags statt. Eine Anwesenheitspflicht gibt es nur punktuell z.B. in Praktika, Übungen oder Prüfungen. Anwendungsorientierte Vorlesungen, Seminare und Laborpraktika sowie praxiserfahrene Dozent*innen sorgen für ein praxisnahes Studium.
+
+## Teilzeitstudium Ankerpunkt
+
+### Präsenzstudium als klassisches Studienmodell, jedoch in Teilzeit
+
+Das Teilzeitstudium bietet die Möglichkeit neben dem Studium noch anderen Verpflichtungen in Ihrem Leben nachzukommen. Sie studieren in der Regel in Präsenz am Standort Ihres Studiengangs, jedoch mit einer reduzierten Modulanzahl je Semester.
+
+## Kooperative Studienmodelle Ankerpunkt
+
+Dokument 2 (Score: 0.84342650):
+Metadaten:
+  - id: 2296
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 94ec8723-f63a-414f-bb8b-c8f1f8259019
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Kooperative Studienmodelle Ankerpunkt
+
+### Studieren in Voll- oder Teilzeit mit Praxis in Unternehmen
+
+Darf es noch praxisnäher sein? Unsere kooperativen Studienmodelle machen es möglich! Sie bieten die große Chance, während des Studiums praktische Erfahrungen in Unternehmen zu sammeln. Dabei wird das Studium durch Praxisblöcke in der vorlesungsfreien Zeit im Unternehmen ergänzt. Möglich ist natürlich auch die Kombination mit einer betrieblichen Ausbildung. Die Studiendauer entspricht in der Regel dem Vollzeitstudium, ggf. verlängert um Praxis- oder Ausbildungsphasen. Ein Teil unserer Studiengänge kann auch planmäßig als Teilzeitstudium absolviert werden. So lassen sich Studium und praktische Erfahrungen beispielsweise als Werkstudierende ideal kombinieren.
+
+Kooperatives Modell Hagen
+
+Kooperatives Modell Meschede
+
+Was ist eigentlich eine Werkstudentin oder ein Werkstudent?
+
+Werkstudierende sind zunächst einmal regulär in Volllzeitstudiengänge eingeschrieben. Parallel zum Studium arbeiten sie über einen längeren Zeitraum bis zu maximal 20 Stunden pro Woche in einem Unternehmen, vorzugsweise aus einer mit dem Studienbereich verwandten Branche.
+
+Ein Werkstudium ist also prinzipiell in allen unseren Vollzeitstudiengängen möglich!
+
+## Duale Studienmodelle Duale Studienmodelle
+
+### Enge Verzahnung von Theorie und Praxis
+
+Enger können Sie Theorie und Praxis nicht verknüpfen. Sie lernen in der Hochschule und gewinnen wertvolle Eindrücke in einem Unternehmen. Dieses Studienmodell funktioniert auf Basis einer Kooperationsvereinbarung, die mindestens zwischen dem beteiligten Unternehmen und der Hochschule geschlossen werden muss. Während des Studienverlaufs wechseln die Phasen der Praxis im Unternehmen mit denen der Lehrveranstaltungen an der Hochschule ab. Unterschieden werden das praxisintegrierende Studium und das ausbildungsintegrierende Studium.
+
+Dokument 3 (Score: 0.83618560):
+Metadaten:
+  - id: 2299
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studiengaenge/index.php
+  - hash: fac6aea83ac9db81acc9b1aff3cfa2406e92e2a5edb539544698a72900a54f04
+  - _id: a8ede0a9-6354-436a-b89d-5372005fc4be
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Unsere Studiengänge
+
+1. Studienangebot
+2. Studiengänge
+
+### Auslaufende Studiengänge
+
+Sie haben da mal von einem Studiengang gehört, finden aber nicht, was Sie suchen? Die Fachhochschule Südwestfalen ist fortwährend bestrebt, ihr Profil und Studienangebot an die moderne Berufswirklichkeit anzupassen. Klicken Sie hier, um 
+auslaufende Studiengänge mit ihren Nachfolgern oder Alternativen anzuzeigen.
+
+## Weitere Infos
+
+Studienmodelle
+
+Fachgebiete
+
+Fristen &amp; Termine
+
+Einschreibung &amp; Bewerbung
+
+## Noch Fragen? Wir sind für Sie da!
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Initiativen und Mitgliedschaften
+
+- Impressum
+- Datenschutz
+- Disclaimer
+- Barrierefreiheit
+- Sitemap
+- Kontakt
+- Cookie Einstellungen
+- 3844458
+
+Dokument 4 (Score: 0.83590530):
+Metadaten:
+  - id: 2292
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/index.php
+  - hash: 1333ccf7e81025a223867b9a84905a26a728c00796c371082c65fd00bc4395b0
+  - _id: 666f6a15-c44b-406d-af0f-904053a6ab9a
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Studienangebot
+
+## Eine Vielzahl an Studiengängen und trotzdem familiär
+
+1. Studienangebot
+
+### Studieninteressierte haben bei uns eine große Auswahl an Studiengängen und Studienmodellen. Unsere Bachelor- und Masterstudiengänge aus bislang acht differenzierten Fachgebieten decken eine Vielfalt von innovativen Berufsbildern ab. Ob als Präsenzstudium oder als berufs- bzw. ausbildungsbegleitendes Angebot: Wir haben das richtige für jede Lebenssituation.
+
+Wann bewerben?
+
+Auf dieser Seite
+
+- Studiengang konfigurieren
+- Fachgebiete
+- Studienmodelle
+- Standorte
+- Kontakt Allgemeine Studienberatung
+
+## Hier finden Sie den passenden Studiengang!
+
+### Studiengangsuche
+
+## Übersicht Fachgebiete
+
+Ob Tierhaltung oder Pflanzenbau: Werden Sie Expertin oder Experte im Bereich Agrarökonomie oder Nachhaltigkeitsmanagement.
+
+Sie sind kreativ, gestalten gerne und haben Freude an neuen Impulsen? Im Bereich Designmanagement und Produktentwicklung finden Sie den passenden Studiengang.
+
+Viel Praxis und gute Berufsaussichten versprechen unsere Studiengänge in Gesundheits- und Naturwissenschaften. Spezialisieren Sie sich in Ihrem Lieblingsbereich.
+
+Hier kommen technikaffine Studieninteressierte auf ihre Kosten. Werden Sie Spezialistin oder Spezialist für neue Technologien und bringen Sie die Digitalisierung voran.
+
+„Ich möchte mit Menschen arbeiten.“ Wenn diese Aussage auf Sie zutrifft, finden Sie hier den passenden Studiengang. Ob Frühpädagogik, Medienpädagogik oder Wirtschaftspsychologie, Sie haben die Wahl.
+
+Sie möchten irgendetwas mit Technik studieren? In unserem facettenreichen Angebot im Bereich Maschinenbau, Elektrotechnik oder Wirtschaftsingenieurwesen ist für jeden ein passender Studiengang dabei.
+
+Umweltschutz und Nachhaltigkeit sind wichtiger denn je. Auch auf dem Arbeitsmarkt sind Expertinnen und Experten auf diesem Fachgebiet stark gefragt.
+
+Die Allrounder unter unseren Studiengänge finden Sie im Fachgebiet Wirtschaft und Recht. Je nach Studienrichtung können Sie sich bei uns aber auch spezialisieren.
+
+## Studienmodelle
+
+Dokument 5 (Score: 0.82376330):
+Metadaten:
+  - id: 2290
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studieninteressierte/index.php
+  - hash: 02f58f7e2349530e4408375669789c87d6e278a5cb8080c30d4c69b07a7c0690
+  - _id: 67eb13d9-1826-4ebd-bb9e-e72c3362ed54
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+# Unser Studienprogramm:
+praxisorientiert, international
+und facettenreich
+
+Die Fachhochschule Südwestfalen als starker Partner für Ihre erfolgreiche Zukunft.
+
+1. Studieninteressierte
+
+## Hier finden Sie den passenden Studiengang
+
+### Studiengangsuche
+
+## Zahlen und Fakten (Stand: 13.02.2025)
+
+Studierende
+
+Studiengänge
+
+Beschäftigte
+
+Absolvent*innen (2024)
+
+## Studienstart
+
+### Wir helfen Ihnen bei Ihrem Start.
+
+Von Vorkursen über Einführungsveranstaltungen bis zur Organisation beim Studienstart.
+
+## Studienmodelle
+
+Vollzeitstudium
+
+Duales Studium
+
+Verbundstudium
+
+Kooperatives Studium
+
+## Events
+
+Sie interessieren sich für ein Studium haben aber noch Fragen? Lassen Sie sich in der offenen Sprechstunde der Allgemeinen Studienberatung ohne Voranmeldung beraten.
+
+Workshops, Infoveranstaltungen, Studienberatung - mehr Events finden Sie in unserem Veranstaltungskalender.
+
+## Studi-Stimmen
+
+Ich würde mich immer sehr gut informieren, auch über Studiengänge, die man nicht so auf dem Schirm hat. Man sollte sich vor allem den Beruf anschauen, auf den man aus ist und nicht von Studieninhalten wie zum Beispiel Mathe abschrecken lassen.
+
+## Weitere Infos
+
+Bewerbung &amp; Einschreibung
+
+Schnupperangebote
+
+Finanzierung
+
+Info-Veranstaltungen
+
+## Noch Fragen? Wir sind für Sie da!
+
+Herr Matthias Vitte (SG 2.5)
+
+Haldener Straße 182
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Frau Alexandra Bock (SG 2.5)
+
+Frauenstuhlweg 31 
+
+58644 Iserlohn 
+
+Raum: Z.128
+
+Postfach 2061 
+
+58590 Iserlohn
+
+Herr Arp Hinrichs (SG 2.5)
+
+Dokument 6 (Score: 0.82150030):
+Metadaten:
+  - id: 2297
+  - studiengang: Alle
+  - abschluss: Alle
+  - standort: Alle
+  - link: https://www.fh-swf.de/de/studienangebot/studienmodelle/index.php
+  - hash: f2f231e02e96d4748a662bbc819fc1a2ca67cbc39a44884cfe9f8c56f2a84b64
+  - _id: 9de1ad39-66eb-4c89-ab2d-668cb8fa7485
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+Praxisintegrierendes duales Studium
+Praxisintegrierende Studiengänge werden entweder im Block- oder Wochenmodell angeboten und führen zu einem Hochschulabschluss. Beim Blockmodell finden die Zeiten im Unternehmen und die an der Hochschule in längeren aufeinanderfolgenden Blöcken statt. Im Wochenmodell wechseln sich Praxis- und Vorlesungszeiten während der Woche ab (z. B. zwei Tage an der Hochschule und drei im Betrieb).
+
+Ausbildungsintegrierendes duales Studium
+Kombination einer klassischen Berufsausbildung (mit IHK/HWK-Abschluss) mit einem Studium. Dabei werden die Studienphasen und die Berufsausbildung inhaltlich, zeitlich und organisatorisch miteinander verzahnt. Es werden zwei Abschlüsse erlangt.
+
+Mehr Informationen zum dualen Studium am Standort Soest
+
+Was genau bedeutet „Duales Studium"?
+
+Der Begriff Duales Studium wird benutzt, wenn das akademische Element mit einem berufspraktischen Element verknüpft wird, das dem Studium inhaltlich nahe steht – so sagt es der Wissenschaftsrat. Dabei muss es mindestens zwei Lernorte geben, typischerweise eine Hochschule und ein Unternehmen. Außerdem muss es einen organisatorischen Rahmen für das Lernen an beiden Orten geben.
+
+## Berufsbegleitendes Verbundstudium Ankerpunkt
+
+### Die perfekte Kombination von Beruf oder Ausbildung und einem Studium
+
+Das Verbundstudium ist das berufsbegleitende Studienangebot der Fachhochschulen Nordrhein-Westfalens. Durch die genau aufeinander abgestimmte Kombination von Selbststudium und Präsenzstudium haben Berufstätige und Auszubildende die Möglichkeit, sich gezielt weiterzuqualifizieren – ohne Verzicht auf das gewohnte soziale Umfeld und ohne berufliche Auszeit.
+
+Das Studium wird - ähnlich wie beim Fernstudium - hauptsächlich im Selbststudium, jedoch mit Begleitseminaren absolviert. Die Präsenzzeiten sind auf die Anforderungen Berufstätiger angepasst und finden in der Regel an jedem zweiten Samstag statt, ergänzend werden Blockveranstaltungen angeboten. Das Selbststudium wird durch Lerneinheiten, E-Learning und Arbeitsgruppen unterstützt.
+
+Dokument 7 (Score: 0.82049300):
+Metadaten:
+  - id: 819
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 3a7056d8-1dfe-4a6e-aa64-69f6de8e38c9
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+in Anspruch nehmen (Lernzentrum, Studium Flexibel), so dass die unterschiedlichen  Vorkenntnisse sich mehr und mehr angleichen. |
+
+Dokument 8 (Score: 0.81949480):
+Metadaten:
+  - id: 2068
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/soest_4/fb_eet_3/ModulhandbuchWPM_WiSe_BA_ETS_ETA_ETP_20_10.2024.pdf
+  - hash: 591186c9cc1f507c3799c069589b6d6798db4f5033f9b13651b1c408fd9c2f04
+  - _id: ea37606a-5f4d-41c8-bb7c-b41253e2fa30
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+|                                                               | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie  der  Analyse,  Lösung  und  Visualisierung  der  entsprechenden  Modelle.  Sie  lernen  Analogien  zwischen  verschiedenen  Wissenschaftsbereichen  kennen,  kennen  verschiedene Modellklassen,  wie  stationäre,  dynamische,  lokale  und  globale  Modelle,  und  können  entsprechende  Lösungsverfahren  zuordnen,  anwenden  und  einfache                                                                              | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie  der  Analyse,  Lösung  und  Visualisierung  der  entsprechenden  Modelle.  Sie  lernen  Analogien  zwischen  verschiedenen  Wissenschaftsbereichen  kennen,  kennen  verschiedene Modellklassen,  wie  stationäre,  dynamische,  lokale  und  globale  Modelle,  und  können  entsprechende  Lösungsverfahren  zuordnen,  anwenden  und  einfache                                                                              | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie  der  Analyse,  Lösung  und  Visualisierung  der  entsprechenden  Modelle.  Sie  lernen  Analogien  zwischen  verschiedenen  Wissenschaftsbereichen  kennen,  kennen  verschiedene Modellklassen,  wie  stationäre,  dynamische,  lokale  und  globale  Modelle,  und  können  entsprechende  Lösungsverfahren  zuordnen,  anwenden  und  einfache                                                                              | Die Studierenden erarbeiten sich Kenntnisse zur mathematischen Modellbildung sowie  der  Analyse,  Lösung  und  Visualisierung  der  entsprechenden  Modelle.  Sie  lernen  Analogien  zwischen  verschiedenen  Wissenschaftsbereichen  kennen,  kennen  verschiedene Modellklassen,  wie  stationäre,  dynamische,  lokale  und  globale  Modelle,  und  können  entsprechende  Lösungsverfahren  zuordnen,  anwenden  und  einfache                                                                              |
+
+Dokument 9 (Score: 0.81881000):
+Metadaten:
+  - id: 1606
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Soest
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/online_antraege_formulare_soest/Lesefassung_FPO_BA_ETS_20_03.2023.pdf
+  - hash: c6df7616c2dc721fa3da589abd592a292c4c24fc0a7a93980c5b6801c234703d
+  - _id: 5a7635b2-5c8e-4943-bdea-27403b654a59
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+* Es werden Wahlpflichtmodule mit fünf, sechs und zehn Credits angeboten, sodass die Summe der Credits im Wahlpflichtbereich nach oben abweichen und der Abschluss sich in Summe auf 210 bis 216 Credits belaufen kann.
+
+Dementsprechend kann die Anzahl der Wahlpflichtmodule variieren.
+
+SL = Studienleistung; SWS = Semesterwochenstunden, ECTS = Credits; P = Prüfung
+
+PM = Pflichtmodul
+
+WPM(G) =  Wahlpflichtmodul des Grundlagenstudiums
+
+WPM(V) = Wahlpflichtmodul des anwendungsorientierten Vertiefungsstudiums PM StudR = Pflichtmodul der Studienrichtungen
+
+## Studienrichtungen und ihre Module
+
+Dokument 10 (Score: 0.81870280):
+Metadaten:
+  - id: 1043
+  - studiengang: Elektrotechnik
+  - abschluss: Bachelor
+  - standort: Hagen
+  - link: https://www.fh-swf.de/media/neu_np/hv_2/dateien_sg_2_4/verlaufsplaene_modulhandbuecher_1/hagen/e___i/Modulhandbuch_Elektrotechnik_2024_Juli_2024.pdf
+  - hash: 58949f64732daf9a8d64554116f54322e46d8961a6d3b8fc9ef594b359b6d57a
+  - _id: 4cd010df-dc1b-4ad2-8bc9-0389f6b636bb
+  - _collection_name: intfloat_multilingual-e5-large_recursive_chunks
+
+Inhalt:
+## Wahlpflichtmodule: Nichttechnische Wahlpflichtmodule
+
+- -Eignungs- und Orientierungspraktikum
+- -Grundlagen des Marketing 1
+- -Lehrer/in am Berufskolleg
+- -Präsentationstechniken
+- -Softskills
+
+## Eignungs- und Orientierungspraktikum
+
